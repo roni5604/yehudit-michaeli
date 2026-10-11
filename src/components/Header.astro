@@ -7,8 +7,9 @@ const isActive = (href: string) => path === href || path.startsWith(href + "/");
 ---
 <header class="site-header" data-header>
   <div class="container-x bar">
-    <a href="/" class="brand" aria-label="יהודית מיכאלי · שפית: לעמוד הבית">
-      <Logo size={50} />
+    <a href="/" class="brand" aria-label="מיכאלי – מטבח כפרי · יהודית מיכאלי, שפית: לעמוד הבית">
+      <Logo size={46} class="hdr-logo" />
+      <span class="brand-sub">יהודית מיכאלי · שפית</span>
     </a>
 
     <nav class="main-nav" aria-label="ניווט ראשי">
@@ -108,7 +109,8 @@ const isActive = (href: string) => path === href || path.startsWith(href + "/");
   .site-header { position: sticky; top: 0; z-index: 50; background: color-mix(in oklab, var(--paper) 88%, transparent); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid transparent; transition: border-color .3s, box-shadow .3s; }
   .site-header[data-scrolled] { border-bottom-color: var(--line); box-shadow: 0 10px 30px -24px rgb(var(--shadow) / .6); }
   .bar { display: flex; align-items: center; justify-content: space-between; gap: 18px; min-height: 76px; }
-  .brand { display: inline-flex; text-decoration: none; flex: none; }
+  .brand { display: inline-flex; flex-direction: column; align-items: flex-start; gap: 2px; text-decoration: none; flex: none; }
+  .brand-sub { font-size: .78rem; font-weight: 700; letter-spacing: .08em; color: var(--copper-text); line-height: 1; }
   .main-nav ul { display: flex; gap: clamp(8px, 1.6vw, 26px); list-style: none; margin: 0; padding: 0; }
   .main-nav a { position: relative; display: inline-block; padding: 10px 2px; color: var(--ink); text-decoration: none; font-weight: 600; font-size: 1.02rem; }
   .main-nav a::after { content: ""; position: absolute; inset-inline: 0; bottom: 4px; height: 2px; background: var(--copper); transform: scaleX(0); transform-origin: right; transition: transform .3s ease; }
@@ -129,7 +131,8 @@ const isActive = (href: string) => path === href || path.startsWith(href + "/");
     .menu-btn { display: inline-grid; }
   }
   @media (max-width: 560px) {
-    .brand :global(.logo-word) { display: none; }
+    .brand :global(.mlogo) { height: 36px; }
+    .brand-sub { display: none; }
     .actions { gap: 4px; }
     .actions :global(.icon-btn) { width: 42px; height: 42px; }
   }

@@ -39,7 +39,7 @@ const corridor = menus.filter((m) => m.kind !== "drinks").map((m) => ({ slug: m.
               <li>
                 <article class="mini" lang={en ? "en" : "he"} dir={en ? "ltr" : "rtl"}>
                   <header>
-                    <p class="mini-house">מיכאלי · רשפון</p>
+                    <img class="mini-logo" src="/brand/michaeli-logo.webp" alt="" width="1312" height="369" loading="lazy" />
                     <h4><a class="card-link" href={`/menus/${m.slug}`}>{m.title}</a></h4>
                     <p class="mini-kind">{kindLabel[m.kind]}{m.date ? ` · ${m.date}` : ""}</p>
                   </header>
@@ -76,7 +76,7 @@ const corridor = menus.filter((m) => m.kind !== "drinks").map((m) => ({ slug: m.
   .mini::before { content: ""; position: absolute; inset: 9px; border: 1.5px solid #b4693e; pointer-events: none; }
   .mini::after { content: ""; position: absolute; inset: 14px; border: 1px solid #b4693e; opacity: .5; pointer-events: none; }
   .mini:hover { box-shadow: 0 40px 70px -30px rgb(0 0 0 / .6), 0 0 0 1px #b4693e; }
-  .mini-house { margin: 0; font-size: .7rem; letter-spacing: .3em; color: #8a4a24; font-weight: 800; }
+  .mini-logo { width: 150px; height: auto; display: block; margin: 0 auto 4px; }
   .mini h4 { margin: 6px 0 2px; font-family: var(--font-display); font-size: 1.3rem; line-height: 1.25; color: #6b1e2b; }
   .mini h4 a { color: inherit; text-decoration: none; }
   .mini-kind { margin: 0 0 6px; font-size: .8rem; color: #6e5f54; }

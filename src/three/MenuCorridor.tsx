@@ -1,7 +1,7 @@
 // Floating menu cards along a candle-lit corridor, ordered by year.
 // Scroll (or the arrow buttons) glides the camera through the timeline.
 import { useFrame, useThree } from "@react-three/fiber";
-import { Environment, Lightformer, Sparkles } from "@react-three/drei";
+import { Environment, Lightformer, Sparkles, Html } from "@react-three/drei";
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as THREE from "three";
 import SceneShell from "./SceneShell";
@@ -18,8 +18,14 @@ function Card({ m, i, onOpen }: { m: M; i: number; onOpen: (s: string) => void }
     fontsReady().then(() => setTex(paperTexture({ title: m.title, sub: m.year ?? "", small: "מיכאלי – מטבח כפרי", w: 640, h: 900 })));
   }, [m]);
   const side = i % 2 ? 1 : -1;
-  useFrame(({ clock }, dt) => {
+  const label = useRef<HTMLDivElement>(null);
+  useFrame(({ clock, camera }, dt) => {
     if (!ref.current) return;
+    if (label.current) {
+      const d = camera.position.z - ref.current.position.z;
+      const vis = d > 0.8 && d < 5.5 ? 1 - Math.max(0, (d - 3.5) / 2) : 0;
+      label.current.style.opacity = String(vis);
+    }
     const t = clock.elapsedTime + i;
     ref.current.position.y = 0.15 + Math.sin(t * 0.8) * 0.06;
     ref.current.rotation.y = THREE.MathUtils.damp(ref.current.rotation.y, -side * (hover ? 0.12 : 0.42), 5, dt);
@@ -37,9 +43,15 @@ function Card({ m, i, onOpen }: { m: M; i: number; onOpen: (s: string) => void }
         <meshStandardMaterial attach="material-1" color="#e8d9bf" />
         <meshStandardMaterial attach="material-2" color="#e8d9bf" />
         <meshStandardMaterial attach="material-3" color="#e8d9bf" />
-        <meshStandardMaterial attach="material-4" map={tex ?? undefined} roughness={0.9} emissive="#2a1a10" emissiveIntensity={hover ? 0.25 : 0} />
+        <meshStandardMaterial key={tex ? "t" : "n"} attach="material-4" map={tex ?? undefined} roughness={0.85} emissive="#ffffff" emissiveMap={tex ?? undefined} emissiveIntensity={hover ? 0.32 : 0.16} />
         <meshStandardMaterial attach="material-5" color="#6b1e2b" roughness={0.7} />
       </mesh>
+      <Html position={[0, -0.92, 0]} center distanceFactor={4.2} zIndexRange={[10, 0]} style={{ pointerEvents: "none" }}>
+        <div ref={label} className={`mc-label ${hover ? "is-hover" : ""}`} style={{ opacity: 0 }}>
+          {m.year && <span className="mc-year">{m.year}</span>}
+          <span className="mc-title">{m.title}</span>
+        </div>
+      </Html>
     </group>
   );
 }

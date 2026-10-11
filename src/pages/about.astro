@@ -24,8 +24,8 @@ const years = menus.map((m) => m.date?.slice(0, 4)).filter(Boolean).sort() as st
   </section>
   <section class="container-x emblem" aria-labelledby="emblem-title">
     <div class="emblem-text">
-      <h2 id="emblem-title">הסמל</h2>
-      <p>זר זית, כובע שף והאותיות י·מ. הסמל עוצב לאתר בהשראת המטבח הים-תיכוני-צרפתי של יהודית. הזית מסמל את הכפר, והכובע את המקצוע.</p>
+      <h2 id="emblem-title">הלוגו של המסעדה</h2>
+      <p>״מיכאלי״ בכתב יד, עם עלה ירוק ו״מטבח כפרי״ מתחת. זה הלוגו המקורי של המסעדה ברשפון, שהופיע בראש התפריטים, ועכשיו גם בראש האתר.</p>
     </div>
     <LogoScene client:visible />
   </section>
@@ -42,7 +42,7 @@ const years = menus.map((m) => m.date?.slice(0, 4)).filter(Boolean).sort() as st
   .head { padding-top: 24px; }
   .hero { display: grid; grid-template-columns: minmax(260px, 420px) 1fr; gap: clamp(28px, 5vw, 80px); align-items: center; padding-block: 30px 60px; }
   .portrait { margin: 0; position: relative; }
-  .portrait img { width: 100%; height: auto; border-radius: 220px 220px 24px 24px; box-shadow: 0 50px 80px -40px rgb(var(--shadow) / .6); border: 6px solid var(--card); }
+  .portrait img { width: 100%; height: auto; border-radius: 220px 220px 24px 24px; box-shadow: 0 18px 36px -22px rgb(var(--shadow) / .55); border: 6px solid var(--card); }
   .portrait figcaption { position: absolute; bottom: 18px; inset-inline-start: 50%; transform: translateX(50%); background: var(--card); padding: 6px 18px; border-radius: 999px; font-family: var(--font-display); font-weight: 700; box-shadow: 0 10px 20px -12px rgb(0 0 0 / .4); white-space: nowrap; }
   .latin-e { font-family: var(--font-latin); font-style: italic; font-size: 1.3rem; letter-spacing: .04em; }
   .text h1 { margin: 4px 0 10px; }

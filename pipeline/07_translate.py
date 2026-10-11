@@ -55,19 +55,26 @@ def main():
     env()
     if not os.environ.get("OPENAI_API_KEY"):
         sys.exit("OPENAI_API_KEY missing in .env.local")
-    model = os.environ.get("YM_TEXT_MODEL", "gpt-5-nano")
+    model = os.environ.get("YM_TEXT_MODEL", "gpt-4.1-nano")
     cat = json.loads((ROOT / "data/catalog.json").read_text())
     done = json.loads(OUT.read_text()) if OUT.exists() else {}
     todo = [e for e in cat if e["id"] not in done]
     print(f"{len(todo)} titles to translate")
-    for i in range(0, len(todo), 80):
-        chunk = todo[i:i + 80]
+    import concurrent.futures as cf
+    import threading
+    lock = threading.Lock()
+    chunks = [todo[i:i + 60] for i in range(0, len(todo), 60)]
+
+    def work(chunk):
         payload = {e["id"]: f"{e['t']} (folder: {e['f'] or e['c']})" for e in chunk}
         res = chat([{"role": "system", "content": SYSTEM}, {"role": "user", "content": json.dumps(payload, ensure_ascii=False)}], model)
-        done.update({k: v for k, v in res.get("items", {}).items() if k in payload})
-        OUT.write_text(json.dumps(done, ensure_ascii=False, indent=0))
-        print(f"  {len(done)}/{len(cat)}", flush=True)
+        with lock:
+            done.update({k: v for k, v in res.get("items", {}).items() if k in payload and isinstance(v, dict) and v.get("dish")})
+            OUT.write_text(json.dumps(done, ensure_ascii=False, indent=0))
+            print(f"  {len(done)}/{len(cat)}", flush=True)
 
+    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(work, chunks))
 
 if __name__ == "__main__":
     main()

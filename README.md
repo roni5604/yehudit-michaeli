@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/brand/logo-full.svg" alt="יהודית מיכאלי · שפית" width="520" />
+<img src="public/brand/michaeli-logo.png" alt="מיכאלי – מטבח כפרי" width="460" />
 
 # יהודית מיכאלי · שפית
 

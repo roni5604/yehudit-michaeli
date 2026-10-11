@@ -1,28 +1,29 @@
 ---
-// Inlines the brand SVGs, re-coloured through CSS variables so they follow light/dark/high-contrast themes.
-import markRaw from "../../public/brand/logo-mark.svg?raw";
-import wordRaw from "../../public/brand/logo-wordmark.svg?raw";
-interface Props { variant?: "lockup" | "mark" | "word"; class?: string; size?: number }
-const { variant = "lockup", class: cls, size = 52 } = Astro.props;
-const themed = (svg: string) =>
-  svg
-    .replaceAll("#6B1E2B", "var(--logo-main, var(--bordeaux))")
-    .replaceAll("#B4693E", "var(--logo-accent, var(--copper))")
-    .replaceAll("#F6EFE4", "var(--logo-bg, var(--paper))")
-    .replace(/ role="img" aria-label="[^"]*"/, ' aria-hidden="true" focusable="false"')
-    .replace(/ width="\d+" height="\d+"/, "");
-const mark = themed(markRaw);
-const word = themed(wordRaw);
+// The original Michaeli restaurant logo (handwritten "מיכאלי" + leaf, "מטבח כפרי").
+// Light/dark versions swap with the site theme; "mark" is the leaf alone.
+interface Props { variant?: "lockup" | "mark" | "word"; class?: string; size?: number; tone?: "auto" | "light" | "dark" }
+const { variant = "lockup", class: cls, size = 52, tone = "auto" } = Astro.props;
+const h = variant === "mark" ? size : Math.round(size * 0.95);
 ---
-<span class:list={["logo", cls]} style={`--logo-size:${size}px`}>
-  {variant !== "word" && <span class="logo-mark" set:html={mark} />}
-  {variant !== "mark" && <span class="logo-word" set:html={word} />}
-</span>
+{variant === "mark" ? (
+  <img class:list={["logo-mark-img", cls]} src="/brand/michaeli-mark.png" alt="" width={size} height={size} style={`width:${size}px;height:${size}px`} />
+) : (
+  <span class:list={["mlogo", `tone-${tone}`, cls]} style={`--h:${h}px`}>
+    <img class="ml-light" src="/brand/michaeli-logo.webp" alt="מיכאלי – מטבח כפרי" width="1312" height="369" />
+    <img class="ml-dark" src="/brand/michaeli-logo-dark.webp" alt="" aria-hidden="true" width="1312" height="369" />
+  </span>
+)}
 <style>
-  .logo { display: inline-flex; align-items: center; gap: 12px; color: var(--bordeaux); }
-  .logo-mark { display: block; width: var(--logo-size); height: var(--logo-size); flex: none; }
-  .logo-mark :global(svg) { width: 100%; height: 100%; display: block; }
-  .logo-word { display: block; height: calc(var(--logo-size) * 0.86); }
-  .logo-word :global(svg) { height: 100%; width: auto; display: block; }
-  :global(html.a11y-contrast) .logo { --logo-main: var(--ink); --logo-accent: var(--ink); }
+  .mlogo { display: inline-block; height: var(--h); }
+  .mlogo img { height: 100%; width: auto; display: block; }
+  .ml-dark { display: none !important; }
+  .tone-dark .ml-light { display: none !important; }
+  .tone-dark .ml-dark { display: block !important; }
+  :global(:root[data-theme="dark"]) .tone-auto .ml-light { display: none !important; }
+  :global(:root[data-theme="dark"]) .tone-auto .ml-dark { display: block !important; }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme="light"])) .tone-auto .ml-light { display: none !important; }
+    :global(:root:not([data-theme="light"])) .tone-auto .ml-dark { display: block !important; }
+  }
+  .logo-mark-img { display: block; border-radius: 50%; }
 </style>

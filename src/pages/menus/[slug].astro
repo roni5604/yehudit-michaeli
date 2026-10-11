@@ -24,8 +24,8 @@ const isEn = m.language === "en";
   </div>
   <article class="menu-card" lang={isEn ? "en" : "he"} dir={isEn ? "ltr" : "rtl"}>
     <header>
-      <Logo variant="mark" size={72} />
-      <p class="house">מיכאלי – מטבח כפרי · רשפון</p>
+      <img class="menu-logo" src="/brand/michaeli-logo.webp" alt="מיכאלי – מטבח כפרי" width="1312" height="369" />
+      <p class="house">רשפון</p>
       <h1>{m.title}</h1>
       {m.titleEn && !isEn && <p class="en latin">{m.titleEn}</p>}
       <p class="meta">{kindLabel[m.kind]}{m.date ? ` · ${m.date}` : ""}</p>
@@ -67,7 +67,7 @@ const isEn = m.language === "en";
     radial-gradient(ellipse at 50% 30%, #fffaf1, #efe2c9); color: #2a2522; border-radius: 6px; box-shadow: 0 50px 90px -50px rgb(0 0 0 / .6), 0 0 0 1px #d9c7a6; position: relative; text-align: center; }
   .menu-card::before { content: ""; position: absolute; inset: 16px; border: 2px solid #b4693e; pointer-events: none; }
   .menu-card::after { content: ""; position: absolute; inset: 24px; border: 1px solid #b4693e; pointer-events: none; opacity: .6; }
-  .menu-card header :global(.logo) { --logo-main: #6b1e2b; --logo-accent: #b4693e; --logo-bg: #fbf5ea; justify-content: center; }
+  .menu-logo { width: min(300px, 70%); height: auto; display: block; margin: 0 auto; }
   .house { margin: 10px 0 0; letter-spacing: .2em; font-size: .85rem; color: #8a4a24; font-weight: 700; }
   .menu-card h1 { color: #6b1e2b; font-size: var(--step-3); margin: 10px 0 4px; }
   .en { margin: 0; font-size: 1.3rem; color: #8a4a24; }

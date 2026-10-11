@@ -53,11 +53,12 @@ def save_variants(img: Image.Image, key: str) -> tuple[int, int]:
     IMG.mkdir(parents=True, exist_ok=True)
     img = img.convert("RGB")
     w, h = img.size
-    # centre-crop to 3:2
+    # centre-crop to 3:2 (square sources lose a little top/bottom)
     tw, th = (w, int(w / 1.5)) if w / h < 1.5 else (int(h * 1.5), h)
     img = img.crop(((w - tw) // 2, (h - th) // 2, (w - tw) // 2 + tw, (h - th) // 2 + th))
     for size in (640, 1280):
-        v = img.resize((size, int(size / 1.5)), Image.LANCZOS)
+        tw2 = min(size, img.width)  # never upscale
+        v = img.resize((tw2, int(tw2 / 1.5)), Image.LANCZOS)
         v.save(IMG / f"{key}-{size}.avif", quality=58 if size == 1280 else 55)
     return 1280, 853
 
@@ -79,35 +80,65 @@ def featured(cat):
     return picked
 
 
-def ai(limit):
+def _gen(e, prompt, key, model, quality, size):
+    body = json.dumps({"model": model, "prompt": prompt, "size": size, "quality": quality, "n": 1}).encode()
+    req = urllib.request.Request("https://api.openai.com/v1/images/generations", data=body,
+                                 headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+    for t in range(6):
+        try:
+            with urllib.request.urlopen(req, timeout=300) as r:
+                return base64.b64decode(json.loads(r.read())["data"][0]["b64_json"])
+        except urllib.error.HTTPError as ex:
+            msg = ex.read()[:300].decode("utf8", "replace")
+            if ex.code in (400, 401, 403) and "billing" in msg.lower() or "insufficient_quota" in msg:
+                raise SystemExit(f"OpenAI quota/billing stop: {msg}")
+            if ex.code == 400:
+                print("  rejected prompt", e["id"], msg, file=sys.stderr)
+                return None
+            time.sleep(min(120, 15 * (t + 1)))
+        except Exception as ex:  # noqa: BLE001
+            print("  retry", e["id"], ex, file=sys.stderr)
+            time.sleep(10 * (t + 1))
+    return None
+
+
+def ai(limit, rest=False):
+    """featured (medium) or rest (low). Parallel, resumable."""
+    import concurrent.futures as cf
+    import threading
     key = os.environ.get("OPENAI_API_KEY") or sys.exit("OPENAI_API_KEY missing")
     model = os.environ.get("YM_IMAGE_MODEL", "gpt-image-1-mini")
-    quality = os.environ.get("YM_IMAGE_QUALITY", "medium")
+    quality = "low" if rest else os.environ.get("YM_IMAGE_QUALITY", "medium")
+    size = os.environ.get("YM_IMAGE_SIZE", "1024x1024")
+    workers = int(os.environ.get("YM_WORKERS", "6"))
     cat = json.loads((ROOT / "data/catalog.json").read_text())
     titles, man = load(TITLES, {}), load(MANIFEST, {})
-    todo = [e for e in featured(cat) if e["id"] not in man and e["id"] in titles][:limit]
-    print(f"AI images to make: {len(todo)}")
-    for n, e in enumerate(todo, 1):
-        prompt = f"{titles[e['id']]['dish']}. {STYLE}"
-        body = json.dumps({"model": model, "prompt": prompt, "size": "1536x1024", "quality": quality, "n": 1}).encode()
-        req = urllib.request.Request("https://api.openai.com/v1/images/generations", data=body,
-                                     headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-        for t in range(4):
-            try:
-                with urllib.request.urlopen(req, timeout=300) as r:
-                    b64 = json.loads(r.read())["data"][0]["b64_json"]
-                break
-            except Exception as ex:  # noqa: BLE001
-                print("  retry", e["id"], ex, file=sys.stderr)
-                time.sleep(10 * (t + 1))
-        else:
-            continue
-        w, h = save_variants(Image.open(io.BytesIO(base64.b64decode(b64))), e["id"])
-        man[e["id"]] = {"w": w, "h": h, "src": "ai", "k": e["id"]}
-        if e["s"]:
-            man[e["s"]] = man[e["id"]]
-        MANIFEST.write_text(json.dumps(man, ensure_ascii=False, indent=0))
-        print(f"  {n}/{len(todo)} {e['t']}", flush=True)
+    feat_ids = {e["id"] for e in featured(cat)}
+    pool = [e for e in cat if (e["id"] not in feat_ids) == rest]
+    todo = [e for e in pool if e["id"] not in man and e["id"] in titles][:limit]
+    print(f"{'rest' if rest else 'featured'} AI images to make: {len(todo)} ({quality}, {size})", flush=True)
+    lock = threading.Lock()
+    done = 0
+
+    def work(e):
+        nonlocal done
+        prompt = f"{titles[e['id']]['dish']}. {STYLE} Wide composition with the dish centred and space around it."
+        data = _gen(e, prompt, key, model, quality, size)
+        if not data:
+            return
+        w, h = save_variants(Image.open(io.BytesIO(data)), e["id"])
+        with lock:
+            man[e["id"]] = {"w": w, "h": h, "src": "ai", "k": e["id"]}
+            if e["s"]:
+                man[e["s"]] = man[e["id"]]
+            done += 1
+            if done % 10 == 0 or done == len(todo):
+                MANIFEST.write_text(json.dumps(man, ensure_ascii=False, indent=0))
+                print(f"  {done}/{len(todo)}", flush=True)
+
+    with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+        list(ex.map(work, todo))
+    MANIFEST.write_text(json.dumps(man, ensure_ascii=False, indent=0))
 
 
 def stock(limit):
@@ -164,4 +195,4 @@ if __name__ == "__main__":
     env()
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     lim = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else 10**9
-    {"ai": ai, "stock": stock}.get(mode, lambda _: sys.exit(__doc__))(lim)
+    {"ai": ai, "rest": lambda n: ai(n, rest=True), "stock": stock}.get(mode, lambda _: sys.exit(__doc__))(lim)

@@ -16,3 +16,7 @@
 .globe-list a:hover, .globe-list a:focus-visible { border-color: var(--copper); background: color-mix(in oklab, var(--copper) 10%, var(--card)); }
 .globe-list small { color: var(--ink-mute); font-weight: 500; }
 @media (max-width: 900px) { .globe-wrap { grid-template-columns: 1fr; } .globe-list { max-height: none; grid-template-columns: 1fr 1fr; } }
+.mc-label { display: grid; justify-items: center; gap: 2px; width: 210px; padding: 8px 12px; border-radius: 12px; background: rgb(19 13 10 / .82); border: 1px solid rgb(180 105 62 / .7); color: #fbf3e6; text-align: center; backdrop-filter: blur(6px); box-shadow: 0 10px 30px -10px rgb(0 0 0 / .7); transition: transform .3s, border-color .3s; font-family: "Assistant Variable", sans-serif; direction: rtl; }
+.mc-label.is-hover { transform: translateY(-4px) scale(1.05); border-color: #e6ac80; }
+.mc-year { font-family: "Cormorant Garamond", serif; font-style: italic; font-size: 20px; color: #e6ac80; line-height: 1; }
+.mc-title { font-family: "Frank Ruhl Libre Variable", serif; font-weight: 700; font-size: 15px; line-height: 1.25; }

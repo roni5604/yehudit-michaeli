@@ -54,6 +54,8 @@ def clean_title(name: str) -> str:
     t = re.sub(r"\.(docx?|rtf|html?|mht|pdf|txt|jpe?g|png|webp)$", "", name, flags=re.I)
     t = re.sub(r"\.(docx?|jpe?g)$", "", t, flags=re.I)
     t = re.sub(r"^(\d+|~\$)\s*", "", t)
+    t = re.sub(r"^[\w.-]+\.(com|co\.il|net|org)\s*-\s*", "", t, flags=re.I)  # "site.co.il-מתכון"
+    t = re.sub(r"^\d*main ?mag\s*\d+.*$", "מתכונים מגזין עיתון", t, flags=re.I)
     t = re.sub(r"[_]+", " ", t)
     t = re.sub(r"\s*\(\d+\)$|\s+\d+$|\s*-\s*עותק$", "", t)
     t = re.sub(r"^(מתכון ל|מתכון:\s*|מתכון )", "", t)
