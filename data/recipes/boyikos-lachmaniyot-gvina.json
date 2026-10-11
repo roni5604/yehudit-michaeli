@@ -1,0 +1,58 @@
+{
+  "slug": "boyikos-lachmaniyot-gvina",
+  "title": "בויאקוס לחמניות גבינה",
+  "titleEn": "Cheese Boyikos Biscuits",
+  "description": "לחמניות גבינה קטנות ומלוחות מבצק חמאה, מכוסות בשומשום. הכי טעימות חמות מהתנור, ומתאימות לצד מטבל שמנת וירקות.",
+  "category": "breakfast",
+  "subcategory": "muffins",
+  "cuisine": null,
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["גבינות", "אירוח", "קל"],
+  "servings": null,
+  "yield": "30 בויאקוס",
+  "pan": "תבנית מרופדת בנייר אפייה",
+  "prepMin": 25,
+  "cookMin": 25,
+  "totalMin": 50,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 100, "unit": "גרם", "item": "חמאה", "note": "קרה, חתוכה לקוביות קטנות", "raw": "100 גרם חמאה, חתוכה לקוביות קטנות" },
+      { "qty": 200, "unit": "גרם", "item": "גבינה לבנה 9%", "note": "כ-4 כפות גדושות", "raw": "200 גרם גבינה לבנה 9% (כ-4 כפות גדושות)" },
+      { "qty": 100, "unit": "גרם", "item": "גבינה צהובה", "note": "מגורדת", "raw": "100 גרם גבינה צהובה מגורדת" },
+      { "qty": 50, "unit": "גרם", "item": "גבינה בולגרית או צפתית", "note": null, "raw": "50 גרם גבינה בולגרית או צפתית" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" },
+      { "qty": 300, "unit": "גרם", "item": "קמח", "note": "2 כוסות + 2 כפות", "raw": "300 גרם קמח (2 כוסות + 2 כפות)" },
+      { "qty": 2, "unit": "כפיות", "item": "אבקת אפייה", "note": null, "raw": "2 כפיות אבקת אפייה" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" }
+    ] },
+    { "group": "לציפוי", "items": [
+      { "qty": 1, "unit": null, "item": "ביצה", "note": "טרופה, להברשה", "raw": "1 ביצה טרופה, להברשה" },
+      { "qty": null, "unit": null, "item": "שומשום", "note": "הרבה", "raw": "שומשום, בנדיבות" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מכניסים את החמאה לקערת מיקסר, מוסיפים את שאר מרכיבי הבצק ולשים לבצק אחיד ודביק.", "timerMin": null },
+      { "text": "מקמחים בנדיבות נייר אפייה, מחלקים את הבצק לשניים ומניחים אותו על הקמח. הופכים ומרדדים לעובי 4-5 מ״מ.", "timerMin": null },
+      { "text": "קורצים עיגולים בקוטר 6 ס״מ. מחממים תנור ל-180 מעלות.", "timerMin": null },
+      { "text": "מסדרים את העיגולים על נייר אפייה, מברישים בביצה טרופה ומפזרים שומשום בנדיבות.", "timerMin": null },
+      { "text": "אופים כ-25 דקות, עד להזהבה.", "timerMin": 25 }
+    ] }
+  ],
+  "tips": [
+    "מומלץ לאכול חם, ישר מהתנור.",
+    "אפשר להקפיא.",
+    "מגישים עם מטבל שמנת וירקות."
+  ],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A tray of small golden round cheese biscuits generously covered in sesame seeds, a few broken open to show a soft cheesy crumb, next to a bowl of sour cream dip with vegetables",
+  "alt": "לחמניות גבינה עגולות וקטנות מזהיבות ומכוסות בשומשום, לצד קערת מטבל שמנת וירקות",
+  "originals": [
+    { "file": "בויאקוס.docx", "driveId": "1uqP-2LJweUwK2dAcRQmkRqMn6nMcis7L" }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+ "slug": "antrekot-al-kdeirat-pitriyot-vecharadal",
+ "title": "אנטרקוט על קדרת פטריות וחרדל",
+ "titleEn": "Entrecôte on Mushroom and Mustard Casserole",
+ "description": "סטייק אנטרקוט צרוב על גריל, מוגש על רוטב פטריות עם שמנת וחרדל גרגרים. מנת מסעדה מפנקת עם פטרייה צרובה מעל.",
+ "category": "meat",
+ "subcategory": null,
+ "cuisine": "french",
+ "holidays": [],
+ "kashrut": "mixed",
+ "diet": [],
+ "tags": [
+  "מנת מסעדה",
+  "בשר",
+  "אירוח"
+ ],
+ "servings": 1,
+ "yield": "מנה אחת",
+ "pan": null,
+ "prepMin": 20,
+ "cookMin": 25,
+ "totalMin": 45,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": "לקדרת הפטריות והחרדל",
+   "items": [
+    {
+     "qty": null,
+     "unit": null,
+     "item": "בצל",
+     "note": "חתוך ברונואז גס",
+     "raw": "בצל ברונואז גס"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטריות שמפיניון ואחרות",
+     "note": "לרבעים",
+     "raw": "פטריות שמפיניון ואחרות, לרבעים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שום",
+     "note": "כתוש",
+     "raw": "שום כתוש"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "חמאה",
+     "note": null,
+     "raw": "חמאה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מלח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פלפל שחור גרוס",
+     "note": null,
+     "raw": "פלפל שחור גרוס"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "ציר בקר",
+     "note": null,
+     "raw": "ציר בקר"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "יין לבן",
+     "note": null,
+     "raw": "יין לבן להורדת משקעים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמנת מתוקה",
+     "note": null,
+     "raw": "מעט שמנת מתוקה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "חרדל גרגרים",
+     "note": null,
+     "raw": "חרדל גרגרים"
+    }
+   ]
+  },
+  {
+   "group": "לאנטרקוט",
+   "items": [
+    {
+     "qty": 250,
+     "unit": "גרם",
+     "item": "סטייק אנטרקוט",
+     "note": null,
+     "raw": "250 גרם סטייק אנטרקוט"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן",
+     "note": null,
+     "raw": "שמן להברשה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל",
+     "note": null,
+     "raw": "מלח ופלפל"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "פטרייה",
+     "note": null,
+     "raw": "פטרייה אחת לצריבה"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "קדרת הפטריות",
+   "items": [
+    {
+     "text": "מאדים את הבצל בחמאה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים שום כתוש ופטריות.",
+     "timerMin": null
+    },
+    {
+     "text": "מורידים משקעים ביין לבן ומצמצמים אותו לגמרי.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים ציר בקר, מלח ופלפל שחור בנדיבות ומצמצמים.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "השלמה לפני ההגשה",
+   "items": [
+    {
+     "text": "מוסיפים לבסיס מעט שמנת מתוקה וחרדל גרגרים.",
+     "timerMin": null
+    },
+    {
+     "text": "קושרים את הרוטב בבר-מנייה.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "האנטרקוט",
+   "items": [
+    {
+     "text": "מברישים את הבשר בשמן, ממליחים בנדיבות ומפלפלים.",
+     "timerMin": null
+    },
+    {
+     "text": "סוגרים את הבשר על מחבת גריל לוהטת וצורבים רשת משני הצדדים, וגם בצדדים הצרים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוציאים מהמחבת וממליחים בנדיבות. צורבים גם פטרייה על המחבת.",
+     "timerMin": null
+    },
+    {
+     "text": "מעבירים את הסטייק והפטרייה לתנור להמשך צלייה עד דרגת העשייה הרצויה.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הגשה",
+   "items": [
+    {
+     "text": "יוצקים את הרוטב לצלחת עמוקה גדולה, מניחים מעליו את האנטרקוט ומעליו את הפטרייה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים גרניטורה.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "בכתב היד לא נרשמו כמויות לרוטב, ולכן מכוונים לפי העין והטעם."
+ ],
+ "story": null,
+ "source": {
+  "type": "restaurant",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "Seared entrecote steak resting on a creamy mushroom and whole grain mustard sauce in a deep white plate, topped with a grilled mushroom",
+ "alt": "סטייק אנטרקוט על רוטב פטריות וחרדל בצלחת עמוקה, ופטרייה צרובה מעל",
+ "originals": [
+  {
+   "file": "אנטקוט על קדרת פטריות חרדל .doc",
+   "driveId": "1NCmpEJ2dVukL_xQcwPwNmZ0bgQC52Wnx"
+  }
+ ]
+}

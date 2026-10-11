@@ -1,0 +1,44 @@
+{
+  "slug": "corporate-event-2007-06-en",
+  "title": "אירוע חברה · יוני 2007",
+  "titleEn": "Corporate event menu, June 2007",
+  "date": "2007-06",
+  "season": "summer",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "en",
+  "intro": "תפריט באנגלית לאירוע חברה, יוני 2007.",
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        { "name": "Chicken liver Parfait with celery confiture" },
+        { "name": "Gravlax", "desc": "Pickled salmon" },
+        { "name": "Asparagus bake" },
+        { "name": "Antipasti", "desc": "Seasoned grilled vegetables" },
+        { "name": "Green salad" }
+      ]
+    },
+    {
+      "name": "Main course of your choice",
+      "items": [
+        { "name": "Beef entrecôte with black pepper sauce" },
+        { "name": "Baby chicken in red wine sauce" },
+        { "name": "Fish fillet with cream and salmon-eggs caviar" },
+        { "name": "Leek & dried tomatoes tart", "desc": "Vegetarian" }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "Pavlova", "desc": "With sweet cream and red berries" },
+        { "name": "Tapioca with mango and passion fruit" },
+        { "name": "Chocolate mousse" },
+        { "name": "Crème Brûlée" },
+        { "name": "Tarte Tatin" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "אירוע חברה (שם הקובץ הוסר).doc", "driveId": "1ZCXa43Mmob5JfSGBPHP-_huyx8WSj0Nx" }]
+}

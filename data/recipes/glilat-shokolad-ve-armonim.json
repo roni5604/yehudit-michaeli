@@ -1,0 +1,55 @@
+{
+  "slug": "glilat-shokolad-ve-armonim",
+  "title": "גלילת שוקולד וערמונים",
+  "titleEn": "Chocolate and Chestnut Log",
+  "description": "גלילה קרה של מחית ערמונים, שוקולד מריר וחמאה בניחוח ויסקי, עם ערמונים שלמים בלב. פורסים דק ומגישים עם פרי וקצפת.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קינוח קר", "אירוח", "שוקולד"],
+  "servings": null,
+  "yield": "גלילה אחת לפריסה דקה",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 30,
+  "totalMin": 270,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "ערמונים קלופים", "note": null, "raw": "1 ק״ג ערמונים קלופים" },
+      { "qty": 3, "unit": "כוסות", "item": "חלב", "note": null, "raw": "3 כוסות חלב" },
+      { "qty": 0.75, "unit": "כוס", "item": "סוכר", "note": null, "raw": "¾ כוס סוכר" },
+      { "qty": 1, "unit": null, "item": "מקל וניל", "note": "חצוי", "raw": "1 מקל וניל חצוי" },
+      { "qty": 300, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "300 גרם שוקולד מריר" },
+      { "qty": 250, "unit": "גרם", "item": "חמאה", "note": "רכה", "raw": "250 גרם חמאה רכה" },
+      { "qty": 4, "unit": "כפות", "item": "ויסקי", "note": null, "raw": "4 כפות ויסקי" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "פרי", "note": null, "raw": "פרי" },
+      { "qty": null, "unit": null, "item": "קצפת", "note": null, "raw": "קצפת" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מבשלים את הערמונים בחלב ובסוכר עם הווניל כחצי שעה, עד שרוב החלב נספג.", "timerMin": 30 },
+      { "text": "מצננים, מוציאים את תרמיל הווניל ומרוקנים אותו מהגרגירים אל העיסה.", "timerMin": null },
+      { "text": "שמים בצד כשליש מהערמונים, את היפים ביותר, ואת השאר מעבדים במג׳ימיקס למחית אחידה.", "timerMin": null },
+      { "text": "ממיסים את השוקולד ומוסיפים קוביות חמאה, עד להמסה אחידה.", "timerMin": null },
+      { "text": "מערבבים את מחית הערמונים עם השוקולד, מוסיפים את הוויסקי ומצננים מעט.", "timerMin": null },
+      { "text": "פורסים על משטח העבודה רדיד אלומיניום ומניחים לאורכו את העיסה בתלוליות צמודות.", "timerMin": null },
+      { "text": "משקיעים בעיסה את הערמונים השלמים שנשארו, כורכים ומגלגלים את האלומיניום סביב העיסה כמו עטיפת סוכרייה.", "timerMin": null },
+      { "text": "מצננים כמה שעות.", "timerMin": 180 },
+      { "text": "מגישים פרוס דק, עם פרי וקצפת.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A sliced log of dark chocolate and chestnut puree, showing whole glossy chestnuts in the centre, served on a long plate with fresh fruit and a spoonful of whipped cream",
+  "alt": "גלילת שוקולד וערמונים פרוסה דק, עם ערמונים שלמים בלב, בצלחת הגשה עם פרי וקצפת",
+  "originals": [{ "file": "גלילת שוקולד וערמונים.doc", "driveId": "1emO5dNCnuF3jeeDqfw1L0UMo-KI5KSuE" }]
+}

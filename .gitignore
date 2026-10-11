@@ -1,0 +1,22 @@
+# raw Drive downloads & intermediate work — NEVER commit (may contain private material)
+raw/
+work/
+# secrets
+.env
+.env.*
+!.env.example
+# build
+node_modules/
+dist/
+.astro/
+.vercel/
+.DS_Store
+test-results/
+playwright-report/
+lighthouse/
+__pycache__/
+.venv/
+.vercel
+.env*
+.claude/
+.env.local

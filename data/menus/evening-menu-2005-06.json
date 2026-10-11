@@ -1,0 +1,139 @@
+{
+  "slug": "evening-menu-2005-06",
+  "title": "תפריט ערב מיוחד · יוני 2005",
+  "titleEn": "Special evening menu · June 2005",
+  "date": "2005-06",
+  "season": "summer",
+  "occasion": "ארוחה מיוחדת",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות בהגשה מרכזית",
+      "items": [
+        {
+          "name": "קבבונים רומנים",
+          "desc": "עם פולנטה ושומים אפויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי סלק",
+          "desc": "במילוי גבינת עיזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "עם שקדים ותפוחים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנת ביניים",
+      "items": [
+        {
+          "name": "מרק קרם עגבניות",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה אישית לבחירה",
+      "items": [
+        {
+          "name": "סופלה של קוקי סאן ז'אק",
+          "recipeSlug": null
+        },
+        {
+          "name": "כבד אווז עם פירות יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט שמפיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירה",
+      "items": [
+        {
+          "name": "קורדון בלו",
+          "desc": "עם רוטב חרדל",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "עם רוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "עם רוטב פלפלת או רוטב יין אדום",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה",
+          "desc": "בניחוח עלי טימין",
+          "recipeSlug": null
+        },
+        {
+          "name": "שוקרוט",
+          "desc": "קדירת כרוב חמוץ ובשרים מעושנים וכבושים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה פארידה",
+          "desc": "עם רוטב שמנת בקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "דניס א-לה פלורנטין",
+          "desc": "ממולא בתרד וצנוברים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס בשום וחמאה",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות – צמחוני",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים לבחירה",
+      "items": [
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס גנאש שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט לימונים",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט יום רביעי 29.6.05.doc",
+      "driveId": "1LrVAQ2goVbFBCxAb3Lhv_eA889kXuLL2"
+    }
+  ]
+}

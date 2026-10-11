@@ -1,0 +1,52 @@
+{
+  "slug": "chavitiot-yarak",
+  "title": "חביתיות ירק",
+  "titleEn": "Savoury Herb Crêpes",
+  "description": "חביתיות דקות מבלילת חלב, ביצים וחמאה עם שמיר, פטרוזיליה ועירית, שמטוגנים בחמאה ומקופלים לשניים. כמות גדולה, מתאימה לארוחת בוקר לאורחים.",
+  "category": "breakfast",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["ארוחת בוקר", "אירוח", "עשבי תיבול"],
+  "servings": null,
+  "yield": "50 חביתיות",
+  "pan": "מחבת",
+  "prepMin": 20,
+  "cookMin": 60,
+  "totalMin": 110,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "ליטר", "item": "חלב", "note": null, "raw": "1 ליטר חלב" },
+      { "qty": 10, "unit": null, "item": "ביצים", "note": null, "raw": "10 ביצים" },
+      { "qty": 500, "unit": "גרם", "item": "קמח", "note": null, "raw": "500 גרם קמח" },
+      { "qty": 100, "unit": "גרם", "item": "חמאה", "note": "מומסת", "raw": "100 גרם חמאה מומסת" },
+      { "qty": 0.25, "unit": "חבילה", "item": "שמיר", "note": null, "raw": "¼ חבילת שמיר" },
+      { "qty": 0.25, "unit": "חבילה", "item": "פטרוזיליה", "note": null, "raw": "¼ חבילת פטרוזיליה" },
+      { "qty": null, "unit": null, "item": "עלי מריורם או בזיליקום", "note": "מעט", "raw": "מעט עלי מריורם או בזיליקום" },
+      { "qty": 1, "unit": "חבילה", "item": "עירית או עלי בצל ירוק", "note": null, "raw": "חבילת עירית או עלי בצל ירוק" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "לפי הטעם", "raw": "מלח לפי הטעם" },
+      { "qty": null, "unit": null, "item": "סוכר", "note": "קמצוץ", "raw": "קמצוץ סוכר" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": "לטיגון", "raw": "חמאה לטיגון" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מקציפים יחד ביצים, חלב, חמאה, קמח ותבלינים.", "timerMin": null },
+      { "text": "מוסיפים את עשבי התיבול ומשהים את הבלילה, כדי שהטעמים יתמזגו.", "timerMin": null },
+      { "text": "מטגנים בחמאה חביתיות דקות ומקפלים כל אחת לשניים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A stack of thin savoury herb crêpes folded in half, flecked with green dill, parsley and chives, on a white serving platter with a small bowl of fresh herbs beside it",
+  "alt": "ערימה של חביתיות דקות מקופלות לשניים, מנוקדות בשמיר, פטרוזיליה ועירית, על מגש הגשה לבן",
+  "originals": [
+    { "file": "חביתיות ירק.doc", "driveId": "1BW0X41UJbIzRNRqzJhwmkWLUAsx95yvN" },
+    { "file": "חביתיות ירק.doc", "driveId": "1YpOGJau_MK0sanPIu4utfrp07SSkFYRz" }
+  ]
+}

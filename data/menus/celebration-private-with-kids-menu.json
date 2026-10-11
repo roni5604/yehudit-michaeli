@@ -1,0 +1,109 @@
+{
+  "slug": "celebration-private-with-kids-menu",
+  "title": "חגיגה משפחתית (אירוע פרטי)",
+  "titleEn": "Family celebration (private event)",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "קיש לוריין",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "פארפה כבדים עם ריבת סלרי ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית בשזיפים ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג ים ברוטב שמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת פירות ים בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות – צמחוני",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל וצ'יפס – לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "מוס שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם שניט",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        {
+          "name": "יין אדום ולבן",
+          "desc": "סדרת רכס – יקבי כרמל",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1oHCcIlKmQeJfZhfWjeoZncYVu48NpflR"
+    }
+  ]
+}

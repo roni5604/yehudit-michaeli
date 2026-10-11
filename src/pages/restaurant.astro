@@ -1,0 +1,86 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import MenuCorridor from "../three/MenuCorridor.tsx";
+import { getMenus } from "../lib/data";
+import { dishFrequency, kindLabel } from "../lib/menus";
+const menus = await getMenus();
+const dishes = dishFrequency(menus.filter((m) => m.language !== "en")).slice(0, 14);
+const max = dishes[0]?.n ?? 1;
+const years = [...new Set(menus.map((m) => m.date?.slice(0, 4)).filter(Boolean))].sort() as string[];
+const press = menus.find((m) => m.kind === "press");
+const corridor = menus.filter((m) => m.kind !== "drinks").slice(0, 24).map((m) => ({ slug: m.slug, title: m.title, year: m.date?.slice(0, 4) ?? null, kind: m.kind }));
+const kinds = new Map<string, number>(); for (const m of menus) kinds.set(m.kind, (kinds.get(m.kind) ?? 0) + 1);
+---
+<BaseLayout title="מסעדת מיכאלי – מטבח כפרי" description="הסיפור של מסעדת ״מיכאלי – מטבח כפרי״ ברשפון: מטבח כפרי-צרפתי, תפריטי עונות, ערבי טעימות וחגים.">
+  <div class="container-x head">
+    <Breadcrumbs items={[{ label: "המסעדה" }]} />
+    <p class="kick latin">Michaeli · Cuisine de campagne · Rishpon</p>
+    <h1>מיכאלי – מטבח כפרי</h1>
+    <p class="lede">מסעדה קטנה ברשפון עם לב צרפתי. {years.length ? `התפריטים ששרדו מתפרשים על השנים ${years[0]}–${years[years.length - 1]}.` : ""}</p>
+  </div>
+  <section class="container-x story">
+    <div class="reveal">
+      <h2>המטבח</h2>
+      <p>במטבח של יהודית הבישול היה איטי, עונתי ונדיב: קדרת בקר ביין (בורגיניון), שוקרוט עם בשרים מעושנים, קונפי שוק אווז בדבש ושבעת התבלינים, דג דניס בנוסח פלורנטין, וניוקי פריזאי לצמחונים. בקינוחים: טארט טאטן, קרם ברולה, קרפ סוזט ותרין סורבה במעטפת מרציפן.</p>
+      <p>מעבר לתפריט הקבוע היו ערבי טעימות, ״ארוחת בויאבז״ שבה הדגים פולטו מול הסועדים, ערבי ולנטיין וט״ו באב, סעודות עצמאות, סילבסטר עם ריקודים, וארוחות שישי. במסעדה נמכרו גם ריבות, ליקרים וחמוצים ביתיים, ״הממכר הביתי של יהודית״.</p>
+    </div>
+    <dl class="facts reveal">
+      <div><dt>תפריטים בארכיון</dt><dd>{menus.length}</dd></div>
+      <div><dt>תפריטי טעימות ואירועים</dt><dd>{(kinds.get("tasting") ?? 0) + (kinds.get("event") ?? 0)}</dd></div>
+      <div><dt>חגים ומועדים</dt><dd>{kinds.get("holiday") ?? 0}</dd></div>
+      <div><dt>שנים</dt><dd>{years.length ? `${years[0]}–${years[years.length - 1]}` : "—"}</dd></div>
+    </dl>
+  </section>
+  {dishes.length > 0 && (
+    <section class="container-x sig" aria-labelledby="sig-t">
+      <h2 id="sig-t">המנות שחזרו שוב ושוב</h2>
+      <p class="sub">כמה פעמים כל מנה הופיעה בתפריטי המסעדה</p>
+      <ol class="bars">
+        {dishes.map((d) => (
+          <li class="reveal">
+            <span class="dn">{d.name}</span>
+            <span class="bar" style={`--w:${(d.n / max) * 100}%`}><span></span></span>
+            <span class="dc">{d.n}</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+  {press?.body && (
+    <section class="container-narrow press reveal" aria-labelledby="press-t">
+      <p class="eyebrow">מתוך הארכיון</p>
+      <h2 id="press-t">{press.title}</h2>
+      {press.body.split(/\n+/).map((p) => <p>{p}</p>)}
+    </section>
+  )}
+  <section class="container-x" aria-labelledby="mc-t">
+    <h2 id="mc-t" class="mc-t">מסדרון התפריטים</h2>
+    <MenuCorridor client:visible menus={corridor} />
+    <p class="center"><a class="btn" href="/menus">לכל {menus.length} התפריטים</a></p>
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 10px; }
+  .kick { color: var(--copper-text); font-size: 1.25rem; margin: 18px 0 0; }
+  .head h1 { margin: 4px 0 8px; }
+  .story { display: grid; grid-template-columns: 1.5fr 1fr; gap: 50px; padding-block: 40px; align-items: start; }
+  .story p { color: var(--ink-soft); }
+  .facts { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 0; }
+  .facts div { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 18px; }
+  .facts dt { color: var(--ink-mute); font-size: .9rem; }
+  .facts dd { margin: 4px 0 0; font-family: var(--font-display); font-size: var(--step-2); font-weight: 700; color: var(--bordeaux); }
+  .sig { padding-block: 30px 50px; }
+  .sub { color: var(--ink-mute); margin-top: -4px; }
+  .bars { list-style: none; padding: 0; margin: 20px 0 0; display: grid; gap: 10px; }
+  .bars li { display: grid; grid-template-columns: minmax(160px, 34%) 1fr 40px; gap: 14px; align-items: center; }
+  .dn { font-weight: 600; }
+  .bar { height: 14px; background: var(--paper-3); border-radius: 999px; overflow: hidden; }
+  .bar span { display: block; height: 100%; width: var(--w); background: linear-gradient(to left, var(--copper), var(--bordeaux)); border-radius: inherit; transform-origin: right; animation: grow 1.2s cubic-bezier(.2,.8,.2,1) both; }
+  @keyframes grow { from { transform: scaleX(0); } }
+  .dc { font-weight: 800; color: var(--copper-text); }
+  .press { padding-block: 30px 50px; } .press p { color: var(--ink-soft); }
+  .mc-t { margin: 20px 0 20px; }
+  .center { text-align: center; margin-top: 24px; }
+  @media (max-width: 860px) { .story { grid-template-columns: 1fr; } .bars li { grid-template-columns: 1fr 40px; } .bar { grid-column: 1 / -1; grid-row: 2; } }
+</style>

@@ -1,0 +1,44 @@
+{
+  "slug": "betzek-lefai",
+  "title": "בצק לפאי",
+  "titleEn": "Pie Pastry Dough",
+  "description": "בצק פריך בסיסי לתבנית פאי של 28 ס״מ, מקמח, חמאה, ביצים ומעט מים קרים. לישה קצרה ומנוחה במקרר.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["בצק בסיס", "פאי"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית פאי 28 ס״מ",
+  "prepMin": 15,
+  "cookMin": null,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 350, "unit": "גרם", "item": "קמח", "note": null, "raw": "350 גרם קמח" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": null, "raw": "150 גרם חמאה" },
+      { "qty": 2, "unit": null, "item": "ביצים", "note": null, "raw": "2 ביצים" },
+      { "qty": 40, "unit": "מ״ל", "item": "מים קרים", "note": null, "raw": "40 מ״ל מים קרים" },
+      { "qty": 8, "unit": "גרם", "item": "מלח", "note": null, "raw": "8 גרם מלח" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את הקמח, המלח והחמאה לקבלת בצק חולי.", "timerMin": null },
+      { "text": "מוסיפים את הביצים ואת המים, ומערבבים עד לקבלת בצק אחיד.", "timerMin": null },
+      { "text": "זמן לישה מינימלי.", "timerMin": null },
+      { "text": "מניחים למנוחה לפחות 30 דקות.", "timerMin": 30 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A round pie dish lined with raw shortcrust pastry with crimped edges, ready to be filled, on a floured wooden surface",
+  "alt": "תבנית פאי מרופדת בבצק פריך גולמי עם שוליים מקופלים",
+  "originals": [{ "file": "בצקים.doc", "driveId": "1hHcVqFDOdWbQKAWksr3nRzbwGDotp1Xj" }]
+}

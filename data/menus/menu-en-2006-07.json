@@ -1,0 +1,231 @@
+{
+  "slug": "menu-en-2006-07",
+  "title": "תפריט באנגלית · יולי 2006",
+  "titleEn": "English menu · July 2006",
+  "date": "2006-07",
+  "season": "summer",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": "We hope that our home-made desserts will allow you to end your meal with complete satisfaction, enjoying the tastes and the variety.",
+  "sections": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Foie Gras Grillee",
+          "desc": "Grilled Goose liver served in a Red Berries Sauce (or chicken liver parfait)",
+          "price": "55 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sardines farcies",
+          "desc": "Fried sardines stuffed with nuts & pickled lemon",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soufflé de Coquilles Saint-Jacques",
+          "desc": "Sea Scallops Soufflé",
+          "price": "55 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Kebab A La Romanie",
+          "desc": "Grilled ground-beef skewers served with Mamaliga",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Quiche Lorraine",
+          "desc": "An open-faced cream pie made with smoked goose and hard cheese",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Ravioli De Betterave",
+          "desc": "Ravioli of beetroot filled with goat cream cheese & fine herbs",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Salade Verte",
+          "desc": "Tossed green salad with goat's cheese and edible flowers",
+          "price": "35 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe du Jour",
+          "desc": "Soup of the Day",
+          "price": "35 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "name": "Coquelet grille",
+          "desc": "Grilled baby chicken fillet",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Confit d'Oie",
+          "desc": "Goose leg confit with honey & spices",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Entrecote au Poivre",
+          "desc": "Grilled sirloin steak with pepper sauce",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Choucroute Garnie",
+          "desc": "Sauerkraut stew with assorted sausages & smoked meats",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gigot d'agneau",
+          "desc": "Roasted leg of lamb with mustard & thyme sauce",
+          "price": "95 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crevettes au Beurre",
+          "desc": "Shrimps sautéed in seasoned butter",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Filet de Poisson a la mode du Tsar",
+          "desc": "Sea fish fillet with herb cream and salmon eggs",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Daurade-Royale Farcie, A La Florentine",
+          "desc": "Boneless gilthead bream stuffed with spinach and pine nuts",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte renversee a la Tomate et Poireau",
+          "desc": "A tart of leek and dried tomatoes",
+          "price": "70 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Assortiment de Fromages",
+          "desc": "Selection of Israeli farmhouse cheeses",
+          "price": "55 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cheese platter with dessert wine",
+          "desc": "The above cheese platter with two glasses of dessert wine or Port",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake with cinnamon ice-cream",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au chocolat et Mousse au Espresso",
+          "desc": "A rich chocolate mousse and espresso mousse",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbet flavors wrapped in marzipan",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Créme Brulee",
+          "desc": "Baked cream with a caramelized topping",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte aux Citrons de Menton",
+          "desc": "Lemon tart",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tapioca, fruit de la passion et Mango avec sorbet de Noix de Coco",
+          "desc": "Tapioca, passion fruit & mango delight, with coconut sorbet",
+          "price": "38 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Hot Beverages",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": "10 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Double Espresso",
+          "price": "12 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cappuccino",
+          "price": "13 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Black Coffee",
+          "price": "12 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Flavored tea – Ceremonnie",
+          "price": "14 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Herbs Tea from our Garden",
+          "price": "10 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Fruit Tea",
+          "price": "15 nis",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט באנגלית יולי 2006.doc",
+      "driveId": "1weQrRsknSf73y-uuwiMvJ9sngLI93mkK"
+    }
+  ]
+}

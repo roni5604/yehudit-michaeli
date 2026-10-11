@@ -1,0 +1,68 @@
+{
+  "slug": "baklava-egozim-veshkedim",
+  "title": "עוגת בקלווה אגוזים ושקדים",
+  "titleEn": "Walnut and Almond Baklava",
+  "description": "עוגת בקלווה בשכבות פילו מרוחות בשומן מומס, עם מלית אגוזים ושקדים מתובלת בקינמון, אגוז מוסקט וציפורן, בסירופ דבש ולימון.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "arab",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian"],
+  "tags": ["אירוח", "עוגת סירופ", "קלאסיקה מזרחית"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית 35×25×5 ס״מ",
+  "prepMin": 40,
+  "cookMin": 50,
+  "totalMin": 120,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 1, "unit": "חבילה", "item": "בצק פילו", "note": "אחרי הפשרה איטית", "raw": "1 חבילת בצק פילו, אחרי הפשרה איטית" },
+      { "qty": 200, "unit": "גרם", "item": "מרגרינה או חמאה", "note": "מומסת", "raw": "200 גרם מרגרינה או חמאה, מומסת" }
+    ] },
+    { "group": "למלית", "items": [
+      { "qty": 1, "unit": "כוס", "item": "אגוזים", "note": "קצוצים דק", "raw": "1 כוס אגוזים קצוצים דק" },
+      { "qty": 0.5, "unit": "כוס", "item": "שקדים", "note": "קצוצים", "raw": "½ כוס שקדים קצוצים" },
+      { "qty": 2, "unit": "כפות", "item": "סוכר", "note": null, "raw": "2 כפות סוכר" },
+      { "qty": 1, "unit": "כפית", "item": "קינמון", "note": null, "raw": "1 כפית קינמון" },
+      { "qty": 0.5, "unit": "כפית", "item": "אגוז מוסקט", "note": "מגורד", "raw": "½ כפית אגוז מוסקט מגורד" },
+      { "qty": null, "unit": "קורט", "item": "ציפורן טחונה", "note": "קורט קטן", "raw": "קורט קטן ציפורן טחונה" }
+    ] },
+    { "group": "לסירופ", "items": [
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" },
+      { "qty": 1, "unit": "כוס", "item": "סוכר", "note": null, "raw": "1 כוס סוכר" },
+      { "qty": 0.5, "unit": null, "item": "לימון", "note": "המיץ", "raw": "מיץ מחצי לימון" },
+      { "qty": 2, "unit": "כפות", "item": "דבש", "note": null, "raw": "2 כפות דבש" }
+    ] }
+  ],
+  "steps": [
+    { "group": "ההכנות", "items": [
+      { "text": "מחממים מראש את התנור ל-180 מעלות. משמנים היטב את התבנית.", "timerMin": null },
+      { "text": "מערבבים בקערה את כל מרכיבי המלית.", "timerMin": null },
+      { "text": "ממיסים את המרגרינה או החמאה עד שהיא נוזלית לגמרי.", "timerMin": null }
+    ] },
+    { "group": "הרכבת העוגה", "items": [
+      { "text": "מניחים על תחתית התבנית יריעות פילו, אחת אחרי השנייה, ומורחים על כל יריעה מהשומן המומס. נוח לעבוד עם מברשת.", "timerMin": null },
+      { "text": "אחרי שסידרו 10 יריעות, מפזרים מעליהן מחצית מתערובת האגוזים.", "timerMin": null },
+      { "text": "מסדרים סדרה נוספת של יריעות פילו, כל אחת מרוחה בשומן מומס. מפזרים את שאר האגוזים ומכסים בשאר היריעות.", "timerMin": null },
+      { "text": "בסכין חדה חותכים את העוגה למעויינים, לחצי הגובה בלבד ולא עד למטה.", "timerMin": null },
+      { "text": "אופים 50 עד 60 דקות. המעויינים תופחים לפי החיתוך.", "timerMin": 50 },
+      { "text": "כשהעוגה מתקררת מעט, חותכים אותה למנות לפי החיתוכים הראשונים.", "timerMin": null }
+    ] },
+    { "group": "הסירופ", "items": [
+      { "text": "מבשלים את המים עם הסוכר ומיץ הלימון עד שהסוכר נמס לגמרי, ועוד כ-10 דקות עד שהסירופ מסמיך מעט. מוסיפים את הדבש.", "timerMin": 10 },
+      { "text": "כשהעוגה מוכנה, יוצקים עליה מחצית מהסירופ, ומוסיפים עוד לפי הצורך.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "עם חמאה במקום מרגרינה, העוגה הופכת לחלבית."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "A rectangular pan of baklava scored into diamond shapes, puffed golden phyllo layers with a chopped walnut and almond filling, shiny with syrup",
+  "alt": "תבנית בקלווה זהובה בחיתוך מעויינים, עם שכבות פילו פריכות ומלית אגוזים ושקדים",
+  "originals": [{ "file": "בקלווה.doc", "driveId": "1-fDdDSkpdTqCfcLNOyDk0-eszW7zcp-b" }]
+}

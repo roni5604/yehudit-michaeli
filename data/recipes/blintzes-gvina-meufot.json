@@ -1,0 +1,72 @@
+{
+  "slug": "blintzes-gvina-meufot",
+  "title": "חביתיות בלינצס במלית גבינה אפויה",
+  "titleEn": "Baked Cheese Blintzes",
+  "description": "חביתיות דקות ממולאות בגבינה לבנה, צימוקים וגרידת לימון, מגולגלות כמו סיגרים ואפויות בחמאה עד להזהבה. מוגשות עם שמנת חמוצה או רוטב פירות.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["שבועות", "בלינצס", "גבינות"],
+  "servings": 20,
+  "yield": null,
+  "pan": "גסטרונום משומן",
+  "prepMin": 60,
+  "cookMin": 45,
+  "totalMin": 105,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 500, "unit": "גרם", "item": "קמח", "note": null, "raw": "500 גרם קמח" },
+      { "qty": 8, "unit": null, "item": "ביצים", "note": null, "raw": "8 ביצים" },
+      { "qty": 4, "unit": "כוסות", "item": "חלב", "note": null, "raw": "4 כוסות חלב" },
+      { "qty": 8, "unit": "כפיות", "item": "סוכר", "note": null, "raw": "8 כפיות סוכר" },
+      { "qty": 200, "unit": "גרם", "item": "חמאה", "note": "מומסת", "raw": "200 גרם חמאה מומסת" },
+      { "qty": 1, "unit": "כפית", "item": "תמצית וניל", "note": null, "raw": "1 כפית תמצית וניל" },
+      { "qty": 0.5, "unit": "כפית", "item": "מלח", "note": null, "raw": "½ כפית מלח" },
+      { "qty": 1.5, "unit": "כוסות", "item": "מי סודה", "note": null, "raw": "1½ כוסות מי סודה" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": "לשימון המחבת", "raw": "חמאה לשימון המחבת" }
+    ] },
+    { "group": "למלית", "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "גבינה לבנה", "note": null, "raw": "1 ק״ג גבינה לבנה" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": "מופרדות", "raw": "4 ביצים, מופרדות" },
+      { "qty": 10, "qtyMax": 12, "unit": "כפות", "item": "אבקת סוכר", "note": null, "raw": "10-12 כפות אבקת סוכר" },
+      { "qty": null, "unit": null, "item": "גרידת לימון", "note": null, "raw": "גרידת לימון" },
+      { "qty": 200, "unit": "גרם", "item": "צימוקים", "note": null, "raw": "200 גרם צימוקים" },
+      { "qty": 1, "unit": "גביע", "item": "שמנת חמוצה", "note": null, "raw": "1 גביע שמנת חמוצה" }
+    ] },
+    { "group": "לגימור והגשה", "items": [
+      { "qty": null, "unit": null, "item": "חמאה מומסת", "note": "להברשה", "raw": "חמאה מומסת להברשה" },
+      { "qty": null, "unit": null, "item": "אבקת סוכר", "note": "לפיזור", "raw": "אבקת סוכר לפיזור" },
+      { "qty": null, "unit": null, "item": "שמנת חמוצה או רוטב פירות", "note": "להגשה", "raw": "שמנת חמוצה או רוטב פירות להגשה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבלילה והחביתיות", "items": [
+      { "text": "שופכים קמח לקערת המערבל, עושים גומה וטורפים פנימה ביצים, חלב, סוכר, חמאה, וניל ומלח.", "timerMin": null },
+      { "text": "מגבירים מהירות וטורפים כדקה, עד לבלילה חלקה. אם נשארו גושים, מסננים.", "timerMin": 1 },
+      { "text": "לפני הטיגון מוסיפים את מי הסודה לדילול הבלילה.", "timerMin": null },
+      { "text": "משמנים מחבת בשכבה דקיקה של חמאה ומטגנים את החביתיות, זו אחר זו.", "timerMin": null },
+      { "text": "מניחים את החביתיות על צלחת הפוכה, כדי להקל על ההפרדה ביניהן.", "timerMin": null }
+    ] },
+    { "group": "המלית והאפייה", "items": [
+      { "text": "מקציפים את החלבונים.", "timerMin": null },
+      { "text": "מערבבים את שאר חומרי המלית לבלילה אחידה ומקפלים פנימה את הקצף.", "timerMin": null },
+      { "text": "מזלפים פס מהמלית לאורך כל חביתית ומקפלים כמו סיגריה.", "timerMin": null },
+      { "text": "מניחים בגסטרונום משומן ומברישים מעל חמאה מומסת.", "timerMin": null },
+      { "text": "אופים ב-180 מעלות כ-15 דקות, עד שהגבינה חמה והחביתיות משחימות מעט.", "timerMin": 15 },
+      { "text": "מפזרים אבקת סוכר ומגישים עם שמנת חמוצה או רוטב פירות.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "בגרסה אחרת של הבלילה: 5 ביצים, 8 כפות שמן, 4 כוסות מים, חצי כוס סוכר, קמצוץ מלח ו-500 גרם קמח."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Rolled baked cheese blintzes in a baking dish, golden and lightly browned, dusted with powdered sugar, served with a dollop of sour cream",
+  "alt": "חביתיות בלינצס מגולגלות במלית גבינה, מוזהבות ומאובקות באבקת סוכר, עם שמנת חמוצה",
+  "originals": [{ "file": "בלינצס-ביתיות גבינה.doc", "driveId": "1wL2q1sFhLK-BlvW4hpkghUG5R909XS6Z" }]
+}

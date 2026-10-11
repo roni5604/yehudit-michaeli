@@ -1,0 +1,90 @@
+{
+  "slug": "organization-dinner-he-en-2005-05",
+  "title": "ארוחת ערב לאירוע ארגוני · מאי 2005",
+  "titleEn": "Organisation dinner · May 2005",
+  "date": "2005-05",
+  "season": "spring",
+  "occasion": "אירוע ארגוני",
+  "kind": "event",
+  "language": "he-en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "כבד אווז חם",
+          "nameEn": "Foie gras – goose liver",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס סלמון",
+          "nameEn": "Gravlax – pickled salmon",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגוון ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "nameEn": "Boeuf Bourguignon – beef in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "שוק אווז ברוטב דבש ושבעת התבלינים",
+          "nameEn": "Goose leg confit with honey & spices",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס ממולא בתרד וצנוברים",
+          "nameEn": "Boneless gilthead bream stuffed with spinach",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות – צמחוני",
+          "nameEn": "Gnocchi with vegetables",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "מוס שוקולד",
+          "nameEn": "Chocolate mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "nameEn": "Tarte Tatin",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט חגיגי עברי -אנגלי.doc",
+      "driveId": "1x1NLhwiGWkBez17dimZMYhuAQIrSBZjz"
+    }
+  ]
+}

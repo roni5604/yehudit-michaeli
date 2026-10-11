@@ -1,0 +1,217 @@
+{
+ "slug": "osobuko-egel-gremolata-tapuzim",
+ "title": "אוסו-בוקו עם גרמולטה תפוזים",
+ "titleEn": "Veal Osso Buco with Orange Gremolata",
+ "description": "שוקי עגל בצלייה איטית ברוטב יין לבן, עגבניות וציר, ומעליהם גרמולטה של קליפת תפוז ופטרוזיליה. קלאסיקה איטלקית שמוגשת עם ריזוטו.",
+ "category": "meat",
+ "subcategory": null,
+ "cuisine": "italian",
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "קלאסיקה איטלקית",
+  "אירוח",
+  "מנת מסעדה"
+ ],
+ "servings": 6,
+ "yield": null,
+ "pan": "קדרה שמתאימה לתנור",
+ "prepMin": 30,
+ "cookMin": 135,
+ "totalMin": 180,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "שמן זית",
+     "note": null,
+     "raw": "½ כוס שמן זית"
+    },
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "פרוסות שוק עגל (אוסו-בוקו)",
+     "note": "עבות, עם העצם",
+     "raw": "6 פרוסות עבות של שוק עגל עם העצם"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "קמח",
+     "note": null,
+     "raw": "1 כוס קמח"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "שמן זית",
+     "note": null,
+     "raw": "½ כוס שמן זית נוסף"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "בצל",
+     "note": "קצוץ",
+     "raw": "1 בצל קצוץ"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "גזר",
+     "note": "קצוץ",
+     "raw": "1 גזר קצוץ"
+    },
+    {
+     "qty": 0.5,
+     "unit": null,
+     "item": "שורש סלרי",
+     "note": "קצוץ",
+     "raw": "½ ראש שורש סלרי קצוץ"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "שום כתוש",
+     "note": null,
+     "raw": "1 כף שום כתוש"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "תפוז",
+     "note": "לגירוד הקליפה",
+     "raw": "1 תפוז לגירוד הקליפה"
+    },
+    {
+     "qty": 1.5,
+     "unit": "כוסות",
+     "item": "יין לבן",
+     "note": null,
+     "raw": "1½ כוסות יין לבן"
+    },
+    {
+     "qty": 2.5,
+     "unit": "כוסות",
+     "item": "ציר עגל",
+     "note": null,
+     "raw": "2½ כוסות ציר עגל"
+    },
+    {
+     "qty": 1.5,
+     "unit": "כוסות",
+     "item": "עגבניות טריות מרוסקות",
+     "note": null,
+     "raw": "1½ כוסות עגבניות טריות מרוסקות"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "עלי דפנה",
+     "note": null,
+     "raw": "2 עלי דפנה"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "1 צרור פטרוזיליה קצוצה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל",
+     "note": null,
+     "raw": "מלח ופלפל לפי הטעם"
+    }
+   ]
+  },
+  {
+   "group": "לגרמולטה",
+   "items": [
+    {
+     "qty": null,
+     "unit": null,
+     "item": "קליפת תפוז מגוררת ופטרוזיליה",
+     "note": "קצוצה דק",
+     "raw": "קליפת תפוז מגוררת ופטרוזיליה קצוצה דק"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "השחמה",
+   "items": [
+    {
+     "text": "מחממים את השמן במחבת כבדה וגדולה. מגלגלים את הבשר בקמח ומנערים עודפים.",
+     "timerMin": null
+    },
+    {
+     "text": "משחימים את הפרוסות מכל הצדדים ומעבירים לקדרה שמתאימה לתנור.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הרוטב",
+   "items": [
+    {
+     "text": "מוסיפים למחבת עוד שמן זית ואת הירקות הקצוצים ומטגנים על אש נמוכה 5–8 דקות.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את השום ומגררים פנימה את החלק הצהוב של קליפת התפוז. מערבבים ומעבירים את הירקות לקדרה, מעל הבשר.",
+     "timerMin": null
+    },
+    {
+     "text": "יוצקים למחבת את היין, הציר, העגבניות, עלי הדפנה והפטרוזיליה. מבשלים 15 דקות ומתבלים במעט מלח ופלפל.",
+     "timerMin": 15
+    }
+   ]
+  },
+  {
+   "group": "אפייה והגשה",
+   "items": [
+    {
+     "text": "יוצקים את הרוטב לקדרה.",
+     "timerMin": null
+    },
+    {
+     "text": "מכסים ואופים שעתיים ב-180 מעלות.",
+     "timerMin": 120
+    },
+    {
+     "text": "מגישים חם עם ריזוטו או אורז לבן.",
+     "timerMin": null
+    },
+    {
+     "text": "מפזרים על כל מנה, רגע לפני ההגשה, תערובת של קליפת תפוז מגוררת ופטרוזיליה קצוצה דק.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "chef",
+  "credit": "פול מינילו",
+  "rewritten": true
+ },
+ "imagePrompt": "Thick veal shank slices on the bone in a rich tomato wine sauce with vegetables, topped with a bright gremolata of orange zest and parsley, beside white risotto",
+ "alt": "פרוסות שוק עגל ברוטב עגבניות ויין עם גרמולטה של תפוז ופטרוזיליה ולצדן ריזוטו",
+ "originals": [
+  {
+   "file": "אוסובוקו עגל עם גרמולדת תפוזים.doc",
+   "driveId": "1nF6aP6-oCcSHwkehGG0VKmlN2Wo9ifNd"
+  }
+ ]
+}

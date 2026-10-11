@@ -1,0 +1,54 @@
+{
+  "slug": "tuile",
+  "title": "טוויל",
+  "titleEn": "Tuile",
+  "description": "עלים דקים ופריכים מבלילת חלבונים, אבקת סוכר, קמח וחמאה, לקישוט קינוחים. אפשר לכתוב עליהם בקקאו או לגלגל אותם לצינורות.",
+  "category": "cookies",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קישוט לקינוחים", "קונדיטוריה", "קלאסיקה צרפתית"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית סיליקון",
+  "prepMin": 20,
+  "cookMin": 10,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 125, "unit": "גרם", "item": "אבקת סוכר", "note": "מנופה", "raw": "125 גרם אבקת סוכר מנופה" },
+      { "qty": 250, "unit": "גרם", "item": "חלבון", "note": null, "raw": "250 גרם חלבון" },
+      { "qty": 100, "unit": "גרם", "item": "קמח", "note": "מנופה", "raw": "100 גרם קמח מנופה" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": "מומסת", "raw": "50 גרם חמאה מומסת" },
+      { "qty": null, "unit": null, "item": "קקאו", "note": "מעט, לכתיבה וקישוט", "raw": "מעט קקאו לקישוט" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבלילה", "items": [
+      { "text": "מערבבים את כל החומרים היבשים, מוסיפים אליהם את החלבון וטורפים. אחר כך מוסיפים את החמאה המומסת.", "timerMin": null },
+      { "text": "מעבירים את המסה לבקבוק לחיץ ומשפריצים עיגולים על תבנית הסיליקון.", "timerMin": null },
+      { "text": "מורחים בעזרת כף לעלה אחיד.", "timerMin": null },
+      { "text": "אופים ב-180 מעלות עד להשחמה.", "timerMin": null }
+    ] },
+    { "group": "קישוט וכתיבה", "items": [
+      { "text": "ליצירת קישוט או כיתוב על הטוויל, מערבבים מעט מהמסה עם מעט קקאו עד שמתקבלת מסה אחידה וכהה.", "timerMin": null },
+      { "text": "בעזרת שק זילוף שמכינים מנייר אפייה כותבים על המסה הבהירה המרוחה, ואופים כרגיל.", "timerMin": null }
+    ] },
+    { "group": "טוויל בצורת צינור", "items": [
+      { "text": "מוציאים את הטוויל מהתנור ומגלגלים אותו בזריזות סביב מוט עץ.", "timerMin": null },
+      { "text": "בסוף הגלגול לוחצים קלות, כדי שהעלה לא יתפרק.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Thin crisp golden tuile rounds and a few rolled tuile tubes, some decorated with dark cocoa piped lines, arranged on a white plate",
+  "alt": "עלי טוויל זהובים ודקים וכמה צינורות מגולגלים, חלקם מעוטרים בקווי קקאו כהים, על צלחת לבנה",
+  "originals": [
+    { "file": "טוויל.doc", "driveId": "11UZCzTXe9xB8OaCbaZs8bvcl-j2FgZ2G" }
+  ]
+}

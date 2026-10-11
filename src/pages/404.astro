@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LogoScene from "../three/LogoScene.tsx";
+---
+<BaseLayout title="העמוד לא נמצא" description="העמוד לא נמצא." noindex>
+  <section class="container-narrow nf">
+    <p class="code latin">404</p>
+    <h1>אופס, המתכון הזה נשרף</h1>
+    <p class="lede">העמוד שחיפשתם לא נמצא. אולי נתחיל מחדש?</p>
+    <div class="acts"><a class="btn" href="/">לעמוד הבית</a><button type="button" class="btn btn-ghost" data-open-search>חיפוש מתכון</button><a class="btn btn-ghost" href="/recipes?surprise=1">הפתיעי אותי</a></div>
+    <LogoScene client:visible />
+  </section>
+</BaseLayout>
+<style>
+  .nf { text-align: center; padding-block: 50px; }
+  .code { font-size: clamp(4rem, 12vw, 8rem); color: var(--copper-text); margin: 0; line-height: 1; }
+  .nf h1 { font-size: var(--step-3); margin: 8px 0; }
+  .acts { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0 30px; }
+</style>

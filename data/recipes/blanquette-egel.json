@@ -1,0 +1,65 @@
+{
+  "slug": "blanquette-egel",
+  "title": "בלנקט עגל",
+  "titleEn": "Blanquette de Veau",
+  "description": "קוביות עגל מבושלות בציר ארומטי ומוגשות ברוטב שמנת לבן וקטיפתי על בסיס רו. מתכון מסעדה בכמויות גדולות, עם הסוד של קירור שליש מהנוזל לפני פתיחת הרו.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": ["קלאסיקה צרפתית", "מנת מסעדה", "בישול איטי"],
+  "servings": null,
+  "yield": "רוטב ל-4.5 ליטר נוזל",
+  "pan": "סיר גדול",
+  "prepMin": 40,
+  "cookMin": 120,
+  "totalMin": 180,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": "למנה", "items": [
+      { "qty": 250, "unit": "גרם", "item": "בשר עגל גולמי", "note": "שווה ל-180 גרם בשר מבושל", "raw": "250 גרם בשר עגל גולמי למנה (180 גרם מבושל), חתוך לקוביות" }
+    ] },
+    { "group": "לציר הבישול", "items": [
+      { "qty": null, "unit": null, "item": "מים", "note": null, "raw": "מים" },
+      { "qty": null, "unit": null, "item": "בוקה גרני", "note": null, "raw": "בוקה גרני" },
+      { "qty": null, "unit": null, "item": "פלפל לבן", "note": null, "raw": "פלפל לבן" },
+      { "qty": null, "unit": null, "item": "טימין", "note": null, "raw": "טימין" },
+      { "qty": null, "unit": null, "item": "עלי דפנה", "note": null, "raw": "עלי דפנה" },
+      { "qty": null, "unit": null, "item": "גרגרי פלפל שחור שלמים", "note": null, "raw": "גרגרי פלפל שחור שלמים" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "מעט", "raw": "מעט מלח" }
+    ] },
+    { "group": "לרוטב (ל-4.5 ליטר נוזל)", "items": [
+      { "qty": 350, "unit": "גרם", "item": "קמח", "note": null, "raw": "350 גרם קמח" },
+      { "qty": 540, "unit": "גרם", "item": "חמאה", "note": null, "raw": "540 גרם חמאה" },
+      { "qty": 0.5, "unit": "ליטר", "item": "שמנת", "note": "כדי שהרוטב לא יהיה כבד", "raw": "½ ליטר שמנת, כדי שהרוטב לא יהיה כבד" },
+      { "qty": 600, "unit": "מ״ל", "item": "שמנת", "note": "להשלמה", "raw": "600 מ״ל שמנת, להשלמה" },
+      { "qty": null, "unit": null, "item": "פלפל לבן", "note": "מעט", "raw": "מעט פלפל לבן" },
+      { "qty": null, "unit": null, "item": "אגוז מוסקט", "note": null, "raw": "אגוז מוסקט" }
+    ] }
+  ],
+  "steps": [
+    { "group": "בישול הבשר", "items": [
+      { "text": "מביאים לרתיחה מים עם בוקה גרני, פלפל לבן, טימין, עלי דפנה, גרגרי פלפל שחור ומעט מלח, ומבשלים כדי למצות טעמים, כך שהנוזל יהיה עשיר וחזק בטעמו.", "timerMin": null },
+      { "text": "מסננים בכף מחוררת את מרבית היקרות.", "timerMin": null },
+      { "text": "מכניסים את קוביות העגל ומבשלים עד שהסיבים נפתחים.", "timerMin": null },
+      { "text": "כשהבשר מבושל, מפרידים אותו מהנוזל. מכסים את קוביות העגל החמות בניילון נצמד, כדי שלא יתייבשו.", "timerMin": null },
+      { "text": "מסננים את הנוזל ומקררים כשליש ממנו, כדי לפתוח בו את הרו.", "timerMin": null }
+    ] },
+    { "group": "הרוטב", "items": [
+      { "text": "ממיסים את החמאה ומוסיפים קמח.", "timerMin": null },
+      { "text": "מחוץ לאש פותחים בשליש הנוזל המקורר, ואז מוסיפים את הנוזל החם.", "timerMin": null },
+      { "text": "מוסיפים חצי ליטר שמנת, מבשלים ומערבבים מדי פעם לפחות חצי שעה, כדי שטעם הקמח ייעלם.", "timerMin": 30 },
+      { "text": "מוסיפים מעט פלפל לבן ואגוז מוסקט, ומתקנים תיבול.", "timerMin": null },
+      { "text": "משלימים ב-600 מ״ל שמנת, ומאחדים עם קוביות העגל.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["חישוב מנה: 250 גרם בשר גולמי נותנים כ-180 גרם בשר מבושל."],
+  "story": null,
+  "source": { "type": "restaurant", "credit": null, "rewritten": false },
+  "imagePrompt": "Blanquette de veau: tender veal pieces in a creamy ivory sauce, served in a shallow bowl with a sprinkle of fresh herbs and steamed rice on the side",
+  "alt": "בלנקט עגל: קוביות עגל רכות ברוטב שמנת לבן וקטיפתי בקערה רדודה",
+  "originals": [{ "file": "בלנקט.doc", "driveId": "1_WrWp9ZVn33nSfBl09B3yKPqjpIuw6bX" }]
+}

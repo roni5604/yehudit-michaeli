@@ -1,0 +1,46 @@
+{
+  "slug": "bruschettot-basar-meushan-agvaniyot-mevushalot",
+  "title": "ברוסקטות בשר מעושן ועגבניות מיובשות",
+  "titleEn": "Smoked Meat and Sun-Dried Tomato Bruschetta",
+  "description": "פרוסות לחמניות שיפון פריכות בשמן זית, עם גליל של בשר מעושן דק סביב ענף עשבים ועגבנייה מיובשת. כ-20 ביסים לאירוח.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "פינגר פוד"],
+  "servings": null,
+  "yield": "כ-20 מנות אישיות",
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 10,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 4, "qtyMax": 5, "unit": null, "item": "לחמניות שיפון או קמח מלא", "note": null, "raw": "4-5 לחמניות שיפון או קמח מלא" },
+      { "qty": 0.25, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "¼ כוס שמן זית" },
+      { "qty": 200, "unit": "גרם", "item": "בשר מעושן", "note": "פרוס דק, בקר או הודו", "raw": "200 גרם בשר מעושן פרוס דק (בקר או הודו)" },
+      { "qty": null, "unit": null, "item": "עגבניות שרי מיובשות", "note": "משומרות בשמן זית", "raw": "עגבניות שרי מיובשות משומרות בשמן זית" },
+      { "qty": null, "unit": null, "item": "עלי פטרוזיליה או כוסברה", "note": null, "raw": "עלי פטרוזיליה או כוסברה" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח ופלפל שחור" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "פורסים את הלחמניות לפרוסות בעובי אחיד של כ-2 ס״מ. מורחים או מברישים על כל פרוסה מעט שמן זית.", "timerMin": null },
+      { "text": "מניחים על תבנית אפייה ואופים כמה דקות, עד שהפרוסות פריכות.", "timerMin": null },
+      { "text": "חותכים את פרוסות הבשר המעושן לגודל של פי שניים מקוטר הלחם.", "timerMin": null },
+      { "text": "מקפלים כל פרוסת בשר סביב ענף פטרוזיליה וחתיכת עגבניית שרי מיובשת.", "timerMin": null },
+      { "text": "מניחים את הבשר על הלחם ומקשטים בעוד עגבניות מיובשות או טריות. מתבלים במלח ובפלפל שחור.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Small open-faced canapés of crisp rye bread slices topped with folded smoked beef slices, sun-dried cherry tomatoes and fresh parsley leaves on a serving board",
+  "alt": "כריכוני לחם שיפון פריכים עם בשר מעושן מקופל, עגבניות מיובשות ופטרוזיליה",
+  "originals": [{ "file": "ברוסקטות.doc", "driveId": "16CjhSZY5VOfF_e16De_q2uO8HFtIsR0H" }]
+}

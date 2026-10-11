@@ -1,0 +1,132 @@
+{
+  "slug": "pashtidat-pasta-shalosh-gvinot",
+  "title": "פשטידת פסטה ושלוש גבינות",
+  "titleEn": "Pasta Bake with Three Cheeses",
+  "description": "פשטידת פסטה קצרה עם קוטג׳ ושלוש גבינות קשות, עם חלבונים מקצפים שמקלים את התערובת.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 6,
+  "yield": null,
+  "pan": "כלי פיירקס",
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 500,
+          "unit": "גרם",
+          "item": "פסטה קצרה",
+          "note": "פנה או שבלולים",
+          "raw": "500 גרם פסטה קצרה, פנה או שבלולים"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "קוטג׳",
+          "note": null,
+          "raw": "1 גביע קוטג׳"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": "מופרדות",
+          "raw": "2 ביצים, מופרדות"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "פרמזן מגורר",
+          "note": null,
+          "raw": "50 גרם פרמזן מגורר"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "קשקבל מגורר",
+          "note": null,
+          "raw": "50 גרם קשקבל מגורר"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "פקורינו מגורר",
+          "note": null,
+          "raw": "50 גרם פקורינו מגורר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עשבי תיבול טריים או זרעי קצח",
+          "note": "לא חובה",
+          "raw": "עשבי תיבול טריים או זרעי קצח, לא חובה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן",
+          "note": "לפיזור לקראת הסוף",
+          "raw": "פרמזן, לפיזור לקראת הסוף"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה, ובינתיים מערבבים בקערה את הגבינות המגוררות עם הקוטג׳ והחלמונים.",
+          "timerMin": null
+        },
+        {
+          "text": "מקציפים את שני החלבונים לקצף יציב אך לא יבש, ומקפלים לתערובת.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה ומוסיפים לקערה. אפשר להוסיף עשבים או זרעי קצח.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לכלי פיירקס משומן ואופים ב-200 מעלות.",
+          "timerMin": null
+        },
+        {
+          "text": "אחרי כ-10 דקות, כשהפשטידה מתחילה להזהיב, מכסים בנייר כסף ואופים עוד כ-10 דקות.",
+          "timerMin": 10
+        },
+        {
+          "text": "מסירים את הנייר, מפזרים פרמזן ואופים עוד 5 דקות.",
+          "timerMin": 5
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Baked pasta pie with a golden cheesy crust in a glass baking dish, a square portion cut out",
+  "alt": "פשטידת פסטה וגבינות עם קרום זהוב בכלי פיירקס, ריבוע אחד חתוך",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

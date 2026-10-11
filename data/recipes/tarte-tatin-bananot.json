@@ -1,0 +1,48 @@
+{
+  "slug": "tarte-tatin-bananot",
+  "title": "טארט טאטן של בננות בקרמל",
+  "titleEn": "Banana Tarte Tatin",
+  "description": "בננות חצויות על קרמל חמאה וסוכר חום, מכוסות בבצק שנאפה ותופח ונהפך על צלחת. קינוח חם ופשוט, שמוגש עם שמנת, קרם פרש או גלידה.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קינוח חם", "קלאסיקה צרפתית", "מהיר"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית עגולה חסינת אש בקוטר 22 ס״מ",
+  "prepMin": 15,
+  "cookMin": 30,
+  "totalMin": 50,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 80, "unit": "גרם", "item": "חמאה", "note": null, "raw": "80 גרם חמאה" },
+      { "qty": 0.333, "unit": "כוס", "item": "סוכר חום", "note": null, "raw": "⅓ כוס סוכר חום" },
+      { "qty": 1, "unit": "כף", "item": "שמנת מתוקה", "note": null, "raw": "1 כף שמנת מתוקה" },
+      { "qty": 3, "unit": null, "item": "בננות", "note": "חצויות לאורך", "raw": "3 בננות חצויות לאורך" },
+      { "qty": 1, "unit": null, "item": "בצק עלים מוכן או בצק פריך", "note": "מרודד לקוטר 24 ס״מ", "raw": "בצק עלים מוכן או בצק פריך מרודד לקוטר 24 ס״מ" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "שמים את החמאה, הסוכר והשמנת בתבנית עגולה חסינת אש בקוטר 22 ס״מ.", "timerMin": null },
+      { "text": "מחממים על להבה בינונית ובוחשים עד ליצירת קרמל מבעבע.", "timerMin": null },
+      { "text": "מורידים מהכיריים ומניחים בתוך הקרמל את הבננות החצויות, כשצידן החתוך כלפי מטה.", "timerMin": null },
+      { "text": "מניחים מעל את עיגול הבצק ודוחסים את שוליו לתוך התבנית.", "timerMin": null },
+      { "text": "אופים 20 דקות, עד שהבצק מזהיב ותופח.", "timerMin": 20 },
+      { "text": "משהים 5 דקות והופכים על צלחת הגשה.", "timerMin": 5 }
+    ] }
+  ],
+  "tips": ["מגישים עם שמנת סמיכה, קרם פרש או גלידה."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A round banana tarte tatin turned out onto a plate, golden puff pastry base on the bottom now on top of glossy caramelised banana halves, with a spoon of crème fraîche on the side",
+  "alt": "טארט טאטן עגול עם בננות מקורמלות מבריקות על בסיס בצק זהוב, עם כף שמנת סמיכה לצידו",
+  "originals": [
+    { "file": "טארט טאטן של בננות בקרמל.doc", "driveId": "1gmu8yluInVSBnpIqY9PmoXHPeR88FOAb" }
+  ]
+}

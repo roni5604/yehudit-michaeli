@@ -1,0 +1,47 @@
+{
+  "slug": "tapioca-krem-kokos",
+  "title": "מעדן קרם טפיוקה עם קרם קוקוס ופירות",
+  "titleEn": "Tapioca Coconut Cream Dessert Cups",
+  "description": "מעדן טפיוקה קר בצנצנות או בכוסות, מבושל עם קרם קוקוס, ומוגש עם פירות טריים או גרנולה. מספיק לכ-15 כוסות בינוניות.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["קינוח קר", "אירוח", "אפשר להכין מראש"],
+  "servings": 15,
+  "yield": "כ-15 כוסות בינוניות",
+  "pan": "סיר גדול",
+  "prepMin": 10,
+  "cookMin": 25,
+  "totalMin": 145,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "כוס", "item": "גרגירי טפיוקה", "note": null, "raw": "1 כוס גרגירי טפיוקה" },
+      { "qty": 2, "unit": "ליטר", "item": "מים", "note": "8 כוסות מידה", "raw": "2 ליטר מים (8 כוסות מידה)" },
+      { "qty": 0.75, "unit": "כוס", "item": "סוכר או תחליף סוכר", "note": null, "raw": "¾ כוס סוכר או תחליף סוכר" },
+      { "qty": 1, "unit": null, "item": "פחית קרם קוקוס", "note": null, "raw": "1 פחית קרם קוקוס" },
+      { "qty": null, "unit": null, "item": "פירות טריים או גרנולה", "note": "לקישוט", "raw": "פירות טריים או גרנולה לקישוט" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "בסיר גדול מניחים את גרגירי הטפיוקה והמים ומבשלים על להבה בינונית כ-10 דקות, עד לרתיחה. מקפידים לערבב.", "timerMin": 10 },
+      { "text": "מנמיכים את הלהבה ומבשלים עוד כ-10 דקות. בשלב הזה הגרגירים מתנפחים ונשארת בהם נקודה קטנה במרכז.", "timerMin": 10 },
+      { "text": "מוסיפים את הסוכר וקרם הקוקוס, מערבבים ומבשלים עוד כמה דקות.", "timerMin": null },
+      { "text": "יוצקים חם לצנצנות, עדיף זכוכית או פלסטיק קשיח, ומכסים במכסה או בניילון נצמד כדי למנוע קרום.", "timerMin": null },
+      { "text": "מעבירים לקירור ומגישים קר עם פירות או גרנולה מעל.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["אפשר להפחית את כמות הטפיוקה והמים ולהישאר באותה כמות קרם קוקוס, ואז מתקבלים מעדנים עשירים יותר."],
+  "story": null,
+  "source": { "type": "chef", "credit": "רון יוחננוף", "rewritten": true },
+  "imagePrompt": "Small glass jars of creamy white tapioca coconut pudding topped with fresh diced fruit and granola",
+  "alt": "צנצנות זכוכית קטנות עם מעדן טפיוקה וקוקוס לבן וקרמי, עם פירות טריים וגרנולה",
+  "originals": [
+    { "file": "טפיוקה.doc", "driveId": "156I6wlTwfKVBanHy5JmMGFtMgmg-u9qK" }
+  ]
+}

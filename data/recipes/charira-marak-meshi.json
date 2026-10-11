@@ -1,0 +1,191 @@
+{
+ "slug": "charira-marak-meshi",
+ "title": "חרירה, מרק המשי",
+ "titleEn": "Moroccan Harira Soup",
+ "description": "מרק מרוקאי עשיר ומשביע עם בשר, חומוס, עדשים, עשבי תיבול ולימון, שמסמיכים בקמח ומוסיפים אטריות דקות.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "moroccan",
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "מרוקאי",
+  "חורף"
+ ],
+ "servings": 12,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 40,
+ "cookMin": 215,
+ "totalMin": 255,
+ "timesEstimated": true,
+ "difficulty": 3,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": "ק״ג",
+     "item": "קוביות בשר שמן",
+     "note": null,
+     "raw": "1 ק״ג קוביות בשר שמן"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "עצמות מח",
+     "note": null,
+     "raw": "3–4 עצמות מח",
+     "qtyMax": 4
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "עדשים חומות",
+     "note": null,
+     "raw": "1 כוס עדשים חומות"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "חומוס",
+     "note": "שהושרה בלילה וקולף",
+     "raw": "1 כוס חומוס שהושרה בלילה וקולף"
+    },
+    {
+     "qty": 2,
+     "unit": "כוסות",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "2 כוסות רסק עגבניות"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "קמח",
+     "note": null,
+     "raw": "½ כוס קמח"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "מיץ לימון",
+     "note": null,
+     "raw": "½ כוס מיץ לימון טרי"
+    },
+    {
+     "qty": 4,
+     "unit": "ליטר",
+     "item": "מים",
+     "note": null,
+     "raw": "4–5 ליטר מים",
+     "qtyMax": 5
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "אטריות דקות",
+     "note": null,
+     "raw": "1 כוס אטריות דקות"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "ראש סלרי",
+     "note": "קצוץ דק",
+     "raw": "1 ראש סלרי שלם קצוץ דק"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "פטרוזיליה",
+     "note": null,
+     "raw": "1 צרור פטרוזיליה"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "כוסברה",
+     "note": null,
+     "raw": "1 צרור כוסברה"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים דק",
+     "raw": "3 בצלים קצוצים דק"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פלפל שחור ומלח",
+     "note": null,
+     "raw": "פלפל שחור ומלח"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כפית",
+     "item": "כורכום",
+     "note": null,
+     "raw": "½ כפית כורכום"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "משרים את החומוס לילה ומקלפים אותו למחרת. קוצצים דק את הסלרי והבצל.",
+     "timerMin": null
+    },
+    {
+     "text": "מכניסים לסיר גדול את הבשר, העצמות, החומוס, העדשים והמים.",
+     "timerMin": null
+    },
+    {
+     "text": "מאדים במחבת את הבצל, הסלרי והעגבניות ומעבירים לסיר.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים הכול יחד שעתיים.",
+     "timerMin": 120
+    },
+    {
+     "text": "ממיסים את הקמח בכוס מים ומוסיפים למרק. מתבלים במלח, פלפל וכורכום, מוסיפים אטריות, פטרוזיליה וכוסברה וממשיכים לבשל.",
+     "timerMin": null
+    },
+    {
+     "text": "אחרי עוד 30 דקות מוסיפים את הלימון ומבשלים כ-15 דקות, תוך בחישה תכופה כי הקמח נוטה להידבק.",
+     "timerMin": 45
+    },
+    {
+     "text": "המרק יוצא עשיר וסמיך. אפשר לדלל במים רותחים ולתקן תיבול.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "המתכון מבוסס על ספר הבישול המרוקני של רבקה לוי מלול."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Rich Moroccan harira soup with chickpeas, lentils and thin noodles in a red-orange broth, with fresh coriander and a lemon wedge",
+ "alt": "מרק חרירה מרוקאי עשיר בחומוס, עדשים ואטריות דקות, עם כוסברה ולימון",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

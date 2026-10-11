@@ -1,0 +1,149 @@
+{
+  "slug": "salat-basar",
+  "title": "סלט בשר משאריות",
+  "titleEn": "Leftover Meat Salad",
+  "description": "סלט שימושי מבשר או עוף מבושל שנשאר, עם סלק, גזר מגורד, מלפפון חמוץ ואפונה, ברוטב מיונית וחרדל על עלי חסה.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "שאריות",
+    "מנה ראשונה"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 0,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בשר מבושל או עוף",
+          "note": "שאריות, חתוך לקוביות קטנות",
+          "raw": "בשר מבושל או עוף, שאריות, חתוך לקוביות קטנות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "סלק מבושל",
+          "note": "פרוס דק דק",
+          "raw": "סלק מבושל, פרוס דק דק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גזר חי",
+          "note": "מגורד",
+          "raw": "גזר חי, מגורד"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "מלפפון חמוץ",
+          "note": "חתוך",
+          "raw": "1 מלפפון חמוץ, חתוך"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "זיתים שחורים או ירוקים",
+          "note": "ללא חרצנים",
+          "raw": "זיתים שחורים או ירוקים, ללא חרצנים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "קופסת אפונה ירוקה",
+          "note": "ללא נוזלים",
+          "raw": "1 קופסת אפונה ירוקה, ללא נוזלים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "מיונית",
+          "note": null,
+          "raw": "2 כפות מיונית"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "חרדל",
+          "note": null,
+          "raw": "1 כפית חרדל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כפית",
+          "item": "סוכר",
+          "note": null,
+          "raw": "¼ כפית סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עלי חסה",
+          "note": "נקיים",
+          "raw": "עלי חסה, נקיים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "זית",
+          "note": "לקישוט",
+          "raw": "זית, לקישוט"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את הבשר או העוף עם הסלק, הגזר, המלפפון החמוץ, הזיתים והאפונה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים מיונית, חרדל, מלח, פלפל ורבע כפית סוכר ומערבבים היטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים על עלי חסה נקיים, עם זית למעלה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Diced cooked meat salad with beets, grated carrot, peas, pickles and olives in a light mayonnaise dressing, served on crisp lettuce leaves",
+  "alt": "סלט בשר קצוץ עם סלק, גזר, אפונה ומלפפון חמוץ על עלי חסה עם זית למעלה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

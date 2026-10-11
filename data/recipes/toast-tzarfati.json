@@ -1,0 +1,50 @@
+{
+  "slug": "toast-tzarfati",
+  "title": "טוסט צרפתי",
+  "titleEn": "French Toast",
+  "description": "פרוסות חלה עבות שטובלים בביצים, שמנת וקינמון, מטגנים בחמאה עד הזהבה ומפזרים עליהן אבקת סוכר. כמות גדולה לארוחת בוקר לאורחים.",
+  "category": "breakfast",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["ארוחת בוקר", "אירוח", "חלה"],
+  "servings": null,
+  "yield": "32 פרוסות",
+  "pan": "מחבת",
+  "prepMin": 15,
+  "cookMin": 45,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 32, "unit": "פרוסות", "item": "חלה", "note": "קצת עבות", "raw": "32 פרוסות חלה קצת עבות" },
+      { "qty": 15, "unit": null, "item": "ביצים", "note": null, "raw": "15 ביצים" },
+      { "qty": 350, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "350 מ״ל שמנת מתוקה" },
+      { "qty": null, "unit": null, "item": "קינמון", "note": "קמצוץ", "raw": "קמצוץ קינמון" },
+      { "qty": 300, "unit": "גרם", "item": "חמאה", "note": "לטיגון, כ-300 גרם", "raw": "חמאה לטיגון (כ-300 גרם)" },
+      { "qty": 4, "unit": "כפות", "item": "שמן תירס", "note": null, "raw": "4 כפות שמן תירס" },
+      { "qty": null, "unit": null, "item": "אבקת סוכר", "note": null, "raw": "אבקת סוכר" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "בקערה גדולה מקציפים ביצים עם שמנת וקינמון.", "timerMin": null },
+      { "text": "ממיסים 50 גרם מהחמאה עם ½ כף מהשמן במחבת על אש בינונית.", "timerMin": null },
+      { "text": "טובלים 4 פרוסות לחם בתערובת הביצים ומטגנים 2 עד 4 דקות, עד שהן מזהיבות משני הצדדים.", "timerMin": 2 },
+      { "text": "חוזרים על הפעולה עם שאר החמאה והלחם.", "timerMin": null },
+      { "text": "שומרים את הטוסט המוכן בתנור שחומם קלות.", "timerMin": null },
+      { "text": "בעת ההגשה מפזרים אבקת סוכר מעל.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A stack of golden-brown French toast made from thick challah slices, dusted with powdered sugar, on a white plate",
+  "alt": "ערימת טוסט צרפתי זהוב מפרוסות חלה עבות, מאובקות באבקת סוכר, בצלחת לבנה",
+  "originals": [
+    { "file": "טוסט צרפתי.doc", "driveId": "1sQ8aZTT5kFFKMTL-8aWjeHwMNr1OC5IF" }
+  ]
+}

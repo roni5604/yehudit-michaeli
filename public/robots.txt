@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /favorites
+Disallow: /shopping-list
+
+Sitemap: https://yehudit-michaeli.vercel.app/sitemap-index.xml

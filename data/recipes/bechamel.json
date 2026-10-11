@@ -1,0 +1,79 @@
+{
+  "slug": "bechamel",
+  "title": "בשמל, בסיס לרוטבים",
+  "titleEn": "Béchamel Sauce and Its Variations",
+  "description": "רוטב הבשמל הצרפתי הקלאסי, חלב מתובל ברביכה בלונדינית, ומהבסיס הזה יוצאים רוטב שמנת, רוטב גבינה ורוטב מורניי.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קלאסיקה צרפתית", "רוטב בסיס", "מנת מסעדה"],
+  "servings": null,
+  "yield": "כ-2 ליטר רוטב",
+  "pan": "סיר עמוק",
+  "prepMin": 15,
+  "cookMin": 55,
+  "totalMin": 70,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": null, "item": "בצל ״פיקה״", "note": "בצל קלוף שאליו מצמידים 2 עלי דפנה באמצעות 2 שיני ציפורן", "raw": "1 בצל ״פיקה״ (בצל קלוף שאליו מצמידים 2 עלי דפנה באמצעות 2 שיני ציפורן)" },
+      { "qty": 2, "unit": "ליטר", "item": "חלב", "note": null, "raw": "2 ליטר חלב" },
+      { "qty": 125, "unit": "גרם", "item": "קמח", "note": null, "raw": "125 גרם קמח" },
+      { "qty": 125, "unit": "מ״ל", "item": "חמאה מזוקקת", "note": null, "raw": "125 מ״ל חמאה מזוקקת" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "לפי הטעם", "raw": "מלח לפי הטעם" },
+      { "qty": null, "unit": null, "item": "פלפל", "note": "לפי הטעם", "raw": "פלפל לפי הטעם" },
+      { "qty": null, "unit": null, "item": "אגוז מוסקט", "note": "לפי הטעם", "raw": "אגוז מוסקט לפי הטעם" }
+    ] },
+    { "group": "לרוטב שמנת", "items": [
+      { "qty": 250, "qtyMax": 350, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "250 עד 350 מ״ל שמנת מתוקה" },
+      { "qty": null, "unit": null, "item": "מיץ לימון", "note": "כמה טיפות", "raw": "כמה טיפות מיץ לימון" }
+    ] },
+    { "group": "לרוטב גבינה", "items": [
+      { "qty": 250, "unit": "גרם", "item": "גבינה", "note": "פרמזן, צ׳דר או עיזים", "raw": "250 גרם גבינה (פרמזן, צ׳דר או עיזים)" },
+      { "qty": 0.5, "unit": "כפית", "item": "רוטב ווסטרשייר", "note": null, "raw": "½ כפית רוטב ווסטרשייר" },
+      { "qty": 1, "unit": "כפית", "item": "אבקת חרדל", "note": null, "raw": "1 כפית אבקת חרדל" }
+    ] },
+    { "group": "לרוטב מורניי", "items": [
+      { "qty": 120, "unit": "גרם", "item": "גבינת גרויר", "note": null, "raw": "120 גרם גבינת גרויר" },
+      { "qty": 30, "unit": "גרם", "item": "גבינת פרמזן", "note": null, "raw": "30 גרם גבינת פרמזן" },
+      { "qty": null, "unit": null, "item": "שמנת מתוקה", "note": "לדילול לסמיכות הרצויה", "raw": "שמנת מתוקה נוספת לדילול" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": null, "raw": "50 גרם חמאה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבשמל", "items": [
+      { "text": "מבשלים על אש קטנה את החלב עם הבצל המתובל כ-20 דקות.", "timerMin": 20 },
+      { "text": "בסיר עמוק יוצרים רביכה בלונדינית מהחמאה והקמח.", "timerMin": null },
+      { "text": "מוציאים את הבצל מהחלב ומטפטפים את החלב לתוך הרביכה בבחישה מתמדת, עד ליצירת רוטב חלק.", "timerMin": null },
+      { "text": "מנמיכים את האש ומתבלים במלח, בפלפל ובאגוז מוסקט.", "timerMin": null },
+      { "text": "ממשיכים לבעבע על להבה קטנטנה כ-30 דקות.", "timerMin": 30 },
+      { "text": "מסננים ומטפטפים מעט חמאה מומסת מעל, כדי למנוע יצירת קרום.", "timerMin": null },
+      { "text": "שומרים בחום החדר לשימוש מיידי, או מצננים מעל מי קרח לאחסון.", "timerMin": null }
+    ] },
+    { "group": "רוטב שמנת", "items": [
+      { "text": "מוסיפים לבשמל את השמנת המתוקה ואת טיפות מיץ הלימון.", "timerMin": null }
+    ] },
+    { "group": "רוטב גבינה", "items": [
+      { "text": "מוסיפים לבשמל את הגבינה, את רוטב הווסטרשייר ואת אבקת החרדל.", "timerMin": null }
+    ] },
+    { "group": "רוטב מורניי", "items": [
+      { "text": "מוסיפים לבשמל את הגרויר ואת הפרמזן, ומדללים בשמנת מתוקה נוספת לסמיכות הרצויה.", "timerMin": null },
+      { "text": "מרחיקים מהלהבה וטורפים פנימה את החמאה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "הבשמל הוא בסיס לרטבים רבים, ולכן כדאי להכין כמות גדולה ולהפיק ממנה כמה רטבים."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A copper saucepan of smooth, pale ivory béchamel sauce with a whisk resting beside it, a dusting of freshly grated nutmeg on top",
+  "alt": "סיר נחושת עם רוטב בשמל חלק בצבע שנהב, מסביבו אגוז מוסקט מגורר",
+  "originals": [
+    { "file": "בשמל כבסיס לרוטבים.doc", "driveId": "1PQIYimMAQU6nvjV6jHt7LQgjpsw7yBZ8" },
+    { "file": "בשמל כבסיס לרוטבים.doc", "driveId": "1kD3HY94PO0noFx-0Bfu4prFtb5fkdBN0" }
+  ]
+}

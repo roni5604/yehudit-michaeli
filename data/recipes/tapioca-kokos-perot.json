@@ -1,0 +1,50 @@
+{
+  "slug": "tapioca-kokos-perot",
+  "title": "מעדן טפיוקה עם קוקוס ופירות",
+  "titleEn": "Tapioca Pudding with Coconut and Fruit",
+  "description": "גרגירי טפיוקה מבושלים עם סוכר ותבלינים ארומטיים, מצוננים ומעורבים עם שמנת קוקוס ופירות טרופיים. קינוח קר, קליל וטבעוני.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["קינוח קר", "קוקוס", "פירות"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 25,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 6, "unit": "כוסות", "item": "מים", "note": null, "raw": "6 כוסות מים" },
+      { "qty": 1, "unit": "כוס", "item": "גרגרי טפיוקה", "note": null, "raw": "1 כוס גרגרי טפיוקה" },
+      { "qty": 1, "unit": "כוס", "item": "סוכר", "note": null, "raw": "1 כוס סוכר" },
+      { "qty": 1, "unit": "חופן", "item": "עשבי תיבול ותבלינים", "note": "הל, לואיזה, אניס", "raw": "חופן עשבי תיבול ותבלינים (הל, לואיזה, אניס)" },
+      { "qty": 1, "unit": null, "item": "פחית שמנת קוקוס", "note": null, "raw": "1 פחית שמנת קוקוס" },
+      { "qty": 800, "unit": "גרם", "item": "פרי", "note": "חתוך או מרוסק: מנגו, פסיפלורה, אננס, קיווי", "raw": "כ-800 גרם פרי חתוך או מרוסק (מנגו, פסיפלורה, אננס, קיווי)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מביאים מים לרתיחה.", "timerMin": null },
+      { "text": "מוסיפים את גרגירי הטפיוקה ומבשלים כ-20 דקות בבחישה מתמדת.", "timerMin": 20 },
+      { "text": "מוסיפים סוכר ועשבי תיבול ומבשלים עוד כ-5 דקות, עד שהסוכר נמס. מצננים.", "timerMin": 5 },
+      { "text": "לקראת ההגשה מוסיפים את שמנת הקוקוס והפירות, בוחשים היטב ומגישים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "בגרסה אחרת: מבשלים כוס טפיוקה עם 3 כוסות מים על אש בינונית כ-20 דקות, מוסיפים 1½ כוסות סוכר ומבשלים עד שהסוכר נמס והנוזלים נספגים, ומצננים. מערבבים עם 2 פחיות חלב קוקוס, 10 פסיפלורות, 200 גרם אננס בקוביות של 1 ס״מ ו-200 גרם מנגו מרוסק בבלנדר. הטפיוקה המבושלת נשמרת עד שבוע במקרר."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Glass cups of creamy tapioca pudding with coconut cream, topped with diced mango, pineapple, kiwi and passion fruit pulp",
+  "alt": "כוסות זכוכית עם מעדן טפיוקה וקרם קוקוס, מעליו מנגו, אננס, קיווי ופסיפלורה",
+  "originals": [
+    { "file": "טפיוקה.doc", "driveId": "156I6wlTwfKVBanHy5JmMGFtMgmg-u9qK" },
+    { "file": "טפיוקה 2.doc", "driveId": "15XiZ4Sta4b8QpoBKNkOsNnzMpTFKT2Hh" }
+  ]
+}

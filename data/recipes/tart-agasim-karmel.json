@@ -1,0 +1,55 @@
+{
+  "slug": "tart-agasim-karmel",
+  "title": "טארט אגסים בקרמל",
+  "titleEn": "Upside-Down Caramel Pear Tart",
+  "description": "פלחי אגס מסודרים על קרמל בתבנית, מכוסים בבלילת חמאה וביצים בניחוח לימון ונאפים, והעוגה הופכת על צלחת הגשה עם אגסים מזוהבים למעלה.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["עוגה הפוכה", "אגסים", "קלאסיקה צרפתית"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית בקוטר 26 ס״מ",
+  "prepMin": 30,
+  "cookMin": 25,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לקרמל", "items": [
+      { "qty": 80, "unit": "גרם", "item": "סוכר", "note": null, "raw": "80 גרם סוכר" },
+      { "qty": 2, "unit": "כפות", "item": "מים", "note": null, "raw": "2 כפות מים" }
+    ] },
+    { "group": "לאגסים", "items": [
+      { "qty": null, "unit": null, "item": "אגסים", "note": "פלחים, חתוכים לשמיניות", "raw": "פלחי אגסים, חתוכים לשמיניות" }
+    ] },
+    { "group": "לבצק", "items": [
+      { "qty": 100, "unit": "גרם", "item": "חמאה", "note": null, "raw": "100 גרם חמאה" },
+      { "qty": 100, "unit": "גרם", "item": "סוכר", "note": null, "raw": "100 גרם סוכר" },
+      { "qty": null, "unit": null, "item": "גרידת לימון", "note": null, "raw": "גרידת לימון" },
+      { "qty": 100, "unit": "גרם", "item": "קמח", "note": null, "raw": "100 גרם קמח" },
+      { "qty": 1, "unit": "כפית", "item": "אבקת אפייה", "note": null, "raw": "1 כפית אבקת אפייה" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מכינים קרמל מהסוכר והמים ושופכים אותו לתבנית בקוטר 26 ס״מ.", "timerMin": null },
+      { "text": "מניחים מעל הקרמל פלחי אגסים בשתי שכבות צפופות, בצורה גיאומטרית נאה.", "timerMin": null },
+      { "text": "מכינים בלילה משאר החומרים (החמאה, הסוכר, גרידת הלימון, הקמח, אבקת האפייה והביצים) ויוצקים מעל האגסים.", "timerMin": null },
+      { "text": "אופים ב-180 מעלות במשך 15 דקות.", "timerMin": 15 },
+      { "text": "כשהטארט מוכן, מפרידים את הדפנות מהתבנית והופכים על צלחת הגשה נאה.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["רעיון לניסיון: לקפל לתוך הבלילה פרוסות שקדים, ואולי גם חתיכות קטנות של ג׳ינג׳ר מסוכר."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "An upside-down pear tart turned out onto a plate, the glossy caramelised pear wedges arranged in a tight geometric pattern on top of a golden cake",
+  "alt": "טארט אגסים הפוך עם פלחי אגס מקורמלים בסידור גאומטרי על עוגה מוזהבת, בצלחת הגשה",
+  "originals": [
+    { "file": "טארט אגסים.doc", "driveId": "1bRsZgbC88b49J8gK9HdIavAU9WZo8NFm" }
+  ]
+}

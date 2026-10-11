@@ -1,0 +1,165 @@
+{
+  "slug": "menu-group-deal-2004-11",
+  "title": "תפריט החורף · דיל לחבורות · נובמבר 2004",
+  "titleEn": "Winter menu with group offer · November 2004",
+  "date": "2004-11",
+  "season": "autumn",
+  "occasion": "הצעה לחבורות",
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": "הצעה לחבורות: שלוש מנות ראשונות בהגשה מרכזית לכולם + סלט; מנה עיקרית לבחירה אישית מהתפריט; שני קינוחים (קבועים מראש) לכולם; יין אדום ולבן, שתייה קלה ושתייה חמה ללא הגבלה. ניתן להכין עוגת יום הולדת כאחד הקינוחים.",
+  "sections": [
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "פארפה כבדים",
+          "desc": "מוגש עם בריוש וריבת סלרי",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סופלה של צדפות קוקי סאן-זאק",
+          "desc": "על סלט עלעלים",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סרדינים ממולאים",
+          "desc": "באגוזי קשיו ולימון כבוש",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי סלק",
+          "desc": "במילוי גבינת עיזים",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "עם פרחי מאכל וגבינת צאן",
+          "price": "35 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק היום",
+          "price": "35 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף ממולא באווז מעושן וגבינת אמנטל",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "ברוטב דבש ושבעת התבלינים",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "ברוטב פלפלת",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "שוקרוט",
+          "desc": "קדירת כרוב כבוש ובשרים מעושנים",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה",
+          "desc": "עם ירקות שורש",
+          "price": "95 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג",
+          "desc": "בשמנת וקוויאר סלמון",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס",
+          "desc": "ללא עצמות, במילוי עלי-תרד ובצל",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות – צמחוני",
+          "price": "70 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל וצ'יפס – לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "טארט טאטן",
+          "desc": "עוגת תפוחים חמה עם גלידת קינמון",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "גנאש שוקולד",
+          "desc": "עם קרוקנט אגוזים",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט לימונים",
+          "desc": "עם מרנג",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה בשלושה טעמים",
+          "desc": "במעטפת מרציפן",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מעדן טפיוקה, אננס וקוקוס",
+          "price": "32 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט דיל לחבורות נובמבר 2004.doc",
+      "driveId": "1l3jjgsyf1dEJdAqAn_EcbeWZ1KBo_4C4"
+    }
+  ]
+}

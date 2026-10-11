@@ -1,0 +1,169 @@
+{
+  "slug": "pasta-tuna-zeitim-tzlafim",
+  "title": "פסטה בטונה, זיתים וצלפים",
+  "titleEn": "Pasta with Tuna, Olives and Capers",
+  "description": "פסטה מהירה ברוטב טונה, זיתים שחורים וצלפים, עם יין לבן ועשבי תיבול טריים.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": 3,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 20,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 300,
+          "unit": "גרם",
+          "item": "פסטה יבשה",
+          "note": null,
+          "raw": "300 גרם פסטה יבשה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": 3,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קצוצות",
+          "raw": "3 שיני שום, קצוצות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "קצוץ",
+          "raw": "1 בצל, קצוץ"
+        },
+        {
+          "qty": 1,
+          "unit": "חופן",
+          "item": "פטרוזיליה",
+          "note": "קצוצה",
+          "raw": "1 חופן פטרוזיליה, קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "חופן",
+          "item": "בזיליקום",
+          "note": "קצוץ",
+          "raw": "1 חופן בזיליקום, קצוץ"
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "טונה",
+          "note": "במים או בשמן, מפוררת",
+          "raw": "1 קופסה טונה, במים או בשמן, מפוררת"
+        },
+        {
+          "qty": 1,
+          "unit": "חופן",
+          "item": "צלפים",
+          "note": "קצוצים",
+          "raw": "1 חופן צלפים, קצוצים"
+        },
+        {
+          "qty": 1,
+          "unit": "חופן",
+          "item": "זיתים שחורים",
+          "note": "מגולענים וקצוצים",
+          "raw": "1 חופן זיתים שחורים, מגולענים וקצוצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "יין לבן",
+          "note": null,
+          "raw": "יין לבן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור גרוס",
+          "note": null,
+          "raw": "פלפל שחור גרוס"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "טבסקו",
+          "note": "לחובבי החריף",
+          "raw": "טבסקו, לחובבי החריף"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן או גבינה מגוררת",
+          "note": "להגשה",
+          "raw": "פרמזן או גבינה מגוררת להגשה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה אל דנטה.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן זית במחבת גדולה ומטגנים את השום והבצל עד שקיפות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את העשבים, הטונה, הצלפים, הזיתים, מעט יין ופלפל, ומתבלים בטבסקו לפי הטעם.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הרוטב על אש קטנה זמן מה, כדי שהטעמים יתערבבו.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הפסטה המבושלת, מערבבים ומחממים עוד כמה דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים עם פרמזן מגורר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "הכמות מתאימה ל-2 עד 4 מנות, תלוי ברעב."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti tossed with flaked tuna, black olives, capers and fresh herbs in a wide white bowl, topped with grated Parmesan",
+  "alt": "פסטה עם טונה, זיתים שחורים וצלפים ועשבי תיבול, מסולסלת בקערה לבנה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

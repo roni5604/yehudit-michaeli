@@ -1,0 +1,36 @@
+---
+import CategoryArt from "./CategoryArt.astro";
+import { imageFor } from "../lib/data";
+import { catBySlug } from "../lib/site";
+interface Props {
+  slug: string;
+  category: string;
+  alt: string;
+  sizes?: string;
+  eager?: boolean;
+  badge?: boolean;
+  transitionName?: string;
+}
+const { slug, category, alt, sizes = "(max-width: 640px) 100vw, 400px", eager = false, badge = true, transitionName } = Astro.props;
+const img = imageFor(slug);
+const icon = catBySlug[category]?.icon ?? "plate";
+---
+{img ? (
+  <picture class="ri" style={img.placeholder ? `background-image:url(${img.placeholder})` : undefined} transition:name={transitionName}>
+    <source type="image/avif" srcset={`${img.src640} 640w, ${img.src1280} 1280w`} sizes={sizes} />
+    <img
+      src={img.src640} srcset={`${img.src640} 640w, ${img.src1280} 1280w`} sizes={sizes}
+      width={img.w} height={img.h} alt={alt}
+      loading={eager ? "eager" : "lazy"} decoding="async" fetchpriority={eager ? "high" : undefined}
+    />
+    {badge && <span class="ai-badge" title="תמונה להמחשה שנוצרה בבינה מלאכותית">AI · להמחשה</span>}
+  </picture>
+) : (
+  <span class="ri ri-art" transition:name={transitionName}>
+    <CategoryArt icon={icon} seed={slug} />
+  </span>
+)}
+<style>
+  .ri { position: relative; display: block; width: 100%; height: 100%; background-size: cover; background-position: center; }
+  .ri img { width: 100%; height: 100%; object-fit: cover; display: block; }
+</style>

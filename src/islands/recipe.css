@@ -1,0 +1,68 @@
+.ri-wrap { display: grid; grid-template-columns: minmax(280px, 380px) 1fr; gap: clamp(28px, 4vw, 64px); align-items: start; }
+.ri-h2 { font-size: var(--step-2); margin: 0 0 14px; }
+.ri-h3 { font-family: var(--font-body); font-size: 1rem; letter-spacing: .06em; color: var(--copper-text); margin: 18px 0 8px; font-weight: 800; }
+.ri-sticky { position: sticky; top: 96px; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 22px; max-height: calc(100dvh - 120px); overflow: auto; }
+.ri-controls { display: grid; gap: 12px; margin-bottom: 8px; }
+.ri-scaler { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.ri-scaler output { min-width: 84px; text-align: center; }
+.ri-mult { min-width: 52px; min-height: 40px; border-radius: 999px; border: 1.5px solid var(--line); background: var(--paper); color: var(--ink); font: inherit; font-weight: 700; cursor: pointer; }
+.ri-mult[aria-pressed="true"] { background: var(--bordeaux); color: var(--paper); border-color: var(--bordeaux); }
+.ri-switch { display: flex; gap: 10px; align-items: center; font-size: .95rem; color: var(--ink-soft); cursor: pointer; min-height: 32px; }
+.ri-switch input { width: 20px; height: 20px; accent-color: var(--bordeaux); }
+.ri-yield { margin: 4px 0 0; color: var(--ink-soft); font-weight: 600; }
+.ri-ing-list { list-style: none; margin: 0; padding: 0; display: grid; }
+.ri-ing-list li { border-bottom: 1px dashed var(--line); }
+.ri-ing-list label { display: flex; gap: 12px; align-items: flex-start; padding: 9px 0; cursor: pointer; line-height: 1.5; }
+.ri-ing-list input { margin-top: 3px; flex: none; }
+.ri-ing-list .is-checked .ri-ing-text { text-decoration: line-through; color: var(--ink-mute); }
+.ri-g { color: var(--copper-text); font-weight: 600; }
+.ri-ing-actions { margin-top: 16px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.ri-ok { color: var(--olive); font-weight: 700; }
+.ri-steps-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+.ri-step-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.ri-step-list li { display: grid; grid-template-columns: 48px 1fr; gap: 14px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.ri-step-num { width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--copper); background: var(--card); color: var(--copper-text); font-family: var(--font-display); font-size: 1.2rem; font-weight: 800; cursor: pointer; transition: background .2s, color .2s; }
+.ri-step-list .is-done .ri-step-num { background: var(--olive); border-color: var(--olive); color: var(--paper); }
+.ri-step-list .is-done p { color: var(--ink-mute); }
+.ri-step-body p { margin: 8px 0 0; font-size: 1.08em; line-height: 1.75; }
+.ri-timer-btn { margin-top: 10px; min-height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--paper); color: var(--ink); font: inherit; font-size: .92rem; font-weight: 700; cursor: pointer; }
+.ri-timer-btn:hover { border-color: var(--bordeaux); color: var(--bordeaux); }
+.ri-timers { position: fixed; bottom: 16px; inset-inline-end: 16px; z-index: 80; display: grid; gap: 8px; }
+.ri-timer { display: flex; align-items: center; gap: 10px; background: var(--ink); color: var(--paper); border-radius: 999px; padding: 8px 10px 8px 16px; box-shadow: 0 20px 40px -20px rgb(0 0 0 / .6); font-weight: 700; }
+.ri-timer.is-over { background: var(--bordeaux); animation: ri-pulse 1s ease-in-out infinite; }
+.ri-timer-time { font-variant-numeric: tabular-nums; font-size: 1.2rem; min-width: 64px; text-align: center; direction: ltr; }
+.ri-timer-x { width: 36px; height: 36px; border-radius: 50%; border: 0; background: rgb(255 255 255 / .14); color: inherit; cursor: pointer; font-size: .9rem; }
+@keyframes ri-pulse { 50% { transform: scale(1.04); } }
+
+/* cook mode */
+.cook { width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; border-radius: 0; border: 0; padding: 0; background: var(--paper); }
+.cook[open] { display: grid; grid-template-rows: auto 1fr auto; }
+.cook-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px clamp(16px, 4vw, 48px); border-bottom: 1px solid var(--line); }
+.cook-title { margin: 0; font-family: var(--font-display); font-size: var(--step-1); font-weight: 700; }
+.cook-top-btns { display: flex; gap: 8px; align-items: center; }
+.cook-step { display: grid; align-content: center; justify-items: start; gap: 22px; padding: clamp(20px, 6vw, 80px); max-width: 1100px; margin-inline: auto; width: 100%; overflow: auto; }
+.cook-count { margin: 0; color: var(--copper-text); font-weight: 800; letter-spacing: .06em; }
+.cook-text { margin: 0; font-size: clamp(1.6rem, 1.1rem + 2.2vw, 3rem); line-height: 1.45; font-family: var(--font-display); }
+.cook-ing { padding: clamp(20px, 5vw, 60px); overflow: auto; font-size: 1.3rem; columns: 2 320px; }
+.cook-ing h3 { color: var(--copper-text); font-size: 1.1rem; }
+.cook-ing li { padding: 6px 0; break-inside: avoid; }
+.cook-nav { display: flex; align-items: center; gap: 16px; padding: 16px clamp(16px, 4vw, 48px) calc(16px + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); }
+.cook-nav .btn { min-height: 60px; min-width: 140px; font-size: 1.2rem; }
+.cook-progress { flex: 1; height: 6px; background: var(--paper-3); border-radius: 999px; overflow: hidden; }
+.cook-progress span { display: block; height: 100%; background: var(--copper); border-radius: inherit; transition: width .3s; }
+
+@media (max-width: 900px) {
+  .ri-wrap { grid-template-columns: 1fr; }
+  .ri-sticky { position: static; max-height: none; }
+  .cook-nav .btn { min-width: 0; flex: 1; }
+  .cook-progress { display: none; }
+}
+@media print {
+  .ri-wrap { display: block; }
+  .ri-sticky { position: static; border: 0; padding: 0; max-height: none; }
+  .ri-controls, .ri-step-num { display: none; }
+  .ri-step-list li { grid-template-columns: 1fr; padding: 4px 0; border: 0; }
+  .ri-step-list { list-style: decimal; padding-inline-start: 1.4em; }
+  .ri-step-list li { display: list-item; }
+  .ri-ing-list input { display: none; }
+}

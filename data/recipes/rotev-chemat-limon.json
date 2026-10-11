@@ -1,0 +1,121 @@
+{
+  "slug": "rotev-chemat-limon",
+  "title": "רוטב חמאת לימון",
+  "titleEn": "Lemon Butter Sauce (Beurre Blanc Style)",
+  "description": "רוטב חמאה עדין ומהוקצע על בסיס שאלוט, לימון ויין לבן. מתאים לפסטה ולדגים.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [],
+  "tags": [
+    "רוטב קלאסי"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 20,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "בצלי שאלוט",
+          "note": "בקוביות",
+          "raw": "3-4 בצלי שאלוט, בקוביות",
+          "qtyMax": 4
+        },
+        {
+          "qty": 0.6667,
+          "unit": "כוס",
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "⅔ כוס מיץ לימון"
+        },
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "יין לבן",
+          "note": null,
+          "raw": "⅓ כוס יין לבן"
+        },
+        {
+          "qty": 0.6667,
+          "unit": "כוס",
+          "item": "שמנת מתוקה",
+          "note": null,
+          "raw": "⅔ כוס שמנת מתוקה"
+        },
+        {
+          "qty": 450,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "450 גרם חמאה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מאדים את השאלוט בשתי כפות חמאה עד שקיפות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים מיץ לימון ויין ומחממים על אש בינונית.",
+          "timerMin": null
+        },
+        {
+          "text": "אחרי הרתיחה מצמצמים לשליש מהנפח.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את השמנת ומבשלים 3 עד 4 דקות, עד שהרוטב מצטמצם שוב לשליש.",
+          "timerMin": 3
+        },
+        {
+          "text": "מוסיפים את שאר החמאה בהדרגה, תוך ערבוב, עד שהיא נבלעת כולה ברוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים במלח ופלפל ושומרים חם עד ההגשה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "שומרים על הרוטב חם אך לא רותח, כדי שלא יתפצל."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Pale glossy lemon butter sauce in a small white jug beside a plate of pasta",
+  "alt": "רוטב חמאת לימון חלק ובהיר בקנקן קטן לצד צלחת פסטה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

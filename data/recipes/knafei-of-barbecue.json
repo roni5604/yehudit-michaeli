@@ -1,0 +1,122 @@
+{
+  "slug": "knafei-of-barbecue",
+  "title": "כנפי עוף מושחמות ברוטב ברביקיו",
+  "titleEn": "Glazed BBQ Chicken Wings",
+  "description": "כנפי עוף שרויות ברוטב קטשופ, ברביקיו, סילאן וצ׳ילי מתוק, צלויות בתנור חם עד שהן מושחמות ומבריקות.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "מתאבן",
+    "אירוח",
+    "ילדים"
+  ],
+  "servings": 6,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 105,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "ק״ג",
+          "item": "כנפי עוף",
+          "note": "מנוקות היטב",
+          "raw": "1 ק״ג כנפי עוף, מנוקות היטב"
+        }
+      ]
+    },
+    {
+      "group": "רוטב להשרייה",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "קטשופ",
+          "note": "רגיל או חריף",
+          "raw": "1 כוס קטשופ, רגיל או חריף"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "רוטב ברביקיו מוכן",
+          "note": "בטעם הרצוי",
+          "raw": "½ כוס רוטב ברביקיו מוכן, בטעם הרצוי"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "סירופ תמרים (סילאן)",
+          "note": null,
+          "raw": "3 כפות סירופ תמרים (סילאן)"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "רוטב צ׳ילי מתוק",
+          "note": "1 עד 2 כפות",
+          "raw": "1 עד 2 כפות רוטב צ׳ילי מתוק"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חותכים במפרק הקטן של הכנפיים ומסלקים את הקצה (אפשר לבקש מהקצב).",
+          "timerMin": null
+        },
+        {
+          "text": "שוטפים את הכנפיים ומייבשים במגבות נייר.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים בקערה קטשופ, רוטב ברביקיו, סילאן ורוטב צ׳ילי מתוק. מפרישים רבע מהכמות להגשה או למריחה אחרונה.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים את הכנפיים בתבנית פיירקס, יוצקים את שאר הרוטב ומהפכים לציפוי מלא. משרים במקרר כמה שעות, או לפחות חצי שעה מחוץ למקרר.",
+          "timerMin": 30
+        },
+        {
+          "text": "מחממים תנור ל-210 מעלות ומסדרים את הכנפיים בשכבה אחת על תבנית גדולה, בלי שייגעו זו בזו.",
+          "timerMin": null
+        },
+        {
+          "text": "צולים 20 עד 25 דקות, עד שהעוף מוכן והציפוי מזהיב-משחים. מורחים ברוטב מפעם לפעם ומהפכים לפחות פעם אחת.",
+          "timerMin": 20
+        },
+        {
+          "text": "מגישים עם הרוטב שהופרש, לטבילה או למריחה לזיגוג, ואפשר לקשט בפטרוזיליה או בכוסברה קצוצות.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "magazine",
+    "credit": "רות סירקיס",
+    "rewritten": true
+  },
+  "imagePrompt": "A pile of glossy dark-glazed baked chicken wings with charred edges on a platter, sprinkled with chopped parsley, with a small bowl of barbecue sauce",
+  "alt": "כנפי עוף מזוגגות ומושחמות ברוטב ברביקיו, עם פטרוזיליה וקערית רוטב",
+  "originals": [
+    {
+      "file": "כנפי עוף ברבקיו.doc",
+      "driveId": "1MC9bXZbLsnapcQ6CTYI1HUlxmWEWn0zG"
+    }
+  ]
+}

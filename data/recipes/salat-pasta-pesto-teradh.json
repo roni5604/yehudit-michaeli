@@ -1,0 +1,155 @@
+{
+  "slug": "salat-pasta-pesto-teradh",
+  "title": "סלט פסטה קר עם פסטו תרד",
+  "titleEn": "Cold Pasta Salad with Spinach Pesto",
+  "description": "סלט פסטה צבעוני לכמות גדולה, עם פסטו תרד ובזיליקום, תירס וגבינה בולגרית.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "למסיבה",
+    "סלט קר"
+  ],
+  "servings": 15,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 10,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "לפסטו תרד",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "כוסות",
+          "item": "עלי תרד טריים",
+          "note": "בלי פטוטרות, רחוצים ויבשים",
+          "raw": "3 כוסות עלי תרד טריים, בלי פטוטרות, רחוצים ויבשים"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "פטרוזיליה קצוצה",
+          "note": "לא חובה",
+          "raw": "1 כוס פטרוזיליה קצוצה, לא חובה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "עלי בזיליקום טריים",
+          "note": null,
+          "raw": "½ כוס עלי בזיליקום טריים"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": null,
+          "raw": "2 שיני שום"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "¼ כוס שמן זית"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "פרמזן מגורר",
+          "note": null,
+          "raw": "¼ כוס פרמזן מגורר"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "מים חמים",
+          "note": null,
+          "raw": "6 כפות מים חמים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור",
+          "note": "במידה",
+          "raw": "מלח ופלפל שחור, במידה"
+        }
+      ]
+    },
+    {
+      "group": "לסלט",
+      "items": [
+        {
+          "qty": 1.5,
+          "unit": "חבילות",
+          "item": "פסטת סלילים בשלושה צבעים",
+          "note": null,
+          "raw": "1½ חבילות פסטת סלילים בשלושה צבעים"
+        },
+        {
+          "qty": 1.5,
+          "unit": "קופסאות",
+          "item": "תירס",
+          "note": null,
+          "raw": "1½ קופסאות תירס"
+        },
+        {
+          "qty": 2,
+          "unit": "קופסאות",
+          "item": "גבינה בולגרית או פטה",
+          "note": "בקוביות בינוניות",
+          "raw": "2 קופסאות גבינה בולגרית או פטה, בקוביות בינוניות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "טוחנים את כל מרכיבי הפסטו במעבד מזון.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הפסטה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים לפסטה את התירס, גבינת הבולגרית ואת הפסטו לפי הטעם, ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "מצננים במקרר ומגישים קר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "שארית הפסטו נשמרת במקרר ומתאימה למריחה על סנדוויצ׳ים."
+  ],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "אליזה צ׳לי",
+    "rewritten": true
+  },
+  "imagePrompt": "Tricolour fusilli salad coated in green spinach pesto with corn kernels and white cheese cubes",
+  "alt": "סלט פסטה צבעוני עם פסטו תרד ירוק, תירס וקוביות גבינה לבנה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

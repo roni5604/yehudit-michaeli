@@ -1,0 +1,139 @@
+{
+  "slug": "lasagna-peshuta-vetaima",
+  "title": "לזניה פשוטה וטעימה",
+  "titleEn": "Simple Tomato and Mozzarella Lasagna",
+  "description": "לזניה קלה בשלוש שכבות עם רוטב עגבניות ושום, מוצרלה, בזיליקום ופרמזן.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 30,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "למילוי",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עלי לזניה",
+          "note": null,
+          "raw": "עלי לזניה"
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "עגבניות מרוסקות",
+          "note": null,
+          "raw": "1 קופסה עגבניות מרוסקות"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום כתושות",
+          "note": null,
+          "raw": "2 שיני שום כתושות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "½ כוס שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל טחון טרי",
+          "note": null,
+          "raw": "מלח ופלפל טחון טרי"
+        }
+      ]
+    },
+    {
+      "group": "לפיזור",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מוצרלה טובה",
+          "note": "פרוסה, או מגורדת אם תעשייתית",
+          "raw": "מוצרלה טובה, פרוסה, או מגורדת אם תעשייתית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בזיליקום טרי קצוץ",
+          "note": null,
+          "raw": "בזיליקום טרי קצוץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן מגורד",
+          "note": null,
+          "raw": "פרמזן מגורד"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל חומרי המילוי.",
+          "timerMin": null
+        },
+        {
+          "text": "פורסים בתבנית פיירקס שכבה של עלי לזניה ומפזרים מעליה כשליש מהמילוי.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים בזיליקום ופרוסות מוצרלה.",
+          "timerMin": null
+        },
+        {
+          "text": "חוזרים על שכבה שנייה של עלים, מילוי, בזיליקום ומוצרלה.",
+          "timerMin": null
+        },
+        {
+          "text": "מסדרים שכבה שלישית של עלים עם מילוי ובזיליקום, ומפזרים מעל פרמזן.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים בתנור בערך חצי שעה.",
+          "timerMin": 30
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Tomato and mozzarella lasagna in a glass dish with browned cheese and fresh basil leaves",
+  "alt": "לזניה עגבניות ומוצרלה בתבנית פיירקס עם גבינה שחומה ובזיליקום",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

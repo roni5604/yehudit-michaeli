@@ -1,0 +1,154 @@
+{
+  "slug": "event-menu-shared-starters",
+  "title": "תפריט מיכאלי לאירוע · ראשונות למרכז השולחן",
+  "titleEn": "Michaeli event menu · starters to share",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות · מוגשות למרכז השולחן",
+      "items": [
+        {
+          "name": "פרוסות סלמון כבוש",
+          "desc": "בניחוח לימוני, עם מוס סלמון פיקנטי",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה ברבוניה קריספי",
+          "desc": "מוגש על מצע של עלעלים בתיבול לימוני",
+          "recipeSlug": null
+        },
+        {
+          "name": "קבבוני דג פיקנטיים",
+          "desc": "מוגשים עם קולי פלפל אדום",
+          "recipeSlug": null
+        },
+        {
+          "name": "סביצ'ה פרואני",
+          "desc": "מוגש עם בטטה צ'יפס ותירס",
+          "recipeSlug": null
+        },
+        {
+          "name": "קבבוני טלה עסיסיים",
+          "desc": "מוגשים עם טחינה ירוקה / יוגורט נענע כמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "סינטה כבושה בשלושה פלפלים",
+          "desc": "על מצע של כרישה מזוגגת ובצק פריך",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפצ'יו בקר קלאסי",
+          "desc": "מוגש עם עלעלים וגבינת פרמזן",
+          "recipeSlug": null
+        },
+        {
+          "name": "פלטת בשרים מעושנים וקרים",
+          "desc": "מוגשת עם מלון",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרפה כבדים",
+          "desc": "בלווית ריבת סלרי",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "desc": "עם חזה אווז מעושן וגבינת אמנטל",
+          "recipeSlug": null
+        },
+        {
+          "name": "כבד אווז ברוטב פירות יער",
+          "desc": "בתוספת תשלום",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנות עיקריות",
+      "items": [
+        {
+          "name": "סטייק אנטריקוט מיושן וצרוב על הגריל",
+          "recipeSlug": null
+        },
+        {
+          "name": "רוסטביף סינטה עסיסי ומתובל ומפולפל היטב",
+          "recipeSlug": null
+        },
+        {
+          "name": "חזה עוף ממולא בחזה אווז מעושן וגבינת אמנטל ברוטב חרדל",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית במרינדת עשבי תיבול צלויה על הגריל",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית בשזיפים ותפוחים ברוטב מתקתק",
+          "recipeSlug": null
+        },
+        {
+          "name": "עופיון ללא עצמות",
+          "desc": "ממולא בערמונים, אגוזים ובורגול, מוגש ברוטב שורשים",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג קריספי עם רוטב פרובנסאלי",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "תוספות וסלטים",
+      "items": [
+        {
+          "name": "רוסטיקה",
+          "desc": "ירקות חתוכים גס מוקפצים בשום וטימין",
+          "recipeSlug": null
+        },
+        {
+          "name": "אנטיפסטי",
+          "desc": "ירקות קלויים במגוון צבעים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט כרוב",
+          "desc": "עם קוקוס קלוי, חמוציות ובצל ירוק",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט קינואה מפנק",
+          "desc": "עם פירות יבשים, זרעים ואגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט עגבניות שרי",
+          "desc": "עם צנובר ועשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט חסה",
+          "desc": "עם תפוחים מיובשים ושקדים קלויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט הקיסר",
+          "desc": "עם חסה, פרמזן וקרוטונים, מוגש ברוטב איולי אנשובי",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט מיכאלי.doc",
+      "driveId": "1CfAb0IO7bc6UBIXuHfIcgQV___oUIYGK"
+    }
+  ]
+}

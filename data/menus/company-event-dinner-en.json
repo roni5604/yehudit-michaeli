@@ -1,0 +1,100 @@
+{
+  "slug": "company-event-dinner-en",
+  "title": "תפריט לאירוע חברה · באנגלית",
+  "titleEn": "Company event dinner",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Gravlax",
+          "desc": "Pickled salmon",
+          "recipeSlug": null
+        },
+        {
+          "name": "Lamb Kebab",
+          "desc": "With tehina sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Asparagus bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Antipasti",
+          "desc": "Seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main course of your choice",
+      "items": [
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cordon Bleu",
+          "desc": "Chicken breast filled with smoked goose & cheese",
+          "recipeSlug": null
+        },
+        {
+          "name": "Seafood",
+          "desc": "In a butter & garlic sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea Bass",
+          "desc": "With vegetables & capers sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Leek & tomatoes tart",
+          "desc": "Vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Mousse au Chocolat",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pavlova",
+          "desc": "Meringue with cream & red berries",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crème Brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "Apple Strudel",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט אירוע חברה.doc",
+      "driveId": "1fwcIpV_sE_AGO73cu5RHrcAUfYLiN9ab"
+    }
+  ]
+}

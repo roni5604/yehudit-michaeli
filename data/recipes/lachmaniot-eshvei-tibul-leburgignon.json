@@ -1,0 +1,44 @@
+{
+  "slug": "lachmaniot-eshvei-tibul-leburgignon",
+  "title": "לחמניות עשבי תיבול לבורגיניון",
+  "titleEn": "Herb Rolls to Bake over Beef Bourguignon",
+  "description": "לחמניות חמאה ויוגורט עם טימין, רוזמרין ופטרוזיליה, שנאפות ישירות מעל קדירת הבשר ונהפכות לכיסוי זהוב ומשגע.",
+  "category": "breads",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": ["קלאסיקה צרפתית", "אירוח", "מהיר"],
+  "servings": null,
+  "yield": "20 לחמניות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 12,
+  "totalMin": 32,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 500, "unit": "גרם", "item": "קמח תופח", "note": null, "raw": "500 גרם קמח תופח" },
+      { "qty": 0.5, "unit": "כפית", "item": "מלח", "note": null, "raw": "½ כפית מלח" },
+      { "qty": 120, "unit": "גרם", "item": "חמאה קרה", "note": "חתוכה לקוביות", "raw": "120 גרם חמאה קרה חתוכה לקוביות" },
+      { "qty": 2, "unit": "כפות", "item": "עשבי תיבול", "note": "טימין, רוזמרין ופטרוזיליה", "raw": "2 כפות עשבי תיבול (טימין, רוזמרין, פטרוזיליה)" },
+      { "qty": 230, "unit": "מ״ל", "item": "יוגורט", "note": null, "raw": "230 מ״ל יוגורט" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": "טרופה, למריחה", "raw": "ביצה טרופה למריחה מעל" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את הקמח, המלח, החמאה הקרה ועשבי התיבול, מוסיפים את היוגורט ולשים בצק פירורי לגוש.", "timerMin": null },
+      { "text": "מגלגלים את הבצק לגליל בעובי 1.5 ס״מ ופורסים ל-20 עיגולים.", "timerMin": null },
+      { "text": "מורחים בביצה טרופה ואופים מעל לקדירת הבשר 12 דקות.", "timerMin": 12 }
+    ] }
+  ],
+  "tips": ["הלחמניות נאפות מעל קדירת הבורגיניון הרותחת, ולכן המנה משלבת בשר וחלב."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A cast iron casserole of beef bourguignon topped with a crown of golden herb scone-style rolls brushed with egg, flecks of thyme and rosemary visible, rich dark stew bubbling at the edges",
+  "alt": "קדירת בורגיניון מכוסה בלחמניות עשבי תיבול זהובות שנאפו מעל הבשר",
+  "originals": [{ "file": "לחמניות עשבי תיבול לבורגיניון.doc", "driveId": "1TcIF5ubzoJTPgOfGspKPNQOE2HMPyYFO" }]
+}

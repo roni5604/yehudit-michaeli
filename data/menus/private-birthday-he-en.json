@@ -1,0 +1,129 @@
+{
+  "slug": "private-birthday-he-en",
+  "title": "תפריט ליום הולדת חגיגי · אירוע פרטי",
+  "titleEn": "Birthday dinner · private event",
+  "date": null,
+  "season": null,
+  "occasion": "יום הולדת (אירוע פרטי)",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "ארוחת יום הולדת משותפת · יין אדום ולבן מיקבי כרמל / A shared birthday dinner",
+  "sections": [
+    {
+      "name": "מנות ראשונות · Starters",
+      "items": [
+        {
+          "name": "כבד אווז ברוטב פירות יער",
+          "nameEn": "Goose liver served in a red berries sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה ברבוניות על סלט נבטים",
+          "nameEn": "Red fish fillets on a sprouts salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "nameEn": "Quiche Lorraine",
+          "desc": "פשטידת אווז מעושן וגבינת אמנטל",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט וולדורף, סלט ירוק ברוטב וינגרט",
+          "nameEn": "Waldorf salad, green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך · Main courses of your choice",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "nameEn": "Boeuf Bourguignon",
+          "recipeSlug": null
+        },
+        {
+          "name": "עופיון ממולא בערמונים ואגוזים",
+          "nameEn": "Baby chicken filled with chestnuts",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה באס ברוטב שמנת וקוויאר סלמון",
+          "nameEn": "Sea bass with cream sauce & salmon eggs",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת פירות ים בחמאה מתובלת",
+          "nameEn": "Seafood in a garlic & butter sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות",
+          "nameEn": "A tart of leek and dried tomatoes – vegetarian",
+          "desc": "צמחוני",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל, צ'יפס ותירס",
+          "nameEn": "Schnitzel & French fries – for the youngsters",
+          "desc": "לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים · Desserts",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובת פירות יער",
+          "nameEn": "Pavlova",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחים",
+          "nameEn": "Apple strudel",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "גלידה",
+          "nameEn": "Ice cream",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין · Wine",
+      "items": [
+        {
+          "name": "יין אדום ולבן",
+          "nameEn": "Red & white wine – Carmel Winery",
+          "desc": "סדרת רכס, יקבי כרמל",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט עברי-אנגלי ליום הולדת.doc",
+      "driveId": "143oQUt71alRhISd4L8J9qvvacxwkn9uJ"
+    }
+  ]
+}

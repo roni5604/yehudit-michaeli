@@ -1,0 +1,149 @@
+{
+  "slug": "pasta-im-yerakot-anshuvi",
+  "title": "פסטה עם ירקות ואנשובי",
+  "titleEn": "Spaghetti with Peppers, Anchovies and Olives",
+  "description": "ספגטי עם רוטב פלפלים מתובל, אנשובי וזיתים, וכף משמן האנשובי בסוף.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 30,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 350,
+          "unit": "גרם",
+          "item": "ספגטי",
+          "note": null,
+          "raw": "350 גרם ספגטי"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "פלפל אדום",
+          "note": null,
+          "raw": "1 פלפל אדום"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "פלפל ירוק",
+          "note": null,
+          "raw": "1 פלפל ירוק"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": null,
+          "raw": "1 בצל"
+        },
+        {
+          "qty": 4,
+          "unit": "שיני",
+          "item": "שום",
+          "note": null,
+          "raw": "4 שיני שום"
+        },
+        {
+          "qty": 3,
+          "unit": "נתחי",
+          "item": "אנשובי",
+          "note": "קצוצים קטן",
+          "raw": "3 נתחי אנשובי, קצוצים קטן"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "אבקת מרק ירקות",
+          "note": null,
+          "raw": "1 כפית אבקת מרק ירקות"
+        },
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "מים רותחים",
+          "note": null,
+          "raw": "⅓ כוס מים רותחים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח, פלפל ופפריקה חריפה",
+          "note": null,
+          "raw": "מלח, פלפל ופפריקה חריפה"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "זיתים",
+          "note": "בפרוסות",
+          "raw": "50 גרם זיתים, בפרוסות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים את הבצל והשום.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את רצועות הפלפלים וממשיכים לטגן כ-10 דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים אבקת מרק מומסת במים ואת התבלינים, ומבשלים רבע שעה.",
+          "timerMin": 15
+        },
+        {
+          "text": "מוסיפים את האנשובי והזיתים ומבשלים עוד כמה דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הפסטה אל דנטה, מסננים ויוצקים עליה את הרוטב ואת כף השמן מהאנשובי.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אפשר להוסיף גם פלפל צהוב או כתום ולהגדיל את הפסטה ל-500 גרם."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "בת׳ איילון",
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti with strips of red and green pepper, sliced olives and anchovy pieces in a rustic sauce",
+  "alt": "ספגטי עם רצועות פלפל אדום וירוק, זיתים ואנשובי ברוטב כפרי",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

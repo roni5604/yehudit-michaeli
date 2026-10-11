@@ -1,0 +1,120 @@
+{
+  "slug": "company-event-he-en-a",
+  "title": "ארוחה לאירוע חברה (עברית־אנגלית)",
+  "titleEn": "Company event dinner (Hebrew-English)",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he-en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "פארפה כבדים עם ריבת סלרי ותפוחים",
+          "nameEn": "Chicken liver parfait with celery confiture",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילטים של ברבוניות על סלט נבטי חמניה",
+          "nameEn": "Red mullets on sunflower sprout salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "ברוקולי ואגוזי קשיו בסלסילות פריכות",
+          "nameEn": "Broccoli & cashew nuts bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad with vinaigrette",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "רוסט ביף ברוטב חרדל",
+          "nameEn": "Roast beef with mustard sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית בשזיפים ותפוחים",
+          "nameEn": "Baby chicken fillet with prunes & apples",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה סלמון ברוטב שמנת וקוויאר סלמון",
+          "nameEn": "Norwegian salmon with cream and salmon-egg caviar",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות – צמחוני",
+          "nameEn": "Leek & dried tomatoes tart – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת קוביות שוקולד",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובת פירות-יער",
+          "nameEn": "Pavlova – meringue with cream & red berries",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "nameEn": "Tarte Tatin",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "גלידת וניל",
+          "nameEn": "Vanilla ice cream",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        {
+          "name": "יין אדום ולבן",
+          "nameEn": "Dry red & white wine – Carmel winery, Israel",
+          "desc": "סדרת רכס, יקב כרמל",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1O3tNTy6JFeHnxH5wnteFF4jFs2NH_1H9"
+    },
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1RoJ3Re6KZROwCh12N9FVSo-NxBHnghZO"
+    }
+  ]
+}

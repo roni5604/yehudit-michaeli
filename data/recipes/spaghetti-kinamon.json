@@ -1,0 +1,96 @@
+{
+  "slug": "spaghetti-kinamon",
+  "title": "ספגטי בקינמון",
+  "titleEn": "Spaghetti with Cinnamon Sugar",
+  "description": "מנה בזק מתוקה מספגטי שנשאר, עם סוכר וקינמון ופקאנים. מה אוכלים כשאין קוגל.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "polish-ashkenazi",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 10,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "מנה",
+          "item": "ספגטי מבושל",
+          "note": null,
+          "raw": "1 מנה ספגטי מבושל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "סוכר",
+          "note": null,
+          "raw": "סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "קינמון",
+          "note": null,
+          "raw": "קינמון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פקאנים קצוצים",
+          "note": "לא חובה",
+          "raw": "פקאנים קצוצים, לא חובה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים ספגטי ומסננים, או משתמשים במנה שנשארה. מניחים מנה בצלחת.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים בקערה סוכר עם מעט קינמון, ואם רוצים מוסיפים פקאנים קצוצים.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים מהתערובת על מנת הספגטי.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "A plate of spaghetti dusted with cinnamon sugar and chopped pecans",
+  "alt": "צלחת ספגטי מפוזרת בסוכר וקינמון ופקאנים קצוצים",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

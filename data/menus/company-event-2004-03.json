@@ -1,0 +1,75 @@
+{
+  "slug": "company-event-2004-03",
+  "title": "ארוחה לאירוע חברה · מרץ 2004",
+  "titleEn": "Company event dinner · March 2004",
+  "date": "2004-03",
+  "season": "spring",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "כבדי עוף במאפה פריך",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלאקס סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי בטטות",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגוון אנטיפאסטי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "סלמון אפוי בג'ינג'ר ותפוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית בתפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "רוסט ביף ברוטב יין אדום",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה במגוון טעמים",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1JQkDOLWZPPkGV3QXhd9HvAWK9OyewXwc"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "family-dinner-en-2006-12",
+  "title": "ארוחה משפחתית · דצמבר 2006",
+  "titleEn": "Family dinner · December 2006",
+  "date": "2006-12",
+  "season": "winter",
+  "occasion": "ארוחה משפחתית",
+  "kind": "event",
+  "language": "en",
+  "intro": "Bon appétit",
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Grilled goose liver served in a red berries sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Fried sardines stuffed with nuts & pickled lemon",
+          "recipeSlug": null
+        },
+        {
+          "name": "Asparagus crispy bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Course of Your Choice",
+      "items": [
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Goose leg confit with honey & spices",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boneless sea bream with spinach and pine nuts",
+          "recipeSlug": null
+        },
+        {
+          "name": "Roasted leg of lamb with mustard & thyme sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "A tart of leek and dried tomatoes",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tapioca, passion fruit & mango delight",
+          "desc": "With coconut sorbet",
+          "recipeSlug": null
+        },
+        {
+          "name": "Apple cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crème brûlée",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1GLebEF3WThTsGPISHlu6YQO_DooXSaYf"
+    }
+  ]
+}

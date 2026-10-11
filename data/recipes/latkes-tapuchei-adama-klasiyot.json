@@ -1,0 +1,121 @@
+{
+  "slug": "latkes-tapuchei-adama-klasiyot",
+  "title": "לביבות תפוחי אדמה קלאסיות (לאטקס)",
+  "titleEn": "Classic Potato Latkes",
+  "description": "לאטקס קלאסיים מתפוחי אדמה ובצל מגורדים, עם קמח תופח וחמש טיפות תמצית חמאה שעושות את ההבדל.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "קלאסיקה",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 15,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "תפוחי אדמה",
+          "note": null,
+          "raw": "4 תפוחי אדמה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל גדול",
+          "note": null,
+          "raw": "1 בצל גדול"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": "טרופות",
+          "raw": "2 ביצים, טרופות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "½ כוס קמח תופח"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "½ כפית מלח"
+        },
+        {
+          "qty": 5,
+          "unit": "טיפות",
+          "item": "תמצית חמאה",
+          "note": null,
+          "raw": "5 טיפות תמצית חמאה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מגרדים את תפוחי האדמה בפומפייה, ומיד אחריהם בצל אחד גדול.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים חצי כוס קמח תופח, 2 ביצים טרופות, חצי כפית מלח וחמש טיפות תמצית חמאה.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים הכול במחבת.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "הסוד הקטן: חמש טיפות של תמצית חמאה."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "סתיו אדם",
+    "rewritten": true
+  },
+  "imagePrompt": "Crisp golden potato latkes with lacy edges stacked on a plate",
+  "alt": "לביבות תפוחי אדמה פריכות וזהובות בערימה על צלחת",
+  "originals": [
+    {
+      "file": "לביבות ירק.docx",
+      "driveId": "12wFYmvrDGsSDIZ36O97k8qGikP4hUX6R"
+    }
+  ]
+}

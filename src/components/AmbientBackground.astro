@@ -1,0 +1,32 @@
+---
+// Decorative, fixed background: slow-drifting colour fields + floating line-art herbs.
+// Pure CSS (GPU transforms only); frozen by prefers-reduced-motion / a11y "stop animations".
+const herbs = [
+  { d: "M30 90C30 60 40 30 60 10M30 70c-10-4-16-12-16-22 10 0 16 8 16 22Zm6-18c10-4 16-12 16-22-10 0-16 8-16 22Zm4-16c-8-4-12-10-12-18 8 0 12 6 12 18Z", x: "6%", y: "18%", s: 1.2, t: 46 },
+  { d: "M10 50c20-30 50-30 70 0-20 30-50 30-70 0Zm10 0h50", x: "88%", y: "28%", s: 0.9, t: 52 },
+  { d: "M40 10v80M40 30c-12 0-20-8-20-18 12 0 20 8 20 18Zm0 20c12 0 20-8 20-18-12 0-20 8-20 18Zm0 20c-12 0-20-8-20-18 12 0 20 8 20 18Z", x: "78%", y: "72%", s: 1.1, t: 58 },
+  { d: "M50 15a35 35 0 1 0 .1 0ZM50 30a20 20 0 1 0 .1 0Z", x: "14%", y: "78%", s: 0.7, t: 64 },
+  { d: "M20 80c10-30 30-50 60-60-5 30-25 50-60 60Zm10-10 40-40", x: "48%", y: "8%", s: 0.8, t: 70 },
+];
+---
+<div class="ambient" aria-hidden="true">
+  <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+  {herbs.map((h, i) => (
+    <svg class="herb" style={`--x:${h.x};--y:${h.y};--s:${h.s};--t:${h.t}s;--d:${-i * 7}s`} viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d={h.d} /></svg>
+  ))}
+</div>
+<style>
+  .ambient { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+  .blob { position: absolute; width: 46vmax; height: 46vmax; border-radius: 50%; filter: blur(70px); opacity: .22; will-change: transform; }
+  .b1 { background: radial-gradient(circle, var(--copper), transparent 65%); top: -18vmax; inset-inline-end: -12vmax; animation: drift1 38s ease-in-out infinite alternate; }
+  .b2 { background: radial-gradient(circle, var(--bordeaux), transparent 65%); bottom: -22vmax; inset-inline-start: -14vmax; opacity: .16; animation: drift2 46s ease-in-out infinite alternate; }
+  .b3 { background: radial-gradient(circle, var(--olive), transparent 65%); top: 40%; inset-inline-start: 40%; width: 30vmax; height: 30vmax; opacity: .12; animation: drift3 54s ease-in-out infinite alternate; }
+  @keyframes drift1 { to { transform: translate3d(-12vw, 14vh, 0) scale(1.15); } }
+  @keyframes drift2 { to { transform: translate3d(14vw, -10vh, 0) scale(1.2); } }
+  @keyframes drift3 { to { transform: translate3d(-18vw, -16vh, 0) scale(.85); } }
+  .herb { position: absolute; left: var(--x); top: var(--y); width: calc(120px * var(--s)); color: var(--copper); opacity: .13; animation: float var(--t) ease-in-out var(--d) infinite; }
+  @keyframes float { 0%, 100% { transform: translate3d(0, 0, 0) rotate(0deg); } 33% { transform: translate3d(14px, -26px, 0) rotate(8deg); } 66% { transform: translate3d(-12px, 18px, 0) rotate(-6deg); } }
+  :global(html.a11y-no-motion) .ambient * { animation: none !important; }
+  @media (prefers-reduced-motion: reduce) { .ambient * { animation: none !important; } }
+  @media print { .ambient { display: none; } }
+</style>

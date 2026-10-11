@@ -1,0 +1,68 @@
+{
+  "slug": "ugat-gvina-new-york",
+  "title": "עוגת גבינה ניו יורקית",
+  "titleEn": "New York Cheesecake",
+  "description": "עוגת גבינת שמנת עשירה וצפופה על בסיס פירורי עוגיות, שנאפית בחום נמוך ומתייצבת במקרר ללילה. כדאי להכין יום מראש.",
+  "category": "cakes",
+  "subcategory": "cheesecakes",
+  "cuisine": "american",
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["עוגת גבינה", "שבועות", "אירוח"],
+  "servings": 12,
+  "yield": null,
+  "pan": "תבנית קפיץ בקוטר 24 ס״מ",
+  "prepMin": 30,
+  "cookMin": 70,
+  "totalMin": 600,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבסיס", "items": [
+      { "qty": 1, "unit": "כוס", "item": "פירורי ביסקוויטים או עוגיות", "note": null, "raw": "1 כוס פירורי ביסקוויטים או עוגיות" },
+      { "qty": 3, "unit": "כפות", "item": "סוכר", "note": null, "raw": "3 כפות סוכר" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": "מרוככת מאוד", "raw": "50 גרם חמאה מרוככת מאוד" }
+    ] },
+    { "group": "למילוי הגבינה", "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "גבינת שמנת", "note": "4 מכלים של 250 גרם, גבינת נפוליאון 30% בטעם טבעי", "raw": "1 ק״ג גבינת שמנת (4 מכלים של 250 גרם, גבינת נפוליאון 30% בטעם טבעי)" },
+      { "qty": 200, "unit": "גרם", "item": "אבקת סוכר", "note": null, "raw": "200 גרם אבקת סוכר" },
+      { "qty": 1, "unit": "מכל", "item": "שמנת חמוצה או קרם פרש", "note": null, "raw": "1 מכל שמנת חמוצה או קרם פרש" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" },
+      { "qty": 3, "unit": "כפות", "item": "קמח", "note": null, "raw": "3 כפות קמח" },
+      { "qty": null, "unit": null, "item": "קליפה מגוררת של לימון", "note": "החלק הצהוב בלבד", "raw": "קליפה מגוררת של לימון (החלק הצהוב בלבד)" },
+      { "qty": 2, "unit": "כפות", "item": "מיץ לימון טרי", "note": null, "raw": "2 כפות מיץ לימון טרי" },
+      { "qty": 1, "unit": "כף", "item": "תמצית וניל", "note": null, "raw": "1 כף תמצית וניל" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבסיס", "items": [
+      { "text": "מערבבים בקערה את פירורי הביסקוויטים עם הסוכר והחמאה.", "timerMin": null },
+      { "text": "מהדקים את התערובת ומיישרים אותה לאורך תחתית התבנית.", "timerMin": null },
+      { "text": "אופים ב-160 מעלות 10 דקות. מוציאים ומצננים מעט על רשת מתכת.", "timerMin": 10 },
+      { "text": "מנמיכים את חום התנור ל-140 מעלות.", "timerMin": null }
+    ] },
+    { "group": "המילוי והאפייה", "items": [
+      { "text": "מקציפים במערבל חשמלי או במעבד מזון את הגבינה עם הסוכר.", "timerMin": null },
+      { "text": "מוסיפים את השמנת החמוצה ואת הביצים, אחת אחת, והקמח.", "timerMin": null },
+      { "text": "מתבלים בקליפת הלימון, במיץ הלימון ובתמצית הווניל.", "timerMin": null },
+      { "text": "מרפדים את דפנות התבנית ברצועת נייר אפייה משומנת. ללא נייר, משמנים היטב את הדפנות.", "timerMin": null },
+      { "text": "יוצקים בזהירות את תערובת הגבינה מעל הבסיס, ומעבירים את התבנית למרכז התנור.", "timerMin": null },
+      { "text": "אופים ב-140 מעלות כשעה, עד שהמרכז כמעט רך.", "timerMin": 60 }
+    ] },
+    { "group": "הקירור", "items": [
+      { "text": "מוציאים בעדינות ומעבירים סכין בין הדופן לנייר (או לעוגה), כדי שפני העוגה לא יתבקעו.", "timerMin": null },
+      { "text": "מצננים על רשת מתכת ומקררים במקרר לפחות 8 שעות, מכוסה כדי שלא תספוג ריחות.", "timerMin": 480 }
+    ] }
+  ],
+  "tips": ["כדאי להכין יום מראש, כדי שהעוגה תתגבש במקרר."],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "A tall slice of dense New York cheesecake on a crumb base, smooth pale surface without cracks, served on a white plate with a fork",
+  "alt": "פרוסה גבוהה של עוגת גבינה ניו יורקית חלקה וצפופה על בסיס פירורי עוגיות",
+  "originals": [
+    { "file": "בלינצס גבינה ושוקולד.doc", "driveId": "1YJ4vqExfLKk1d4drrz35omdWZzKigpRN" },
+    { "file": "עוגת גבינה ניו יורקית.doc", "driveId": "1X_QX1YSS6ODhc5ZYkbWfRZrXZfcDQ19Y" },
+    { "file": "עוגת גבינה ניויורקית.doc", "driveId": "1O5kUXt8nQpf0FSh3FcOyKS_AZXdBETYb" }
+  ]
+}

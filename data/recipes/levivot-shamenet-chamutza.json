@@ -1,0 +1,153 @@
+{
+  "slug": "levivot-shamenet-chamutza",
+  "title": "לביבות שמנת חמוצה",
+  "titleEn": "Sour Cream Pancakes",
+  "description": "לביבות מתוקות ואוויריות משמנת חמוצה וחלבונים מוקצפים, מטוגנות בחמאה ומוגשות עם ריבה או קרם פרש.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "מתוק",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": "45 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 20,
+  "totalMin": 40,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 0.75,
+          "unit": "כוס",
+          "item": "חלב",
+          "note": null,
+          "raw": "¾ כוס חלב"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "חלמונים",
+          "note": null,
+          "raw": "3 חלמונים"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "1 גביע שמנת חמוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "תמצית וניל",
+          "note": null,
+          "raw": "1 כפית תמצית וניל"
+        },
+        {
+          "qty": 0.75,
+          "unit": "כוס",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "¾ כוס קמח תופח"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "חלבונים",
+          "note": null,
+          "raw": "3 חלבונים"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "3 כפות סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חמאה",
+          "note": "לטיגון",
+          "raw": "חמאה, לטיגון"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "ריבה, קרם פרש או רסק תפוחים",
+          "note": null,
+          "raw": "ריבה, קרם פרש או רסק תפוחים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת סוכר מעורבת בקינמון",
+          "note": null,
+          "raw": "אבקת סוכר מעורבת בקינמון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מקציפים את החלבונים עם הסוכר לקצף יציב.",
+          "timerMin": null
+        },
+        {
+          "text": "בקערה נפרדת מערבבים את יתר המרכיבים.",
+          "timerMin": null
+        },
+        {
+          "text": "מאחדים את שתי הבלילות.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים בחמאה ומגישים פושר עם ריבה, קרם פרש או רסק תפוחים, ואבקת סוכר מעורבת בקינמון.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Small fluffy golden pancakes dusted with cinnamon sugar, served with a dollop of jam and cream",
+  "alt": "לביבות קטנות ואוויריות מאובקות בסוכר וקינמון עם ריבה וקרם",
+  "originals": [
+    {
+      "file": "לביבות מתוקות.doc",
+      "driveId": "10lhoyaTLCDrGXqJvMKDDYfju4u6pw5Oc"
+    },
+    {
+      "file": "לביבות מתוקות.doc",
+      "driveId": "167HTovzb6dJZG4Lce2noIgYmMK191S2h"
+    }
+  ]
+}

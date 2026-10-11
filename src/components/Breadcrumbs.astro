@@ -1,0 +1,28 @@
+---
+import { SITE } from "../lib/site";
+interface Props { items: { href?: string; label: string }[] }
+const { items } = Astro.props;
+const all = [{ href: "/", label: "בית" }, ...items];
+const ld = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: all.map((it, i) => ({ "@type": "ListItem", position: i + 1, name: it.label, ...(it.href ? { item: new URL(it.href, SITE.url).href } : {}) })),
+};
+---
+<nav aria-label="פירורי לחם" class="crumbs">
+  <ol>
+    {all.map((it, i) => (
+      <li>
+        {it.href && i < all.length - 1 ? <a href={it.href}>{it.label}</a> : <span aria-current="page">{it.label}</span>}
+      </li>
+    ))}
+  </ol>
+</nav>
+<script type="application/ld+json" set:html={JSON.stringify(ld)} />
+<style>
+  .crumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: 4px 0; padding: 0; margin: 0; font-size: .95rem; color: var(--ink-mute); }
+  .crumbs li:not(:last-child)::after { content: "‹"; margin-inline: 10px; color: var(--copper); }
+  .crumbs a { color: var(--ink-soft); text-decoration: none; }
+  .crumbs a:hover { color: var(--bordeaux); text-decoration: underline; }
+  .crumbs [aria-current] { color: var(--ink); font-weight: 600; }
+</style>

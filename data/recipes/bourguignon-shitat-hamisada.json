@@ -1,0 +1,72 @@
+{
+  "slug": "bourguignon-shitat-hamisada",
+  "title": "בורגיניון בשיטת המסעדה",
+  "titleEn": "Boeuf Bourguignon, Restaurant Method",
+  "description": "גרסה מעודכנת של הבורגיניון: בשר שהושרה לילה במרינדת יין, תבשיל עם חזה אווז ורסק עגבניות ואפייה ארוכה בגסטרונום, עם ירקות שורש ופטריות בסוף.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["קלאסיקה צרפתית", "מנת מסעדה", "בישול איטי"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר גדול וגסטרונום",
+  "prepMin": 40,
+  "cookMin": 120,
+  "totalMin": 780,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "למרינדה", "items": [
+      { "qty": null, "unit": null, "item": "בשר בקר", "note": "חתוך לחתיכות 3×3 ס״מ", "raw": "בשר בקר, חתוך לחתיכות 3×3 ס״מ" },
+      { "qty": null, "unit": null, "item": "יין אדום לבישול", "note": "מצומצם", "raw": "יין אדום לבישול, מצומצם" },
+      { "qty": null, "unit": null, "item": "טימין", "note": null, "raw": "טימין" },
+      { "qty": null, "unit": null, "item": "עלי דפנה", "note": null, "raw": "עלי דפנה" },
+      { "qty": null, "unit": null, "item": "פלפל אנגלי", "note": null, "raw": "פלפל אנגלי" },
+      { "qty": null, "unit": null, "item": "בצל עם ציפורן", "note": null, "raw": "בצל עם ציפורן תבלין" }
+    ] },
+    { "group": "לתבשיל (הכמויות לכל 1 ק״ג בשר)", "items": [
+      { "qty": 50, "unit": "גרם", "item": "חזה אווז", "note": null, "raw": "50 גרם חזה אווז" },
+      { "qty": 2, "unit": "כפות", "item": "רסק עגבניות", "note": null, "raw": "2 כפות רסק עגבניות" },
+      { "qty": 1, "unit": null, "item": "בצל אדום", "note": "קצוץ לקוביות קטנות", "raw": "1 בצל אדום קצוץ לקוביות קטנות" },
+      { "qty": 0.5, "unit": "כפית", "item": "שום קצוץ", "note": null, "raw": "½ כפית שום קצוץ" },
+      { "qty": null, "unit": null, "item": "ציר בקר", "note": "עד כיסוי", "raw": "ציר בקר, עד כיסוי" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "לא הרבה", "raw": "מלח (לא הרבה מדי)" },
+      { "qty": null, "unit": null, "item": "גרגרי פלפל שחור שלמים", "note": "דפוקים", "raw": "גרגרי פלפל שחור שלמים, דפוקים" },
+      { "qty": 1, "unit": "כף", "item": "סוכר", "note": "ומעלה, לשבירת החמיצות", "raw": "1 כף סוכר ומעלה (לשבירת החמיצות)" },
+      { "qty": 1, "unit": "כף", "item": "קמח", "note": "לכל ק״ג בשר", "raw": "1 כף קמח לכל ק״ג בשר" }
+    ] },
+    { "group": "לסיום", "items": [
+      { "qty": null, "unit": null, "item": "קוביות ירקות שורש", "note": null, "raw": "קוביות ירקות שורש" },
+      { "qty": null, "unit": null, "item": "פטריות טריות", "note": null, "raw": "פטריות טריות" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכנת הבשר", "items": [
+      { "text": "חותכים את הבשר לחתיכות 3×3 ס״מ (ככל ששטח הפנים גדול יותר, היין חודר טוב יותר).", "timerMin": null },
+      { "text": "סוגרים את הבשר במחבת חמה ומשומנת, כמות קטנה בכל פעם, כדי שהבשר יתקרמל ולא יתבשל. מוציאים את הבשר הסגור יחד עם השמן.", "timerMin": null },
+      { "text": "מניחים את הבשר הסגור בגסטרונום שמוצב בשיפוע, כדי להפריד את המשקעים.", "timerMin": null },
+      { "text": "משרים בלילה במרינדה של יין אדום מצומצם, טימין, עלי דפנה, פלפל אנגלי ובצל עם ציפורן.", "timerMin": null }
+    ] },
+    { "group": "התבשיל", "items": [
+      { "text": "בסיר גדול משחימים את חזה האווז, ואז מזהיבים את הבצל והשום.", "timerMin": null },
+      { "text": "שופכים לסיר את הבשר, מפזרים מעל רסק עגבניות ובוחשים.", "timerMin": null },
+      { "text": "מוסיפים את נוזלי המרינדה ואת ציר הבקר עד כיסוי. מתבלים במלח (לא הרבה מדי) ובפלפל שחור שלם דפוק, ומוסיפים סוכר לשבירת החמיצות.", "timerMin": null },
+      { "text": "מבשלים כ-30 דקות לאיחוד טעמים.", "timerMin": 30 },
+      { "text": "מתקנים תיבול ומעבירים לגסטרונום. מפזרים כף קמח על כל ק״ג בשר ומבליעים אותה, מכסים ברוטב.", "timerMin": null },
+      { "text": "אופים 90 דקות ב-200 מעלות, עד שהבשר רך מאוד.", "timerMin": 90 }
+    ] },
+    { "group": "גימור", "items": [
+      { "text": "בנפרד מבשלים קוביות ירקות שורש בתוך מעט מהרוטב שנוצר.", "timerMin": null },
+      { "text": "מוסיפים אותן לתבשיל ממש לפני ההגשה, יחד עם פטריות טריות.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["מתכון המסעדה כתוב לפי יחס, ללא כמות סופית של בשר: את החומרים לתבשיל מחשבים לפי כל ק״ג בשר. גרסה מפורטת ל-8 סועדים נמצאת במתכון הבורגיניון."],
+  "story": null,
+  "source": { "type": "restaurant", "credit": null, "rewritten": false },
+  "imagePrompt": "Beef bourguignon served from a gastronorm dish: tender beef in a glossy dark red wine sauce with diced root vegetables and fresh mushrooms",
+  "alt": "בורגיניון בשר בקר ברוטב יין כהה ומבריק עם ירקות שורש ופטריות",
+  "originals": [{ "file": "בורגיניון מעודכן.doc", "driveId": "1VbU6Js57csdQ8czv4f6FJGrSOUzNLgTq" }]
+}

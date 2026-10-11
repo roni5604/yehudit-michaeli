@@ -1,0 +1,301 @@
+{
+  "slug": "levivot-hanukka-arba-tzvaim",
+  "title": "לביבות חנוכה בארבעה צבעים",
+  "titleEn": "Four-Color Hanukkah Latkes",
+  "description": "ארבעה סוגי לביבות לחג: כתומות מגזר ובטטה, ירוקות מפטרוזיליה ובצל ירוק, אדומות מסלק ותפוחי אדמה וזהובות קלאסיות.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "אירוח",
+    "צבעוני"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 45,
+  "cookMin": 40,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "לביבות כתומות (גזר ובטטה)",
+      "items": [
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "גזרים",
+          "note": "מגורדים דק",
+          "raw": "6 גזרים, מגורדים דק"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "בטטות בינוניות",
+          "note": "מגורדות דק",
+          "raw": "3 בטטות בינוניות, מגורדות דק"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "צימוקים",
+          "note": "רחוצים",
+          "raw": "1 כוס צימוקים, רחוצים"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "אגוזי בונדוק",
+          "note": "קצוצים גס",
+          "raw": "4 כפות אגוזי בונדוק, קצוצים גס"
+        },
+        {
+          "qty": 5,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "5 ביצים"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "3 כפות סוכר"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל",
+          "note": "לפי הטעם",
+          "raw": "פלפל, לפי הטעם"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "6 כפות קמח תופח"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "פירורי לחם",
+          "note": null,
+          "raw": "4 כפות פירורי לחם"
+        }
+      ]
+    },
+    {
+      "group": "לביבות ירוקות (פטרוזיליה ובצל ירוק)",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "כוסות",
+          "item": "בצל ירוק",
+          "note": "קצוץ דק",
+          "raw": "2 כוסות בצל ירוק, קצוץ דק"
+        },
+        {
+          "qty": 2,
+          "unit": "כוסות",
+          "item": "פטרוזיליה",
+          "note": "קצוצה דק",
+          "raw": "2 כוסות פטרוזיליה, קצוצה דק"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינה בולגרית",
+          "note": "מפוררת",
+          "raw": "200 גרם גבינה בולגרית, מפוררת"
+        },
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "ביצים",
+          "note": "טרופות",
+          "raw": "6 ביצים, טרופות"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "פירורי לחם",
+          "note": null,
+          "raw": "6 כפות פירורי לחם"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "קמח תופח",
+          "note": "מנופה",
+          "raw": "4 כפות קמח תופח, מנופה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": "לפי הטעם",
+          "raw": "מלח ופלפל, לפי הטעם"
+        }
+      ]
+    },
+    {
+      "group": "לביבות אדומות (סלק)",
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "סלקים",
+          "note": "מבושלים ומגורדים",
+          "raw": "4 סלקים, מבושלים ומגורדים"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "תפוחי אדמה",
+          "note": "מבושלים ומגורדים",
+          "raw": "4 תפוחי אדמה, מבושלים ומגורדים"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינת כתר",
+          "note": "מגורדת",
+          "raw": "200 גרם גבינת כתר, מגורדת"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל בינוני",
+          "note": "מגורד",
+          "raw": "1 בצל בינוני, מגורד"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "6 כפות קמח תופח"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "4 ביצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": "לפי הטעם",
+          "raw": "מלח ופלפל, לפי הטעם"
+        }
+      ]
+    },
+    {
+      "group": "לביבות זהובות (תפוחי אדמה)",
+      "items": [
+        {
+          "qty": 8,
+          "unit": null,
+          "item": "תפוחי אדמה",
+          "note": "מגורדים דק וסחוטים היטב",
+          "raw": "8 תפוחי אדמה, מגורדים דק וסחוטים היטב"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "בצלים לבנים",
+          "note": "מגורדים דק וסחוטים היטב",
+          "raw": "3 בצלים לבנים, מגורדים דק וסחוטים היטב"
+        },
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "6 ביצים"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "קמח תופח",
+          "note": "6-7 כפות",
+          "raw": "6-7 כפות קמח תופח",
+          "qtyMax": 7
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": "לפי הטעם",
+          "raw": "מלח ופלפל, לפי הטעם"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את מרכיבי הלביבות של כל צבע בקערה נפרדת.",
+          "timerMin": null
+        },
+        {
+          "text": "משהים 15 דקות, כדי שהתערובת תתגבש.",
+          "timerMin": 15
+        },
+        {
+          "text": "מטגנים כפות מכל תערובת בשמן עד שהלביבות מזהיבות משני הצדדים.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים על נייר סופג.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים חם.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "A platter of round latkes in four colours: orange carrot-sweet potato, green herb, deep red beet and golden potato latkes, arranged in groups",
+  "alt": "מגש לביבות בארבעה צבעים: כתומות, ירוקות, אדומות וזהובות",
+  "originals": [
+    {
+      "file": "לביבות חנוכה ב.doc",
+      "driveId": "1n0wBRLW2rVHjbzDu-R64rlSOkEqsNzMr"
+    },
+    {
+      "file": "לביבות חנוכה ב-4 צבעים.doc",
+      "driveId": "1f-CPGcUigYXh-kG0htiRXtmfaDmC9jQV"
+    }
+  ]
+}

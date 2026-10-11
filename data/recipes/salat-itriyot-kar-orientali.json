@@ -1,0 +1,181 @@
+{
+  "slug": "salat-itriyot-kar-orientali",
+  "title": "סלט איטריות קר ברוטב אוריאנטלי",
+  "titleEn": "Cold Noodle Salad with Sesame-Tahini Dressing",
+  "description": "סלט איטריות שטוחות ברוטב טחינה וסויה עם שמן סומסום, ג׳ינג׳ר ושום. מוגש קר או בטמפרטורת החדר.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": "chinese",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [
+    "סלט קר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 10,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "לסלט",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "כוסות",
+          "item": "איטריות שטוחות ארוכות יבשות",
+          "note": null,
+          "raw": "2 כוסות איטריות שטוחות ארוכות יבשות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן סומסום",
+          "note": "לערבוב עם האיטריות החמות",
+          "raw": "שמן סומסום, לערבוב עם האיטריות החמות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בצל ירוק",
+          "note": "קצוץ",
+          "raw": "בצל ירוק, קצוץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שום קלוי",
+          "note": null,
+          "raw": "שום קלוי"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חסה",
+          "note": "ברצועות דקות",
+          "raw": "חסה, ברצועות דקות"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "טחינה גולמית או חמאת בוטנים",
+          "note": null,
+          "raw": "½ כוס טחינה גולמית או חמאת בוטנים"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "מים רותחים",
+          "note": null,
+          "raw": "¼ כוס מים רותחים"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "שמן סומסום",
+          "note": null,
+          "raw": "4 כפות שמן סומסום"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "רוטב סויה",
+          "note": null,
+          "raw": "6 כפות רוטב סויה"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "חומץ",
+          "note": null,
+          "raw": "3 כפות חומץ"
+        },
+        {
+          "qty": 3,
+          "unit": "כפיות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "3 כפיות סוכר"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום כתוש",
+          "note": null,
+          "raw": "2-3 שיני שום כתושות",
+          "qtyMax": 3
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "ג׳ינג׳ר כתוש",
+          "note": null,
+          "raw": "1 כף ג׳ינג׳ר כתוש"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "טבסקו",
+          "note": "לפי הטעם",
+          "raw": "טבסקו, לפי הטעם"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את האיטריות במים, מסננים ומיד מערבבים עם מעט שמן סומסום.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבדים במעבד מזון את הטחינה או חמאת הבוטנים עם שאר מרכיבי הרוטב עד לתערובת חלקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים את הרוטב עם האיטריות בעדינות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים בצל ירוק, שום קלוי ורצועות חסה, ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים קר או בטמפרטורת החדר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "הבחירה בין טחינה לחמאת בוטנים משנה את הטעם באופן מהותי."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Chilled flat noodles in a creamy sesame sauce with sliced scallions and shredded lettuce in a white bowl",
+  "alt": "איטריות שטוחות קרות ברוטב טחינה וסומסום עם בצל ירוק וחסה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

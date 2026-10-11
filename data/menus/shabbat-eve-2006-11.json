@@ -1,0 +1,195 @@
+{
+  "slug": "shabbat-eve-2006-11",
+  "title": "תפריט ערב שבת · נובמבר 2006",
+  "titleEn": "Friday-night menu · November 2006",
+  "date": "2006-11",
+  "season": null,
+  "occasion": "ערב שבת",
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": "תפריט לערב שבת · רשפון, 3 בנובמבר 2006",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "כבד אווז",
+          "desc": "ברוטב פירות יער",
+          "price": "55 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קבבונים רומנים",
+          "desc": "עם שומים אפויים",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קלמרי ממולאים",
+          "desc": "בפולנטת עשבי תיבול",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "עם תפוחים, שקדים וגבינת צאן",
+          "price": "35 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק בצל או מרק עגבניות פרובנסלי",
+          "price": "35 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "ברוטב פלפלת",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת בקר ביין",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית",
+          "desc": "במרינדת עשבי תיבול",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף ממולא באווז מעושן וגבינת אמנטל",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג בורי",
+          "desc": "בשמנת וקוויאר סלמון",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס",
+          "desc": "ממולא בתרד וצנוברים",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "שוק טלה",
+          "price": "95 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות",
+          "desc": "צמחוני",
+          "price": "70 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "פלטת גבינות משק",
+          "desc": "עם פירות ואגוזים קלויים",
+          "price": "55 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "desc": "עוגת תפוחים חמה",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס גאנש שוקולד ומוס אספרסו",
+          "desc": "עם קרוקנט אגוזים",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה",
+          "desc": "במעטפת מרציפן",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מעדן טפיוקה",
+          "desc": "מנגו ופסיפלורה עם סורבה קוקוס",
+          "price": "38 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "שתייה חמה",
+      "items": [
+        {
+          "name": "אספרסו קצר / ארוך",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרסו כפול",
+          "price": "12 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קפה הפוך",
+          "price": "13 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קפה שחור",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "תה בטעמים CEREMONIE",
+          "price": "14 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חליטת צמחי הבית",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חליטת פירות",
+          "price": "15 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט ערב שבת נומבבר 2006.doc",
+      "driveId": "1AiUu-fiq48N9E9JH7llGBqba_XnUIaCQ"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "silvester-en",
+  "title": "תפריט סילבסטר · באנגלית",
+  "titleEn": "New Year's Eve menu",
+  "date": null,
+  "season": "winter",
+  "occasion": "סילבסטר",
+  "kind": "holiday",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Small starters",
+      "items": [
+        {
+          "name": "Bloody Mary",
+          "desc": "Cocktail",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Lemonade & Ouzo",
+          "desc": "Cocktail",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Glühwein",
+          "desc": "Spicy warm wine",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Oyster with Bloody Mary",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea Scallops Soufflé",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mini Quiche Lorraine",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Asparagus crunchy bake",
+          "price": "20 Nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Foie Gras Grillé",
+          "desc": "Grilled goose liver served with a red berries sauce",
+          "price": "50 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tuna fish steak with black pepper",
+          "price": "50 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crevettes au Beurre",
+          "desc": "Shrimps sautéed in seasoned butter",
+          "price": "50 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Chou Farci",
+          "desc": "Stuffed cabbage in a tomato & sauerkraut sauce served with mamaliga",
+          "price": "45 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte aux Légumes",
+          "desc": "Vegetables of the season tart",
+          "price": "45 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Salade Verte",
+          "desc": "Tossed green salad with goat's cheese",
+          "price": "35 Nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Just Before the Main Courses",
+      "items": [
+        {
+          "name": "Rashad salad with flowers",
+          "price": "20 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cream of tomato soup",
+          "price": "20 Nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main courses",
+      "items": [
+        {
+          "name": "Veal rib steak (450 gr.)",
+          "desc": "Together with roasted onion",
+          "price": "105 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Baby chicken filled with goose liver",
+          "price": "99 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Poitrine de Volaille Farcie",
+          "desc": "Chicken breast stuffed with smoked goose & Emmental cheese",
+          "price": "85 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Poulet Sauté au Calvados",
+          "desc": "Sautéed baby chicken cooked with apples & calvados cream",
+          "price": "80 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Confit d'Oie",
+          "desc": "Goose leg confit with honey & spices",
+          "price": "80 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Entrecôte au Poivre à la Bordelaise",
+          "desc": "Grilled sirloin steak with pepper sauce or beef marrow",
+          "price": "85 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "price": "80 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Choucroute Garnie",
+          "desc": "Sauerkraut with assorted sausages & smoked meats",
+          "price": "80 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gigot d'Agneau",
+          "desc": "Roasted leg of lamb",
+          "price": "90 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Duet Filet de Poisson",
+          "desc": "Sea fish fillet together with a trout fillet in herb cream",
+          "price": "85 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Dorade Royale Farcie à la Florentine",
+          "desc": "Boneless gilthead bream stuffed with spinach",
+          "price": "80 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gnocchi",
+          "desc": "Housemade gnocchi with vegetables – vegetarian dish",
+          "price": "70 Nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Assortiment de Fromages",
+          "desc": "Selection of Israeli farmhouse cheeses",
+          "price": "55 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake with cinnamon ice-cream",
+          "price": "32 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au Chocolat",
+          "desc": "A rich chocolate mousse",
+          "price": "32 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crêpes Suzette",
+          "desc": "In orange caramel",
+          "price": "32 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbet flavors wrapped in marzipan",
+          "price": "32 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crème Brûlée",
+          "price": "32 Nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Surprises Douces",
+          "desc": "Four mini sweet desserts",
+          "price": "45 Nis",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט סילבסטר באנגלית.doc",
+      "driveId": "1vQq0f4ALezu5ItM8lwqW03dZUrJGC4tk"
+    }
+  ]
+}

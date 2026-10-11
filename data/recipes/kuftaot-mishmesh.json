@@ -1,0 +1,189 @@
+{
+  "slug": "kuftaot-mishmesh",
+  "title": "כופתאות משמש",
+  "titleEn": "Apricot Dumplings",
+  "description": "כופתאות מבצק תפוחי אדמה עם משמש יבש במרכז, מבושלות ומגולגלות בפירורי ביסקוויטים ואגוזים מטוגנים בחמאה. מוגשות עם סוכר וקינמון.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "קינוח חם",
+    "אירוח",
+    "קלאסיקה משפחתית"
+  ],
+  "servings": null,
+  "yield": "80 כופתאות",
+  "pan": null,
+  "prepMin": 60,
+  "cookMin": 90,
+  "totalMin": 150,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "לבצק",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "ק״ג",
+          "item": "תפוחי אדמה",
+          "note": "כ-15 בינוניים",
+          "raw": "2 ק״ג תפוחי אדמה, כ-15 בינוניים"
+        },
+        {
+          "qty": 750,
+          "unit": "גרם",
+          "item": "קמח",
+          "note": "6 כוסות",
+          "raw": "750 גרם קמח, 6 כוסות"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "4 ביצים"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "50 גרם חמאה"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית מלח"
+        }
+      ]
+    },
+    {
+      "group": "למילוי",
+      "items": [
+        {
+          "qty": 80,
+          "unit": null,
+          "item": "משמשים יבשים",
+          "note": "שטופים ומושרים במים 10 דקות",
+          "raw": "80 משמשים יבשים, שטופים ומושרים במים 10 דקות"
+        }
+      ]
+    },
+    {
+      "group": "לסיום",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "חמאה מומסת",
+          "note": null,
+          "raw": "200 גרם חמאה מומסת"
+        },
+        {
+          "qty": 4,
+          "unit": "כוסות",
+          "item": "פירורי ביסקוויטים",
+          "note": "מעורבים בפירורי אגוזי מלך",
+          "raw": "4 כוסות פירורי ביסקוויטים, מעורבים בפירורי אגוזי מלך"
+        }
+      ]
+    },
+    {
+      "group": "להגשה בצד",
+      "items": [
+        {
+          "qty": 12,
+          "unit": "כפות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "12 כפות סוכר"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "קינמון",
+          "note": null,
+          "raw": "2 כפיות קינמון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "אופים את תפוחי האדמה בשלמותם ומרוקנים מהקליפה בעודם חמים.",
+          "timerMin": null
+        },
+        {
+          "text": "מועכים ומוסיפים קמח, רק כמה שצריך (כמה שפחות, כדי שהכופתאות יהיו קלות יותר), ולשים לתערובת אחידה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הביצים אחת אחת, 50 גרם חמאה רכה ומלח.",
+          "timerMin": null
+        },
+        {
+          "text": "ממשיכים ללוש עד לקבלת בצק אחיד ורך.",
+          "timerMin": null
+        },
+        {
+          "text": "מרדדים את הבצק על משטח מקומח היטב לעלה בעובי 1 ס״מ וחותכים ריבועים של כ-5 ס״מ.",
+          "timerMin": null
+        },
+        {
+          "text": "שמים במרכז כל ריבוע משמש (מסונן היטב ממים) ומהדקים מעליו את הבצק לצרור קטן.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הכופתאות בסיר גדול עם מי מלח רותחים, עד שהן צפות ועוד 5 דקות.",
+          "timerMin": 5
+        },
+        {
+          "text": "מוציאים מהמים עם כף מחוררת.",
+          "timerMin": null
+        },
+        {
+          "text": "ממיסים את שארית החמאה במחבת ומטגנים את פירורי הביסקוויטים והאגוזים עד לזהוב.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הכופתאות ומגלגלים אותן כדי שהפירורים יידבקו אליהן.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים עם צלוחית סוכר וקינמון, שכל סועד מוסיף לעצמו.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Round potato-dough dumplings coated in golden buttery crumbs and chopped walnuts, one cut open to reveal an apricot inside, on a plate beside a small dish of cinnamon sugar",
+  "alt": "כופתאות מצופות פירורים זהובים ואגוזים, אחת חצויה וחושפת משמש, לצד צלוחית סוכר וקינמון",
+  "originals": [
+    {
+      "file": "כופתאות משמש.doc",
+      "driveId": "1co2mP3zNwhiNYq0bETTxDn3H1LbDvjzt"
+    },
+    {
+      "file": "כופתאות משמש.doc",
+      "driveId": "1splYAAf-0i1s6eWoB-7WDFnRxXVdwMSL"
+    }
+  ]
+}

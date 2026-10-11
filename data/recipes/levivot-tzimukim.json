@@ -1,0 +1,142 @@
+{
+  "slug": "levivot-tzimukim",
+  "title": "לביבות צימוקים",
+  "titleEn": "Raisin Pancakes",
+  "description": "לביבות מתוקות עם צימוקים שהושרו בליקר, מטוגנות בחמאה ומוגשות עם ריבה או קרם פרש ואבקת סוכר.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "מתוק",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": "50 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2.5,
+          "unit": "כוסות",
+          "item": "חלב",
+          "note": null,
+          "raw": "2½ כוסות חלב"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "סוכר",
+          "note": null,
+          "raw": "½ כוס סוכר"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "תמצית וניל",
+          "note": null,
+          "raw": "2 כפיות תמצית וניל"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 5,
+          "unit": "כוסות",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "5 כוסות קמח תופח"
+        },
+        {
+          "qty": 4,
+          "unit": "כוסות",
+          "item": "צימוקים",
+          "note": "מושרים בליקר ומסוננים",
+          "raw": "4 כוסות צימוקים, מושרים בליקר ומסוננים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חמאה",
+          "note": "לטיגון",
+          "raw": "חמאה, לטיגון"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "ריבה או קרם פרש",
+          "note": null,
+          "raw": "ריבה או קרם פרש"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת סוכר",
+          "note": null,
+          "raw": "אבקת סוכר"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את החומרים לבלילה.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים בחמאה.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים עם ריבה או קרם פרש ואבקת סוכר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Golden sweet pancakes studded with raisins, dusted with powdered sugar and served with jam",
+  "alt": "לביבות מתוקות עם צימוקים, מאובקות בסוכר, עם ריבה",
+  "originals": [
+    {
+      "file": "לביבות מתוקות.doc",
+      "driveId": "10lhoyaTLCDrGXqJvMKDDYfju4u6pw5Oc"
+    },
+    {
+      "file": "לביבות מתוקות.doc",
+      "driveId": "167HTovzb6dJZG4Lce2noIgYmMK191S2h"
+    }
+  ]
+}

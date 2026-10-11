@@ -1,0 +1,92 @@
+{
+  "slug": "independence-day-2004",
+  "title": "סעודת יום העצמאות ה-56 · אפריל 2004",
+  "titleEn": "Independence Day feast · April 2004",
+  "date": "2004-04",
+  "season": "spring",
+  "occasion": "יום העצמאות",
+  "kind": "holiday",
+  "language": "he",
+  "intro": "מיכאלי, מטבח כפרי · סעודת יום העצמאות ה-56 · רשפון, 27 באפריל 2004 · המחיר: 300 ₪ לזוג (מנת ילדים 100 ₪)",
+  "sections": [
+    {
+      "name": "פלטת בשרים זוגית (כ-800 גר')",
+      "items": [
+        {
+          "name": "נתחי אנטרקוט ונתחי סינטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "רבעי פרגית צעירה על הגריל",
+          "recipeSlug": null
+        },
+        {
+          "name": "הקבב המתובל שלנו",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג בס הסלע (שלם) אפוי בעשבי תיבול",
+          "desc": "לחלופין לפלטת הבשרים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מגוון תוספות",
+      "items": [
+        {
+          "name": "תפוחי אדמה אפויים (“קרטושקס”)",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ישראלי קצוץ דק-דק",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פלפלים קלויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט כרוב צרפתי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק בוינגרט",
+          "recipeSlug": null
+        },
+        {
+          "name": "חמאה, טחינה ירוקה וסלסה פיקנטית",
+          "recipeSlug": null
+        },
+        {
+          "name": "פיתות ומחמצים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "תותי-שדה עם קצפת או סורבה פירות",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחי עץ",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט עצמאות.doc",
+      "driveId": "1e4c6AQ9Pm4xK-xE1V7fffVtiMe1w7ACx"
+    }
+  ]
+}

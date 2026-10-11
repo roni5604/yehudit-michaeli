@@ -1,0 +1,157 @@
+{
+  "slug": "salat-dagim-kar",
+  "title": "סלט דגים קר בעגבניות",
+  "titleEn": "Cold Fish Salad in Tomato Cups",
+  "description": "סלט דג מבושל ומרוסק עם בצל, שום, חרדל ושמיר, ממולא בחצאי עגבניות ומעוטר בפרוסת מלפפון חמוץ.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [
+    "מנה ראשונה",
+    "קר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 10,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "דג קפוא",
+          "note": "מתאים פילה, מבושל במעט מי מלח",
+          "raw": "דג קפוא, מתאים פילה, מבושל במעט מי מלח"
+        },
+        {
+          "qty": 1,
+          "unit": "שן",
+          "item": "שום",
+          "note": "מעוכה",
+          "raw": "1 שן שום, מעוכה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "קצוץ",
+          "raw": "1 בצל, קצוץ"
+        },
+        {
+          "qty": 0.5,
+          "unit": null,
+          "item": "לימון",
+          "note": "מיץ",
+          "raw": "½ לימון, מיץ"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן",
+          "note": null,
+          "raw": "2 כפות שמן"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "קטשופ",
+          "note": null,
+          "raw": "1 כף קטשופ"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "חרדל",
+          "note": null,
+          "raw": "1 כפית חרדל"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "מיונית",
+          "note": "או שמנת",
+          "raw": "2 כפות מיונית, או שמנת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמיר קצוץ",
+          "note": null,
+          "raw": "שמיר קצוץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח, פלפל ופפריקה",
+          "note": null,
+          "raw": "מלח, פלפל ופפריקה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עגבניות",
+          "note": null,
+          "raw": "עגבניות למילוי"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלפפון חמוץ",
+          "note": null,
+          "raw": "פרוסות מלפפון חמוץ לקישוט"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הדג במעט מי מלח ומקררים אותו מעט.",
+          "timerMin": null
+        },
+        {
+          "text": "מועכים את הדג לחתיכות קטנות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שן שום מעוכה, בצל קצוץ, מיץ מחצי לימון, שמן, קטשופ, חרדל, מיונית או שמנת, שמיר קצוץ, מלח, פלפל ופפריקה, ומערבבים היטב.",
+          "timerMin": null
+        },
+        {
+          "text": "חוצים עגבניות ומוציאים מהן את הפנים.",
+          "timerMin": null
+        },
+        {
+          "text": "ממלאים את העגבניות בסלט הדגים ומניחים על כל עגבנייה פרוסת מלפפון חמוץ.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Halved tomatoes scooped out and filled with creamy flaked fish salad, each topped with a slice of pickled cucumber, on a platter",
+  "alt": "חצאי עגבניות ממולאים בסלט דגים עם פרוסת מלפפון חמוץ על כל אחד, על מגש",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

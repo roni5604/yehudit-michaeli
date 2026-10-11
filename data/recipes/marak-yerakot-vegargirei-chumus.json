@@ -1,0 +1,159 @@
+{
+ "slug": "marak-yerakot-vegargirei-chumus",
+ "title": "מרק ירקות וגרגרי חומוס",
+ "titleEn": "Vegetable and Chickpea Soup",
+ "description": "מרק ירקות פשוט ומנחם עם דלעת, שעועית ירוקה, גרגרי חומוס ועלי סלרי, בתיבול כמון וכורכום.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "מרק",
+  "צמחוני",
+  "חורף"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 20,
+ "cookMin": 60,
+ "totalMin": 80,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים דק",
+     "raw": "2 בצלים קצוצים דק"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "גזרים",
+     "note": "פרוסים",
+     "raw": "4 גזרים פרוסים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "חתוכים לרבעים",
+     "raw": "2 בצלים חתוכים לרבעים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גרגרי חומוס מבושלים",
+     "note": null,
+     "raw": "גרגרי חומוס מבושלים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "דלעת",
+     "note": null,
+     "raw": "דלעת"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שעועית ירוקה טרייה",
+     "note": null,
+     "raw": "חופן שעועית ירוקה טרייה"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי סלרי",
+     "note": null,
+     "raw": "צרור עלי סלרי"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גבעולי סלרי",
+     "note": "קצוצים",
+     "raw": "גבעולי סלרי קצוצים"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי פטרוזיליה",
+     "note": "קצוצים",
+     "raw": "צרור עלי פטרוזיליה קצוצה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור, כמון וכורכום"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "אבקת מרק עוף"
+    },
+    {
+     "qty": 12,
+     "unit": "כוסות",
+     "item": "מים",
+     "note": null,
+     "raw": "12 כוסות מים"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים את שני הבצלים הקצוצים בשמן זית עד הזהבה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את שאר החומרים והמים ומתבלים לפי הטעם.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים כשעה, ומתקנים תיבול.",
+     "timerMin": 60
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Chunky vegetable soup with chickpeas, pumpkin, green beans, carrots and celery leaves in a golden broth",
+ "alt": "מרק ירקות עם גרגרי חומוס, דלעת ושעועית ירוקה",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

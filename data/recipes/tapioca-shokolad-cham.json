@@ -1,0 +1,57 @@
+{
+  "slug": "tapioca-shokolad-cham",
+  "title": "קינוח טפיוקה ושוקולד חם",
+  "titleEn": "Tapioca Dessert with Hot Chocolate Sauce",
+  "description": "גביעי טפיוקה בקרם שמנת, חלב ואספרסו, שמוגשים עם רוטב שוקולד מריר חם ואגוזים שבורים.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קינוח בגביעים", "שוקולד", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "גביעי קינוח",
+  "prepMin": 20,
+  "cookMin": 20,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לטפיוקה", "items": [
+      { "qty": 1, "unit": "כוס", "item": "טפיוקה", "note": null, "raw": "1 כוס טפיוקה" },
+      { "qty": 3, "unit": "כוסות", "item": "מים", "note": null, "raw": "3 כוסות מים" },
+      { "qty": 1.5, "unit": "כוסות", "item": "סוכר", "note": null, "raw": "1½ כוסות סוכר" }
+    ] },
+    { "group": "לקרם", "items": [
+      { "qty": 500, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "500 מ״ל שמנת מתוקה" },
+      { "qty": 200, "unit": "מ״ל", "item": "חלב", "note": null, "raw": "200 מ״ל חלב" },
+      { "qty": 60, "unit": "מ״ל", "item": "רוזטה או אספרסו מרוכז", "note": "או 2 כוסיות אספרסו מרוכז", "raw": "60 מ״ל רוזטה או 2 כוסיות אספרסו מרוכז" }
+    ] },
+    { "group": "לרוטב", "items": [
+      { "qty": 200, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "200 גרם שוקולד מריר" },
+      { "qty": 100, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "100 מ״ל שמנת מתוקה" },
+      { "qty": 40, "unit": "גרם", "item": "חמאה", "note": null, "raw": "40 גרם חמאה" },
+      { "qty": 200, "unit": "גרם", "item": "אגוזים שבורים", "note": null, "raw": "200 גרם אגוזים שבורים" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הטפיוקה", "items": [
+      { "text": "מבשלים את הטפיוקה עם המים על אש בינונית כ-20 דקות.", "timerMin": 20 },
+      { "text": "מוסיפים סוכר ומבשלים עד שהסוכר נמס וכל הנוזלים נספגים. מצננים.", "timerMin": null }
+    ] },
+    { "group": "הרכבה", "items": [
+      { "text": "מערבבים את הטפיוקה עם החלב, השמנת והאספרסו ויוצקים לגביעי קינוח.", "timerMin": null },
+      { "text": "ממיסים שוקולד וחמאה, מוסיפים את השמנת, יוצקים לגביעים ומפזרים אגוזים מעל.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["הטפיוקה המבושלת נשמרת עד שבוע במקרר."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Dessert glasses of creamy pale tapioca pudding topped with glossy dark chocolate sauce and broken walnuts",
+  "alt": "גביעי קינוח עם טפיוקה בהירה, רוטב שוקולד מריר מבריק ואגוזים שבורים",
+  "originals": [
+    { "file": "טפיוקה 2.doc", "driveId": "15XiZ4Sta4b8QpoBKNkOsNnzMpTFKT2Hh" }
+  ]
+}

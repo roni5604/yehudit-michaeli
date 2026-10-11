@@ -1,0 +1,191 @@
+{
+ "slug": "marak-agvaniyot-kluyot",
+ "title": "מרק עגבניות קלויות",
+ "titleEn": "Roasted Tomato Soup",
+ "description": "מרק עגבניות עשיר שמתחיל בעגבניות שרי קלויות עם שום, ומשלים בבטטה, בזיליקום ופטרוזיליה. טוחנים עד המרקם הרצוי.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "italian",
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "מרק",
+  "חורף",
+  "טבעוני"
+ ],
+ "servings": 10,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 25,
+ "cookMin": 100,
+ "totalMin": 125,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": "סלסלה",
+     "item": "עגבניות שרי",
+     "note": null,
+     "raw": "1 סלסלת עגבניות שרי"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 4,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "קצוץ",
+     "raw": "4 שיני שום לצלייה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים",
+     "raw": "2 בצלים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "גזרים",
+     "note": "מגורדים דק",
+     "raw": "2 גזרים"
+    },
+    {
+     "qty": 4,
+     "unit": "שיני",
+     "item": "שום",
+     "note": null,
+     "raw": "4 שיני שום נוספות"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "בטטה גדולה",
+     "note": "בקוביות קטנות",
+     "raw": "1 בטטה גדולה"
+    },
+    {
+     "qty": 800,
+     "unit": "גרם",
+     "item": "עגבניות מרוסקות",
+     "note": null,
+     "raw": "800 גרם עגבניות מרוסקות"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "1 כף רסק עגבניות"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "אבקת מרק בצל",
+     "note": null,
+     "raw": "2 כפות אבקת מרק בצל"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "סוכר",
+     "note": null,
+     "raw": "2 כפות סוכר"
+    },
+    {
+     "qty": 5,
+     "unit": null,
+     "item": "עלי בזיליקום",
+     "note": "קצוצים",
+     "raw": "5–6 עלי בזיליקום",
+     "qtyMax": 6
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי פטרוזיליה",
+     "note": null,
+     "raw": "צרור עלי פטרוזיליה"
+    },
+    {
+     "qty": 12,
+     "unit": "כוסות",
+     "item": "מים",
+     "note": null,
+     "raw": "12 כוסות מים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור גרוס, פפריקה ואורגנו"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "חוצים את עגבניות השרי ואופים בתנור עם שמן זית וארבע שיני שום קצוצות כחצי שעה ב-200 מעלות, עד שהקצוות משחירים.",
+     "timerMin": 30
+    },
+    {
+     "text": "מטגנים בשמן זית את הבצלים הקצוצים, מוסיפים את הגזר ואת השום.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את העגבניות הקלויות ומבשלים כ-10 דקות תוך בחישה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את הבטטה, אבקת מרק הבצל, רסק העגבניות והעגבניות המרוסקות. מערבבים, מתבלים ויוצקים מים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים בזיליקום ופטרוזיליה, מביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים כשעה.",
+     "timerMin": 60
+    },
+    {
+     "text": "טוחנים בבלנדר מוט עד המרקם הרצוי.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Deep red roasted tomato soup in a bowl, blistered cherry tomatoes and basil leaves on top, drizzle of olive oil",
+ "alt": "מרק עגבניות קלויות אדום עמוק עם עלי בזיליקום וטפטוף שמן זית",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "slug": "marak-adashim-vekabanos",
+ "title": "מרק עדשים וקבנוס",
+ "titleEn": "Lentil Soup with Kabanos Sausage",
+ "description": "מרק עדשים חומות סמיך עם ירקות, מתובל בפפריקה וכמון, ומוסיפים בסופו גזרים שלמים ופרוסות נקניקיית קבנוס.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "חורף",
+  "מנחם"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 25,
+ "cookMin": 160,
+ "totalMin": 185,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": "חבילה",
+     "item": "עדשים חומות",
+     "note": null,
+     "raw": "1 חבילה עדשים חומות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 30,
+     "unit": "גרם",
+     "item": "חמאה",
+     "note": null,
+     "raw": "30 גרם חמאה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים בינוניים",
+     "note": "קצוצים דק",
+     "raw": "2 בצלים בינוניים קצוצים דק"
+    },
+    {
+     "qty": 6,
+     "unit": "שיני",
+     "item": "שום",
+     "note": null,
+     "raw": "6 שיני שום"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "גזרים",
+     "note": "מגורדים",
+     "raw": "3 גזרים מגורדים"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "עגבניות גדולות",
+     "note": "מגורדות",
+     "raw": "3 עגבניות גדולות מגורדות"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "1 כוס פטרוזיליה קצוצה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פפריקה מתוקה וכמון",
+     "note": null,
+     "raw": "פפריקה מתוקה וכמון"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "אבקת מרק עוף לפי הטעם"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "1 כף רסק עגבניות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גזרים שלמים",
+     "note": null,
+     "raw": "גזרים שלמים נוספים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "נקניקיית קבנוס",
+     "note": "בפרוסות",
+     "raw": "קבנוס"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "משרים את העדשים כמה שעות במים.",
+     "timerMin": null
+    },
+    {
+     "text": "מחממים בסיר שמן וחמאה ומוסיפים בצל, שום, גזר ועגבניות מגורדות. מטגנים כ-10 דקות.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים עדשים, פטרוזיליה, אבקת מרק ומים רותחים, ומתבלים. מביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים על אש נמוכה כשעתיים, עד שהעדשים רכים והמרק סמיך.",
+     "timerMin": 120
+    },
+    {
+     "text": "אם רוצים, מרסקים בבלנדר מוט בכמה פולסים בלבד, כך שרק חלק מהמרק מרוסק.",
+     "timerMin": null
+    },
+    {
+     "text": "בגרסה הזו מוציאים את הגזרים השלמים לפני הריסוק, ואחריו מחזירים אותם לסיר יחד עם פרוסות הקבנוס לעוד רבע שעה.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Thick brown lentil soup with whole carrots and slices of kabanos sausage in a rustic bowl",
+ "alt": "מרק עדשים חומות סמיך עם גזרים שלמים ופרוסות קבנוס",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

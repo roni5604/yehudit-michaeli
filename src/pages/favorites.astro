@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+---
+<BaseLayout title="המועדפים שלי" description="המתכונים ששמרת. נשמרים רק בדפדפן שלך." noindex>
+  <div class="container-x head">
+    <Breadcrumbs items={[{ label: "המועדפים שלי" }]} />
+    <h1>המועדפים שלי</h1>
+    <p class="lede">המתכונים שסימנת בלב ♡. הם נשמרים רק בדפדפן הזה.</p>
+  </div>
+  <section class="container-x"><ul id="fav-list" class="fav-list"></ul><p id="fav-empty" class="empty" hidden>עוד לא שמרת מתכונים. <a href="/recipes">לכל המתכונים</a></p></section>
+</BaseLayout>
+<script>
+  import { getFavs, toggleFav } from "../scripts/store";
+  async function render() {
+    const list = document.getElementById("fav-list");
+    if (!list) return;
+    const favs = getFavs();
+    document.getElementById("fav-empty")!.hidden = favs.length > 0;
+    const rows: { id: string; s: string | null; u: string; f: string }[] = favs.length ? await fetch("/recipes-index.json").then((r) => r.json()) : [];
+    const by = new Map<string, (typeof rows)[number]>();
+    for (const r of rows) { by.set(r.id, r); if (r.s) by.set(r.s, r); }
+    list.innerHTML = "";
+    for (const f of favs) {
+      const r = by.get(f.slug);
+      const href = r ? (r.s ? `/recipes/${r.s}` : r.u) : `/recipes/${f.slug}`;
+      const ext = !!r && !r.s;
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="${href}" ${ext ? 'target="_blank" rel="noopener"' : ""}>${f.title.replace(/</g, "&lt;")}${ext ? " ↗" : " ✦"}</a><span>${r?.f ?? ""}</span><button type="button" class="icon-btn" aria-label="הסרה מהמועדפים">✕</button>`;
+      li.querySelector("button")!.addEventListener("click", () => { toggleFav(f.slug, f.title); render(); });
+      list.appendChild(li);
+    }
+  }
+  render();
+  document.addEventListener("astro:page-load", render);
+</script>
+<style>
+  .head { padding-block: 24px 20px; } .head h1 { margin: 10px 0 8px; }
+  .fav-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  .fav-list :global(li) { display: grid; grid-template-columns: 1fr auto 44px; gap: 14px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 16px; }
+  .fav-list :global(a) { font-family: var(--font-display); font-weight: 700; font-size: 1.15rem; text-decoration: none; }
+  .fav-list :global(span) { color: var(--ink-mute); font-size: .9rem; }
+  .empty { color: var(--ink-soft); font-size: 1.1rem; }
+</style>

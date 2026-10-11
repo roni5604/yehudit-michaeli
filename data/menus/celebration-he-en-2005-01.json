@@ -1,0 +1,104 @@
+{
+  "slug": "celebration-he-en-2005-01",
+  "title": "ארוחה חגיגית (אירוע פרטי) · ינואר 2005",
+  "titleEn": "Festive dinner (private event) · January 2005",
+  "date": "2005-01",
+  "season": "winter",
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "מזל טוב",
+  "sections": [
+    {
+      "name": "מנות ראשונות לבחירה",
+      "items": [
+        {
+          "name": "כבד אווז ברוטב פירות יער",
+          "nameEn": "Grilled goose liver served with a red berries sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "סופלה של קוקי-סאן-ז'אק",
+          "nameEn": "Sea scallops soufflé",
+          "recipeSlug": null
+        },
+        {
+          "name": "כרוב ממולא בבשר עגל מוגש עם ממליגה",
+          "nameEn": "Stuffed cabbage in tomato & sauerkraut sauce with mamaliga",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט ירקות",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנת ביניים",
+      "items": [
+        {
+          "name": "מרק ירקות כתומים",
+          "nameEn": "Orange vegetables soup",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתכם",
+      "items": [
+        {
+          "name": "פילה בקר עם רוטב פלפלת",
+          "nameEn": "Filet mignon with pepper sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז ברוטב דבש ושבעת התבלינים",
+          "nameEn": "Goose leg confit with honey & spices",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס א-לה פלורנטין (ממולא בתרד)",
+          "nameEn": "Gilthead bream (boneless) stuffed with spinach",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה",
+          "nameEn": "Roasted leg of lamb",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "nameEn": "Tarte Tatin",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובה",
+          "nameEn": "Pavlova",
+          "recipeSlug": null
+        },
+        {
+          "name": "חבושים ואגסים (ללא סוכר)",
+          "nameEn": "Baked quinces & pears (sugarless)",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "13GerQUZYEdE55kZX1C8SON4cFCQeeEtr"
+    }
+  ]
+}

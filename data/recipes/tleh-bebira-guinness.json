@@ -1,0 +1,65 @@
+{
+  "slug": "tleh-bebira-guinness",
+  "title": "טלה בבירה גינס",
+  "titleEn": "Lamb Braised in Guinness",
+  "description": "פרוסות שוק טלה שמושרות יממה בבירה כהה, דבש, תבלינים וירקות, ומתבשלות בתנור ארבע שעות עם בצלצלים וכרישה. תבשיל חורף עמוק ומתובל.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["תבשיל", "בישול איטי", "חורף"],
+  "servings": null,
+  "yield": null,
+  "pan": "קדירה גדולה",
+  "prepMin": 30,
+  "cookMin": 240,
+  "totalMin": 1710,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "להשריה", "items": [
+      { "qty": 2.5, "unit": "ק״ג", "item": "שוק טלה", "note": "פרוס לפרוסות בעובי 4-5 ס״מ", "raw": "2½ ק״ג שוק טלה, פרוס לפרוסות בעובי 4-5 ס״מ" },
+      { "qty": 2, "unit": null, "item": "בקבוקי בירה גינס", "note": null, "raw": "2 בקבוקי בירה גינס" },
+      { "qty": 4, "unit": null, "item": "גזרים", "note": "חתוכים לרצועות עבות באורך 4 ס״מ", "raw": "4 גזרים חתוכים לרצועות עבות באורך 4 ס״מ" },
+      { "qty": 4, "unit": "כפות", "item": "סוכר חום", "note": null, "raw": "4 כפות סוכר חום" },
+      { "qty": 1, "qtyMax": 2, "unit": "כפות", "item": "דבש", "note": null, "raw": "1-2 כפות דבש" },
+      { "qty": null, "unit": null, "item": "סלרי", "note": "פרוס גס", "raw": "סלרי פרוס גס" },
+      { "qty": 3, "unit": "כפיות", "item": "זרעי כוסברה", "note": null, "raw": "3 כפיות זרעי כוסברה" },
+      { "qty": 10, "unit": null, "item": "גרגרי ציפורן", "note": null, "raw": "10 גרגרי ציפורן" },
+      { "qty": 4, "unit": "שיני", "item": "שום", "note": "פרוסות גס", "raw": "4 שיני שום פרוסות גס" },
+      { "qty": 1, "unit": null, "item": "בוקה גרני", "note": "טימין, רוזמרין ופטרוזיליה", "raw": "בוקה גרני של טימין, רוזמרין ופטרוזיליה" },
+      { "qty": 1, "unit": null, "item": "עלה דפנה", "note": null, "raw": "עלה דפנה" }
+    ] },
+    { "group": "לבישול", "items": [
+      { "qty": 10, "unit": null, "item": "בצלים קטנים", "note": null, "raw": "10 בצלים קטנים" },
+      { "qty": 2, "unit": null, "item": "כרישות", "note": "פרוסות גס", "raw": "2 כרישות פרוסות גס" },
+      { "qty": 3, "unit": "כפות", "item": "קמח", "note": null, "raw": "3 כפות קמח" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": "מעט", "raw": "מעט שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח ופלפל שחור" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "פטרוזיליה קצוצה", "note": null, "raw": "פטרוזיליה קצוצה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "השריה", "items": [
+      { "text": "מערבבים בקערה גדולה את הטלה עם הבירה, הגזר, הסוכר, הדבש, הסלרי, הכוסברה, הציפורן, השום, צרור העשבים ועלה הדפנה. את הבצלים והכרישות משאירים בצד.", "timerMin": null },
+      { "text": "שומרים במקרר כ-24 שעות.", "timerMin": 1440 }
+    ] },
+    { "group": "בישול", "items": [
+      { "text": "מוציאים את נתחי הטלה ומייבשים אותם. מטגנים בקדרה גדולה עם מעט שמן זית כדקה מכל צד, ומוציאים.", "timerMin": null },
+      { "text": "מטגנים בקדרה את הבצלים והכרישות במעט שמן זית. מוסיפים כ-3 כפות קמח ומטגנים עוד כדקה.", "timerMin": null },
+      { "text": "מוסיפים את הנוזלים ואת שאר המרכיבים מההשריה, ואת הבשר. מתבלים במלח ובפלפל שחור.", "timerMin": null },
+      { "text": "מעבירים לתנור שחומם ל-170 מעלות ומבשלים כ-4 שעות.", "timerMin": 240 },
+      { "text": "מגישים עם מעט פטרוזיליה קצוצה, לצד יין אדום כבד גוף.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A dark glossy lamb stew in a heavy casserole, with thick slices of lamb shank on the bone, small onions, carrots and leeks in a rich stout sauce, sprinkled with chopped parsley",
+  "alt": "קדירת תבשיל טלה כהה ומבריק עם פרוסות שוק, בצלצלים, גזר וכרישה ברוטב בירה",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

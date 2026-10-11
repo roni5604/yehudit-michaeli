@@ -1,0 +1,120 @@
+{
+  "slug": "pasta-leyeladim-afuya",
+  "title": "פסטה אפויה לילדים",
+  "titleEn": "Kids' Baked Noodle and Cottage Cheese Casserole",
+  "description": "איטריות רחבות שכבות עם קוטג׳, ביצים ועגבניות משומרות, שנאפות עד שהמשטח מוצק. אהובה על ילדים.",
+  "category": "pasta",
+  "subcategory": "noodles",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "ילדים"
+  ],
+  "servings": 8,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "איטריות שטוחות ורחבות",
+          "note": null,
+          "raw": "1 חבילה איטריות שטוחות ורחבות"
+        },
+        {
+          "qty": 2,
+          "unit": "גביעים",
+          "item": "קוטג׳",
+          "note": null,
+          "raw": "2 גביעים קוטג׳"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "שימורי עגבניות",
+          "note": "לא רסק ולא קטשופ, או עגבניות חלוטות ומקולפות",
+          "raw": "1 קופסה שימורי עגבניות, לא רסק ולא קטשופ, או עגבניות חלוטות ומקולפות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שום, מלח, פלפל ואורגנו",
+          "note": null,
+          "raw": "שום, מלח, פלפל ואורגנו"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינה צהובה מגוררת",
+          "note": "רצוי פרמזן",
+          "raw": "גבינה צהובה מגוררת, רצוי פרמזן"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את האיטריות אל דנטה.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים קוטג׳ וביצים ומניחים בצד.",
+          "timerMin": null
+        },
+        {
+          "text": "בקערה נפרדת מתבלים את העגבניות ומוסיפים גבינה צהובה, ומשאירים מעט גבינה לשכבה העליונה.",
+          "timerMin": null
+        },
+        {
+          "text": "בתבנית אלומיניום גדולה ומשומנת מסדרים שליש מהאיטריות, חצי מתערובת הקוטג׳ ומעט מתערובת העגבניות, וחוזרים על השכבות.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים מעל גבינה מגוררת.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים ב-180 מעלות, עד שהחלק העליון מעט קשה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Baked layered noodle casserole with a golden cheese top in a foil pan, a spoonful lifted to show layers",
+  "alt": "פסטה אפויה בשכבות עם גבינה זהובה בתבנית אלומיניום",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

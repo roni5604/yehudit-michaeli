@@ -1,0 +1,51 @@
+{
+  "slug": "rotev-sate",
+  "title": "רוטב סאטה בוטנים",
+  "titleEn": "Peanut Satay Sauce",
+  "description": "רוטב בוטנים וקוקוס תאילנדי, חם ומתקתק, עם קארי אדום ופפריקה. מושלם לשפוך על שיפודי עוף צלויים.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "thai",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["רוטב", "מתאבנים", "תאילנדי"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר קטן",
+  "prepMin": 5,
+  "cookMin": 12,
+  "totalMin": 17,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 2, "unit": "כפיות", "item": "קארי אדום", "note": null, "raw": "2 כפיות קארי אדום" },
+      { "qty": 2, "unit": "כפיות", "item": "פפריקה מתוקה", "note": null, "raw": "2 כפיות פפריקה מתוקה" },
+      { "qty": 2, "unit": "כפיות", "item": "שמן", "note": null, "raw": "2 כפיות שמן" },
+      { "qty": 6, "unit": "כפיות", "item": "סוכר חום", "note": null, "raw": "6 כפיות סוכר חום" },
+      { "qty": 6, "unit": "כפיות", "item": "רוטב סויה בהירה", "note": null, "raw": "6 כפיות סויה בהירה" },
+      { "qty": 4, "unit": "כפיות", "item": "חמאת בוטנים", "note": null, "raw": "4 כפיות חמאת בוטנים" },
+      { "qty": 2, "unit": "כוסות", "item": "חלב קוקוס", "note": null, "raw": "2 כוסות חלב קוקוס" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" },
+      { "qty": null, "unit": null, "item": "פלפל לבן", "note": "מעט", "raw": "מעט פלפל לבן" },
+      { "qty": null, "unit": null, "item": "כוסברה", "note": "לפיזור מעל", "raw": "כוסברה לפיזור מעל" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מחממים את השמן בסיר קטן ומטגנים בו את הפפריקה והקארי.", "timerMin": null },
+      { "text": "מוסיפים את שאר החומרים לרוטב ומבשלים על אש קטנה כ-10 דקות.", "timerMin": 10 },
+      { "text": "שופכים על השיפודים ומפזרים כוסברה מעל.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["מתאים במיוחד לשיפודי עוף בגריל."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A small bowl of creamy golden-orange peanut satay sauce with a swirl of coconut milk and chopped cilantro on top, next to grilled chicken skewers",
+  "alt": "קערית רוטב סאטה בוטנים כתום וקרמי עם כוסברה קצוצה, לצד שיפודי עוף צלויים",
+  "originals": [
+    { "file": "רוטב סאטה(בוטנים).doc", "driveId": "1lfVkoXzHQxHxQBqgzWJGB_t-wpgQNkEW" },
+    { "file": "רוטב סאטה(בוטנים).doc", "driveId": "1a0FfxQ51ir3252KbWx7mVi-FKDNy-dKb" }
+  ]
+}

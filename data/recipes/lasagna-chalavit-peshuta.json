@@ -1,0 +1,223 @@
+{
+  "slug": "lasagna-chalavit-peshuta",
+  "title": "לזניה חלבית פשוטה",
+  "titleEn": "Simple Dairy Lasagna with Vegetables",
+  "description": "לזניה חלבית עם מילוי קוטג׳, גזר וקישוא מגורדים ורוטב עגבניות מתובל בעשבים.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 6,
+  "yield": null,
+  "pan": "תבנית מלבנית כ-30x20 ס״מ",
+  "prepMin": 40,
+  "cookMin": 80,
+  "totalMin": 120,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "לרוטב עגבניות (אפשר יום לפני)",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "עגבניות מרוסקות",
+          "note": "גדולה",
+          "raw": "1 קופסה עגבניות מרוסקות, גדולה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל גדול",
+          "note": "קצוץ",
+          "raw": "1 בצל גדול, קצוץ"
+        },
+        {
+          "qty": 4,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קצוצות",
+          "raw": "4 שיני שום, קצוצות"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "עלי דפנה",
+          "note": null,
+          "raw": "2 עלי דפנה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אורגנו, טימין, רוזמרין, מרווה, פפריקה",
+          "note": null,
+          "raw": "אורגנו, טימין, רוזמרין, מרווה, פפריקה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "יין לבן",
+          "note": null,
+          "raw": "יין לבן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אגוז מוסקט",
+          "note": "מגורר",
+          "raw": "אגוז מוסקט, מגורר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    },
+    {
+      "group": "למילוי",
+      "items": [
+        {
+          "qty": 1.5,
+          "unit": "גביעים",
+          "item": "קוטג׳",
+          "note": "או ריקוטה",
+          "raw": "1½ גביעים קוטג׳, או ריקוטה"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "גזרים",
+          "note": "מגוררים",
+          "raw": "2 גזרים, מגוררים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "קישוא גדול",
+          "note": "או שניים קטנים, מגוררים",
+          "raw": "1 קישוא גדול, או שניים קטנים, מגוררים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": null,
+          "raw": "1 ביצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אגוז מוסקט",
+          "note": "מגורר",
+          "raw": "אגוז מוסקט, מגורר"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "גבינה צהובה מגוררת",
+          "note": null,
+          "raw": "1 כוס גבינה צהובה מגוררת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    },
+    {
+      "group": "להרכבה",
+      "items": [
+        {
+          "qty": 12,
+          "unit": null,
+          "item": "עלי לזניה יבשים",
+          "note": "בערך",
+          "raw": "12 עלי לזניה יבשים, בערך"
+        },
+        {
+          "qty": 0.75,
+          "unit": "כוס",
+          "item": "גבינה צהובה או מוצרלה מגוררת",
+          "note": null,
+          "raw": "¾ כוס גבינה צהובה או מוצרלה מגוררת"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים את הבצל בשמן זית, ואחרי 5 דקות מוסיפים את השום.",
+          "timerMin": 5
+        },
+        {
+          "text": "כשהכול שקוף מוסיפים את התבלינים, ואחרי דקה או שתיים את היין הלבן.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את העגבניות ומבשלים על אש קטנה כ-30 דקות. טוחנים בבלנדר מוט.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים בקערה את כל מרכיבי המילוי.",
+          "timerMin": null
+        },
+        {
+          "text": "משמנים תבנית מלבנית (כ-30x20 ס״מ) ומסדרים בה שכבת דפי לזניה יבשים.",
+          "timerMin": null
+        },
+        {
+          "text": "מורחים מעליהם קצת פחות מחצי מהמילוי, ועליו שליש מרוטב העגבניות. חוזרים על השכבות פעם נוספת.",
+          "timerMin": null
+        },
+        {
+          "text": "מסדרים שכבה שלישית של דפים, ומורחים עליה את שאר המילוי ואת שאר הרוטב, כך שכל הדפים מכוסים.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים 50 דקות. 5 דקות לפני הסוף מפזרים את הגבינה הנותרת.",
+          "timerMin": 50
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אפשר להוסיף גבינות משובחות יותר במילוי או בפרוסות בין השכבות.",
+    "אפשר להוסיף עגבניות מיובשות או פרוסות חציל מטוגן."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Baked vegetable and cottage cheese lasagna with golden melted cheese on top, a slice lifted to show the layers, in a rectangular dish",
+  "alt": "לזניה חלבית אפויה עם גבינה מומסת זהובה, פרוסה חתוכה שחושפת שכבות, בתבנית מלבנית",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

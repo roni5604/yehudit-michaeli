@@ -1,0 +1,63 @@
+{
+  "slug": "tart-egozim",
+  "title": "טארט אגוזים",
+  "titleEn": "Walnut Tartlets",
+  "description": "קלתיות חמאה פריכות עם מלית אגוזים מקורמלת בסוכר חום, ביצים וברנדי. בגרסה אחרת אפשר להכין מלית קנדית עם שמנת מתוקה.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["אירוח", "קלתיות", "אגוזים"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבניות קטנות לטארטלטים",
+  "prepMin": 40,
+  "cookMin": 40,
+  "totalMin": 80,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 2, "unit": "כוסות", "item": "קמח", "note": null, "raw": "2 כוסות קמח" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": null, "raw": "150 גרם חמאה" },
+      { "qty": 2, "unit": "כפות", "item": "אבקת סוכר", "note": null, "raw": "2 כפות אבקת סוכר" },
+      { "qty": null, "unit": null, "item": "מים קרים", "note": "מעט", "raw": "מעט מים קרים" }
+    ] },
+    { "group": "למלית", "items": [
+      { "qty": 350, "unit": "גרם", "item": "אגוזים", "note": "חתוכים גס", "raw": "350 גרם אגוזים חתוכים גס" },
+      { "qty": 1.5, "unit": "כוסות", "item": "סוכר חום", "note": null, "raw": "1½ כוסות סוכר חום" },
+      { "qty": 2, "unit": "כפות", "item": "קורנפלור", "note": null, "raw": "2 כפות קורנפלור" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" },
+      { "qty": 1, "unit": "כף", "item": "ברנדי", "note": null, "raw": "1 כף ברנדי" },
+      { "qty": null, "unit": null, "item": "אגוזים שלמים", "note": "לסידור מעל", "raw": "אגוזים שלמים לסידור מעל" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבצק", "items": [
+      { "text": "מערבבים קמח, חמאה, אבקת סוכר ומעט מים קרים ליצירת בצק אחיד וגמיש.", "timerMin": null },
+      { "text": "מרדדים לעלה דק, אבל לא דק מדי.", "timerMin": null },
+      { "text": "קורצים עיגולים כגודל השקעים ומהדקים אותם לתוך התבניות.", "timerMin": null },
+      { "text": "אופים עד להזהבה קלה בחום בינוני (180 מעלות).", "timerMin": null }
+    ] },
+    { "group": "המלית והאפייה", "items": [
+      { "text": "בינתיים קוצצים את האגוזים וקולים אותם בתנור.", "timerMin": null },
+      { "text": "מערבבים את הסוכר, הביצים, הקורנפלור והברנדי, ואחר כך מוסיפים גם את האגוזים.", "timerMin": null },
+      { "text": "יוצקים את המלית על הקלתיות האפויות למחצה ומוסיפים אגוזים שלמים לקישוט.", "timerMin": null },
+      { "text": "אופים כ-20 דקות ב-180 מעלות.", "timerMin": 20 }
+    ] }
+  ],
+  "tips": [
+    "מלית קנדית, כגרסה אחרת: מבשלים בסיר קטן כוס שמנת מתוקה וכוס סוכר חום כ-10 דקות, מוסיפים כוס אגוזים קצוצים, בוחשים ומצננים. יוצקים על הבצק החצי אפוי ואופים עוד 30 דקות ב-200 מעלות.",
+    "בצק פריך מתוק של רביבה וסיליה, כאפשרות לבצק: מעבדים 300 גרם קמח, 120 גרם אבקת סוכר, טיפת תמצית וניל, 180 גרם חמאה וביצה טרופה עד שנוצר כדור בצק, ומצננים חצי שעה במקרר לפני הרידוד."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Small round golden shortcrust tartlets filled with a glossy caramelised walnut filling, each topped with a whole walnut half, arranged on a wooden board",
+  "alt": "קלתיות קטנות ופריכות עם מלית אגוזים מקורמלת ואגוז שלם בכל אחת, על קרש עץ",
+  "originals": [
+    { "file": "טארט אגוזים.doc", "driveId": "1BFOxtgGRsqSb9Q8SdE5hDVMWzsuWweGh" },
+    { "file": "טארט אגוזים.doc", "driveId": "1U5Z3sOuFhFpzvhlAIfKDaLwO9Owcm0Lc" }
+  ]
+}

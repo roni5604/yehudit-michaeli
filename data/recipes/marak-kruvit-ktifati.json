@@ -1,0 +1,150 @@
+{
+ "slug": "marak-kruvit-ktifati",
+ "title": "מרק כרובית קטיפתי",
+ "titleEn": "Velvety Cauliflower Soup",
+ "description": "מרק כרובית חלק ועדין עם חלב, תפוחי אדמה ופטרוזיליה. קל להכנה ועדין בטעמו.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "dairy",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "מרק",
+  "קל",
+  "חורף"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 15,
+ "cookMin": 40,
+ "totalMin": 55,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "כרובית בינונית",
+     "note": "מפורקת לפרחים",
+     "raw": "1 כרובית בינונית"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים בינוניים",
+     "note": null,
+     "raw": "2 בצלים בינוניים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": "בקוביות",
+     "raw": "2 תפוחי אדמה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "חופן פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 6,
+     "unit": "כוסות",
+     "item": "מים",
+     "note": null,
+     "raw": "6 כוסות מים"
+    },
+    {
+     "qty": 2,
+     "unit": "כוסות",
+     "item": "חלב",
+     "note": null,
+     "raw": "2 כוסות חלב"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "אבקת מרק פטריות",
+     "note": null,
+     "raw": "3 כפות אבקת מרק פטריות"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "2 כפות קמח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל וכמון"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מאדים את הבצל בשמן זית עד הזהבה, ומוסיפים את פרחי הכרובית ואת קוביות תפוחי האדמה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים מלמעלה את אבקת המרק והקמח, מערבבים היטב ויוצקים מים. מתבלים ומוסיפים את הפטרוזיליה.",
+     "timerMin": null
+    },
+    {
+     "text": "מביאים לרתיחה וממשיכים לבשל על אש קטנה חצי שעה.",
+     "timerMin": 30
+    },
+    {
+     "text": "מרסקים במעבד ידני עד מרקם חלק מאוד.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את החלב, מתקנים תיבול ומחממים עד רתיחה תוך בחישה.",
+     "timerMin": null
+    },
+    {
+     "text": "מגישים עם מעט עלי פטרוזיליה.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Smooth creamy cauliflower soup in a white bowl, garnished with fresh parsley leaves",
+ "alt": "מרק כרובית חלק וקטיפתי עם עלי פטרוזיליה",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

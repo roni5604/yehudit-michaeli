@@ -1,0 +1,263 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import RecipeCard from "../components/RecipeCard.astro";
+import EntryCard from "../components/EntryCard.astro";
+import CategoryTile from "../components/CategoryTile.astro";
+import Logo from "../components/Logo.astro";
+import Icon from "../components/Icon.astro";
+import HeroScene from "../three/HeroScene.tsx";
+import { getRecipes, getMenus, imageFor, pickDaily, catalog } from "../lib/data";
+import { categories, holidays, SITE } from "../lib/site";
+
+const all = await getRecipes();
+const menus = await getMenus();
+const counts = new Map<string, number>(); const hCounts = new Map<string, number>();
+for (const e of catalog) { counts.set(e.c, (counts.get(e.c) ?? 0) + 1); if (e.h) hCounts.set(e.h, (hCounts.get(e.h) ?? 0) + 1); }
+const withImg = all.filter((r) => imageFor(r.slug));
+const pool = withImg.length > 12 ? withImg : all;
+const restaurant = all.filter((r) => r.source.type === "restaurant" || r.tags.includes("מנת מסעדה") || r.cuisine === "french");
+const signature = pickDaily(restaurant.length >= 6 ? restaurant : pool, 6, 1);
+const daily = pickDaily(pool, 1, 7)[0];
+const fresh = pickDaily(catalog, 8, 3);
+const topCats = categories.filter((c) => counts.get(c.slug) && c.slug !== "uncategorized").sort((a, b) => (counts.get(b.slug) ?? 0) - (counts.get(a.slug) ?? 0)).slice(0, 8);
+const cover = (_: string) => null;
+const hol = holidays.filter((h) => hCounts.get(h.slug));
+const years = menus.map((m) => m.date?.slice(0, 4)).filter(Boolean).sort();
+const span = years.length ? `${years[0]}–${years[years.length - 1]}` : "2002–2009";
+---
+<BaseLayout bodyClass="home">
+  <!-- ═════════ HERO + chapters over a sticky 3D scene ═════════ -->
+  <section id="hero-track" class="hero-track" aria-label="פתיחה">
+    <div class="sticky">
+      <HeroScene client:load track="#hero-track" />
+      <div class="veil" aria-hidden="true"></div>
+    </div>
+
+    <div class="chapters">
+      <div class="chapter ch-0">
+        <div class="hero-copy container-x">
+          <p class="kicker latin">Cuisine de campagne · Rishpon</p>
+          <h1 class="hero-title">
+            <span class="l1">יהודית מיכאלי</span>
+            <span class="l2">שפית</span>
+          </h1>
+          <p class="hero-lede">
+            {catalog.length.toLocaleString("he-IL")} מתכונים מהמחברות של שפית המסעדה הכפרית-צרפתית
+            <span class="nowrap">״מיכאלי – מטבח כפרי״</span> ברשפון. מסודרים, מוכנים לבישול, ומלאים בטעם של בית.
+          </p>
+          <div class="hero-cta">
+            <a class="btn" href="/recipes">לכל המתכונים</a>
+            <button type="button" class="btn btn-light" data-open-search><Icon name="search" size={20} /> חיפוש מתכון</button>
+          </div>
+          <dl class="stats">
+            <div><dt>מתכונים</dt><dd>{catalog.length.toLocaleString("he-IL")}</dd></div>
+            <div><dt>פרקים</dt><dd>{[...counts.keys()].length}</dd></div>
+            <div><dt>תפריטי מסעדה</dt><dd>{menus.length || "—"}</dd></div>
+          </dl>
+          <a class="scroll-cue" href="#ch-yehudit"><span>גללו לסיפור</span><Icon name="chevronDown" /></a>
+        </div>
+      </div>
+
+      <div class="chapter" id="ch-yehudit">
+        <article class="panel">
+          <p class="eyebrow">פרק ראשון</p>
+          <h2>השפית</h2>
+          <div class="panel-row">
+            <img class="portrait" src="/brand/yehudit-portrait.webp" alt="יהודית מיכאלי, עם משקפיים אדומים ושמלה פרחונית, מחייכת" width="1416" height="2129" loading="lazy" />
+            <p>
+              יהודית למדה בישול וקונדיטוריה, ופתחה ברשפון מסעדה כפרית ברוח צרפת:
+              קדירות שמתבשלות לאט, טארט טאטן חם, בויאבז שמגיע לשולחן בסיר.
+              לצד המסעדה מילאה מחברות, ובהן אלפי מתכונים שאספה, כתבה ושכתבה לאורך שנים.
+            </p>
+          </div>
+          <a class="btn btn-ghost btn-sm" href="/about">הסיפור של יהודית ←</a>
+        </article>
+      </div>
+
+      <div class="chapter" id="ch-restaurant">
+        <article class="panel panel-end">
+          <p class="eyebrow">פרק שני · {span}</p>
+          <h2>מיכאלי – מטבח כפרי</h2>
+          <p>
+            כבד אווז ברוטב פירות יער, קורדון בלו ממולא באווז מעושן, שוקרוט, קונפי שוק אווז בדבש ושבעת התבלינים.
+            תפריטי העונות, ערבי הטעימות וארוחות החג של המסעדה נשמרו, ועכשיו אפשר לדפדף בהם.
+          </p>
+          <div class="panel-actions">
+            <a class="btn btn-ghost btn-sm" href="/restaurant">על המסעדה ←</a>
+            <a class="btn btn-ghost btn-sm" href="/menus">ארכיון התפריטים ←</a>
+          </div>
+        </article>
+      </div>
+
+      <div class="chapter" id="ch-recipes">
+        <article class="panel">
+          <p class="eyebrow">פרק שלישי</p>
+          <h2>המחברות, פתוחות לכולם</h2>
+          <p>
+            כל המחברות סודרו לפרקים, חגים ומטבחים, עם חיפוש בעברית. לחיצה על מתכון פותחת את הדף המקורי שיהודית כתבה, ומתכונים נבחרים פתוחים כאן במלואם, עם טיימרים ומצב בישול.
+          </p>
+          <ul class="mini-cats">
+            {topCats.slice(0, 6).map((c) => <li><a href={`/categories/${c.slug}`}>{c.he} <span>{counts.get(c.slug)}</span></a></li>)}
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═════════ signature dishes ═════════ -->
+  {signature.length > 0 && (
+    <section class="section container-x" aria-labelledby="sig-title">
+      <header class="sec-head">
+        <p class="eyebrow">מהמטבח של המסעדה</p>
+        <h2 id="sig-title">מנות הדגל</h2>
+        <p class="lede">קלאסיקות כפריות-צרפתיות, כמו שהוגשו ברשפון.</p>
+      </header>
+      <div class="grid-cards">{signature.map((r) => <RecipeCard recipe={r} />)}</div>
+    </section>
+  )}
+
+  <!-- ═════════ recipe of the day ═════════ -->
+  {daily && (
+    <section class="daily container-x" aria-labelledby="daily-title">
+      <div class="daily-media">
+        {imageFor(daily.slug) ? <img src={imageFor(daily.slug)!.src1280} alt={daily.alt} loading="lazy" width="1280" height="853" /> : null}
+      </div>
+      <div class="daily-text">
+        <p class="eyebrow">המתכון של היום</p>
+        <h2 id="daily-title">{daily.title}</h2>
+        <p class="lede">{daily.description}</p>
+        <div class="hero-cta">
+          <a class="btn" href={`/recipes/${daily.slug}`}>למתכון</a>
+          <a class="btn btn-ghost" href="/recipes?surprise=1"><Icon name="dice" size={20} /> הפתיעי אותי</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ═════════ categories ═════════ -->
+  <section class="section container-x" aria-labelledby="cats-title">
+    <header class="sec-head">
+      <p class="eyebrow">ספר המתכונים</p>
+      <h2 id="cats-title">מה מבשלים היום?</h2>
+    </header>
+    <div class="tiles">
+      {topCats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} coverSlug={cover(c.slug)} />)}
+    </div>
+    <p class="center"><a class="btn btn-ghost" href="/categories">לכל {[...counts.keys()].length} הפרקים ←</a></p>
+  </section>
+
+  <!-- ═════════ holidays ═════════ -->
+  {hol.length > 0 && (
+    <section class="holidays" aria-labelledby="hol-title">
+      <div class="container-x">
+        <header class="sec-head light">
+          <p class="eyebrow">לוח השנה של המטבח</p>
+          <h2 id="hol-title">חגים ומועדים</h2>
+        </header>
+        <ul class="hol-list">
+          {hol.map((h) => (
+            <li><a href={`/holidays/${h.slug}`}><strong>{h.he}</strong><span>{hCounts.get(h.slug)} מתכונים</span></a></li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <!-- ═════════ fresh picks ═════════ -->
+  <section class="section container-x" aria-labelledby="fresh-title">
+    <header class="sec-head">
+      <p class="eyebrow">מתחלף כל יום</p>
+      <h2 id="fresh-title">שווה לנסות</h2>
+    </header>
+    <ul class="ecard-grid">{fresh.map((e) => <li><EntryCard e={e} /></li>)}</ul>
+  </section>
+
+  <!-- ═════════ explore ═════════ -->
+  <section class="container-x explore" aria-label="עוד באתר">
+    <a href="/cuisines" class="ex"><Icon name="globe" size={36} /><strong>מטבחי העולם</strong><span>מרומניה והונגריה ועד יפן והודו, על גלובוס תלת-ממדי</span></a>
+    <a href="/kitchen" class="ex"><Icon name="book" size={36} /><strong>מחברת המטבח</strong><span>ממיר מידות, תחליפים, מונחים צרפתיים וטיפים</span></a>
+    <a href="/menus" class="ex"><Icon name="list" size={36} /><strong>ארכיון התפריטים</strong><span>תפריטי העונות והאירועים של מסעדת מיכאלי</span></a>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero-track { position: relative; height: 420vh; margin-top: -76px; }
+  .sticky { position: sticky; top: 0; height: 100vh; height: 100dvh; overflow: hidden; background: #1a120e; }
+  .sticky :global(.hero-scene) { border-radius: 0; height: 100% !important; }
+  .veil { position: absolute; inset: 0; pointer-events: none; background:
+    radial-gradient(ellipse at 70% 40%, transparent 30%, rgb(20 12 8 / .45) 100%),
+    linear-gradient(to left, rgb(20 12 8 / .78) 0%, rgb(20 12 8 / .35) 45%, transparent 70%); }
+  .chapters { position: relative; margin-top: -100vh; margin-top: -100dvh; z-index: 2; pointer-events: none; }
+  .chapter { min-height: 100vh; min-height: 100dvh; display: flex; align-items: center; padding-block: 120px 60px; }
+  .chapter :is(a, button, .panel) { pointer-events: auto; }
+  .hero-copy { color: #f6efe4; }
+  .kicker { margin: 0 0 8px; font-size: 1.3rem; color: #e6ac80; }
+  .hero-title { margin: 0; color: #fbf3e6; line-height: .95; text-shadow: 0 6px 40px rgb(0 0 0 / .45); }
+  .hero-title .l1 { display: block; font-size: clamp(3rem, 1.6rem + 6vw, 7.4rem); }
+  .hero-title .l2 { display: block; font-size: clamp(1.8rem, 1rem + 3vw, 3.6rem); color: #e6ac80; font-weight: 500; margin-top: 10px; letter-spacing: .1em; }
+  .hero-lede { max-width: 44ch; font-size: var(--step-1); color: #eadfcf; margin: 22px 0 26px; line-height: 1.55; }
+  .hero-cta { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn-light { background: transparent; color: #fbf3e6; border-color: rgb(251 243 230 / .65); }
+  .btn-light:hover { background: rgb(251 243 230 / .12); color: #fff; }
+  .stats { display: flex; gap: 34px; margin: 34px 0 0; }
+  .stats dt { font-size: .9rem; color: #cdbfb0; }
+  .stats dd { margin: 0; font-family: var(--font-display); font-size: var(--step-2); font-weight: 700; color: #fbf3e6; }
+  .scroll-cue { display: inline-flex; align-items: center; gap: 8px; margin-top: 40px; color: #e6ac80; text-decoration: none; font-weight: 700; }
+  .scroll-cue :global(svg) { animation: bob 2s ease-in-out infinite; }
+  @keyframes bob { 50% { transform: translateY(6px); } }
+  .nowrap { white-space: nowrap; }
+
+  .panel { width: min(520px, calc(100% - 2 * var(--gutter))); margin-inline-start: max(var(--gutter), calc((100vw - var(--max)) / 2)); background: color-mix(in oklab, var(--paper) 93%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: clamp(22px, 3vw, 36px); box-shadow: 0 40px 80px -40px rgb(0 0 0 / .6); }
+  .panel-end { margin-inline-start: auto; margin-inline-end: max(var(--gutter), calc((100vw - var(--max)) / 2)); }
+  .panel h2 { font-size: var(--step-3); margin: 4px 0 12px; }
+  .panel p { color: var(--ink-soft); }
+  .panel-row { display: grid; grid-template-columns: 120px 1fr; gap: 18px; align-items: start; }
+  .portrait { width: 120px; height: 150px; object-fit: cover; object-position: top; border-radius: 16px; border: 3px solid var(--card); box-shadow: 0 10px 30px -14px rgb(0 0 0 / .5); }
+  .panel-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .mini-cats { list-style: none; padding: 0; margin: 14px 0 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 14px; }
+  .mini-cats a { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px dashed var(--line); text-decoration: none; font-weight: 600; color: var(--ink); }
+  .mini-cats span { color: var(--copper-text); }
+
+  .sec-head { margin-bottom: 30px; }
+  .sec-head h2 { margin: 6px 0 6px; }
+  .sec-head .lede { margin: 0; }
+  .tiles { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+  .center { text-align: center; margin-top: 30px; }
+
+  .daily { display: grid; grid-template-columns: 1.1fr 1fr; gap: clamp(24px, 4vw, 64px); align-items: center; padding-block: 40px; }
+  .daily-media { border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 3 / 2; background: var(--paper-3); }
+  .daily-media img { width: 100%; height: 100%; object-fit: cover; }
+  .daily h2 { margin: 6px 0 10px; }
+
+  .holidays { background: #2a1a17; color: #f3eadf; padding-block: clamp(56px, 8vw, 110px); margin-block: 40px; }
+  .light h2 { color: #fbf3e6; }
+  .light .eyebrow { color: #e6ac80; }
+  .hol-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr)); gap: 14px; }
+  .hol-list a { display: grid; gap: 4px; padding: 22px; border-radius: var(--radius-lg); border: 1px solid rgb(243 234 223 / .2); color: #f3eadf; text-decoration: none; transition: background .3s, border-color .3s; }
+  .hol-list a:hover { background: rgb(243 234 223 / .07); border-color: #e6ac80; }
+  .hol-list strong { font-family: var(--font-display); font-size: var(--step-1); }
+  .hol-list span { color: #cdbfb0; }
+
+  .explore { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding-block: 20px 40px; }
+  .ex { display: grid; gap: 8px; padding: 26px; border-radius: var(--radius-lg); background: var(--card); border: 1px solid var(--line); text-decoration: none; color: var(--ink); transition: transform .3s, border-color .3s; }
+  .ex:hover { transform: translateY(-3px); border-color: var(--copper); color: var(--ink); }
+  .ex :global(svg) { color: var(--copper); }
+  .ex strong { font-family: var(--font-display); font-size: var(--step-1); }
+  .ex span { color: var(--ink-soft); }
+
+  @media (max-width: 900px) {
+    .hero-track { height: auto; }
+    .sticky { position: relative; height: 92vh; }
+    .chapters { margin-top: -92vh; }
+    .chapter:not(:first-child) { min-height: auto; padding-block: 24px; }
+    .chapter:not(:first-child) .panel { background: var(--card); backdrop-filter: none; margin-inline: var(--gutter); width: auto; }
+    .chapter:first-child { min-height: 92vh; }
+    .daily { grid-template-columns: 1fr; }
+    .explore { grid-template-columns: 1fr; }
+    .stats { gap: 22px; }
+  }
+  @media (max-width: 900px) {
+    .chapters { pointer-events: auto; }
+    #ch-yehudit { margin-top: 8vh; }
+  }
+</style>

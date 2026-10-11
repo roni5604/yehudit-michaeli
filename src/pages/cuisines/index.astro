@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import GlobeScene from "../../three/GlobeScene.tsx";
+import { catalog } from "../../lib/data";
+import { cuisines } from "../../lib/site";
+const counts = new Map<string, number>(); for (const e of catalog) if (e.cu) counts.set(e.cu, (counts.get(e.cu) ?? 0) + 1);
+const list = cuisines.filter((c) => counts.get(c.slug)).map((c) => ({ slug: c.slug, he: c.he, lat: c.lat, lng: c.lng, count: counts.get(c.slug) ?? 0 })).sort((a, b) => b.count - a.count);
+---
+<BaseLayout title="מטבחי העולם" description="מתכונים ממטבחי העולם באוסף של יהודית מיכאלי: צרפתי, רומני, הונגרי, איטלקי, הודי, יפני ועוד.">
+  <div class="container-x head">
+    <Breadcrumbs items={[{ label: "מטבחי העולם" }]} />
+    <h1>מטבחי העולם</h1>
+    <p class="lede">המטבח של יהודית היה צרפתי בלב, אבל המחברות נדדו רחוק: מהממליגה הרומנית והפפריקש ההונגרי ועד קארי הודי וסושי. סובבו את הגלובוס או בחרו מהרשימה.</p>
+  </div>
+  <section class="container-x" aria-label="גלובוס מטבחי העולם">
+    <GlobeScene client:visible cuisines={list} />
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 24px; }
+  .head h1 { margin: 10px 0 8px; }
+  .lede { max-width: 70ch; }
+</style>

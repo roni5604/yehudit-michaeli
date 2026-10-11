@@ -1,0 +1,156 @@
+{
+  "slug": "kadurei-batzak-gvina-parag",
+  "title": "כדורי בצק גבינה בפרג",
+  "titleEn": "Cheese-Filled Dough Balls in Poppy Seeds",
+  "description": "כדורי בצק קטנים עם קוביית גבינה פיקנטית במרכז, מגולגלים בביצה ובגרגירי פרג ואפויים. מתאבן חם ומפתיע.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "פינגר פוד",
+    "אירוח",
+    "מתאבן חם"
+  ],
+  "servings": null,
+  "yield": "20 כדורים",
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 20,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "קשקבל או פרמזן מגורר",
+          "note": null,
+          "raw": "50 גרם (½ כוס) קשקבל או פרמזן מגורר"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה רכה",
+          "note": null,
+          "raw": "50 גרם חמאה רכה"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "קמח",
+          "note": null,
+          "raw": "1 כוס קמח"
+        },
+        {
+          "qty": 5,
+          "unit": "כפות",
+          "item": "חלב",
+          "note": null,
+          "raw": "5 כפות חלב"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית שטוחה",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית שטוחה מלח"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "פלפל שחור גרוס",
+          "note": null,
+          "raw": "½ כפית פלפל שחור גרוס"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כפית",
+          "item": "טבסקו",
+          "note": null,
+          "raw": "¼ כפית טבסקו"
+        }
+      ]
+    },
+    {
+      "group": "למילוי",
+      "items": [
+        {
+          "qty": 70,
+          "unit": "גרם",
+          "item": "גבינה פיקנטית (פטה, רוקפור וכו׳)",
+          "note": "חתוכה ל-20 קוביות קטנות",
+          "raw": "70 גרם גבינה פיקנטית (פטה, רוקפור וכו׳), חתוכה ל-20 קוביות קטנות"
+        }
+      ]
+    },
+    {
+      "group": "לציפוי",
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": "טרופה",
+          "raw": "1 ביצה, טרופה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "גרגרי פרג שלמים",
+          "note": null,
+          "raw": "½ כוס גרגרי פרג שלמים"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "יוצרים בצק גמיש מכל החומרים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחלקים ל-20 פיסות קטנות.",
+          "timerMin": null
+        },
+        {
+          "text": "משטחים כל פיסה, מניחים קובית גבינה במרכז ויוצרים כדורים.",
+          "timerMin": null
+        },
+        {
+          "text": "מגלגלים בביצה ואחר כך בפרג.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים 20 דקות ומגישים חם.",
+          "timerMin": 20
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Golden baked round dough balls coated in black poppy seeds, one broken open to show a melted cube of cheese inside, on a small serving plate",
+  "alt": "כדורי בצק אפויים מצופים בפרג שחור, אחד פתוח וחושף גבינה נמסה",
+  "originals": [
+    {
+      "file": "כדורי בצק גבינה בפרג.doc",
+      "driveId": "1uNq28ExYmXz7JvQ8qUwaXupjRdwDOCk9"
+    }
+  ]
+}

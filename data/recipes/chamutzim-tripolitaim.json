@@ -1,0 +1,136 @@
+{
+  "slug": "chamutzim-tripolitaim",
+  "title": "חמוצים טריפוליטיים",
+  "titleEn": "Tripolitan Pickled Vegetables",
+  "description": "קולורבי, כרובית, גזר ופלפלים צבעוניים עם שום ומיץ לימון, שנכבשים בצנצנת ומוכנים להגשה אחרי שעה. ככל שמשהים אותם יותר, הם חמצמצים יותר.",
+  "category": "pickles",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "tags": [
+    "חמוצים",
+    "מטבח טריפוליטאי",
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": "צנצנת גדולה",
+  "pan": "צנצנת",
+  "prepMin": 20,
+  "cookMin": 0,
+  "totalMin": 80,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "קולורבי או לפת",
+          "note": "פרוסים וחתוכים לרצועות",
+          "raw": "2 קולורבי או לפת, פרוסים וחתוכים לרצועות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "כרובית קטנה",
+          "note": "מפורקת לפרחים",
+          "raw": "1 כרובית קטנה, מפורקת לפרחים"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "גזרים",
+          "note": "חתוכים לעיגולים",
+          "raw": "4 גזרים חתוכים לעיגולים"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "פלפלים",
+          "note": "אחד צהוב, אחד ירוק ואחד אדום",
+          "raw": "3 פלפלים (אחד צהוב, אחד ירוק ואחד אדום)"
+        },
+        {
+          "qty": 10,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קלופות ופרוסות דק",
+          "raw": "10 שיני שום קלופות ופרוסות דק"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "פלפל חריף קטן",
+          "note": "לא חובה",
+          "raw": "פלפל חריף קטן (לא חובה)"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "מלח",
+          "note": null,
+          "raw": "2 כפות מלח"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח לימון",
+          "note": null,
+          "raw": "1 כפית מלח לימון"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "מיץ לימון סחוט",
+          "note": null,
+          "raw": "1 כוס מיץ לימון סחוט"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חותכים את הירקות לצורות הולמות.",
+          "timerMin": null
+        },
+        {
+          "text": "מכניסים את הירקות לצנצנת ושופכים מעליהם את התבלינים.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים במים עד גובה הירקות.",
+          "timerMin": null
+        },
+        {
+          "text": "משהים לפחות שעה לפני ההגשה. ככל שמשהים יותר, החמוצים חמצמצים יותר.",
+          "timerMin": 60
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "A large glass jar of colourful pickled vegetables: cauliflower florets, carrot rounds, kohlrabi strips and red, yellow and green pepper pieces with sliced garlic, in a cloudy lemon brine",
+  "alt": "צנצנת זכוכית גדולה עם ירקות כבושים צבעוניים: כרובית, גזר, קולורבי ופלפלים עם שום ולימון",
+  "originals": [
+    {
+      "file": "חמוצים טריפוליטיים.doc",
+      "driveId": "11ZFSW1yFgszRf9gH0lIimVl0x7dUmvjC"
+    }
+  ]
+}

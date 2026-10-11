@@ -1,0 +1,38 @@
+---
+import RecipeImage from "./RecipeImage.astro";
+import Icon from "./Icon.astro";
+import { categoryLabel, kashrutLabel, type Recipe } from "../lib/data";
+import { formatMinutes, difficultyLabel } from "../lib/site";
+interface Props { recipe: Recipe; eager?: boolean; headingLevel?: 2 | 3 | 4 }
+const { recipe: r, eager = false, headingLevel = 3 } = Astro.props;
+const H = `h${headingLevel}` as "h2" | "h3" | "h4";
+const time = formatMinutes(r.totalMin);
+---
+<article class="card recipe-card" data-slug={r.slug}>
+  <div class="media">
+    <RecipeImage slug={r.slug} category={r.category} alt={r.alt} eager={eager} transitionName={`img-${r.slug}`} />
+  </div>
+  <div class="card-body">
+    <p class="cat">{categoryLabel(r)}</p>
+    <H class="card-title"><a class="card-link" href={`/recipes/${r.slug}`}><span>{r.title}</span></a></H>
+    <p class="desc">{r.description}</p>
+    <div class="card-meta">
+      {time && <span class="m"><Icon name="clock" size={16} /> {time}</span>}
+      <span class="m"><Icon name="chef" size={16} /> {difficultyLabel[r.difficulty]}</span>
+      {r.kashrut && <span class={`chip chip-${r.kashrut}`}>{kashrutLabel(r.kashrut)}</span>}
+    </div>
+  </div>
+  <button type="button" class="icon-btn fav-btn" data-fav={r.slug} data-title={r.title} aria-pressed="false" aria-label={`שמירה במועדפים: ${r.title}`}>
+    <Icon name="heart" size={20} />
+  </button>
+</article>
+<style>
+  .cat { margin: 0; font-size: .82rem; font-weight: 700; letter-spacing: .08em; color: var(--copper-text); }
+  .card-title { margin: 0; }
+  .card-title a { color: inherit; text-decoration: none; }
+  .desc { margin: 0; color: var(--ink-soft); font-size: .98rem; line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .m { display: inline-flex; align-items: center; gap: 4px; }
+  .fav-btn { background: color-mix(in oklab, var(--card) 88%, transparent); backdrop-filter: blur(6px); }
+  .fav-btn[aria-pressed="true"] { color: var(--paper); background: var(--bordeaux); }
+  .fav-btn[aria-pressed="true"] :global(svg) { fill: currentColor; }
+</style>

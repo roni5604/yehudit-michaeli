@@ -1,0 +1,146 @@
+{
+ "slug": "marak-agvaniyot-veorez",
+ "title": "מרק עגבניות ואורז",
+ "titleEn": "Tomato and Rice Soup",
+ "description": "מרק עגבניות מתקתק ומהיר עם אורז, שמגישים עם הרבה פלפל שחור גרוס שמאזן את המתיקות.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "קל ומהיר",
+  "ילדים"
+ ],
+ "servings": 10,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 15,
+ "cookMin": 50,
+ "totalMin": 65,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 4,
+     "unit": "כפות",
+     "item": "שמן",
+     "note": null,
+     "raw": "4 כפות שמן"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים",
+     "raw": "2 בצלים קצוצים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "גזרים",
+     "note": "מגורדים",
+     "raw": "2 גזרים מגורדים"
+    },
+    {
+     "qty": 400,
+     "unit": "גרם",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "400 גרם רסק עגבניות"
+    },
+    {
+     "qty": 12,
+     "unit": "כוסות",
+     "item": "מים רותחים",
+     "note": null,
+     "raw": "12 כוסות מים רותחים"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "3 כפות אבקת מרק עוף"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "סוכר",
+     "note": null,
+     "raw": "3 כפות סוכר"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור, פפריקה ואורגנו"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 1.5,
+     "unit": "כוסות",
+     "item": "אורז",
+     "note": null,
+     "raw": "1½ כוסות אורז"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים בשמן את הבצל והגזר, מוסיפים את רסק העגבניות ומערבבים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את המים ושאר החומרים (חוץ מהאורז) ומערבבים.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים על אש נמוכה כחצי שעה, ובוחשים מדי פעם.",
+     "timerMin": 30
+    },
+    {
+     "text": "מוסיפים את האורז ומבשלים עוד כרבע שעה, עד שהאורז מתנפח.",
+     "timerMin": 15
+    },
+    {
+     "text": "מגישים עם הרבה פלפל שחור גרוס.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "המתכון מבוסס על ספר המרקים של חנה שאולוב."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Bright red tomato soup with plump rice grains in a bowl, topped with coarse black pepper and chopped parsley",
+ "alt": "מרק עגבניות אדום עם אורז, פלפל שחור גרוס ופטרוזיליה",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

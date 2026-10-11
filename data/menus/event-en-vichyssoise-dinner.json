@@ -1,0 +1,121 @@
+{
+  "slug": "event-en-vichyssoise-dinner",
+  "title": "תפריט לאירוע (באנגלית) · ויישיסואז",
+  "titleEn": "Event dinner with vichyssoise and granité",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Welcome",
+      "items": [
+        {
+          "name": "Fruit cocktail",
+          "recipeSlug": null
+        },
+        {
+          "name": "Small appetizers",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "First Courses",
+      "items": [
+        {
+          "name": "Beef carpaccio with baby leaves and Parmesan",
+          "recipeSlug": null
+        },
+        {
+          "name": "Quiche Lorraine",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crispy filo baskets filled with asparagus",
+          "recipeSlug": null
+        },
+        {
+          "name": "Various vegetables – Antipasti style",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Home bread & pickles",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Soup",
+      "items": [
+        {
+          "name": "Vichyssoise",
+          "desc": "Cream soup made with leeks & Jerusalem artichokes",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Intermezzo",
+      "items": [
+        {
+          "name": "Granité",
+          "desc": "Flavored with lavender and lemon",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "name": "Filet mignon with pepper sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Chicken breast stuffed with smoked goose & Emmental cheese",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea fish fillet with herb cream and salmon eggs",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gnocchi with vegetables",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Mousse au chocolat",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pavlova",
+          "desc": "Meringue with heavy cream and red berries",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1Q5CM_hWJAOsS69EzuGBsir6XF4owYZUK"
+    }
+  ]
+}

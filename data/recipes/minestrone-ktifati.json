@@ -1,0 +1,155 @@
+{
+ "slug": "minestrone-ktifati",
+ "title": "מינסטרונה",
+ "titleEn": "Minestrone",
+ "description": "מרק ירקות איטלקי עשיר עם קישואים, אפונה, כרובית ועגבניות, שמתבשל לאט עד שהכול נהיה עדין וריחני.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "italian",
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "מרק",
+  "ירקות",
+  "חורף"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 25,
+ "cookMin": 185,
+ "totalMin": 210,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים גדולים",
+     "note": null,
+     "raw": "2 בצלים גדולים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "תפוחי אדמה בינוניים",
+     "note": null,
+     "raw": "2 תפוחי אדמה בינוניים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "עגבניות",
+     "note": "קלופות",
+     "raw": "2 עגבניות קלופות"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "קישואים",
+     "note": null,
+     "raw": "2 קישואים"
+    },
+    {
+     "qty": 3,
+     "unit": "גבעולי",
+     "item": "סלרי",
+     "note": null,
+     "raw": "3 גבעולי סלרי"
+    },
+    {
+     "qty": 0.5,
+     "unit": "קופסה",
+     "item": "אפונה",
+     "note": null,
+     "raw": "½ קופסת אפונה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "גזרים גדולים",
+     "note": "קלופים",
+     "raw": "2 גזרים גדולים קלופים"
+    },
+    {
+     "qty": 5,
+     "unit": null,
+     "item": "פרחי כרובית",
+     "note": null,
+     "raw": "5–6 פרחי כרובית",
+     "qtyMax": 6
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "פטרוזיליה",
+     "note": null,
+     "raw": "צרור פטרוזיליה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל, פפריקה וכמון"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן",
+     "note": null,
+     "raw": "שמן לטיגון"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים את הבצל עד שקיפות.",
+     "timerMin": null
+    },
+    {
+     "text": "חותכים את הירקות לקוביות בינוניות, בלי הקליפה, מלבד הקישואים, ומוסיפים בהדרגה לבצל השקוף תוך ערבוב.",
+     "timerMin": null
+    },
+    {
+     "text": "מאדים את הירקות 2–3 דקות.",
+     "timerMin": 2
+    },
+    {
+     "text": "מוסיפים מים שיכסו את הירקות, מתבלים ומוסיפים את עלי הפטרוזיליה.",
+     "timerMin": null
+    },
+    {
+     "text": "מרתיחים ומנמיכים לאש נמוכה לכשלוש שעות.",
+     "timerMin": 180
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Chunky minestrone soup with diced zucchini, carrots, peas and cauliflower in a tomato broth, with parsley",
+ "alt": "מינסטרונה עם קוביות ירקות ואפונה במרק עגבניות",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

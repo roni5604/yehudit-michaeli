@@ -1,0 +1,108 @@
+{
+ "slug": "artishok-yerushalmi-bechemah-vepetrozilia",
+ "title": "ארטישוק ירושלמי בחמאה ופטרוזיליה",
+ "titleEn": "Jerusalem Artichokes with Butter and Parsley",
+ "description": "טבעות ארטישוק ירושלמי מבושלות עד שהן רכות, ומתובלות בחמאה, פטרוזיליה ופלפל טרי. תוספת פשוטה לעונת הארטישוק.",
+ "category": "vegetables",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "dairy",
+ "diet": [
+  "vegetarian",
+  "gluten-free"
+ ],
+ "tags": [
+  "תוספת",
+  "מהיר",
+  "סתווי"
+ ],
+ "servings": 4,
+ "yield": null,
+ "pan": null,
+ "prepMin": 10,
+ "cookMin": 20,
+ "totalMin": 30,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 0.5,
+     "unit": "ק״ג",
+     "item": "ארטישוק ירושלמי",
+     "note": "קלוף וחתוך לטבעות",
+     "raw": "½ ק״ג ארטישוק ירושלמי קלוף וחתוך לטבעות"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "מיץ לימון",
+     "note": null,
+     "raw": "1 כפית מיץ לימון"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "2 כפות פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 30,
+     "unit": "גרם",
+     "item": "חמאה",
+     "note": null,
+     "raw": "30 גרם חמאה או מרגרינה בטעם חמאה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל",
+     "note": null,
+     "raw": "מלח ופלפל טחון טרי"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מניחים את הארטישוק בסיר ומכסים במים קרים. מוסיפים את מיץ הלימון.",
+     "timerMin": null
+    },
+    {
+     "text": "מביאים לרתיחה, מנמיכים את האש ומבשלים עוד 10–20 דקות, עד שהארטישוק מתרכך מעט.",
+     "timerMin": 10
+    },
+    {
+     "text": "מכבים, מסננים ומוסיפים פטרוזיליה, חמאה, פלפל טחון טרי ומלח.",
+     "timerMin": null
+    },
+    {
+     "text": "מגישים חם כתוספת או כחטיף.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "magazine",
+  "credit": "רות סירקיס",
+  "rewritten": true
+ },
+ "imagePrompt": "Sliced Jerusalem artichoke rounds glistening with melted butter and chopped parsley in a small white serving dish",
+ "alt": "טבעות ארטישוק ירושלמי עם חמאה ופטרוזיליה בכלי הגשה לבן",
+ "originals": [
+  {
+   "file": "ארטישוק ירושלמי.doc",
+   "driveId": "1aCLSZdk5L5Uig4rJ5UKkRzvGCuHX4dSD"
+  }
+ ]
+}

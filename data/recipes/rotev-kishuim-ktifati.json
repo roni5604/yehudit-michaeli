@@ -1,0 +1,112 @@
+{
+  "slug": "rotev-kishuim-ktifati",
+  "title": "רוטב קישואים קטיפתי",
+  "titleEn": "Velvety Zucchini Sauce (Light Version)",
+  "description": "רוטב קישואים חלק וקטיפתי עם שום, שמנת ובזיליקום, שנטחן למשחה. מצוין עם פנה וספגטי.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 20,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "קישואים בינוניים-גדולים",
+          "note": null,
+          "raw": "4 קישואים בינוניים-גדולים"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "50 גרם חמאה"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "מעוכות",
+          "raw": "2 שיני שום, מעוכות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמנת מתוקה לבישול",
+          "note": null,
+          "raw": "½ כוס שמנת מתוקה לבישול"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": 1,
+          "unit": "צרור",
+          "item": "בזיליקום טרי",
+          "note": "עלים בלבד",
+          "raw": "1 צרור בזיליקום טרי, עלים בלבד"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "פורסים את הקישואים לטבעות דקות ומקפיצים בחמאה עם השום.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שמנת, מתבלים במלח ופלפל ומבשלים 12 עד 15 דקות על אש נמוכה.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לבלנדר עם עלי הבזיליקום וטוחנים למשחה חלקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים על הפסטה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מתאים במיוחד לפנה ולספגטי."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Smooth pale green zucchini and basil sauce coating penne in a shallow bowl",
+  "alt": "רוטב קישואים ובזיליקום חלק על פנה בקערה רדודה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

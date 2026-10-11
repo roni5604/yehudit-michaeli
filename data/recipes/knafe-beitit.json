@@ -1,0 +1,168 @@
+{
+  "slug": "knafe-beitit",
+  "title": "כנאפה ביתית",
+  "titleEn": "Homemade Knafeh",
+  "description": "כנאפה במחבת: שכבות קטאיף פריכות בחמאה עם גבינת צאן רכה ופיסטוקים, עם סירופ ניחוחי של קינמון, הל ומי ורדים.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "arab",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "קינוח ערבי",
+    "אירוח",
+    "מחבת"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": "מחבת חסינת תנור בקוטר 30 ס״מ",
+  "prepMin": 20,
+  "cookMin": 17,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "פיסטוקים",
+          "note": "גרוסים גס",
+          "raw": "1 כוס פיסטוקים, גרוסים גס"
+        },
+        {
+          "qty": 250,
+          "unit": "גרם",
+          "item": "אטריות קטאיף",
+          "note": null,
+          "raw": "250 גרם אטריות קטאיף"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "חמאה מומסת",
+          "note": null,
+          "raw": "200 גרם חמאה מומסת"
+        },
+        {
+          "qty": 500,
+          "unit": "גרם",
+          "item": "גבינת צאן רכה או גבינה טובה אחרת",
+          "note": null,
+          "raw": "500 גרם גבינת צאן רכה או גבינה טובה אחרת"
+        }
+      ]
+    },
+    {
+      "group": "לסירופ",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "מים",
+          "note": null,
+          "raw": "½ כוס מים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "סוכר",
+          "note": null,
+          "raw": "½ כוס סוכר"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "חלב",
+          "note": null,
+          "raw": "6 כפות חלב"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "קינמון טחון",
+          "note": null,
+          "raw": "½ כפית קינמון טחון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "הל טחון",
+          "note": null,
+          "raw": "הל טחון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מי ורדים",
+          "note": "לפי הטעם",
+          "raw": "מי ורדים, לפי הטעם"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים בקערה את האטריות והחמאה המומסת.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים מחצית מכמות האטריות למחבת או לתבנית שניתן להכניס לתנור.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים מחצית מהפיסטוקים מעל האטריות.",
+          "timerMin": null
+        },
+        {
+          "text": "מהדקים מעל הפיסטוקים את הגבינה המפוררת, ומפזרים עליה את יתרת הפיסטוקים.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים מעל את המחצית השנייה של האטריות ומהדקים היטב.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים בתנור ב-180 מעלות כ-12 דקות, עד שהאטריות מזהיבות.",
+          "timerMin": 12
+        }
+      ]
+    },
+    {
+      "group": "הסירופ",
+      "items": [
+        {
+          "text": "מביאים לרתיחה את כל חומרי הסירופ, מבשלים תוך בחישה כ-5 דקות ומצננים מעט.",
+          "timerMin": 5
+        },
+        {
+          "text": "יוצקים את הסירופ על הכנאפה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "A round knafeh in a pan with a golden crisp shredded-pastry top, crushed green pistachios scattered over it, a wedge cut out showing stretched white cheese",
+  "alt": "כנאפה עגולה בשכבות קטאיף זהובות עם פיסטוקים, פרוסה חתוכה וחושפת גבינה נמתחת",
+  "originals": [
+    {
+      "file": "כנאפה ביתית.doc",
+      "driveId": "1AfSrSspwr85XIaX0xX-69bRbq5fwgWRe"
+    }
+  ]
+}

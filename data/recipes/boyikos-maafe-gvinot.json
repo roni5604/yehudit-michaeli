@@ -1,0 +1,49 @@
+{
+  "slug": "boyikos-maafe-gvinot",
+  "title": "בויאקוס מאפה גבינות",
+  "titleEn": "Boyikos Cheese Bake",
+  "description": "מאפה גבינות מלוח ופשוט: בלילה של קוטג׳, גבינה לבנה, פטה וקמח תופח, שנאפית בתבניות מאפינס או בתבנית אחת וחותכים לקוביות.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["גבינות", "מהיר", "אירוח"],
+  "servings": 12,
+  "yield": "12 מאפינס או תבנית 30×20 ס״מ",
+  "pan": "תבניות מאפינס או תבנית 30×20 ס״מ",
+  "prepMin": 15,
+  "cookMin": 35,
+  "totalMin": 50,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 2, "unit": "גביעים", "item": "שמנת", "note": null, "raw": "2 גביעי שמנת" },
+      { "qty": 1, "unit": "גביע", "item": "קוטג׳", "note": null, "raw": "1 גביע קוטג׳" },
+      { "qty": 1, "unit": "גביע", "item": "גבינה לבנה", "note": "250 גרם", "raw": "1 גביע גבינה לבנה (250 גרם)" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" },
+      { "qty": 2.5, "unit": "כוסות", "item": "קמח תופח", "note": "300 גרם", "raw": "2½ כוסות קמח תופח (300 גרם)" },
+      { "qty": 100, "unit": "מ״ל", "item": "שמן", "note": "חצי גביע גבינה ריק", "raw": "100 מ״ל שמן (חצי גביע גבינה ריק)" },
+      { "qty": 300, "unit": "גרם", "item": "גבינת פטה", "note": "מפוררת", "raw": "300 גרם גבינת פטה מפוררת" },
+      { "qty": 150, "unit": "גרם", "item": "קשקבל", "note": "מגורד, לזריה מעל", "raw": "150 גרם קשקבל מגורד, לזריה מעל" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את כל החומרים, למעט הקשקבל.", "timerMin": null },
+      { "text": "שופכים לתבניות מאפינס או לתבנית אחת בגודל 30×20 ס״מ, משומנת היטב.", "timerMin": null },
+      { "text": "זורים מעל את הקשקבל ואופים ב-180 מעלות כ-35 דקות.", "timerMin": 35 },
+      { "text": "אם אופים בתבנית: מצננים מעט ופורסים לקוביות.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Golden baked cheese muffins and cubes of savory cheese bake topped with melted browned kashkaval, on a wooden board",
+  "alt": "מאפינס ומרובעים של מאפה גבינות מוזהב עם קשקבל מומס ומשחים למעלה",
+  "originals": [
+    { "file": "בויאקוס.doc", "driveId": "1CeFyP67TV0xKTn9GPdWP-bXSYbHawos7" }
+  ]
+}

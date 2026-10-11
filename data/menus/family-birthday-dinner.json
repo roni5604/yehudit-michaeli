@@ -1,0 +1,100 @@
+{
+  "slug": "family-birthday-dinner",
+  "title": "תפריט ליום הולדת משפחתי",
+  "titleEn": "Family birthday dinner",
+  "date": null,
+  "season": null,
+  "occasion": "יום הולדת משפחתי (אירוע פרטי)",
+  "kind": "event",
+  "language": "he",
+  "intro": "התפריט נפתח בברכת אורחים מחורזת בשפה הרוסית.",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "פארפה כבדים",
+          "desc": "עם ריבת תאנים ביין",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פירות ים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "רוסט ביף",
+          "desc": "ברוטב יין אדום",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "ברוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג בס",
+          "desc": "ברוטב שמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל וצ'יפס",
+          "desc": "לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת קוביות שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובת פירות-יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        {
+          "name": "יין אדום",
+          "desc": "קברנה פטיט סירה, יקב תשבי",
+          "recipeSlug": null
+        },
+        {
+          "name": "יין לבן",
+          "desc": "פרנץ' ריזלינג, יקב תשבי",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט אירוע משפחתי.doc",
+      "driveId": "19ZkBNomCkPbrla1MNbhsnGcVlkws_tLe"
+    }
+  ]
+}

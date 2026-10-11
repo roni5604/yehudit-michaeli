@@ -1,0 +1,146 @@
+{
+  "slug": "pashtidat-itriyot-gvina-bechamel",
+  "title": "פשטידת איטריות וגבינה",
+  "titleEn": "Noodle and Cheese Pie",
+  "description": "פשטידת איטריות עם רוטב בשמל, שמנת חמוצה וגבינה צהובה. אפויה עד הזהבה.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 8,
+  "yield": null,
+  "pan": "תבנית עגולה בקוטר 24 ס״מ",
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "איטריות רחבות",
+          "note": null,
+          "raw": "1 חבילה איטריות רחבות"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "50 גרם חמאה"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "קמח רגיל",
+          "note": null,
+          "raw": "2 כפות קמח רגיל"
+        },
+        {
+          "qty": 1.5,
+          "unit": "כוסות",
+          "item": "חלב",
+          "note": null,
+          "raw": "1½ כוסות חלב"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "ביצים",
+          "note": "טרופות",
+          "raw": "3 ביצים, טרופות"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "1 גביע שמנת חמוצה"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינה צהובה מגוררת",
+          "note": null,
+          "raw": "100 גרם גבינה צהובה מגוררת"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה רכה",
+          "note": "לשימון",
+          "raw": "50 גרם חמאה רכה, לשימון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אגוז מוסקט מגורר",
+          "note": null,
+          "raw": "אגוז מוסקט מגורר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל לבן, מלח ופלפל",
+          "note": null,
+          "raw": "פלפל לבן, מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים תנור ל-180 מעלות. מבשלים את האיטריות במי מלח עד שהן רכות, מסננים ומעבירים לקערה גדולה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים לאיטריות את הביצים והשמנת החמוצה ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "ממיסים חמאה בסיר קטן על אש בינונית, מוסיפים את הקמח ובוחשים שלא יהיו גושים. מוסיפים חלב בהדרגה ובוחשים על אש נמוכה עד שהתערובת מסמיכה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את תערובת החלב לאיטריות ומערבבים בעדינות. מתבלים באגוז מוסקט, פלפל ומלח ומערבבים שוב.",
+          "timerMin": null
+        },
+        {
+          "text": "משמנים תבנית עגולה בקוטר 24 ומעבירים אליה את התערובת.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים במרכז התנור 30 עד 40 דקות, עד שהפשטידה מזהיבה. לקראת הסוף מפזרים גבינה צהובה.",
+          "timerMin": 30
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Round noodle pie with golden melted cheese top in a baking dish, a slice cut showing creamy layers",
+  "alt": "פשטידת איטריות וגבינה זהובה בתבנית עגולה, פרוסה חתוכה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

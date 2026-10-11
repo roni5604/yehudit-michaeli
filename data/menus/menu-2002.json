@@ -1,0 +1,160 @@
+{
+  "slug": "menu-2002",
+  "title": "תפריט מיכאלי · 2002",
+  "titleEn": "À la carte menu · 2002",
+  "date": "2002",
+  "season": null,
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "price": "42 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג-ים עם פירות-ים",
+          "desc": "ברוטב יין לבן ושמנת",
+          "price": "42 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מבחר נקניקים",
+          "price": "28 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "כרוב ממולא",
+          "desc": "ברוטב עגבניות עם כרוב כבוש",
+          "price": "28 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מח",
+          "desc": "ברוטב שמנת וצלפים",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "עם אספרגוס וגבינת עיזים",
+          "price": "32 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "קדרת עוף ביין אדום",
+          "desc": "מלווה בפירה תפוחי-אדמה ופטריות",
+          "price": "49 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדרת עגל-חלב ביין לבן",
+          "desc": "עם מאפה תפ\"א, ורטטוי",
+          "price": "72 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "תבשיל בקר ביין אדום (בורגיניון)",
+          "desc": "עם רטטוי ירקות ופירה תפוחי-אדמה",
+          "price": "62 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "חזה מולארד ברוטב דבש והדרים",
+          "desc": "עם אגס אפוי, מאפה תפ\"א ואספרגוס",
+          "price": "65 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "טלה ברוטב יין ומרווה",
+          "desc": "עם מאפה תפו\"א ופטריות",
+          "price": "75 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "בויאבז דגים ופירות ים",
+          "desc": "עם פאסטיס וירקות שורש",
+          "price": "65 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "אוסובוקו",
+          "desc": "עם פירה תפו\"א ורטטוי",
+          "price": "70 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג פורל אפוי בעשבי תיבול",
+          "desc": "עם רטטוי ופטריות",
+          "price": "70 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגוון ירקות ממולאים באורז ועשבי תיבול",
+          "price": "49 ש\"ח",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "לפני קינוח",
+      "items": [
+        {
+          "name": "מבחר גבינות ישראליות",
+          "price": "25 ש\"ח",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "טארט-טאטן",
+          "desc": "עוגת תפוחים",
+          "price": "28 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק פירות יער",
+          "desc": "עם שמנת ועוגית שקדים",
+          "price": "25 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה שוקולד חם",
+          "desc": "עם רוטב וניל ופיסטוק",
+          "price": "28 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "מבחר סורבה מפירות העונה",
+          "price": "18 ש\"ח",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ-סוזט בגרנד מרנייה",
+          "price": "28 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט 2002.doc",
+      "driveId": "1rlxMukGiX0oUycI4AkpWZUC87Sej1T-1"
+    }
+  ]
+}

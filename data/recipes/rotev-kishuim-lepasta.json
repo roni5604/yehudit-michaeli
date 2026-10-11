@@ -1,0 +1,106 @@
+{
+  "slug": "rotev-kishuim-lepasta",
+  "title": "רוטב קישואים לפסטה",
+  "titleEn": "Zucchini Cream Pasta Sauce",
+  "description": "רוטב מהיר של קישואים מטוגנים בחמאה, שום, עגבניות, עשבי תיבול ושמנת.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 20,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "קישואים",
+          "note": "חתוכים לקוביות",
+          "raw": "6 קישואים, חתוכים לקוביות"
+        },
+        {
+          "qty": 4,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "כתושות",
+          "raw": "4 שיני שום, כתושות"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "עגבניות",
+          "note": "מרוסקות",
+          "raw": "4 עגבניות, מרוסקות"
+        },
+        {
+          "qty": 2,
+          "unit": "מיכלים",
+          "item": "שמנת מתוקה",
+          "note": null,
+          "raw": "2 מיכלים שמנת מתוקה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עשבי תיבול",
+          "note": "נענע, טרגון, בזיליקום",
+          "raw": "עשבי תיבול, נענע, טרגון, בזיליקום"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן וחמאה",
+          "note": "לטיגון",
+          "raw": "שמן וחמאה, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים את הקישואים בשמן ובחמאה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את השום הכתוש ואת עשבי התיבול.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את העגבניות המרוסקות והשמנת ומחממים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Creamy pale green zucchini sauce over penne with fresh herbs",
+  "alt": "רוטב קישואים שמנתי על פנה עם עשבי תיבול",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

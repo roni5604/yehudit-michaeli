@@ -1,0 +1,67 @@
+{
+  "slug": "tarte-tatin-kokotim",
+  "title": "טארט טאטן בקוקוטים",
+  "titleEn": "Individual Apple Tarte Tatin",
+  "description": "טארט טאטן אישי: חצאי תפוחים שמתגלגלים בקרמל, נאפים בקוקוטים קטנים מתחת לעיגול בצק חמאתי ונהפכים על מגש. כמות לכ-25 מנות.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קלאסיקה צרפתית", "מנות אישיות", "אירוח"],
+  "servings": 25,
+  "yield": "25 טארטים אישיים",
+  "pan": "קוקוטים קטנים",
+  "prepMin": 60,
+  "cookMin": 35,
+  "totalMin": 155,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": "לבצק (ל-25 קוקוטים)", "items": [
+      { "qty": 300, "unit": "גרם", "item": "קמח", "note": null, "raw": "300 גרם קמח" },
+      { "qty": 200, "unit": "גרם", "item": "חמאה", "note": null, "raw": "200 גרם חמאה" },
+      { "qty": 100, "unit": "גרם", "item": "אבקת סוכר", "note": null, "raw": "100 גרם אבקת סוכר" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" }
+    ] },
+    { "group": "לקרמל במחבת", "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "סוכר", "note": null, "raw": "1 ק״ג סוכר" },
+      { "qty": 120, "unit": "גרם", "item": "חמאה", "note": null, "raw": "120 גרם חמאה" },
+      { "qty": null, "unit": null, "item": "מיץ לימון", "note": "מעט, מדולל במים", "raw": "מעט מיץ לימון מדולל במים" }
+    ] },
+    { "group": "למריחת הקוקוטים", "items": [
+      { "qty": null, "unit": null, "item": "חמאה", "note": "מומסת", "raw": "חמאה מומסת" },
+      { "qty": null, "unit": null, "item": "סוכר חום", "note": "קורט, מעל החמאה", "raw": "קורט סוכר חום" }
+    ] },
+    { "group": "לתפוחים", "items": [
+      { "qty": null, "unit": null, "item": "תפוחים", "note": "קלופים וחצויים; חצי תפוח לכל קוקוט", "raw": "תפוחים קלופים וחצויים (חצי תפוח לכל קוקוט)" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבצק", "items": [
+      { "text": "מכינים את הבצק במג׳ימיקס ומניחים לו לנוח כשעה.", "timerMin": 60 }
+    ] },
+    { "group": "הקרמל והתפוחים", "items": [
+      { "text": "מקלפים וחוצים את התפוחים.", "timerMin": null },
+      { "text": "יוצרים קרמל במחבת ומגלגלים בו את חצאי התפוחים.", "timerMin": null }
+    ] },
+    { "group": "הרכבה ואפייה", "items": [
+      { "text": "שופכים בקרקעית הקוקוטים שכבת חמאה מומסת וקורט סוכר חום.", "timerMin": null },
+      { "text": "מניחים חצי תפוח בכל קוקוט.", "timerMin": null },
+      { "text": "קורצים עיגולים מהבצק ומניחים מעל התפוחים. מצמידים את הבצק ומחוררים אותו.", "timerMin": null },
+      { "text": "מצננים עד שעה לפני ההגשה.", "timerMin": null },
+      { "text": "אופים בתנור הישן ב-250 מעלות 12 עד 20 דקות, עד להשחמה.", "timerMin": 12 },
+      { "text": "מיד בתום האפייה הופכים על מגש, כל עוד הקרמל לא התקרש ונדבק.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["לחלופין אפשר לאפות בטמפרטורה של 180 מעלות, עד שהבצק אפוי ומשחים."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Individual apple tarte tatin turned out onto a tray, each with a golden buttery pastry base and a halved caramelised apple on top, glossy deep amber caramel dripping down the sides",
+  "alt": "טארטים טאטן אישיים עם חצי תפוח מקורמל מבריק על בסיס בצק זהוב, על מגש הגשה",
+  "originals": [
+    { "file": "טארט טאטן.doc", "driveId": "1UenKYKEWLf3IEPFcTaKbf0AvcsBIMw6g" },
+    { "file": "טארט טאטן.doc", "driveId": "1uku-yexpNLMGe0CZ12IfHAq_VvyaXSuV" }
+  ]
+}

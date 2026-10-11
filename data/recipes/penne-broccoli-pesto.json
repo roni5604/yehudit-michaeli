@@ -1,0 +1,146 @@
+{
+  "slug": "penne-broccoli-pesto",
+  "title": "פנה עם ברוקולי ושעועית ירוקה ברוטב פסטו",
+  "titleEn": "Penne with Broccoli and Green Beans in Pesto Sauce",
+  "description": "פנה עם ברוקולי ושעועית ירוקה, שמתבשלים בשמן זית, שום וריחן ומתכסים בפרמזן.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פנה",
+          "note": "לפי הצורך ל-4 סועדים",
+          "raw": "פנה, לפי הצורך ל-4 סועדים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "ברוקולי",
+          "note": "מנוקה, בלי גבעולים",
+          "raw": "½ ק״ג ברוקולי, מנוקה, בלי גבעולים"
+        },
+        {
+          "qty": 300,
+          "unit": "גרם",
+          "item": "שעועית ירוקה",
+          "note": null,
+          "raw": "300 גרם שעועית ירוקה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עלי ריחן-בזיליקום",
+          "note": "קצוצים",
+          "raw": "עלי ריחן-בזיליקום, קצוצים"
+        },
+        {
+          "qty": 100,
+          "unit": "מ״ל",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "100 מ״ל שמן זית"
+        },
+        {
+          "qty": 200,
+          "unit": "מ״ל",
+          "item": "ציר ירקות",
+          "note": null,
+          "raw": "200 מ״ל ציר ירקות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "½ כפית מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור טחון טרי",
+          "note": null,
+          "raw": "פלפל שחור טחון טרי"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "שום כתוש",
+          "note": null,
+          "raw": "2 כפיות שום כתוש"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "פרמזן מגורר",
+          "note": null,
+          "raw": "4 כפות פרמזן מגורר"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מפרידים את הברוקולי לפרחים. מנקים את השעועית, מסירים סיבים לפי הצורך וחותכים כל תרמיל לשניים.",
+          "timerMin": null
+        },
+        {
+          "text": "בסיר גדול על להבה בינונית-נמוכה מחממים שמן זית עם השום והריחן כדקה, בלי לתת לשום להשחים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את ציר הירקות, הברוקולי והשעועית, מתבלים במלח ופלפל ומבשלים 5 עד 6 דקות. מניחים בצד.",
+          "timerMin": 5
+        },
+        {
+          "text": "מרתיחים בסיר גדול כ-5 ליטר מים עם כף מלח ומבשלים את הפסטה אל דנטה.",
+          "timerMin": null
+        },
+        {
+          "text": "בעוד הפסטה מתבשלת, מחזירים את סיר הירקות לאש ומביאים לסף רתיחה.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה ומפזרים עליה מחצית מהפרמזן. מערבבים עם הירקות, מפזרים את שאר הגבינה ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "אחוזת יערות הכרמל",
+    "rewritten": true
+  },
+  "imagePrompt": "Penne with bright green broccoli florets and green beans in a basil-garlic sauce, dusted with Parmesan",
+  "alt": "פנה עם פרחי ברוקולי ושעועית ירוקה ברוטב בזיליקום ושום עם פרמזן",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "salat-melafefonim-bevatsal",
+  "title": "סלט מלפפונים בבצל",
+  "titleEn": "Cucumber and Onion Salad with Sour Cream",
+  "description": "מלפפונים פרוסים עם בצל מבושל קלות, בשמנת חמוצה, שום ולימון. סלט קר וקלאסי לצד ארוחות חלביות.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "קלאסי",
+    "סלט קר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 5,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 500,
+          "unit": "גרם",
+          "item": "מלפפונים",
+          "note": null,
+          "raw": "500 גרם מלפפונים"
+        },
+        {
+          "qty": 1,
+          "unit": "ליטר",
+          "item": "מים רותחים",
+          "note": null,
+          "raw": "1 ליטר מים רותחים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "בצלים גדולים",
+          "note": "חתוכים לטבעות",
+          "raw": "2 בצלים גדולים, חתוכים לטבעות"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "1 גביע שמנת חמוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "שן",
+          "item": "שום",
+          "note": "מעוך עם מעט מלח",
+          "raw": "1 שן שום, מעוך עם מעט מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "מיץ לימון לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "פטרוזיליה קצוצה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מרתיחים את המים, מכניסים את טבעות הבצל ומרתיחים שנית.",
+          "timerMin": null
+        },
+        {
+          "text": "מורידים מהאש, מסננים ומקררים.",
+          "timerMin": null
+        },
+        {
+          "text": "קולפים את המלפפונים, חותכים לעיגולים ומערבבים עם הבצל.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שום מעוך עם מעט מלח, שמנת, מיץ לימון ופטרוזיליה קצוצה, ומערבבים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Thin cucumber rounds and soft onion rings in a creamy sour cream dressing with parsley, in a glass bowl",
+  "alt": "עיגולי מלפפון וטבעות בצל ברוטב שמנת חמוצה עם פטרוזיליה בקערת זכוכית",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

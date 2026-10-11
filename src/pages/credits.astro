@@ -1,0 +1,24 @@
+---
+import ProseLayout from "../layouts/ProseLayout.astro";
+import { getRecipes } from "../lib/data";
+import { SITE } from "../lib/site";
+const all = await getRecipes();
+const credits = [...new Set(all.filter((r) => r.source.credit && !["family", "friend", "restaurant", "course"].includes(r.source.type)).map((r) => r.source.credit!))].sort((a, b) => a.localeCompare(b, "he"));
+---
+<ProseLayout title="קרדיטים וזכויות" description="מקורות, זכויות וקרדיטים באתר יהודית מיכאלי · שפית." updated={SITE.policyUpdated}>
+  <h2>המתכונים</h2>
+  <p>כל המתכונים מגיעים מהמחברות הדיגיטליות של השפית יהודית מיכאלי ומתפריטי מסעדת ״מיכאלי – מטבח כפרי״ ברשפון. לאורך השנים יהודית אספה גם מתכונים ממגזינים, מספרים, מאתרים ומשפים. במתכונים המלאים באתר שמקורם חיצוני, רשימת המצרכים נשמרה ואופן ההכנה נכתב מחדש, עם קרדיט ״בהשראת״.</p>
+  {credits.length > 0 && (<><p>מקורות שמוזכרים במתכונים המלאים:</p><p>{credits.join(" · ")}</p></>)}
+  <p>אם המתכון שלך מופיע כאן ואת/ה מעדיף/ה שנסיר אותו או שנשנה את הקרדיט, כתבו לנו: <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
+  <h2>תפריטי המסעדה</h2>
+  <p>התפריטים עברו דיגיטציה מהקבצים המקוריים. מתפריטי אירועים פרטיים הוסרו שמות לקוחות, חברות ופרטי קשר.</p>
+  <h2>עיצוב, איורים ותלת-ממד</h2>
+  <ul>
+    <li>הלוגו, האיורים וההדמיות נוצרו במיוחד לאתר בקוד: <span class="latin">Three.js, React Three Fiber</span>, ומרקמים פרוצדורליים.</li>
+    <li>מפת הגלובוס: <span class="latin">Natural Earth</span> (נחלת הכלל).</li>
+    <li>גופנים: <span class="latin">Frank Ruhl Libre, Assistant, Cormorant Garamond</span>, ברישיון SIL Open Font License.</li>
+    <li>תמונתה של יהודית עובדה בלי שינוי בפנים: רק הרקע הוחלף והצבע תוקן.</li>
+  </ul>
+  <h2>קוד</h2>
+  <p>קוד המקור פתוח ב<a href={SITE.repo} rel="noopener">גיטהב</a>, ברישיון MIT.</p>
+</ProseLayout>

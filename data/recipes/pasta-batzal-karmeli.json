@@ -1,0 +1,152 @@
+{
+  "slug": "pasta-batzal-karmeli",
+  "title": "פסטה בצל כרמלי",
+  "titleEn": "Pasta with Caramelised Onions, Feta and Walnuts",
+  "description": "בצלים שמתבשלים לאט עד שהם הופכים לכרמל מתוק, עם פטה, ירק עלים ואגוזי מלך קלויים.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "בישול איטי"
+  ],
+  "servings": 5,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 60,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "½ כוס שמן זית"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "בצלים גדולים",
+          "note": null,
+          "raw": "4-6 בצלים גדולים",
+          "qtyMax": 6
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "½ כפית מלח"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "יין לבן",
+          "note": null,
+          "raw": "½-1 כוס יין לבן",
+          "qtyMax": 1
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "עלי ארוגולה או תרד",
+          "note": "קצוצים, בערך",
+          "raw": "1 כוס עלי ארוגולה או תרד, קצוצים, בערך"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "גבינת פטה או גבינה כחולה",
+          "note": "מפוררת",
+          "raw": "1 כוס גבינת פטה או גבינה כחולה, מפוררת"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "אגוזי מלך",
+          "note": "קלויים, בחצאים",
+          "raw": "1 כוס אגוזי מלך, קלויים, בחצאים"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פסטה מבושלת",
+          "note": "ל-4 עד 5 מנות",
+          "raw": "פסטה מבושלת ל-4 עד 5 מנות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן",
+          "note": "לפיזור",
+          "raw": "פרמזן, לפיזור"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים את שמן הזית בסיר גדול עם מכסה, ופורסים את הבצלים לטבעות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הבצל לשמן ומבשלים מכוסה כ-15 דקות.",
+          "timerMin": 15
+        },
+        {
+          "text": "מוסיפים מלח, ואחרי עוד 10 דקות מוסיפים את היין.",
+          "timerMin": 10
+        },
+        {
+          "text": "ממשיכים לבשל את הבצל עד שעה בסך הכול. ככל שמבשלים יותר, הוא כרמלי יותר.",
+          "timerMin": null
+        },
+        {
+          "text": "לקראת הסוף מוסיפים את העלים ומבשלים דקה או שתיים.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים פנימה את הגבינה המפוררת כדי שתימס מעט, ואז את הפסטה ואת האגוזים.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים פרמזן ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Pasta tossed with deep golden caramelised onions, crumbled feta, arugula and toasted walnuts in a shallow bowl",
+  "alt": "פסטה עם בצל מקורמל, פטה מפוררת, ארוגולה ואגוזי מלך בקערה רדודה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

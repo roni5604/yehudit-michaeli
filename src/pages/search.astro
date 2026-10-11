@@ -1,0 +1,13 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout title="חיפוש" description="חיפוש מתכונים." noindex>
+  <section class="container-narrow" style="padding-block:60px;text-align:center">
+    <h1>חיפוש מתכונים</h1>
+    <p><button type="button" class="btn" data-open-search>פתיחת החיפוש</button></p>
+  </section>
+</BaseLayout>
+<script>
+  const q = new URLSearchParams(location.search).get("q") ?? "";
+  setTimeout(() => document.dispatchEvent(new CustomEvent("ym:search", { detail: q })), 50);
+</script>

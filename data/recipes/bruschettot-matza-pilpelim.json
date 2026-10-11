@@ -1,0 +1,60 @@
+{
+  "slug": "bruschettot-matza-pilpelim",
+  "title": "ברוסקטות מצה עם פלפלים צבעוניים",
+  "titleEn": "Matzo Bruschetta with Roasted Peppers",
+  "description": "מלבני מצה שהורטבו וטוגנו בשמן זית, עם שום כתוש ורצועות גמבה צלויה, זיתים שחורים וצמחי תבלין. מנה קלה לפסח, שמגישים פושרת או קרה.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["passover"],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan", "kosher-for-passover"],
+  "tags": ["פסח", "קל", "אירוח"],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 90,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": "לבסיס", "items": [
+      { "qty": 2, "unit": null, "item": "מצות", "note": "רגילות או מועשרות בסובין", "raw": "2 מצות רגילות או מועשרות בסובין" },
+      { "qty": 0.25, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "¼ כוס שמן זית" },
+      { "qty": 2, "unit": "שיני", "item": "שום", "note": "כתושות דק", "raw": "2 שיני שום כתושות דק" }
+    ] },
+    { "group": "לציפוי", "items": [
+      { "qty": 4, "unit": null, "item": "גמבות צבעוניות", "note": null, "raw": "4 גמבות צבעוניות" },
+      { "qty": 4, "unit": null, "item": "זיתים שחורים", "note": "מגולענים", "raw": "4 זיתים שחורים, מגולענים" },
+      { "qty": 1, "unit": "כף", "item": "פטרוזיליה או ריחן", "note": "קצוצים", "raw": "1 כף פטרוזיליה או ריחן קצוצים" },
+      { "qty": 1, "unit": "ענף", "item": "רוזמרין", "note": null, "raw": "1 ענף רוזמרין" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח ופלפל שחור" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הפלפלים", "items": [
+      { "text": "מניחים את הגמבות על תבנית אלומיניום חד־פעמית וצולים בתנור בחום בינוני, 180 מעלות, כ-30 דקות.", "timerMin": 30 },
+      { "text": "מוציאים מהתנור ומכניסים לשקית פלסטיק. סוגרים ומשאירים כחצי שעה, עד שהפלפלים ״מזיעים״ והקליפה הדקה נפרדת בקלות.", "timerMin": 30 },
+      { "text": "מקלפים את הפלפלים ומסלקים את הגרעינים והגבעול.", "timerMin": null }
+    ] },
+    { "group": "הבסיס", "items": [
+      { "text": "מרטיבים את המצות במים ומניחים כמה דקות, עד שהן לחות אך לא רטובות מדי, כדי שלא יתפוררו.", "timerMin": null },
+      { "text": "חותכים כל מצה לשניים, וכך מתקבלים 4 מלבנים. מחממים את השמן במחבת גדולה ושטוחה ומטגנים את המלבנים משני הצדדים, עד שהם מזהיבים מעט.", "timerMin": null },
+      { "text": "מורחים על המצות את השום הכתוש, לפי הטעם.", "timerMin": null }
+    ] },
+    { "group": "הרכבה", "items": [
+      { "text": "חותכים את הגמבות לרצועות רחבות ומסדרים אותן על מלבני המצה.", "timerMin": null },
+      { "text": "מקשטים ברצועות זיתים שחורים, מתבלים במלח ופלפל, ומפזרים פטרוזיליה או ריחן. מוסיפים ענף רוזמרין.", "timerMin": null },
+      { "text": "מגישים פושר או קר.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "בארוחת צהריים קלה בחול המועד אפשר להניח על הברוסקטות חתיכות פטה או גבינה בולגרית, ואז הן הופכות למנה עיקרית קלה."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Four golden pan-fried matzo rectangles topped with strips of roasted red, yellow and orange peppers, black olive slivers, chopped parsley and a rosemary sprig",
+  "alt": "מלבני מצה מטוגנים עם רצועות גמבה צלויה אדומה וצהובה, זיתים שחורים ופטרוזיליה",
+  "originals": [{ "file": "ברוסקטות מצה.doc", "driveId": "1l_HC9W19nrqeTDU6A6cM53Q6XxkwBmhr" }]
+}

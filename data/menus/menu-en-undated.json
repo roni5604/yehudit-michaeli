@@ -1,0 +1,59 @@
+{
+  "slug": "menu-en-undated",
+  "title": "תפריט באנגלית (ללא תאריך)",
+  "titleEn": "À la carte menu in English (undated)",
+  "date": null,
+  "season": null,
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetisers",
+      "items": [
+        { "name": "Terrine Foie Gras", "desc": "Goose liver terrine", "price": "50 nis" },
+        { "name": "Filet de Poisson et Fruits de Mer", "desc": "Sea fish fillet with seafood in white wine & cream sauce", "price": "48 nis" },
+        { "name": "Assiette Charcuterie", "desc": "Smoked salami & meats", "price": "28 nis" },
+        { "name": "Chou farci", "desc": "Stuffed cabbage in tomato & sauerkraut sauce", "price": "32 nis" },
+        { "name": "Cervelle", "desc": "Brain in curry & capers sauce", "price": "42 nis" },
+        { "name": "Salade Verte", "desc": "Green salad with goat's cheese", "price": "32 nis" },
+        { "name": "Soup of the Day", "price": "32 nis" }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "items": [
+        { "name": "Boeuf Bourguignon", "desc": "Beef in red wine sauce", "price": "70 nis" },
+        { "name": "Poulet Vallée d'Auge", "desc": "Chicken in apple & calvados sauce", "price": "65 nis" },
+        { "name": "Escalopes au Beurre de Citron", "desc": "Veal escalopes in lemon butter", "price": "80 nis" },
+        { "name": "Canard à l'Orange", "desc": "Moulard breast in a honey & citrus sauce", "price": "70 nis" },
+        { "name": "Côte d'Agneau", "desc": "Baby lamb in red wine and sage sauce", "price": "90 nis" },
+        { "name": "Bouillabaisse", "desc": "Fish and shellfish soup with pastis and root vegetables", "price": "85 nis" },
+        { "name": "Osso Buco", "desc": "In tomato and vegetable sauce", "price": "75 nis" },
+        { "name": "Oie Confit", "desc": "Goose leg confit with honey & spices", "price": "70 nis" },
+        { "name": "Truite au Four", "desc": "Trout filled with herbs, baked on sliced quince", "price": "70 nis" },
+        { "name": "Gnocchis", "desc": "Housemade gnocchi with vegetables – vegetarian", "price": "55 nis" }
+      ]
+    },
+    {
+      "name": "Before Dessert",
+      "items": [
+        { "name": "Fromages", "desc": "Selection of Israeli cheeses", "price": "30 nis" }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "Tarte Tatin", "desc": "Apple cake", "price": "28 nis" },
+        { "name": "Soupe de fruits rouges", "desc": "Berry compote with butter biscuit", "price": "25 nis" },
+        { "name": "Gâteau Chocolat", "desc": "Hot chocolate bake with vanilla sauce & whipped cream", "price": "32 nis" },
+        { "name": "Crêpes Suzette", "desc": "In Grand Marnier", "price": "28 nis" },
+        { "name": "Sorbet", "desc": "In various flavors", "price": "25 nis" },
+        { "name": "Crème Brûlée", "price": "32 nis" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "תפיט באנגלית.doc", "driveId": "1tum4XJ2n-jjqhNvHvOelPxOuE5rpx-_L" }]
+}

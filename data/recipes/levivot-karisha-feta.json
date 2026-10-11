@@ -1,0 +1,168 @@
+{
+  "slug": "levivot-karisha-feta",
+  "title": "לביבות כרישה ופטה",
+  "titleEn": "Leek and Feta Latkes",
+  "description": "לביבות אובליות ושטוחות מכרישה, תפוח אדמה, שום ופטה מפוררת, מטוגנות בשמן זית ומוגשות עם לימון.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "ירקות",
+    "גבינה"
+  ],
+  "servings": null,
+  "yield": "10 לביבות",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 20,
+  "totalMin": 70,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 300,
+          "unit": "גרם",
+          "item": "כרישה (פראסה)",
+          "note": "4 יחידות",
+          "raw": "300 גרם כרישה (פראסה), 4 יחידות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "תפוח אדמה בינוני",
+          "note": null,
+          "raw": "1 תפוח אדמה בינוני"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "מעוכות",
+          "raw": "2 שיני שום, מעוכות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": null,
+          "raw": "1 ביצה"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינת פטה",
+          "note": "מפוררת",
+          "raw": "100 גרם גבינת פטה, מפוררת"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "פטרוזיליה",
+          "note": "קצוצה",
+          "raw": "1 כף פטרוזיליה, קצוצה"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "קמח",
+          "note": null,
+          "raw": "6 כפות קמח"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "אבקת אפייה",
+          "note": null,
+          "raw": "½ כפית אבקת אפייה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור",
+          "note": null,
+          "raw": "מלח ופלפל שחור"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": "לטיגון",
+          "raw": "שמן זית, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מנקים היטב את הכרישה מחול שחדר לשכבות החיצוניות.",
+          "timerMin": null
+        },
+        {
+          "text": "חותכים את הכרישה לפרוסות עגולות דקות ואת תפוח האדמה לקוביות. מבשלים במים מומלחים עד שהם רכים.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים היטב ומשאירים במסננת כ-20 דקות, עד שהירקות מתקררים והמים נוטפים.",
+          "timerMin": 20
+        },
+        {
+          "text": "מועכים את הכרישה ותפוחי האדמה בקערה ומוסיפים את השום. טורפים את הביצה ומוסיפים אותה עם הפטה והפטרוזיליה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים קמח ואבקת אפייה, מתבלים במלח ופלפל ומערבבים. אם התערובת רכה מדי, מוסיפים עוד כף או שתיים קמח.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים במחבת גדולה שמן בגובה של פחות מסנטימטר. יוצרים לביבות בעזרת שתי כפות, מניחים בשמן החם ומשטחים קלות ללביבה אובלית.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים עד שהלביבות מזהיבות, הופכים ומטגנים בצד השני.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים חם עם חצי לימון.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "unknown",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Oval flat leek and feta fritters, golden brown, served warm with a half lemon on a plate",
+  "alt": "לביבות כרישה ופטה אובליות וזהובות, עם חצי לימון",
+  "originals": [
+    {
+      "file": "לביבות כרישה.doc",
+      "driveId": "1SzHL8-v5OiS8BVKIOGgo79U9YKFG1R9G"
+    },
+    {
+      "file": "לביבות כרישה.doc",
+      "driveId": "1ObjscEsqbcMg53EmxeRhZ5-G1iCjkznu"
+    },
+    {
+      "file": "לביבות כרישה.doc",
+      "driveId": "1LRx7gODCBROH48tNvx4JZTuED_iMRh5x"
+    }
+  ]
+}

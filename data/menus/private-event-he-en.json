@@ -1,0 +1,51 @@
+{
+  "slug": "private-event-he-en",
+  "title": "תפריט לאירוע פרטי (עברית ואנגלית)",
+  "titleEn": "Private event menu, Hebrew and English",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "תפריט דו-לשוני לאירוע פרטי, מלווה ביין אדום (קברנה פטיט סירה) ויין לבן (פרנץ' ריזלינג) מיקב תשבי.",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        { "name": "פארפה כבדים עם ריבת תאנים ביין", "nameEn": "Chicken liver parfait with figs confiture" },
+        { "name": "קדירת פירות ים", "nameEn": "Seafood in a seasoned butter sauce" },
+        { "name": "סלסלות פריכות במילוי כרישה ועגבניות", "nameEn": "Leek & dried tomatoes bake" },
+        { "name": "ירקות קלויים ומתובלים בסגנון כפרי", "nameEn": "Antipasti – seasoned grilled vegetables" },
+        { "name": "סלט ירוק ברוטב וינגרט", "nameEn": "Green salad" }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        { "name": "רוסט ביף ברוטב יין אדום", "nameEn": "Roast beef in red wine sauce" },
+        { "name": "נתחי פרגית בשזיפים ותפוחים", "nameEn": "Baby chicken with dried apples and prunes" },
+        { "name": "פילה סלמון בג'ינג'ר ותפוזים", "nameEn": "Salmon fillet with orange & ginger cream" },
+        { "name": "לזניית תרד וגבינות", "nameEn": "Spinach & cheddar lasagna", "desc": "צמחוני" }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        { "name": "עוגת קוביות שוקולד", "nameEn": "Hot chocolate cake" },
+        { "name": "פבלובת פירות יער", "nameEn": "Pavlova with sweet cream and red berries" },
+        { "name": "טארט טאטן", "nameEn": "Tarte Tatin – warm apple cake" },
+        { "name": "סלט פירות", "nameEn": "Fruit salad" },
+        { "name": "גלידת וניל", "nameEn": "Vanilla ice cream" }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        { "name": "יין אדום – קברנה פטיט סירה, יקב תשבי" },
+        { "name": "יין לבן – פרנץ' ריזלינג, יקב תשבי" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "אירוע פרטי (שם הקובץ הוסר).doc", "driveId": "19V_xww3J3YW_XizMjbBG_ggwmZme7CSH" }]
+}

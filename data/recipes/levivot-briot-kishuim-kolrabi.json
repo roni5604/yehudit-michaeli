@@ -1,0 +1,128 @@
+{
+  "slug": "levivot-briot-kishuim-kolrabi",
+  "title": "לביבות בריאות מקישואים וכולורבי",
+  "titleEn": "Healthy Zucchini and Kohlrabi Latkes",
+  "description": "לביבות בלי תפוחי אדמה: קישואים, בצל וכולורבי מגורדים עם קמח שיפון מלא, מטוגנות בשמן זית.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "healthy"
+  ],
+  "tags": [
+    "חנוכה",
+    "בריא",
+    "קל"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 15,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "קישואים גדולים",
+          "note": null,
+          "raw": "2 קישואים גדולים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל גדול",
+          "note": null,
+          "raw": "1 בצל גדול"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "כולורבי",
+          "note": null,
+          "raw": "1 כולורבי"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית מלח"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "קמח שיפון מלא",
+          "note": null,
+          "raw": "1 כוס קמח שיפון מלא"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": "לטיגון",
+          "raw": "2 כפות שמן זית, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מגרדים על פומפייה את הקישואים, הבצל והכולורבי.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הביצים ואת המלח.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים פנימה את קמח השיפון.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים במחבת חמה 2 כפות שמן זית.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים את הלביבות עד שהן זהובות משני הצדדים, ומעבירים לצלחת עם נייר סופג.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "סתיו אדם",
+    "rewritten": true
+  },
+  "imagePrompt": "Thin golden-brown zucchini and kohlrabi fritters on a plate lined with paper, with visible green shreds",
+  "alt": "לביבות קישואים וכולורבי זהובות עם פסים ירוקים על צלחת",
+  "originals": [
+    {
+      "file": "לביבות ירק.docx",
+      "driveId": "12wFYmvrDGsSDIZ36O97k8qGikP4hUX6R"
+    }
+  ]
+}

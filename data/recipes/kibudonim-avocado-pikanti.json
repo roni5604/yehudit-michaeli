@@ -1,0 +1,43 @@
+{
+  "slug": "kibudonim-avocado-pikanti",
+  "title": "כריכוני אבוקדו פיקנטיים",
+  "titleEn": "Spicy Avocado Canapés",
+  "description": "פרוסות באגט עם סלט אבוקדו, כפית של סלט אדום חריף ופלח פלפל חריף או מלפפון חמוץ. כ-20 ביסים קלים ופיקנטיים לאירוח.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian"],
+  "tags": ["אירוח", "פינגר פוד"],
+  "servings": null,
+  "yield": "כ-20 מנות אישיות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": null,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 4, "qtyMax": 5, "unit": null, "item": "לחמניות באגט", "note": null, "raw": "4-5 לחמניות באגט" },
+      { "qty": 250, "unit": "גרם", "item": "סלט אבוקדו מוכן", "note": null, "raw": "250 גרם סלט אבוקדו מוכן" },
+      { "qty": 100, "unit": "גרם", "item": "סלט טורקי או מטבוחה מוכנה", "note": null, "raw": "100 גרם סלט טורקי או מטבוחה מוכנה" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "פרוסות פלפלים חריפים או מלפפונים חמוצים", "note": null, "raw": "פרוסות פלפלים חריפים, או מלפפונים חמוצים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "פורסים את הלחמניות לפרוסות בעובי אחיד של כ-2 ס״מ. מורחים כל פרוסה בסלט אבוקדו מוכן.", "timerMin": null },
+      { "text": "מקשטים בסלט האדום הפיקנטי, ומעליו פרוסת פלפל חריף או מלפפון חמוץ.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Small open sandwiches on baguette slices spread with green avocado salad, topped with a dab of red spicy matbucha and a slice of hot pepper or pickled cucumber",
+  "alt": "כריכונים פתוחים על באגט עם סלט אבוקדו ירוק, סלט אדום חריף ופלפל חריף",
+  "originals": [{ "file": "ברוסקטות.doc", "driveId": "16CjhSZY5VOfF_e16De_q2uO8HFtIsR0H" }]
+}

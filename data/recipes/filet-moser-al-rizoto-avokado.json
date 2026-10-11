@@ -1,0 +1,77 @@
+{
+  "slug": "filet-moser-al-rizoto-avokado",
+  "title": "פילה מוסר על ריזוטו אבוקדו עם ויניגרט תפוזים",
+  "titleEn": "Sole Fillet on Avocado Risotto with Orange Vinaigrette",
+  "description": "פילה דג עם עור פריך על ריזוטו אבוקדו קטיפתי, מוגש עם ויניגרט תפוזים מצומצם ועירית קצוצה. מנה אלגנטית למסעדה ולבית.",
+  "category": "fish",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [],
+  "tags": ["אירוח", "מנת מסעדה", "דג"],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 35,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לדגים", "items": [
+      { "qty": 4, "unit": null, "item": "פילה מוסר", "note": "עם העור, ללא עצמות", "raw": "4 פילה מוסר, עם העור וללא עצמות" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": "בערך", "raw": "כ-½ כוס שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח, פלפל שחור" }
+    ] },
+    { "group": "לריזוטו", "items": [
+      { "qty": 2, "unit": "כוסות", "item": "אורז לריזוטו", "note": null, "raw": "2 כוסות אורז לריזוטו" },
+      { "qty": 6, "unit": "כוסות", "item": "ציר ירקות או מים", "note": "רצוי ציר", "raw": "6 כוסות ציר ירקות או מים (רצוי ציר)" },
+      { "qty": 0.5, "unit": null, "item": "בצל סגול", "note": "קצוץ דק", "raw": "½ בצל סגול קצוץ דק" },
+      { "qty": 0.5, "unit": "כוס", "item": "יין לבן יבש", "note": null, "raw": "½ כוס יין לבן יבש" },
+      { "qty": 3, "unit": null, "item": "אבוקדו", "note": "בשלים ורכים", "raw": "3 אבוקדו בשלים ורכים" },
+      { "qty": 2, "unit": "כפות", "item": "גבינת צאן", "note": "מגוררת, או פרמזן", "raw": "2 כפות גבינת צאן מגוררת (או פרמזן)" }
+    ] },
+    { "group": "לוויניגרט תפוזים", "items": [
+      { "qty": 0.5, "unit": "כוס", "item": "מיץ תפוזים", "note": null, "raw": "½ כוס מיץ תפוזים" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "½ כוס שמן זית" },
+      { "qty": 1, "unit": "כף", "item": "מיץ לימון", "note": null, "raw": "1 כף מיץ לימון" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל לבן", "note": null, "raw": "מלח ופלפל לבן" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": 1, "unit": "כף", "item": "עירית קצוצה", "note": null, "raw": "1 כף עירית קצוצה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הריזוטו", "items": [
+      { "text": "מאדים בסיר את הבצל הסגול במעט שמן זית עד שהוא שקוף.", "timerMin": null },
+      { "text": "מוסיפים את האורז ומאדים כשתי דקות. יוצקים את היין הלבן ומבשלים עד שהוא נספג כולו באורז.", "timerMin": 2 },
+      { "text": "מחממים את ציר הירקות. יוצקים על האורז 2 כוסות ציר ומנמיכים את האש. ממתינים עד שהנוזלים נספגים.", "timerMin": null },
+      { "text": "מוסיפים עוד 2 כוסות ציר וחוזרים על התהליך, ואז פעם שלישית, עד שהציר נגמר והאורז רך.", "timerMin": null },
+      { "text": "טוחנים את האבוקדו במעבד מזון למשחה חלקה, ומערבבים אותה עם הגבינה לתוך הריזוטו.", "timerMin": null }
+    ] },
+    { "group": "ויניגרט התפוזים", "items": [
+      { "text": "מצמצמים בסיר את מיץ התפוזים לחצי מהכמות.", "timerMin": null },
+      { "text": "מערבבים עם שמן הזית ומיץ הלימון, ומתבלים במלח ובפלפל.", "timerMin": null }
+    ] },
+    { "group": "הדג", "items": [
+      { "text": "מתבלים את הדגים במלח ובפלפל. מטגנים קלות על צד העור במחבת עם מעט שמן זית.", "timerMin": null },
+      { "text": "מעבירים לתנור חם בחום 180 מעלות ואופים עוד כ-3 דקות.", "timerMin": 3 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "עורכים על הצלחת תלוליות של ריזוטו אבוקדו ומניחים עליהן את הדגים.", "timerMin": null },
+      { "text": "מפזרים עירית קצוצה ומזלפים את ויניגרט התפוזים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "המתכון הגיע ממסעדת \"בריבה\"."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Crisp-skinned sole fillet resting on a mound of pale green avocado risotto on a white plate, drizzled with orange vinaigrette and sprinkled with chopped chives",
+  "alt": "פילה דג עם עור פריך על ריזוטו אבוקדו ירקרק, מעליו ויניגרט תפוזים ועירית קצוצה",
+  "originals": [
+    { "file": "4mainMag221_14Mar07A.doc", "driveId": "1SasWEU-qdJLamTuR4k2xMEUoArUMgge7" },
+    { "file": "ריזוטו אבוקדו.doc", "driveId": "1aRYqpLiDh5PFODBrP5IFxCH0Mmz2Qdg7" }
+  ]
+}

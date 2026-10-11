@@ -1,0 +1,92 @@
+{
+  "slug": "valentines-2004-2",
+  "title": "ערב ולנטיינס זוגי · 2004",
+  "titleEn": "Valentine's Day couples' menu 2004 (second version)",
+  "date": "2004-02",
+  "season": "winter",
+  "occasion": "ולנטיינס",
+  "kind": "holiday",
+  "language": "he",
+  "intro": "תפריט ולנטיינס זוגי. רשפון, 14 בפברואר 2004. לשולחן יוגש בקבוק יין תשבי לכל זוג. המחיר: 300 ₪ לזוג, לא כולל שירות.",
+  "sections": [
+    {
+      "name": "2 מנות ראשונות לבחירה",
+      "items": [
+        {
+          "name": "כבד אווז חם",
+          "desc": "ברוטב פירות-יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורנטינו",
+          "desc": "ממולא בחזה אווז מעושן ברוטב רוקפור",
+          "recipeSlug": null
+        },
+        {
+          "name": "עלי גפן ממולאים באורז ועשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט עלעלים ופרחי-מאכל",
+          "desc": "ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "2 מנות עיקריות לבחירתכם",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית בתפוחים וקלבדוס",
+          "recipeSlug": null
+        },
+        {
+          "name": "דואט של דג בורי ופורל",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות – לצמחונים",
+          "recipeSlug": null
+        },
+        {
+          "name": "טריו כבדים עם בצלים מזוגגים",
+          "desc": "מנה נוספת",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוח זוגי אחד לבחירה",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "תותים בקצפת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ-סוזט בננה",
+          "desc": "בלהבות רום טרינידדי",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט זוגי רומנטי.doc",
+      "driveId": "1c8dlWTk_aIEBrxgVcMnFK4twnCZfm4Dh"
+    }
+  ]
+}

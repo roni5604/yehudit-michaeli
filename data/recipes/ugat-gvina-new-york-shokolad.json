@@ -1,0 +1,60 @@
+{
+  "slug": "ugat-gvina-new-york-shokolad",
+  "title": "עוגת גבינה ניו יורקית עם בסיס שוקולד",
+  "titleEn": "New York Cheesecake with Chocolate Crust",
+  "description": "עוגת גבינת שמנת עשירה על בסיס קקאו פירורי, שנאפית באמבט מים ונחה במקרר לילה שלם. תוצאה חלקה, קטיפתית ובלי סדקים.",
+  "category": "cakes",
+  "subcategory": "cheesecakes",
+  "cuisine": "american",
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["עוגת גבינה", "שבועות", "אירוח"],
+  "servings": 14,
+  "yield": null,
+  "pan": "תבנית קפיץ",
+  "prepMin": 30,
+  "cookMin": 125,
+  "totalMin": 780,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבסיס", "items": [
+      { "qty": 0.75, "unit": "כוס", "item": "קמח", "note": null, "raw": "¾ כוס קמח" },
+      { "qty": 0.25, "unit": "כוס", "item": "קקאו", "note": null, "raw": "¼ כוס קקאו" },
+      { "qty": 0.25, "unit": "כוס", "item": "סוכר", "note": null, "raw": "¼ כוס סוכר" },
+      { "qty": 0.75, "unit": "כפית", "item": "מלח", "note": null, "raw": "¾ כפית מלח" },
+      { "qty": 85, "unit": "גרם", "item": "חמאה", "note": null, "raw": "85 גרם חמאה" }
+    ] },
+    { "group": "לתערובת הגבינה", "items": [
+      { "qty": 850, "unit": "גרם", "item": "גבינת שמנת פילדלפיה", "note": "בטמפרטורת החדר", "raw": "850 גרם גבינת שמנת פילדלפיה בטמפרטורת החדר" },
+      { "qty": 1.5, "unit": "כוסות", "item": "סוכר", "note": null, "raw": "1½ כוסות סוכר" },
+      { "qty": 6, "unit": null, "item": "ביצים", "note": null, "raw": "6 ביצים" },
+      { "qty": 0.75, "unit": "כוס", "item": "שמנת חמוצה", "note": null, "raw": "¾ כוס שמנת חמוצה" },
+      { "qty": 1, "unit": "כפית", "item": "תמצית וניל משובחת", "note": null, "raw": "1 כפית תמצית וניל משובחת" },
+      { "qty": null, "unit": "קורט", "item": "מלח", "note": null, "raw": "קורט מלח" },
+      { "qty": 0.25, "unit": "כוס", "item": "מיץ לימון טרי", "note": null, "raw": "¼ כוס מיץ לימון טרי" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבסיס", "items": [
+      { "text": "מחממים תנור ל-180 מעלות. מצפים את התבנית מבחוץ ברדיד אלומיניום ומרפדים מבפנים בנייר אפייה.", "timerMin": null },
+      { "text": "מעבדים במעבד מזון עם להב מתכת את כל חומרי הבסיס לתערובת פירורית אחידה.", "timerMin": null },
+      { "text": "מפזרים בתחתית התבנית ואופים 5 דקות. מצננים ומנמיכים את התנור ל-120 מעלות.", "timerMin": 5 }
+    ] },
+    { "group": "המילוי והאפייה", "items": [
+      { "text": "מערבלים במיקסר את הגבינה והסוכר עד שהגבינה מתרככת. מוסיפים את שאר החומרים ומערבלים לתערובת אחידה.", "timerMin": null },
+      { "text": "יוצקים על הבסיס האפוי.", "timerMin": null },
+      { "text": "מניחים את התבנית במרכז תבנית נוספת ויוצקים מסביב מים חמים עד שליש מגובה התבנית.", "timerMin": null },
+      { "text": "אופים שעה.", "timerMin": 60 },
+      { "text": "מכבים את התנור ומשאירים את העוגה בפנים עוד שעה, כשדלת התנור פתוחה מעט.", "timerMin": 60 },
+      { "text": "מקררים במקרר לילה שלם לפני ההגשה.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["העוגה זקוקה לשהייה של לילה במקרר לפני ההגשה."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A New York cheesecake on a dark chocolate crumb crust, smooth pale creamy top without cracks, a slice cut out and served on a plate",
+  "alt": "פרוסת עוגת גבינה ניו יורקית קטיפתית על בסיס שוקולד כהה",
+  "originals": [{ "file": "עוגת גבינה ניויורקית.doc", "driveId": "1_CYpgYhPP07RMCctalzmNOh2YMcS4937" }]
+}

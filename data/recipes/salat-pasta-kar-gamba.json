@@ -1,0 +1,134 @@
+{
+  "slug": "salat-pasta-kar-gamba",
+  "title": "סלט פסטה קר עם גמבה וזיתים",
+  "titleEn": "Cold Pasta Salad with Red Pepper and Olives",
+  "description": "סלט פסטה מסולסלת עם גמבה אדומה מטוגנת, זיתים שחורים, שום ועשבי תיבול.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [
+    "סלט קר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 15,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פסטה מסולסלת",
+          "note": null,
+          "raw": "1 חבילה פסטה מסולסלת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "גמבה אדומה",
+          "note": "קצוצה",
+          "raw": "1 גמבה אדומה, קצוצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שום כתוש",
+          "note": null,
+          "raw": "שום כתוש"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור",
+          "note": null,
+          "raw": "פלפל שחור"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "זיתים שחורים",
+          "note": "מגולענים ופרוסים",
+          "raw": "זיתים שחורים, מגולענים ופרוסים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עירית או בצל ירוק",
+          "note": null,
+          "raw": "עירית או בצל ירוק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בזיליקום או אורגנו",
+          "note": "טרי או יבש",
+          "raw": "בזיליקום או אורגנו, טרי או יבש"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה לפי הוראות היצרן.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים את הגמבה בשמן זית חם, ומתבלים במלח ופלפל שחור.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים את הפסטה עם הזיתים, העירית, הבזיליקום והגמבה עם שמן הטיגון.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שום כתוש ומערבבים. מצננים ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Cold curly pasta salad with diced red pepper, sliced black olives and herbs in a glass bowl",
+  "alt": "סלט פסטה מסולסלת קר עם גמבה אדומה, זיתים שחורים ועשבים בקערת זכוכית",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

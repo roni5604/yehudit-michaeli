@@ -1,0 +1,105 @@
+{
+  "slug": "company-event-en-b",
+  "title": "תפריט לאירוע חברה (באנגלית)",
+  "titleEn": "Company event menu (English)",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Lamb kebab with tahini sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Smoked salmon",
+          "desc": "Accompanied by tartar sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Asparagus bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad & carrots salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tomato soup",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Course of Your Choice",
+      "items": [
+        {
+          "name": "Beef casserole",
+          "desc": "Boeuf Bourguignon",
+          "recipeSlug": null
+        },
+        {
+          "name": "Baby chicken with dried apples and prunes",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea bass à la Florentine",
+          "desc": "Spinach & pine nuts sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Ravioli – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Hot chocolate bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pavlova",
+          "desc": "Meringue with cream & red berries",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Wine",
+      "items": [
+        {
+          "name": "Red & white dry wine from the Carmel Wineries",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1aC1ww_yJqc-6qQd2RLjTQG0i4vZLWb-_"
+    }
+  ]
+}

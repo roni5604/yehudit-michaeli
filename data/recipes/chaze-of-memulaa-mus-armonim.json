@@ -1,0 +1,87 @@
+{
+  "slug": "chaze-of-memulaa-mus-armonim",
+  "title": "חזה עוף ממולא במוס ערמונים",
+  "titleEn": "Chicken Breast Stuffed with Chestnut Mousse",
+  "description": "חזה עוף עם עור, ממולא במוס עדין של פילה עוף, שמנת וערמונים, עטוף נייר אלומיניום וצלוי, ומוגש ברוטב חמאה ויין לבן עם אפונה ועגבניות מיובשות.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": ["מנת מסעדה", "אירוח", "ממולא"],
+  "servings": 4,
+  "yield": "4 חצאי חזה",
+  "pan": "מחבת מעשנת",
+  "prepMin": 60,
+  "cookMin": 25,
+  "totalMin": 85,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": "לחזה", "items": [
+      { "qty": 4, "unit": null, "item": "חצאי חזה עוף", "note": "2 חזות עוף חצויים לשניים; עם העור, בלי עצם, נקיים משומן", "raw": "4 חצאי חזה עוף (2 חזות עוף חצויים לשניים), עם העור, בלי עצם, נקיים משומן" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": "למשטח העבודה ולשימון החזה", "raw": "שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" }
+    ] },
+    { "group": "למילוי: מוס ערמונים", "items": [
+      { "qty": 200, "unit": "גרם", "item": "פילה עוף", "note": null, "raw": "200 גרם פילה עוף" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": 100, "unit": "גרם", "item": "ערמונים", "note": "מרוסקים במג׳ימיקס ומדוללים במעט חלב", "raw": "100 גרם ערמונים מרוסקים במג׳ימיקס ומדוללים במעט חלב" },
+      { "qty": 100, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "100 מ״ל שמנת מתוקה" },
+      { "qty": 1, "unit": null, "item": "חלבון ביצה", "note": null, "raw": "1 חלבון ביצה" },
+      { "qty": 50, "unit": "גרם", "item": "בצל", "note": "מאודה בחמאה", "raw": "50 גרם בצל מאודה בחמאה" },
+      { "qty": null, "unit": null, "item": "פלפל שחור גרוס", "note": null, "raw": "פלפל שחור גרוס" }
+    ] },
+    { "group": "לרוטב", "items": [
+      { "qty": null, "unit": null, "item": "עגבניות מיובשות", "note": "חלוטות, סחוטות וחתוכות לפסים", "raw": "עגבניות מיובשות חלוטות, סחוטות וחתוכות לפסים" },
+      { "qty": null, "unit": null, "item": "שום", "note": "כתוש", "raw": "שום כתוש" },
+      { "qty": null, "unit": null, "item": "פטרוזיליה", "note": "קצוצה", "raw": "פטרוזיליה קצוצה" },
+      { "qty": null, "unit": null, "item": "אפונה", "note": "קפואה או טריה", "raw": "אפונה קפואה או טריה" },
+      { "qty": null, "unit": null, "item": "יין לבן", "note": null, "raw": "יין לבן" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": null, "raw": "חמאה" },
+      { "qty": null, "unit": null, "item": "ציר עוף", "note": "או ציר בקר", "raw": "ציר עוף (או בקר)" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "פטרוזיליה", "note": "לקישוט", "raw": "פטרוזיליה לקישוט" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכנת החזה", "items": [
+      { "text": "מנקים את חצאי החזה משומן ומוציאים את העצם, ומשאירים את העור על החזה.", "timerMin": null },
+      { "text": "פותחים כיס בצד הנגדי לכנף, ומנקים את עצם הכנף.", "timerMin": null }
+    ] },
+    { "group": "המילוי", "items": [
+      { "text": "טוחנים את פילה העוף עם מלח, ואת הבצל המאודה למחית אחידה.", "timerMin": null },
+      { "text": "מוסיפים את החלבון ואחריו את הערמונים.", "timerMin": null },
+      { "text": "מוסיפים את השמנת ומתבלים בפלפל שחור גרוס.", "timerMin": null }
+    ] },
+    { "group": "מילוי וצלייה", "items": [
+      { "text": "פורסים על שולחן העבודה ניילון, ומשמנים אותו בשמן זית ומפזרים עליו מלח. מניחים עליו את החזות.", "timerMin": null },
+      { "text": "מכניסים את המסה לשק זילוף וממלאים בה את כיסי החזה.", "timerMin": null },
+      { "text": "משמנים וממליחים את החזות מלמעלה.", "timerMin": null },
+      { "text": "מכינים ״סוכריות״ מנייר אלומיניום, כך שכל חזה עטוף בתוכן.", "timerMin": null },
+      { "text": "על מחבת מעשנת סוגרים את החזה מכל צדדיו.", "timerMin": null },
+      { "text": "צולים בתנור ב-200 מעלות כ-6 עד 10 דקות.", "timerMin": 6 }
+    ] },
+    { "group": "הרוטב", "items": [
+      { "text": "מזהיבים את השום בחמאה ומוסיפים את היין ואת העגבניות המיובשות.", "timerMin": null },
+      { "text": "מוסיפים מעט ציר עוף או בקר.", "timerMin": null },
+      { "text": "מוסיפים מעט מלח, פטרוזיליה ואפונה.", "timerMin": null },
+      { "text": "קושרים את הרוטב בעזרת מעט חמאה.", "timerMin": null }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "פותחים את נייר האלומיניום ומחלקים כל חזה לשלושה חלקים.", "timerMin": null },
+      { "text": "מניחים את העוף בצלחת, יוצקים עליו את הרוטב ומקשטים בפטרוזיליה.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["בגרסה אחרת של אותו מתכון, המילוי הוא מוס עגבניות מיובשות במקום ערמונים."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A sliced stuffed chicken breast revealing a pale beige chestnut mousse filling, on a white plate with a glossy white wine butter sauce, green peas and strips of sun-dried tomato, garnished with chopped parsley",
+  "alt": "חזה עוף ממולא פרוס לשלושה חלקים, עם מילוי מוס ערמונים בהיר, ברוטב יין וחמאה עם אפונה ופטרוזיליה",
+  "originals": [
+    { "file": "חזה עוף ממולא במוס ערמונים.doc", "driveId": "1KXbOfYfbag9rW_2HWgkdUOvC-BncM0WI" }
+  ]
+}

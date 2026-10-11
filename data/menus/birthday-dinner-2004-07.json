@@ -1,0 +1,105 @@
+{
+  "slug": "birthday-dinner-2004-07",
+  "title": "ארוחת יום הולדת · יולי 2004",
+  "titleEn": "Birthday dinner · July 2004",
+  "date": "2004-07",
+  "season": "summer",
+  "occasion": "יום הולדת (אירוע פרטי)",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "מזל טוב ויום הולדת שמח",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "ירקות ממולאים",
+          "nameEn": "Légumes farcis – vegetables stuffed with rice, mushrooms and herbs",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין כבד אווז",
+          "nameEn": "Terrine de Foie Gras – goose liver terrine",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס",
+          "nameEn": "Shrimps sautéed in seasoned butter",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגוון אנטיפאסטי",
+          "nameEn": "Antipasti – selected vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad with vinaigrette dressing",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "פילה בקר ברוטב פלפלת",
+          "nameEn": "Filet mignon with a creamy pepper sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "חזה מולארד ברוטב הדרים",
+          "nameEn": "Canard à l'orange – Moulard breast in a sweet citrus sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "דואט פורל ודג ים בשמנת עשבי תיבול",
+          "nameEn": "Duet of sea fish and trout fillets in herb cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "חביתיות במילוי ירקות – לצמחונים",
+          "nameEn": "Crêpes aux légumes – vegetarian dish",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל וצ'יפס – לילדים",
+          "nameEn": "Schnitzel & chips – for the children",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגדל פחזניות במילוי קצפת",
+          "nameEn": "Cream-filled profiteroles",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה פסיפלורה",
+          "nameEn": "Passion-fruit sorbet",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1Z8Q7UYi8FGFN4oqDv4hRKooQhj8gsBdY"
+    }
+  ]
+}

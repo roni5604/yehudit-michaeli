@@ -1,0 +1,111 @@
+{
+  "slug": "tu-bav-2006",
+  "title": "ט״ו באב במיכאלי · 2006",
+  "titleEn": "Tu B'Av at Michaeli · August 2006",
+  "date": "2006-08",
+  "season": "summer",
+  "occasion": "ט״ו באב",
+  "kind": "holiday",
+  "language": "he",
+  "intro": "תפריט לט״ו באב תשס״ו. המחיר: 300 ₪ לזוג, לא כולל טיפ.",
+  "sections": [
+    {
+      "name": "מנות ראשונות (2 לבחירה)",
+      "items": [
+        {
+          "name": "כבד אווז ברוטב פירות יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "גלילות קרפצ'ו",
+          "desc": "במילוי פרמזן",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרטר סלמון",
+          "desc": "על אספרגוס וקרם פרש",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי לבבות ארטישוק",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנת ביניים",
+      "items": [
+        {
+          "name": "גספצ'ו אבטיח וגבינת פטה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנות עיקריות (2 לבחירה)",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית",
+          "desc": "במרינדה פרובאנסלית",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג בורי",
+          "desc": "ברוטב שמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות – צמחוני",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "תוספות",
+      "items": [
+        {
+          "name": "פירה תפוחי אדמה וסלט ירוק",
+          "desc": "מוגשים עם המנות העיקריות",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "טריו קינוחים זוגי",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פאבלובה של מנגו ופסיפלורה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט לטו באב תשסו.doc",
+      "driveId": "1jRx5n96MiSIUutPDBKhLNnAHcSeI_oQR"
+    },
+    {
+      "file": "תפריט לטו באב.doc",
+      "driveId": "1g2-LyOtk61YeraYlncr3hmPdrKaVWDDO"
+    }
+  ]
+}

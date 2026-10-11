@@ -1,0 +1,51 @@
+{
+  "slug": "tiramisu-klasi",
+  "title": "טירמיסו קלאסי",
+  "titleEn": "Classic Mascarpone Tiramisu",
+  "description": "טירמיסו עם קרם מסקרפונה, חלמונים וקצפת על בישקוטים טבולים באספרסו, שמתייצב במקרר ללילה ומאובק בקקאו לפני ההגשה.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קלאסיקה איטלקית", "אירוח", "אפשר להכין מראש"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית מלבנית",
+  "prepMin": 30,
+  "cookMin": 0,
+  "totalMin": 510,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 250, "unit": "מ״ל", "item": "שמנת מתוקה", "note": null, "raw": "250 מ״ל שמנת מתוקה" },
+      { "qty": 6, "unit": null, "item": "חלמונים", "note": null, "raw": "6 חלמונים" },
+      { "qty": 70, "unit": "גרם", "item": "סוכר", "note": null, "raw": "70 גרם סוכר" },
+      { "qty": 500, "unit": "גרם", "item": "מסקרפונה", "note": "בחום החדר", "raw": "500 גרם מסקרפונה בחום החדר" },
+      { "qty": 1, "unit": "חבילה", "item": "בישקוטים", "note": null, "raw": "חבילת בישקוטים" },
+      { "qty": 1, "unit": null, "item": "ספל קפה חזק", "note": "רצוי אספרסו", "raw": "ספל קפה חזק (רצוי אספרסו)" },
+      { "qty": null, "unit": null, "item": "אבקת קקאו", "note": null, "raw": "אבקת קקאו" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מקציפים את השמנת לקצפת יציבה.", "timerMin": null },
+      { "text": "בנפרד מקציפים חלמונים וסוכר לתערובת תפוחה ובהירה.", "timerMin": null },
+      { "text": "מוסיפים את הגבינה ומערבלים במהירות נמוכה עד לתערובת חלקה.", "timerMin": null },
+      { "text": "מקפלים פנימה כשליש מכמות הקצפת ומערבבים ביסודיות, ואחר כך מקפלים בעדינות את שאר הקצפת.", "timerMin": null },
+      { "text": "טובלים את הבישקוטים בקפה ומסדרים בתחתית תבנית מלבנית.", "timerMin": null },
+      { "text": "יוצקים מעל את קצפת הגבינה, מכסים ומצננים ללילה.", "timerMin": null },
+      { "text": "לפני ההגשה מפזרים מעל, דרך מסננת, אבקת קקאו משובחת.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A rectangular dish of classic tiramisu cut into a square portion, showing coffee-soaked ladyfingers and thick mascarpone cream under a thick dusting of cocoa",
+  "alt": "חתיכת טירמיסו קלאסי עם שכבות בישקוטים וקרם מסקרפונה, מאובקת בקקאו",
+  "originals": [
+    { "file": "טירמיסו.doc", "driveId": "15LUUu3y0H51kMB9vaMpqY269Aq9sVRGa" }
+  ]
+}

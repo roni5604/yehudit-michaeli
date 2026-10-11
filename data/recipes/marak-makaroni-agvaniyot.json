@@ -1,0 +1,101 @@
+{
+  "slug": "marak-makaroni-agvaniyot",
+  "title": "מרק מקרוני ועגבניות",
+  "titleEn": "Macaroni and Tomato Milk Soup",
+  "description": "מרק חלב עם מקרוני ועגבניות משומרות, מחמם ופשוט.",
+  "category": "soups",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": 5,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 15,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1.25,
+          "unit": "כוסות",
+          "item": "מקרוני בצורות",
+          "note": null,
+          "raw": "1¼ כוסות מקרוני בצורות"
+        },
+        {
+          "qty": 4,
+          "unit": "כוסות",
+          "item": "חלב",
+          "note": null,
+          "raw": "4 כוסות חלב"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "מרגרינה או חמאה",
+          "note": null,
+          "raw": "3 כפות מרגרינה או חמאה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": 450,
+          "unit": "גרם",
+          "item": "קוביות עגבניות משומרות",
+          "note": null,
+          "raw": "450 גרם קוביות עגבניות משומרות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את האטריות אל דנטה.",
+          "timerMin": null
+        },
+        {
+          "text": "בסיר מחממים את החלב עם שאר המרכיבים ומביאים בעדינות כמעט לרתיחה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את האטריות ומבשלים עוד כשתי דקות כדי שיתחממו.",
+          "timerMin": 2
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Bowl of creamy tomato soup with small macaroni shells and a sprinkle of black pepper",
+  "alt": "קערת מרק עגבניות שמנתי עם מקרוני קטן ופלפל שחור",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

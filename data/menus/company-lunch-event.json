@@ -1,0 +1,80 @@
+{
+  "slug": "company-lunch-event",
+  "title": "ארוחת צהריים · אירוע חברה",
+  "titleEn": "Company lunch",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "desc": "מוגש עם בריוש ושזיפים מוחמצים",
+          "recipeSlug": null
+        },
+        {
+          "name": "תרד מוקרם בסלסלות עלי פילו",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון פרובאנס",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז ברוטב דבש ו-7 התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג בורי בשמנת עשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ תבלינים במילוי ירקות פיקנטי – צמחוני",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "סלט פירות העונה בגרנד מרנייה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1uL5iz7i39z76fxW4now4wZIF2c6L4HGi"
+    },
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1LWlCRR2l1Q3V8OzqgQMHV2JjFGZgwIHG"
+    }
+  ]
+}

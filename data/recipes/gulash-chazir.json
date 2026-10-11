@@ -1,0 +1,58 @@
+{
+  "slug": "gulash-chazir",
+  "title": "גולש חזיר בשמנת",
+  "titleEn": "Pork Goulash with Cream",
+  "description": "גולש בסגנון הונגרי של נתחי חזיר רזה שמושחמים בקמח, ומתבשלים לאט עם בצל, בייקון, שינקין מעושן, פפריקה ויין לבן. מסמיכים בסוף בשמנת.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "hungarian",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": ["תבשיל", "בישול איטי"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר רחב",
+  "prepMin": 25,
+  "cookMin": 90,
+  "totalMin": 115,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "בשר חזיר רזה", "note": "רצוי מדליונים או צוואר", "raw": "1 ק״ג בשר חזיר רזה (רצוי מדליונים או צוואר)" },
+      { "qty": null, "unit": null, "item": "קמח", "note": "לציפוי הבשר", "raw": "קמח לציפוי הבשר" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": 2, "unit": null, "item": "בצלים בינוניים", "note": null, "raw": "2 בצלים בינוניים" },
+      { "qty": 150, "unit": "גרם", "item": "בייקון", "note": "בקוביות", "raw": "150 גרם בייקון בקוביות" },
+      { "qty": 150, "unit": "גרם", "item": "שינקין מעושן", "note": "בקוביות", "raw": "150 גרם שינקין מעושן בקוביות" },
+      { "qty": null, "unit": "קורט", "item": "מיורן", "note": "קמצוץ", "raw": "קמצוץ מיורן" },
+      { "qty": 2, "unit": "כפיות", "item": "שום כתוש", "note": null, "raw": "2 כפיות שום כתוש" },
+      { "qty": 1, "unit": "כף", "item": "פפריקה", "note": null, "raw": "1 כף פפריקה" },
+      { "qty": 200, "unit": "מ״ל", "item": "יין לבן יבש", "note": null, "raw": "200 מ״ל יין לבן יבש" },
+      { "qty": 1, "unit": null, "item": "עגבנייה גדולה", "note": "חתוכה לחתיכות קטנות", "raw": "1 עגבנייה גדולה, חתוכה לחתיכות קטנות" },
+      { "qty": 1, "unit": null, "item": "פלפל", "note": "חתוך לחתיכות קטנות", "raw": "1 פלפל, חתוך לחתיכות קטנות" }
+    ] },
+    { "group": "להסמכה", "items": [
+      { "qty": 2, "unit": "גביעים", "item": "שמנת 27%", "note": null, "raw": "2 גביעי שמנת 27%" },
+      { "qty": 100, "unit": "מ״ל", "item": "קמח", "note": null, "raw": "כ-100 מ״ל קמח" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "חותכים את הבשר לחתיכות של כ-5 ס״מ, מפזרים מעט מלח וטובלים בקמח.", "timerMin": null },
+      { "text": "מטגנים את החתיכות כמה שניות מכל צד, עד שהן משחימות קצת. מוציאים מהשמן ומניחים בצד.", "timerMin": null },
+      { "text": "בשמן שבו טוגן הבשר מטגנים את הבצלים. מוסיפים את קוביות הבייקון והשינקין, קמצוץ מיורן, השום, הפפריקה והיין.", "timerMin": null },
+      { "text": "מחזירים את הבשר לסיר ומוסיפים מים, כך שבדיוק יכסו אותו.", "timerMin": null },
+      { "text": "אחרי כ-20 דקות מוסיפים את העגבנייה והפלפל. מבשלים כל הזמן על אש קטנה, ואם המים מתאדים מוסיפים מעט, כדי שהתבשיל לא יישרף.", "timerMin": 20 },
+      { "text": "כשהבשר רך, מפסיקים להוסיף מים. מערבבים את השמנת עם הקמח ומכניסים לתבשיל.", "timerMin": null },
+      { "text": "מבשלים עוד כמה דקות, והמאכל מוכן.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A rustic pot of Hungarian-style pork goulash in a creamy paprika-orange sauce with chunks of pork, bacon, peppers and tomato",
+  "alt": "קדירת גולש חזיר ברוטב שמנת ופפריקה כתום עם נתחי בשר, בייקון ופלפל",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

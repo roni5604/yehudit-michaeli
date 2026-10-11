@@ -1,0 +1,129 @@
+{
+ "slug": "marak-tiras-sini",
+ "title": "מרק תירס סיני",
+ "titleEn": "Chinese Corn Egg-Drop Soup",
+ "description": "מרק תירס מסמיך בקורנפלור עם חוטי ביצה דקים, פשוט ומהיר. מתאים גם לטחינה חלקית לקבלת מרק סמיך יותר.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "chinese",
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "מרק",
+  "סיני",
+  "מהיר"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 10,
+ "cookMin": 20,
+ "totalMin": 30,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": "קופסאות",
+     "item": "תירס",
+     "note": "כולל המיץ",
+     "raw": "2 קופסאות תירס עם המיץ"
+    },
+    {
+     "qty": 6,
+     "unit": "כוסות",
+     "item": "מים",
+     "note": null,
+     "raw": "6 כוסות מים"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "3 כפות אבקת מרק עוף"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "קורנפלור",
+     "note": null,
+     "raw": "3 כפות קורנפלור"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "ביצים",
+     "note": null,
+     "raw": "3 ביצים"
+    },
+    {
+     "qty": 2,
+     "unit": "שקיות",
+     "item": "סוכרזית",
+     "note": null,
+     "raw": "2 שקיות סוכרזית"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל",
+     "note": null,
+     "raw": "מלח ופלפל לפי הטעם"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מרתיחים בסיר גדול את התירס עם המיץ, המים, אבקת המרק והסוכרזית.",
+     "timerMin": null
+    },
+    {
+     "text": "ממיסים את הקורנפלור בכמות קטנה של מים ומוסיפים לסיר אחרי הרתיחה. מתבלים במלח ופלפל.",
+     "timerMin": null
+    },
+    {
+     "text": "שוברים את הביצים וטורפים אותן. כשהמרק רותח בעוצמה, יוצקים אותן בזרם איטי ומערבבים כל הזמן, כדי ליצור חוטים דקים.",
+     "timerMin": null
+    },
+    {
+     "text": "ממשיכים לבשל עד רתיחה נוספת ומורידים מהאש.",
+     "timerMin": 3
+    },
+    {
+     "text": "טועמים ומתקנים תיבול.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "אפשר לערבל את הביצים במערבל יד לפני ההוספה.",
+  "אפשר לטחון קופסת תירס אחת כדי שהמרק יצא סמיך יותר.",
+  "במקום סוכרזית אפשר להשתמש בכפית סוכר."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Golden Chinese corn soup with silky egg ribbons and corn kernels in a white bowl",
+ "alt": "מרק תירס זהוב עם חוטי ביצה ופירורי תירס",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

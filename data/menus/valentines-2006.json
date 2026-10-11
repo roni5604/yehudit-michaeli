@@ -1,0 +1,105 @@
+{
+  "slug": "valentines-2006",
+  "title": "ערב ולנטיין 2006",
+  "titleEn": "Valentine's Day couples' menu 2006",
+  "date": "2006-02",
+  "season": "winter",
+  "occasion": "ולנטיין",
+  "kind": "holiday",
+  "language": "he",
+  "intro": "תפריט זוגי – מיכאלי ברשפון",
+  "sections": [
+    {
+      "name": "2 מנות ראשונות לבחירה",
+      "items": [
+        {
+          "name": "פואה-גרה לוהט",
+          "desc": "כבד אווז ברוטב פירות-יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "ריקוד מושחת",
+          "desc": "שרימפס",
+          "recipeSlug": null
+        },
+        {
+          "name": "אהבה אפלטונית",
+          "desc": "טארט כרישה ועגבניות מיובשות",
+          "recipeSlug": null
+        },
+        {
+          "name": "אורגיה של חסות",
+          "desc": "עלעלים ופרחי מאכל עם גבינת פטה מטוגנת",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנת ביניים",
+      "items": [
+        {
+          "name": "תשוקה",
+          "desc": "מרק",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "2 מנות עיקריות לבחירה",
+      "items": [
+        {
+          "name": "אהבה מיושנת",
+          "desc": "סטייק אנטרקוט ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי נחשק",
+          "desc": "שוק אווז ברוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "חיבוק כפול",
+          "desc": "קורדון בלו – חזה עוף ממולא באווז מעושן וגבינת אמנטל",
+          "recipeSlug": null
+        },
+        {
+          "name": "פנטזיה רוסית",
+          "desc": "פילה של פארידה אדומה ברוטב שמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "בתולה ירוקה",
+          "desc": "מאפה תרד",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "לפני קינוח",
+      "items": [
+        {
+          "name": "נשיקה צרפתית",
+          "desc": "מבחר גבינות צאן ובקר",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוח אחד משותף – זוגי",
+      "items": [
+        {
+          "name": "קירוב לבבות מתוקים",
+          "desc": "לבבות מוס שוקולד לצד תותים בקצפת",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט  ולנטיין 2006.doc",
+      "driveId": "1llycDCM0-1lzdKlxyAZOnk5wkbFfxMCU"
+    }
+  ]
+}

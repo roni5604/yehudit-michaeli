@@ -1,0 +1,171 @@
+{
+  "slug": "salat-dagim-veavokado",
+  "title": "סלט דגים ואבוקדו",
+  "titleEn": "Fish Salad in Avocado Halves",
+  "description": "סלט דג מבושל עם עגבניות, בצל ירוק ותיבול כרכום, ממולא בחצאי אבוקדו ומצופה במיונז.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [
+    "מנה ראשונה",
+    "אירוח"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 0,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": "כוסות",
+          "item": "דג מבושל",
+          "note": null,
+          "raw": "2 כוסות דג מבושל"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "אבוקדו",
+          "note": null,
+          "raw": "4 אבוקדו"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "לימון",
+          "note": "מיץ",
+          "raw": "1 לימון, מיץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח שום",
+          "note": "קמצוץ",
+          "raw": "קמצוץ מלח שום"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "כרכום",
+          "note": "קמצוץ",
+          "raw": "קמצוץ כרכום"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "חומץ הדרים",
+          "note": null,
+          "raw": "1 כף חומץ הדרים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "2 כפיות סוכר"
+        },
+        {
+          "qty": 0.75,
+          "unit": "כף",
+          "item": "מלח",
+          "note": null,
+          "raw": "¾ כף מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל חריף",
+          "note": "קמצוץ",
+          "raw": "קמצוץ פלפל חריף"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "שמן",
+          "note": null,
+          "raw": "1 כף שמן"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "בצלים ירוקים",
+          "note": "קצוצים",
+          "raw": "4 בצלים ירוקים, קצוצים"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "עגבניות גדולות",
+          "note": "חתוכות",
+          "raw": "3 עגבניות גדולות, חתוכות"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "מיונז",
+          "note": null,
+          "raw": "4 כפות מיונז"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה",
+          "note": null,
+          "raw": "פטרוזיליה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים מלח שום, כרכום, חומץ, סוכר, מלח ופלפל חריף ומוסיפים מיץ לימון.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים את השמן ואחר כך מוסיפים את הבצלים, העגבניות, הפטרוזיליה ויתר התבלינים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הדג ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "חותכים את האבוקדו לחצאים ומרחיבים מעט את החלל של הגלעין, אחרי שמטפטפים לתוכו מיץ לימון.",
+          "timerMin": null
+        },
+        {
+          "text": "ממלאים את חצאי האבוקדו בתערובת ומצפים במיונז.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Avocado halves filled with flaked fish salad, diced tomato and spring onion, coated with a spoonful of mayonnaise and topped with parsley, on a white plate",
+  "alt": "חצאי אבוקדו ממולאים בסלט דגים עם עגבנייה ובצל ירוק, מכוסים במיונז ופטרוזיליה על צלחת לבנה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

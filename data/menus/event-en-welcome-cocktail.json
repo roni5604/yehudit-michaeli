@@ -1,0 +1,155 @@
+{
+  "slug": "event-en-welcome-cocktail",
+  "title": "תפריט לאירוע (באנגלית)",
+  "titleEn": "Event menu with welcome cocktail",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Welcome",
+      "items": [
+        {
+          "name": "Alcoholic fruit cocktail",
+          "recipeSlug": null
+        },
+        {
+          "name": "Small appetizers",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "First Courses (served on central trays)",
+      "items": [
+        {
+          "name": "Chicken liver terrine",
+          "desc": "Accompanied by celery confiture",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pickled salmon & salmon mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "Filo baskets filled with broccoli & nuts",
+          "recipeSlug": null
+        },
+        {
+          "name": "Various vegetables – Antipasti style",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Home bread & pickles",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Courses (individual choice)",
+      "items": [
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef stew in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Baby chicken",
+          "desc": "With apples & prunes sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea fish fillet",
+          "desc": "On herbs & vegetables sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Vegetables tart – vegetarian",
+          "recipeSlug": null
+        },
+        {
+          "name": "Schnitzel, French fries & corn on the cob – for the youngsters",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Side Dishes (central)",
+      "items": [
+        {
+          "name": "Baked potatoes",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mushrooms",
+          "recipeSlug": null
+        },
+        {
+          "name": "Wild rice with pistachio nuts",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green beans with almonds",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pavlova",
+          "desc": "Meringue with heavy cream and red berries",
+          "recipeSlug": null
+        },
+        {
+          "name": "Lemon mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "Apple strudel",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sorbet & ice cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "Hot beverages",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "name": "Lemonade, water & soft drinks",
+          "recipeSlug": null
+        },
+        {
+          "name": "Red & white wine – Carmel winery",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט ארוע באנגלית.doc",
+      "driveId": "1P1EhTy7wqXR35u1HGCS_gE6pS-Dp8jkx"
+    }
+  ]
+}

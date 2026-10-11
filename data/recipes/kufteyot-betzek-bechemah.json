@@ -1,0 +1,50 @@
+{
+  "slug": "kufteyot-betzek-bechemah",
+  "title": "כופתיות בצק בחמאה מומסת",
+  "titleEn": "Butter Dough Dumplings",
+  "description": "בצק של קמח, חמאה וביצים שקורצים לעיגולים, לאצבעות או לכדורים קטנים, מבשלים במים רותחים ועוטפים בחמאה מומסת.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["תוספת", "חמאה"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 3, "unit": "כוסות", "item": "קמח", "note": null, "raw": "3 כוסות קמח" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": "רכה", "raw": "חמאה רכה" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" },
+      { "qty": 3, "unit": "כפות", "item": "מים", "note": null, "raw": "3 כפות מים" },
+      { "qty": 1, "unit": "כף", "item": "מלח", "note": null, "raw": "1 כף מלח" }
+    ] },
+    { "group": "לבישול ולהגשה", "items": [
+      { "qty": null, "unit": null, "item": "מים רותחים עם מלח", "note": null, "raw": "מים רותחים עם מלח" },
+      { "qty": null, "unit": null, "item": "חמאה מומסת", "note": null, "raw": "חמאה מומסת" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "יוצרים בצק מכל החומרים.", "timerMin": null },
+      { "text": "לשים 2 דקות.", "timerMin": null },
+      { "text": "מרדדים לעלה בעובי הרצוי.", "timerMin": null },
+      { "text": "קורצים עיגולים, אצבעות או כדורים קטנים.", "timerMin": null },
+      { "text": "מבשלים במים רותחים עם מלח כ-15 דקות.", "timerMin": 15 },
+      { "text": "עוטפים בחמאה מומסת ושומרים חם עד להגשה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Small boiled dough dumplings in assorted shapes, rounds, fingers and little balls, glistening with melted butter in a warm serving bowl",
+  "alt": "כופתיות בצק קטנות בצורות שונות, מבריקות מחמאה מומסת, בקערת הגשה",
+  "originals": [{ "file": "בצקים.docx", "driveId": "1jLvEl21fBou1M3XbnnvCbM1V2HKptmTS" }]
+}

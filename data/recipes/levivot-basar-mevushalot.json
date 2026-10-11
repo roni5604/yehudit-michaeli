@@ -1,0 +1,202 @@
+{
+  "slug": "levivot-basar-mevushalot",
+  "title": "לביבות בשר מבושלות",
+  "titleEn": "Braised Meat Patties in Paprika Sauce",
+  "description": "קציצות בקר והודו עם לחם שחור ובצל, טבולות בקמח וביצה, מטוגנות ומבושלות כשעה ברוטב פפריקה ועגבניות.",
+  "category": "meat",
+  "subcategory": "patties",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "ארוחה משפחתית",
+    "בישול איטי",
+    "קציצות"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 40,
+  "cookMin": 70,
+  "totalMin": 110,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "לקציצות",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "בשר בקר טחון",
+          "note": null,
+          "raw": "½ ק״ג בשר בקר טחון"
+        },
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "בשר הודו טחון",
+          "note": null,
+          "raw": "½ ק״ג בשר הודו טחון"
+        },
+        {
+          "qty": 0.33,
+          "unit": null,
+          "item": "כיכר לחם שחור",
+          "note": "מושרה במים וסחוט היטב",
+          "raw": "⅓ כיכר לחם שחור, מושרה במים וסחוט היטב"
+        },
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "בצלים טחונים",
+          "note": "מומלחים וסחוטים היטב",
+          "raw": "6 בצלים טחונים, מומלחים וסחוטים היטב"
+        },
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "6 ביצים"
+        },
+        {
+          "qty": 1,
+          "unit": "זר",
+          "item": "פטרוזיליה",
+          "note": null,
+          "raw": "1 זר פטרוזיליה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "תבלינים",
+          "note": "מלח, פלפל שחור, כורכום, קינמון וכו׳, לפי הטעם",
+          "raw": "תבלינים לפי הטעם (מלח, פלפל שחור, כורכום, קינמון וכו׳)"
+        }
+      ]
+    },
+    {
+      "group": "לטבילה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "קמח",
+          "note": null,
+          "raw": "קמח"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "1 כף רסק עגבניות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "שמן",
+          "note": null,
+          "raw": "1 כף שמן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פפריקה מתוקה ומעט חריפה",
+          "note": null,
+          "raw": "פפריקה מתוקה ומעט חריפה"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "1 כף רסק עגבניות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "תבלינים",
+          "note": null,
+          "raw": "תבלינים"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": "הקציצות",
+      "items": [
+        {
+          "text": "מכינים עיסה מכל מרכיבי הקציצות.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצרים קציצות אובליות בגודל כדור טניס.",
+          "timerMin": null
+        },
+        {
+          "text": "טובלים כל קציצה קודם בקמח ואחר כך בבלילת הביצים, רסק העגבניות והתבלינים.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים עד זהוב כהה.",
+          "timerMin": null
+        }
+      ]
+    },
+    {
+      "group": "הרוטב והבישול",
+      "items": [
+        {
+          "text": "בכף שמן מטגנים פפריקה מתוקה ומעט חריפה. מוסיפים כף רסק עגבניות ותבלינים.",
+          "timerMin": null
+        },
+        {
+          "text": "מביאים לרתיחה ומכניסים את הקציצות לרוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים ומבשלים כשעה על אש קטנה.",
+          "timerMin": 60
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Oval meatballs in a thick red-brown paprika sauce in a wide pot, glossy and tender, sprinkled with parsley",
+  "alt": "קציצות בשר אובליות ברוטב פפריקה אדום וסמיך בסיר רחב",
+  "originals": [
+    {
+      "file": "לביבות בשר מבושלות של משפחת יהלום.doc",
+      "driveId": "107HjPzMwtgYr6TDT-a2MF9srs0pLK7bn"
+    }
+  ]
+}

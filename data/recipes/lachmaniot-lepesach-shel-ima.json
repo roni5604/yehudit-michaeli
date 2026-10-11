@@ -1,0 +1,54 @@
+{
+  "slug": "lachmaniot-lepesach-shel-ima",
+  "title": "לחמניות לפסח של אמא",
+  "titleEn": "Mom's Passover Rolls",
+  "description": "לחמניות פסח נפוחות ורכות מקמח מצות וביצים, שמכינים בסיר אחד ובלי שמרים. אפשר ליצור מהן כדורים או כעכים עם שומשום ופרג.",
+  "category": "breads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["passover"],
+  "kashrut": "parve",
+  "diet": ["kosher-for-passover"],
+  "tags": ["פסח", "ללא שמרים", "מתכון של אמא"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית משומנת היטב",
+  "prepMin": 25,
+  "cookMin": 40,
+  "totalMin": 65,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן", "note": "או 100 גרם חמאה", "raw": "½ כוס שמן (או 100 גרם חמאה)" },
+      { "qty": 1, "unit": "כפית", "item": "סוכר", "note": null, "raw": "1 כפית סוכר" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" },
+      { "qty": 1.5, "unit": "כוסות", "item": "קמח מצות", "note": null, "raw": "1½ כוסות קמח מצות" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מביאים לרתיחה מים, שמן, סוכר ומלח.", "timerMin": null },
+      { "text": "מוסיפים בבת אחת את קמח המצות ובוחשים על האש עד שהבלילה נפרדת מהדפנות.", "timerMin": null },
+      { "text": "מצננים 10 דקות, ואז מוסיפים את הביצים במהירות, בזו אחר זו, תוך כדי בחישה.", "timerMin": 10 },
+      { "text": "מחממים תנור ל-180 מעלות.", "timerMin": null },
+      { "text": "יוצרים כדורים או מזלפים על תבנית משומנת היטב.", "timerMin": null },
+      { "text": "אופים כ-20 דקות ב-180 מעלות, ואז מורידים את החום ל-160 ואופים עוד 20 דקות.", "timerMin": 40 }
+    ] }
+  ],
+  "tips": [
+    "אם רוצים כעכים: יוצרים עיגולים מ-2 כפות בצק, עושים חור באמצע ומפזרים מעל שומשום, פרג, קימל וכדומה.",
+    "לפי דודה דבורה: משהים את הבצק המוכן שעתיים ואז אופים ב-180 מעלות כ-30 דקות (בגרסה אחרת של המתכון נכתבו 80 דקות).",
+    "עם חמאה במקום שמן הלחמניות חלביות."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Golden-brown puffed matzo meal rolls on a baking tray, some shaped as round balls and some as rings sprinkled with sesame and poppy seeds, cracked slightly on top",
+  "alt": "לחמניות פסח מקמח מצות, מזהיבות ונפוחות, חלקן כדורים וחלקן כעכים עם שומשום ופרג",
+  "originals": [
+    { "file": "לחמניות לפסח.doc", "driveId": "1SsZQAfHVGGpAAr0yLEDfVG9d5ZRTOXyo" },
+    { "file": "לחמניות לפסח.doc", "driveId": "1JEtdwYGcVvwrcfO0oBt9tHfuXA41gpUP" }
+  ]
+}

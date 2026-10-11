@@ -1,0 +1,73 @@
+{
+  "slug": "kish-brokoli-shery-feta",
+  "title": "קיש ברוקולי, עגבניות שרי ופטה",
+  "titleEn": "Broccoli, Cherry Tomato and Feta Quiche",
+  "description": "קיש גבינות עשיר על בצק פריך וחמאתי, עם ברוקולי מוקפץ, עגבניות שרי וגבינת פטה כבשים בתוך רויאל שמנת. מגישים בטמפרטורת החדר.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קיש", "אירוח", "חלבי"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית קיש או טבעת אפייה",
+  "prepMin": 40,
+  "cookMin": 40,
+  "totalMin": 130,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבצק הפריך", "items": [
+      { "qty": 240, "unit": "גרם", "item": "קמח לבן", "note": "כוס וחצי ועוד 2 כפות", "raw": "240 גרם קמח לבן (כוס וחצי + 2 כפות)" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה קרה", "note": "חתוכה לקוביות", "raw": "150 גרם חמאה קרה, חתוכה לקוביות" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" }
+    ] },
+    { "group": "למלית", "items": [
+      { "qty": 1, "qtyMax": 2, "unit": "כפות", "item": "שמן זית", "note": null, "raw": "1-2 כפות שמן זית" },
+      { "qty": 400, "unit": "גרם", "item": "ברוקולי קפוא", "note": "מופשר; חצי חבילה", "raw": "400 גרם (½ חבילה) ברוקולי קפוא, מופשר" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": "לפי הטעם", "raw": "מלח ופלפל לפי הטעם" },
+      { "qty": 20, "qtyMax": 30, "unit": null, "item": "עגבניות שרי", "note": "חצויות", "raw": "20-30 עגבניות שרי חצויות" }
+    ] },
+    { "group": "לרויאל", "items": [
+      { "qty": 250, "unit": "מ״ל", "item": "שמנת לבישול 15% שומן", "note": null, "raw": "250 מ״ל שמנת לבישול 15% שומן" },
+      { "qty": 2, "unit": null, "item": "ביצים", "note": null, "raw": "2 ביצים" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": "לפי הטעם", "raw": "מלח ופלפל לפי הטעם" },
+      { "qty": 1, "qtyMax": 2, "unit": "כפות", "item": "קמח", "note": null, "raw": "1-2 כפות קמח" },
+      { "qty": null, "unit": "קורט", "item": "אגוז מוסקט", "note": "מגורד", "raw": "קורט אגוז מוסקט מגורד" },
+      { "qty": 150, "unit": "גרם", "item": "גבינת פטה כבשים", "note": "מפוררת", "raw": "150 גרם גבינת פטה כבשים, מפוררת" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבצק", "items": [
+      { "text": "מעבדים במעבד מזון עם להב פלדה את הקמח, החמאה והמלח, עד לתערובת פירורית.", "timerMin": null },
+      { "text": "מוסיפים את הביצה ומעבדים עד שנוצר בצק. אם הוא לא מתגבש לגושים גדולים, מוסיפים כף או שתיים של מים וממשיכים לעבד.", "timerMin": null },
+      { "text": "מאחדים את גושי הבצק לדיסקית, עוטפים בניילון נצמד ומקררים כחצי שעה.", "timerMin": 30 },
+      { "text": "מרדדים את הבצק לעיגול בעובי כ-3 מ״מ ומרפדים את התבנית או הטבעת. מקפידים על זווית ישרה בין הדפנות לתחתית, כדי שהשוליים יישארו גבוהים.", "timerMin": null },
+      { "text": "דוקרים את התחתית במזלג ומקפיאים כחצי שעה.", "timerMin": 30 }
+    ] },
+    { "group": "המלית", "items": [
+      { "text": "מחממים מעט שמן זית במחבת רחבה ומקפיצים את הברוקולי על להבה גבוהה, עד שהוא מתרכך מעט ומתחמם.", "timerMin": null },
+      { "text": "מתבלים במלח ופלפל, מעבירים לקערה ומצננים. מוסיפים את עגבניות השרי.", "timerMin": null }
+    ] },
+    { "group": "הרויאל וההרכבה", "items": [
+      { "text": "בקערה קטנה טורפים את השמנת, הביצים, המלח, הפלפל, הקמח ואגוז המוסקט לבלילה אחידה. מוסיפים את הפטה ומערבבים היטב.", "timerMin": null },
+      { "text": "מחממים את התנור ל-170 מעלות.", "timerMin": null },
+      { "text": "מפזרים את הברוקולי ואת עגבניות השרי על הבצק הקפוא, ויוצקים מעליהם את הרויאל.", "timerMin": null },
+      { "text": "אופים 35-45 דקות, עד שהמלית מתייצבת והבצק מזהיב.", "timerMin": 35 },
+      { "text": "מצננים בטמפרטורת החדר ומגישים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A round broccoli and feta quiche with a golden fluted crust, halved cherry tomatoes and green broccoli florets showing on a set cream filling, on a wooden board",
+  "alt": "קיש עגול עם ברוקולי, עגבניות שרי חצויות ופטה על בצק פריך זהוב",
+  "originals": [
+    { "file": "בצק לקיש.docx", "driveId": "1A63h7zFHGcu-N7voGcr2fhb_iVF1Sc5n" },
+    { "file": "קיש וגבינות עשיר עם ברוקולי.docx", "driveId": "1xEW0YtdMGhMb2nTFp5E9lnCqNBQe7-Sq" },
+    { "file": "רויאל לקיש מלוח.docx", "driveId": "11YCqPdeGl9LkV8-prO_rrxiDu3F781HH" }
+  ]
+}

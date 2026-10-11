@@ -1,0 +1,65 @@
+{
+  "slug": "tzir-bouillabaisse",
+  "title": "ציר דגים לבויאבז",
+  "titleEn": "Bouillabaisse Fish Broth",
+  "description": "ציר דגים עשיר מראשי לוקוס, ירקות מאודים, יין לבן, פסטיס, אניס וזעפרן. בסיס הבויאבז, שמוגש עם אוילי וקרוטונים.",
+  "category": "soups",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": ["מנת מסעדה", "קלאסיקה צרפתית", "ציר"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר גדול",
+  "prepMin": 30,
+  "cookMin": 40,
+  "totalMin": 120,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לאדות בשמן זית", "items": [
+      { "qty": null, "unit": null, "item": "שומר", "note": "פרוס", "raw": "שומר, פרוס" },
+      { "qty": null, "unit": null, "item": "שורש פטרוזיליה", "note": "פרוס", "raw": "שורש פטרוזיליה, פרוס" },
+      { "qty": null, "unit": null, "item": "בצל", "note": "פרוס", "raw": "בצל, פרוס" },
+      { "qty": null, "unit": null, "item": "גזר", "note": "פרוס", "raw": "גזר, פרוס" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "שמן זית" }
+    ] },
+    { "group": "לציר", "items": [
+      { "qty": 4, "unit": null, "item": "עגבניות", "note": null, "raw": "4 עגבניות" },
+      { "qty": 4, "unit": null, "item": "ראשי לוקוס", "note": "לוודא שאין זימים (מרירות)", "raw": "4 ראשי לוקוס (לוודא שאין זימים, כי הם מרירים)" },
+      { "qty": null, "unit": null, "item": "פסטיס", "note": "בנדיבות", "raw": "פסטיס, בנדיבות" },
+      { "qty": 0.75, "unit": null, "item": "בקבוק יין לבן לבישול", "note": null, "raw": "¾ בקבוק יין לבן לבישול" },
+      { "qty": 3, "qtyMax": 4, "unit": null, "item": "כוכבי אניס", "note": null, "raw": "3-4 כוכבי אניס" },
+      { "qty": null, "unit": null, "item": "פלפל אנגלי", "note": null, "raw": "פלפל אנגלי" },
+      { "qty": null, "unit": null, "item": "עלי דפנה", "note": null, "raw": "עלי דפנה" },
+      { "qty": null, "unit": null, "item": "אבקת זעפרן", "note": "קמצוץ, פחות משקית", "raw": "קמצוץ אבקת זעפרן (פחות משקית)" },
+      { "qty": null, "unit": null, "item": "מים", "note": "לכיסוי", "raw": "מים, עד כיסוי" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "מעט", "raw": "מעט מלח" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "רואיי", "note": null, "raw": "רואיי" },
+      { "qty": null, "unit": null, "item": "אוילי", "note": null, "raw": "אוילי" },
+      { "qty": null, "unit": null, "item": "קרוטונים", "note": null, "raw": "קרוטונים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "פורסים את השומר, שורש הפטרוזיליה, הבצל והגזר, ומאדים אותם בשמן זית.", "timerMin": null },
+      { "text": "מוסיפים מעט אחר כך את העגבניות ואת ראשי הלוקוס, לאחר שווידאנו שאין בהם זימים.", "timerMin": null },
+      { "text": "מוסיפים פסטיס בנדיבות ומדליקים כדי לקבל קרמליזציה, להוציא את האלכוהול ולהדגיש את הטעם.", "timerMin": null },
+      { "text": "מוסיפים יין לבן, כוכבי אניס, פלפל אנגלי, עלי דפנה וקמצוץ זעפרן, ומכסים במים.", "timerMin": null },
+      { "text": "מוסיפים מעט מלח ומבשלים ראשי לוקוס גדולים כ-40 דקות, תוך קיפוי מתמיד של הנוזל.", "timerMin": 40 },
+      { "text": "מניחים לנוזל להתקרר יחד עם העצמות, רק כדי למצות את מרב הטעמים, ואז מסננים.", "timerMin": null },
+      { "text": "מוסיפים את הרואיי לנוזל תוך כדי טריפה במטרפה. אם שמן זית עולה אל פני השטח, אפשר לקשור אותו עם מטרפה או ג׳ירף.", "timerMin": null },
+      { "text": "מגישים עם אוילי וקרוטונים.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["לפני הבישול בודקים שאין זימים בראשי הדג, כי הם מעבירים מרירות לציר."],
+  "story": null,
+  "source": { "type": "restaurant", "credit": null, "rewritten": false },
+  "imagePrompt": "A deep bowl of golden-orange bouillabaisse fish broth with saffron tint, served with crisp croutons and a spoonful of rouille-style aioli on the side",
+  "alt": "קערה עמוקה עם ציר דגים כתום-זהוב בטעם זעפרן, לצד קרוטונים פריכים ואוילי",
+  "originals": [{ "file": "בויאבז.doc", "driveId": "15tVQGwaaNEE4ljy29rDUk8XH_Z64uDSQ" }]
+}

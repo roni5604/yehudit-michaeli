@@ -1,0 +1,92 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import Logo from "../../components/Logo.astro";
+import { getMenus, getRecipes } from "../../lib/data";
+import { matchRecipe, buildTitleIndex, kindLabel } from "../../lib/menus";
+
+export async function getStaticPaths() {
+  const menus = await getMenus();
+  return menus.map((m, i) => ({ params: { slug: m.slug }, props: { menu: m, prev: menus[i - 1] ?? null, next: menus[i + 1] ?? null } }));
+}
+const { menu: m, prev, next } = Astro.props;
+const recipes = await getRecipes();
+const idx = buildTitleIndex(recipes);
+const link = (name: string, explicit?: string | null) => {
+  if (explicit && recipes.some((r) => r.slug === explicit)) return explicit;
+  return matchRecipe(name, recipes, idx)?.slug ?? null;
+};
+const isEn = m.language === "en";
+---
+<BaseLayout title={m.title} description={`${m.title}: תפריט ממסעדת ״מיכאלי – מטבח כפרי״, רשפון${m.date ? `, ${m.date.slice(0, 4)}` : ""}.`}>
+  <div class="container-x head">
+    <Breadcrumbs items={[{ href: "/restaurant", label: "המסעדה" }, { href: "/menus", label: "תפריטים" }, { label: m.title }]} />
+  </div>
+  <article class="menu-card" lang={isEn ? "en" : "he"} dir={isEn ? "ltr" : "rtl"}>
+    <header>
+      <Logo variant="mark" size={72} />
+      <p class="house">מיכאלי – מטבח כפרי · רשפון</p>
+      <h1>{m.title}</h1>
+      {m.titleEn && !isEn && <p class="en latin">{m.titleEn}</p>}
+      <p class="meta">{kindLabel[m.kind]}{m.date ? ` · ${m.date}` : ""}</p>
+      {m.intro && <p class="intro">{m.intro}</p>}
+    </header>
+    {m.sections.map((s) => (
+      <section>
+        <h2><span>{s.name}</span></h2>
+        <ul>
+          {s.items.map((it) => {
+            const slug = link(it.name, it.recipeSlug);
+            return (
+              <li>
+                <div class="row">
+                  <span class="name">{slug ? <a href={`/recipes/${slug}`} title="למתכון">{it.name}</a> : it.name}</span>
+                  {it.price && <span class="dots" aria-hidden="true"></span>}
+                  {it.price && <span class="price">{it.price}</span>}
+                </div>
+                {it.nameEn && !isEn && <p class="item-en latin">{it.nameEn}</p>}
+                {it.desc && <p class="desc">{it.desc}</p>}
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    ))}
+    {m.body && <div class="body">{m.body.split(/\n+/).map((p) => <p>{p}</p>)}</div>}
+    <footer class="foot">✦</footer>
+  </article>
+  <nav class="container-narrow pn" aria-label="תפריטים נוספים">
+    {next ? <a class="btn btn-ghost btn-sm" href={`/menus/${next.slug}`}>→ {next.title}</a> : <span />}
+    {prev ? <a class="btn btn-ghost btn-sm" href={`/menus/${prev.slug}`}>{prev.title} ←</a> : <span />}
+  </nav>
+  <p class="container-narrow legend">מנות שמסומנות בקו תחתון מקושרות למתכון באוסף.</p>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 10px; }
+  .menu-card { width: min(100% - 2 * var(--gutter), 760px); margin: 20px auto 30px; padding: clamp(28px, 6vw, 70px) clamp(22px, 6vw, 80px); background:
+    radial-gradient(ellipse at 50% 30%, #fffaf1, #efe2c9); color: #2a2522; border-radius: 6px; box-shadow: 0 50px 90px -50px rgb(0 0 0 / .6), 0 0 0 1px #d9c7a6; position: relative; text-align: center; }
+  .menu-card::before { content: ""; position: absolute; inset: 16px; border: 2px solid #b4693e; pointer-events: none; }
+  .menu-card::after { content: ""; position: absolute; inset: 24px; border: 1px solid #b4693e; pointer-events: none; opacity: .6; }
+  .menu-card header :global(.logo) { --logo-main: #6b1e2b; --logo-accent: #b4693e; --logo-bg: #fbf5ea; justify-content: center; }
+  .house { margin: 10px 0 0; letter-spacing: .2em; font-size: .85rem; color: #8a4a24; font-weight: 700; }
+  .menu-card h1 { color: #6b1e2b; font-size: var(--step-3); margin: 10px 0 4px; }
+  .en { margin: 0; font-size: 1.3rem; color: #8a4a24; }
+  .meta { margin: 6px 0 0; color: #6e5f54; font-size: .95rem; }
+  .intro { font-style: italic; color: #574a41; max-width: 50ch; margin: 14px auto 0; }
+  section { margin-top: 34px; }
+  section h2 { font-family: var(--font-body); font-size: 1rem; letter-spacing: .35em; color: #8a4a24; display: flex; align-items: center; gap: 14px; margin: 0 0 16px; font-weight: 800; }
+  section h2::before, section h2::after { content: ""; flex: 1; height: 1px; background: #b4693e; opacity: .6; }
+  ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+  .row { display: flex; align-items: baseline; gap: 8px; }
+  .name { font-family: var(--font-display); font-size: 1.18rem; font-weight: 600; text-align: start; }
+  .name a { color: inherit; text-decoration: underline; text-decoration-color: #b4693e; text-underline-offset: 4px; }
+  .dots { flex: 1; border-bottom: 2px dotted #c9b28d; transform: translateY(-4px); min-width: 20px; }
+  .price { white-space: nowrap; font-weight: 700; color: #6b1e2b; }
+  .item-en { margin: 2px 0 0; color: #8a4a24; text-align: start; font-size: 1.05rem; }
+  .desc { margin: 2px 0 0; color: #574a41; font-size: .95rem; text-align: start; }
+  .body { text-align: start; margin-top: 24px; } .body p { margin: 0 0 12px; }
+  .foot { margin-top: 36px; color: #b4693e; font-size: 1.4rem; }
+  .pn { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .legend { color: var(--ink-mute); font-size: .9rem; text-align: center; }
+  @media print { .menu-card { box-shadow: none; } }
+</style>

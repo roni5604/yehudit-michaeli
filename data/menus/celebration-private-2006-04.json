@@ -1,0 +1,120 @@
+{
+  "slug": "celebration-private-2006-04",
+  "title": "ארוחה חגיגית (אירוע פרטי) · אפריל 2006",
+  "titleEn": "Festive dinner (private event) · April 2006",
+  "date": "2006-04",
+  "season": "spring",
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he",
+  "intro": "מזל טוב",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפצ'ו סינטת בקר",
+          "desc": "על מצע עלעלי הארץ",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט איקרה, סלט חצילים וסלט שעועית לבנה",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מרק",
+      "items": [
+        {
+          "name": "מרק ירקות כתומים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף ממולא באווז מעושן וגבינת אמנטל עם רוטב חרדל",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז ברוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט מיושן ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "שוקרוט",
+          "desc": "קדירת כרוב כבוש ובשרים מעושנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה בניחוח ענפי טימין",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג-ים ברוטב שמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס א-לה-פלורנטין",
+          "desc": "דג ללא עצמות, במילוי עלי-תרד וצנוברים",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות – צמחוני",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "מרנג לימונים",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה בשלושה טעמים בעטיפת מרציפן",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1_MIICrHw0vP9jy7HXCf28kYIJEzH2e3k"
+    }
+  ]
+}

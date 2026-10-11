@@ -1,0 +1,203 @@
+{
+ "slug": "marak-afuna-uvtzekiyot",
+ "title": "מרק אפונה ובצקיות",
+ "titleEn": "Split Pea Soup with Dumplings",
+ "description": "מרק אפונה יבשה סמיך וקטיפתי עם ירקות שורש, שמרסקים עד חלקלקות ומבשלים עם בצקיות ביצה קטנות.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "מרק",
+  "חורף",
+  "מנחם"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 20,
+ "cookMin": 110,
+ "totalMin": 130,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים בינוניים",
+     "note": "קצוצים דק",
+     "raw": "2 בצלים בינוניים קצוצים דק"
+    },
+    {
+     "qty": 30,
+     "unit": "גרם",
+     "item": "מרגרינה",
+     "note": null,
+     "raw": "30 גרם מרגרינה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 400,
+     "unit": "גרם",
+     "item": "אפונה יבשה",
+     "note": "שטופה",
+     "raw": "400 גרם אפונה יבשה שטופה"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "תפוח אדמה גדול",
+     "note": "חתוך לקוביות",
+     "raw": "1 תפוח אדמה גדול חתוך לקוביות"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "גזרים",
+     "note": "חתוכים לקוביות",
+     "raw": "3 גזרים חתוכים לקוביות"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "שורשי פטרוזיליה",
+     "note": null,
+     "raw": "2 שורשי פטרוזיליה"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "3 כפות אבקת מרק עוף"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "2 כפות קמח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מים",
+     "note": null,
+     "raw": "מים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    }
+   ]
+  },
+  {
+   "group": "לבצקיות",
+   "items": [
+    {
+     "qty": 4,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "4 כפות קמח"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "ביצים",
+     "note": null,
+     "raw": "2 ביצים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מעט מלח"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "המרק",
+   "items": [
+    {
+     "text": "מטגנים את הבצל בשמן זית ובמרגרינה עד הזהבה. מוסיפים את האפונה השטופה ומערבבים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים תפוח אדמה, גזר ושורש פטרוזיליה ומערבבים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים אבקת מרק וקמח, מערבבים, יוצקים מים ומתבלים במלח ופלפל שחור.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים על אש נמוכה כשעה וחצי ובוחשים מדי פעם.",
+     "timerMin": 90
+    },
+    {
+     "text": "מרסקים במעבד מזון ידני עד מרקם קטיפתי חלק.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הבצקיות",
+   "items": [
+    {
+     "text": "מערבבים את הקמח עם הביצים והמלח לבלילה סמיכה.",
+     "timerMin": null
+    },
+    {
+     "text": "מזלפים אותה אל המרק דרך מגרדה או בעזרת כפית, ומבשלים עד שהבצקיות מתייצבות, כרבע שעה.",
+     "timerMin": 15
+    }
+   ]
+  },
+  {
+   "group": "הגשה",
+   "items": [
+    {
+     "text": "מגישים עם טפטוף שמן זית ופלפל שחור גס.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "המתכון מבוסס על ספר מרקים של חנה שאולוב, עם שינויים."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Thick green split pea soup in a deep bowl with small dumplings, drizzled with olive oil and coarse black pepper",
+ "alt": "מרק אפונה ירוק וסמיך עם בצקיות קטנות, בקערה עמוקה",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

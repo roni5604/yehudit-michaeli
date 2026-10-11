@@ -1,0 +1,191 @@
+{
+  "slug": "menu-en-2005-05",
+  "title": "תפריט באנגלית · מאי 2005",
+  "titleEn": "English menu · May 2005",
+  "date": "2005-05",
+  "season": "spring",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Foie Gras Grille",
+          "desc": "Grilled Goose liver served in a Red Berries Sauce",
+          "price": "55 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Anchois et Sardines farcis",
+          "desc": "Fried Anchovies and Sardines stuffed with nuts & pickled lemon",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soufflé de Coquilles Saint-Jacques",
+          "desc": "Sea Scallops Soufflé",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Kebab A La Romanie",
+          "desc": "Grilled ground-beef skewers served with Mamaliga & baked garlic",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Quiche Lorraine",
+          "desc": "An open-faced cream pie made with smoked goose and hard cheese",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte renversee a la tomate et au fenouil",
+          "desc": "A tart of fennel and dried tomatoes",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Salade Verte",
+          "desc": "Tossed green salad with goat's cheese and edible flowers",
+          "price": "35 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe du jour",
+          "desc": "Soup of the Day",
+          "price": "35 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "name": "Poitrine de volaille farcie",
+          "desc": "Chicken breast stuffed with smoked goose & Emmental cheese",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Coquelet sauté au calvados",
+          "desc": "Sautéed baby chicken cooked with apples & calvados cream",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Confit d'Oie",
+          "desc": "Goose leg confit with honey & spices",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Entrecote au poivre/vins sauce",
+          "desc": "Grilled sirloin steak with pepper sauce or wine sauce",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Choucroute Garnie",
+          "desc": "Sauerkraut with assorted sausages & smoked meats",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gigot d'agneau",
+          "desc": "Roasted leg of lamb",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crevettes au beurre",
+          "desc": "Shrimps sautéed in seasoned butter",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Filet de Poisson a la mode du Tsar",
+          "desc": "Sea fish fillet with herb cream and salmon eggs",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Dourade-Royale Farcie, A La Florentine",
+          "desc": "Boneless gilthead bream stuffed with spinach",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gnocchis et legumes sautés",
+          "desc": "Housemade gnocchi with vegetables - vegetarian dish",
+          "price": "70 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Assortiment de Fromages",
+          "desc": "Selection of Israeli farmhouse cheeses",
+          "price": "55 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake with cinnamon ice-cream",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au chocolat",
+          "desc": "A rich chocolate mousse",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbet flavors wrapped in marzipan",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Créme Brulee",
+          "desc": "Baked cream with a caramelized topping",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe de fruits rouges",
+          "desc": "Red berries compote",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte au Citron",
+          "desc": "Lemon tart",
+          "price": "32 nis",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט אנגלי מאי 2005.doc",
+      "driveId": "1CZA7rAefrzC07cGSTtFSc0Ddi-QXerQB"
+    }
+  ]
+}

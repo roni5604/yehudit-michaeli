@@ -1,0 +1,49 @@
+{
+  "slug": "malabi-konfitura-petel",
+  "title": "מלבי עם קונפיטורה פטל",
+  "titleEn": "Malabi with Raspberry Confiture",
+  "description": "קינוח חלב מרענן בכוסות קטנות, שמוכן מחלב, שמנת וקורנפלור, ומעליו שכבת קונפיטורת פטל. מתאים לקיץ הישראלי.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "israeli",
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian", "gluten-free"],
+  "tags": ["קינוח קר", "קיץ", "שבועות"],
+  "servings": 8,
+  "yield": "8 מנות",
+  "pan": "כוסות קטנות או צלוחיות שקופות",
+  "prepMin": 15,
+  "cookMin": 10,
+  "totalMin": 200,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 3, "unit": "כוסות", "item": "חלב", "note": null, "raw": "3 כוסות חלב" },
+      { "qty": 1, "unit": "כוס", "item": "שמנת מתוקה", "note": null, "raw": "1 כוס שמנת מתוקה" },
+      { "qty": 0.75, "unit": "כוס", "item": "סוכר", "note": null, "raw": "¾ כוס סוכר" },
+      { "qty": 3, "unit": "כפות", "item": "קורנפלור", "note": "גדושות", "raw": "3 כפות קורנפלור גדושות" },
+      { "qty": null, "unit": null, "item": "קונפיטורת פטל", "note": "כ-2 כפות למנה", "raw": "קונפיטורת פטל (כ-2 כפות למנה)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מביאים לרתיחה בסיר גדול את החלב, השמנת והסוכר, ומשגיחים שלא יגלוש.", "timerMin": null },
+      { "text": "מדללים את הקורנפלור במעט חלב קר ומוסיפים לסיר תוך בחישה מתמדת בכף עץ.", "timerMin": null },
+      { "text": "מבשלים עד להסמכה ובוחשים כל הזמן, כדי שלא יישרף בתחתית.", "timerMin": null },
+      { "text": "מסננים ויוצקים לכוסות קטנות או לצלוחיות שקופות, ומשאירים 2 ס״מ מהשפה.", "timerMin": null },
+      { "text": "מקררים כ-3 שעות עד שהמלבי מתקשה.", "timerMin": 180 },
+      { "text": "לפני ההגשה מוזגים שכבה אחידה של קונפיטורת פטל.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Small clear glasses of white malabi milk pudding topped with a glossy layer of raspberry confiture",
+  "alt": "כוסות קטנות של מלבי לבן עם שכבת קונפיטורת פטל אדומה ומבריקה למעלה",
+  "originals": [
+    { "file": "בלינצס גבינה ושוקולד.doc", "driveId": "1YJ4vqExfLKk1d4drrz35omdWZzKigpRN" },
+    { "file": "עוגת גבינה ניו יורקית.doc", "driveId": "1X_QX1YSS6ODhc5ZYkbWfRZrXZfcDQ19Y" }
+  ]
+}

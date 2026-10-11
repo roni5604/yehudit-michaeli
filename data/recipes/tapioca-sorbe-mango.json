@@ -1,0 +1,66 @@
+{
+  "slug": "tapioca-sorbe-mango",
+  "title": "טפיוקה עם סורבה מנגו ובננה",
+  "titleEn": "Tapioca with Mango-Banana Sorbet Base",
+  "description": "מעדן טפיוקה בקרם קוקוס וגרידת לימון על שכבת סורבה של מנגו, בננה ותמרים, עם פירות טריים ומעט מייפל. קינוח טבעוני שמתייצב במקרר.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["קינוח קר", "טבעוני", "פירות"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 25,
+  "totalMin": 280,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לסורבה", "items": [
+      { "qty": 2, "unit": null, "item": "מנגו", "note": null, "raw": "2 מנגו" },
+      { "qty": 2, "unit": null, "item": "בננות בשלות", "note": null, "raw": "2 בננות בשלות" },
+      { "qty": 4, "unit": null, "item": "תמרי מג׳הול", "note": null, "raw": "4 תמרי מג׳הול" },
+      { "qty": 0.25, "unit": "כוס", "item": "חלב קוקוס", "note": null, "raw": "¼ כוס חלב קוקוס" },
+      { "qty": null, "unit": null, "item": "קינמון", "note": "לפי הטעם", "raw": "קינמון לפי הטעם" },
+      { "qty": null, "unit": null, "item": "מייפל", "note": "מעט, אם חסר מתיקות", "raw": "מעט מייפל, אם חסר מתיקות" }
+    ] },
+    { "group": "לטפיוקה", "items": [
+      { "qty": 1, "unit": "כוס", "item": "גרגירי טפיוקה", "note": null, "raw": "1 כוס גרגירי טפיוקה" },
+      { "qty": 5, "unit": "כוסות", "item": "מים", "note": null, "raw": "5 כוסות מים" },
+      { "qty": 0.5, "unit": "כוס", "item": "סוכר", "note": null, "raw": "½ כוס סוכר" },
+      { "qty": 1, "unit": null, "item": "פחית קרם קוקוס", "note": null, "raw": "1 פחית קרם קוקוס" },
+      { "qty": 1, "unit": "כפית", "item": "גרידת לימון", "note": "מלימון אחד", "raw": "1 כפית גרידת לימון" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "פירות טריים", "note": "למשל ליצ׳י ואוכמניות", "raw": "פירות טריים חתוכים, למשל ליצ׳י ואוכמניות" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הסורבה", "items": [
+      { "text": "מערבבים בבלנדר את המנגו, הבננות, התמרים, חלב הקוקוס והקינמון. טועמים: המתיקות תלויה במתיקות הפירות, ואם חסר מוסיפים מעט מייפל.", "timerMin": null },
+      { "text": "מכניסים למקפיא לשעתיים, ובינתיים מכינים את הטפיוקה.", "timerMin": 120 }
+    ] },
+    { "group": "הטפיוקה", "items": [
+      { "text": "מביאים 5 כוסות מים לרתיחה חזקה ומבעבעת.", "timerMin": null },
+      { "text": "שופכים פנימה את הגרגירים ובוחשים מדי פעם, 20 עד 30 דקות, עד שהגרגירים הלבנים הופכים שקופים. כדאי להישאר ליד הסיר ולבחוש.", "timerMin": 20 },
+      { "text": "מוסיפים חצי כוס סוכר ופחית קרם קוקוס ומערבבים עד איחוד. מורידים מהאש.", "timerMin": null },
+      { "text": "מגרדים פנימה גרידה מלימון אחד ומערבבים.", "timerMin": null },
+      { "text": "מקררים קירור עמוק, שעתיים לפחות, עד שהטפיוקה מסמיכה.", "timerMin": 120 }
+    ] },
+    { "group": "הרכבה", "items": [
+      { "text": "מאחדים את הטפיוקה והסורבה ומעבירים למקרר, לא למקפיא.", "timerMin": null },
+      { "text": "מעמיסים מעל פירות טריים חתוכים יפה, ומזליפים מעט מייפל.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A wobbly creamy tapioca pudding layered over orange mango-banana sorbet, piled with lychee and glazed blueberries in a glass bowl",
+  "alt": "מעדן טפיוקה קרמי על שכבת סורבה כתומה של מנגו ובננה, עם ליצ׳י ואוכמניות מעל",
+  "originals": [
+    { "file": "טפיוקה.doc", "driveId": "156I6wlTwfKVBanHy5JmMGFtMgmg-u9qK" }
+  ]
+}

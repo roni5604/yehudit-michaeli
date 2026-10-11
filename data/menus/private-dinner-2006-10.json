@@ -1,0 +1,44 @@
+{
+  "slug": "private-dinner-2006-10",
+  "title": "סעודה חגיגית לאירוע פרטי · אוקטובר 2006",
+  "titleEn": "Celebration dinner, private event, October 2006",
+  "date": "2006-10",
+  "season": "autumn",
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "לצעירה מיוחדת – תפריט מיוחד. סעודה חגיגית לרעיה האהובה, רשפון, 20 באוקטובר 2006. A special menu for a very special girl.",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        { "name": "כבד אווז ברוטב פירות יער", "nameEn": "Foie Gras Grillé – grilled goose liver served in a red berries sauce" },
+        { "name": "קבבונים רומנים עם ממליגה ושומים אפויים", "nameEn": "Kebab à la Romaine – grilled ground-beef skewers served with mamaliga" },
+        { "name": "ירקות קלויים ומתובלים בסגנון כפרי", "nameEn": "Antipasti – seasoned grilled vegetables" },
+        { "name": "סלט ירוק ברוטב וינגרט", "nameEn": "Salade Verte – tossed green salad with almonds and edible flowers" },
+        { "name": "מרענן חיך: גרניטה אשכוליות וקמפרי", "nameEn": "Granita of red grapefruit and Campari" }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        { "name": "קרה-צלעות טלה ברוטב חרדל וטימין", "nameEn": "Carré d'agneau – rack of lamb with thyme and mustard sauce" },
+        { "name": "קדירת בקר ביין – בף בורגיניון", "nameEn": "Boeuf Bourguignon – beef in red wine sauce" },
+        { "name": "סטייק אנטרקוט ברוטב פלפלת", "nameEn": "Entrecôte au poivre – grilled sirloin steak with pepper sauce" },
+        { "name": "קונפי שוק אווז ברוטב דבש ושבעת התבלינים", "nameEn": "Confit d'Oie – goose leg confit with honey & spices" },
+        { "name": "שוקרוט – קדירת כרוב ובשרים מעושנים", "nameEn": "Choucroute Garnie – sauerkraut with assorted sausages & smoked meats" },
+        { "name": "קדירת שרימפס בחמאה מתובלת", "nameEn": "Crevettes au beurre – shrimps sautéed in seasoned butter" },
+        { "name": "פילה דג בורי ברוטב שמנת וקוויאר סלמון", "nameEn": "Filet de Poisson à la mode du Tsar – sea fish fillet with herb cream and salmon eggs" }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        { "name": "קרפ סוזט פלמבה", "nameEn": "Crêpe Suzette flambé" },
+        { "name": "גלידת וניל", "nameEn": "Vanilla ice cream" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "אירוע פרטי (שם הקובץ הוסר).doc", "driveId": "1TVHB4JyThi2vzNPzvsFouGtzDDHQFDLp" }]
+}

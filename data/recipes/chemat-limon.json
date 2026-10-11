@@ -1,0 +1,113 @@
+{
+  "slug": "chemat-limon",
+  "title": "חמאת לימון",
+  "titleEn": "Lemon Butter",
+  "description": "קרם לימון חלק ומבריק מביצים, סוכר, מיץ וגרידת לימון וחמאה, שמתבשל על אש קטנה עד שהוא סמיך כמו פודינג. מצננים ומשתמשים כממרח או כמילוי.",
+  "category": "jams",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "ממרח",
+    "מילוי לעוגות",
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר נירוסטה",
+  "prepMin": 5,
+  "cookMin": 8,
+  "totalMin": 193,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "סוכר",
+          "note": null,
+          "raw": "½ כוס סוכר"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "3 כפות מיץ לימון"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "גרידת לימון",
+          "note": null,
+          "raw": "1 כף גרידת לימון"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": "בקוביות",
+          "raw": "50 גרם חמאה בקוביות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "בסיר נירוסטה טורפים את הביצים, הסוכר ומיץ הלימון לתערובת תפוחה ובהירה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את החמאה וקליפת הלימון.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים על אש קטנה תוך בחישה כ-8 דקות, עד שהקרם סמיך כמו פודינג.",
+          "timerMin": 8
+        },
+        {
+          "text": "מצננים לפחות 3 שעות.",
+          "timerMin": 180
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מתאים כממרח על לחם או כמילוי לעוגות וטארטים."
+  ],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "A small glass jar of smooth glossy pale yellow lemon curd with a spoon resting beside it, fresh lemon halves and zest on the side",
+  "alt": "צנצנת קטנה של חמאת לימון צהובה וחלקה, לצד חצאי לימון וגרידה",
+  "originals": [
+    {
+      "file": "חמאת לימון.doc",
+      "driveId": "1pF68XMYDuzSascoGVGIQH5Lxk5csHVcD"
+    },
+    {
+      "file": "חמאת לימון.doc",
+      "driveId": "1zLCxOKz0ra9VtfnFiwn1-ggwrmf7kpnj"
+    }
+  ]
+}

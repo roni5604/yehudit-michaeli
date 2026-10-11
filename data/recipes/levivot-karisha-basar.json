@@ -1,0 +1,121 @@
+{
+  "slug": "levivot-karisha-basar",
+  "title": "לביבות כרישה ובשר",
+  "titleEn": "Leek and Beef Patties",
+  "description": "קציצות שטוחות מכרישה מאודה ובשר בקר טחון, עם ביצים וקמח מצה, מטוגנות בשמן תירס. יוצאות כ-50 יחידות.",
+  "category": "meat",
+  "subcategory": "patties",
+  "cuisine": null,
+  "holidays": [
+    "hanukkah",
+    "passover"
+  ],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "חנוכה",
+    "אירוח",
+    "קציצות"
+  ],
+  "servings": null,
+  "yield": "50 לביבות",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 30,
+  "totalMin": 240,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 5,
+          "unit": null,
+          "item": "כרישות",
+          "note": "קצוצות, רק החלק הלבן ומעט מהירוק הרך והצעיר",
+          "raw": "5 כרישות, קצוצות, רק החלק הלבן ומעט מהירוק הרך והצעיר"
+        },
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "בשר בקר טחון",
+          "note": null,
+          "raw": "½ ק״ג בשר בקר טחון"
+        },
+        {
+          "qty": 6,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "6 ביצים"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "קמח מצה",
+          "note": null,
+          "raw": "6 כפות קמח מצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור טחון",
+          "note": "במקום",
+          "raw": "מלח ופלפל שחור טחון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן תירס",
+          "note": "לטיגון",
+          "raw": "שמן תירס, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מאדים את הכרישה במי מלח עד שהיא מתרככת.",
+          "timerMin": null
+        },
+        {
+          "text": "סוחטים ומצננים במסננת שעתיים, להגרת כל הנוזלים.",
+          "timerMin": 120
+        },
+        {
+          "text": "מאחדים את כל המרכיבים וטועמים להשלמת התיבול.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים שעה במקרר ואז יוצרים קציצות עגולות ושטוחות.",
+          "timerMin": 60
+        },
+        {
+          "text": "מטגנים בשמן תירס 2 דקות על צד אחד ודקה על הצד השני.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "לקציצות צמחוניות מחליפים את הבשר בתפוחי אדמה מבושלים."
+  ],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Flat round leek and beef patties, golden brown, on a plate with a lemon wedge",
+  "alt": "קציצות כרישה ובשר שטוחות וזהובות על צלחת עם פלח לימון",
+  "originals": [
+    {
+      "file": "לביבות כרישה.doc",
+      "driveId": "1k6NbFEDdB6itIhnrVjdG2OXcX1MCWL56"
+    }
+  ]
+}

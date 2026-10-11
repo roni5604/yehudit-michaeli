@@ -1,0 +1,57 @@
+{
+  "slug": "tleh-bechumus-limon-kavush",
+  "title": "טלה בחומוס ולימון כבוש",
+  "titleEn": "Lamb with Chickpeas and Preserved Lemon",
+  "description": "קוביות שוק טלה מושחמות שמתבשלות שעה וחצי עם חומוס, ירקות שורש, לימונים כבושים וכורכום, ונגמרות בכוסברה טרייה. תבשיל עם רוטב סמיך וריח עשיר.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "moroccan",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["תבשיל", "בישול איטי"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר גדול",
+  "prepMin": 30,
+  "cookMin": 120,
+  "totalMin": 150,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": null, "unit": null, "item": "שוק טלה", "note": "חתוך לקוביות גדולות מאוד ומושחם במחבת בשמן זית", "raw": "שוק טלה, חתוך לקוביות גדולות מאוד ומושחם במחבת בשמן זית" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": "ועוד מעט להשחמת הבשר", "raw": "קצת יותר מחצי כוס שמן זית" },
+      { "qty": 4, "unit": "שיני", "item": "שום", "note": "פרוסות", "raw": "4 שיני שום פרוסות" },
+      { "qty": 2, "unit": null, "item": "בצלים", "note": "קצוצים", "raw": "2 בצלים קצוצים" },
+      { "qty": null, "unit": null, "item": "גזר", "note": "חתוך לקוביות קטנות", "raw": "גזר חתוך לקוביות קטנות" },
+      { "qty": 3, "unit": null, "item": "גבעולי סלרי", "note": "קצוצים", "raw": "3 גבעולי סלרי קצוצים" },
+      { "qty": null, "unit": null, "item": "פלפל חריף", "note": "קצוץ", "raw": "פלפל חריף קצוץ" },
+      { "qty": 1, "unit": null, "item": "כרישה", "note": "קצוצה גס", "raw": "1 כרישה קצוצה גס" },
+      { "qty": null, "unit": null, "item": "גבעולי רוזמרין", "note": null, "raw": "גבעולי רוזמרין" },
+      { "qty": null, "unit": null, "item": "פלפל שחור טחון טרי", "note": null, "raw": "פלפל שחור טחון טרי" },
+      { "qty": 3, "unit": null, "item": "לימונים כבושים במלח", "note": "מרוקאיים, קצוצים גס", "raw": "3 לימונים כבושים במלח (מרוקאיים), קצוצים גס" },
+      { "qty": 2, "unit": "כוסות", "item": "גרגרי חומוס", "note": "מושרים במים למשך הלילה", "raw": "2 כוסות גרגרי חומוס, מושרים במים למשך הלילה" },
+      { "qty": null, "unit": null, "item": "מים או ציר", "note": "עד כיסוי", "raw": "מים או ציר, עד כיסוי" },
+      { "qty": 1, "unit": "כף", "item": "כורכום", "note": null, "raw": "1 כף כורכום" },
+      { "qty": 1, "unit": "כוס", "item": "כוסברה", "note": "קצוצה", "raw": "1 כוס כוסברה קצוצה" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מחממים בסיר גדול את שמן הזית ומכניסים את השום, הבצל, הגזר, הסלרי, הפלפל החריף, הכרישה, גבעולי הרוזמרין והפלפל השחור. מאדים כ-10 דקות.", "timerMin": 10 },
+      { "text": "מוסיפים את הלימונים הכבושים, את החומוס המושרה ואת קוביות הטלה שהושחמו קודם.", "timerMin": null },
+      { "text": "מערבבים, מוסיפים מים או ציר עד כיסוי ואת הכורכום, ומביאים לרתיחה.", "timerMin": null },
+      { "text": "מבשלים על אש קטנה שעה וחצי עד שעתיים.", "timerMin": 90 },
+      { "text": "מוסיפים את הכוסברה, טועמים ומתקנים תיבול, ומבשלים עוד מעט עד שמתקבל תבשיל עם רוטב סמיך וריח עשיר.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "משרים את החומוס מערב קודם, כדי שיהיה מוכן לבישול."
+  ],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A deep pot of lamb and chickpea stew coloured golden by turmeric, with chunks of lamb, preserved lemon pieces, carrots and fresh coriander on top",
+  "alt": "קדירת תבשיל טלה וחומוס בצבע כורכום, עם לימון כבוש, גזר וכוסברה טרייה",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

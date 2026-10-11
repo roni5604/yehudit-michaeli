@@ -1,0 +1,29 @@
+---
+// Catalogue card. Full recipes open on-site; everything else opens the original Drive document.
+import { artSvg } from "../lib/art";
+import { catBySlug, subBySlug } from "../lib/site";
+import { imageFor, type Entry } from "../lib/data";
+interface Props { e: Entry; headingLevel?: 2 | 3 }
+const { e, headingLevel = 3 } = Astro.props;
+const H = `h${headingLevel}` as "h2" | "h3";
+const icon = catBySlug[e.c]?.icon ?? "plate";
+const img = e.s ? imageFor(e.s) : null;
+const label = (e.sc && subBySlug[e.sc]?.he) || catBySlug[e.c]?.he;
+---
+<article class="ecard" data-cat={e.c}>
+  <div class="ecard-art" aria-hidden="true">
+    {img ? <img src={img.src640} alt="" loading="lazy" /> : <Fragment set:html={artSvg(icon, e.t)} />}
+  </div>
+  <div class="ecard-body">
+    <p class="ecard-cat">{label}</p>
+    <H class="ecard-title">
+      {e.s
+        ? <a class="card-link" href={`/recipes/${e.s}`}>{e.t}</a>
+        : <a class="card-link" href={e.u} target="_blank" rel="noopener">{e.t}<span class="visually-hidden"> (נפתח בגוגל דרייב בחלון חדש)</span></a>}
+    </H>
+    <p class="ecard-meta">{e.s ? <span class="tag-full">✦ מתכון מלא באתר</span> : <span class="tag-drive">המחברת המקורית ↗</span>}</p>
+  </div>
+  <button type="button" class="icon-btn fav-btn" data-fav={e.s ?? e.id} data-title={e.t} aria-pressed="false" aria-label={`שמירה במועדפים: ${e.t}`}>
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true"><path d="M12 20s-7-4.4-9.2-9A5 5 0 0 1 12 6a5 5 0 0 1 9.2 5C19 15.6 12 20 12 20Z"/></svg>
+  </button>
+</article>

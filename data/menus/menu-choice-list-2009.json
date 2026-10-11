@@ -1,0 +1,625 @@
+{
+  "slug": "menu-choice-list-2009",
+  "title": "רשימת מנות לבחירה · 2009",
+  "titleEn": "Menu selection list · 2009",
+  "date": "2009",
+  "season": null,
+  "occasion": "רשימת מנות לאירועים",
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": "רשימת המנות הרחבה שמהן נבחרים תפריטי אירועים וארוחות.",
+  "sections": [
+    {
+      "name": "ראשונות · בשרי",
+      "items": [
+        {
+          "name": "פארפה כבדים עם ריבת סלרי ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפצ'ו בקר עם תלתלי פרמזן על סלט עלעלים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורנטינו ברוטב רוקפור",
+          "recipeSlug": null
+        },
+        {
+          "name": "כבדים ברוטב יין אדום",
+          "recipeSlug": null
+        },
+        {
+          "name": "מניפת בשרים מעושנים על מלון",
+          "recipeSlug": null
+        },
+        {
+          "name": "קבבונים רומנים עם שומים קלויים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "ראשונות · דגים",
+      "items": [
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "פלטת דגים מלוחים ומעושנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סרדינים טריים ממולאים באגוזי קשיו ולימונים כבושים תוצרת בית",
+          "recipeSlug": null
+        },
+        {
+          "name": "דגיגים מטוגנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סביצ'ה",
+          "recipeSlug": null
+        },
+        {
+          "name": "דגיגי אנשובי טריים כבושים",
+          "recipeSlug": null
+        },
+        {
+          "name": "טונה צרובה בפלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פירות ים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס",
+          "recipeSlug": null
+        },
+        {
+          "name": "קלמארי ממולא בפולנטת עשבי תיבול",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "ראשונות · מאפים",
+      "items": [
+        {
+          "name": "סלסלות במילוי אספרגוס מוקרם / ברוקולי ואגוזים / פלפלים בשלושה צבעים / פטריות",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש כרישה ועגבניות מיובשות",
+          "recipeSlug": null
+        },
+        {
+          "name": "קיש לוריין",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה תרד / חצילים / קישואים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "סלטים · שניים לבחירה",
+      "items": [
+        {
+          "name": "סלט ירוק",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט עגבניות שרי פיקנטי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט תפוחי אדמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט עדשים וכוסברה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פטוש",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ישראלי קצוץ דק",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ניסואז משודרג (טונה צרובה)",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט הקיסר (עם חזה עוף או פילטים של אנשובי)",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט כרובית",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט כרוב צרפתי / סיני / קולסלאו / בפירות יבשים ואגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט סלק באגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט קינואה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלטים רומנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פלפלים קלויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "מגוון אנטיפסטי – ארבעה סוגים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט יווני",
+          "recipeSlug": null
+        },
+        {
+          "name": "גזר בהדרים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט קפרזה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פירות ים",
+          "price": "תוספת 5 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "תרד / אנדיב ואגסים עם רוקפור ואגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט פסטה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · בקר",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "מדליוני פילה בקר",
+          "recipeSlug": null
+        },
+        {
+          "name": "רוסטביף ברוטב יין אדום",
+          "recipeSlug": null
+        },
+        {
+          "name": "גלילות סינטה במילוי דוקסל פטריות",
+          "recipeSlug": null
+        },
+        {
+          "name": "ביף וולינגטון",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · עוף",
+      "items": [
+        {
+          "name": "קורדון בלו – חזה עוף ממולא בגבינת אמנטל וחזה אווז",
+          "recipeSlug": null
+        },
+        {
+          "name": "צ'יקן קייב",
+          "recipeSlug": null
+        },
+        {
+          "name": "צ'יקן וולינגטון",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה פרגיות בשזיפים ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה פרגית ביין / בתפוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פאייה עוף עם נקניקיות ושוקי עוף צלויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "עופיון ממולא",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · דגים",
+      "items": [
+        {
+          "name": "פילה דג ברוטב שמנת שמפניה וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג דניס א-לה פלורנטין – ממולא בתרד וצנוברים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג מוסר על ירקות קלויים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג ברוטב פרובנסלי פיקנטי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלמון ברוטב ג'ינג'ר ותפוזים / ברוטב הצאר / יין לבן",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · טלה",
+      "items": [
+        {
+          "name": "צלי שוק טלה בניחוח טימין וחרדל",
+          "recipeSlug": null,
+          "price": "תוספת 15 ₪"
+        },
+        {
+          "name": "אוסובוקו טלה אישי",
+          "recipeSlug": null,
+          "price": "תוספת 15 ₪"
+        },
+        {
+          "name": "צלעות טלה",
+          "recipeSlug": null,
+          "price": "תוספת 15 ₪"
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · פירות ים",
+      "items": [
+        {
+          "name": "קדירת פירות ים בשום, חמאה ואוזו / או חלב קוקוס וקארי",
+          "recipeSlug": null,
+          "price": "תוספת 10 ₪"
+        },
+        {
+          "name": "חמישיית שרימפס עטופים בחוטי קדאיף / או בפירורי פילו ומטוגנים",
+          "recipeSlug": null,
+          "price": "תוספת 10 ₪"
+        },
+        {
+          "name": "חמישיית קלמארי ממולאים בפולנטת עשבי תיבול",
+          "recipeSlug": null,
+          "price": "תוספת 10 ₪"
+        }
+      ]
+    },
+    {
+      "name": "עיקריות · צמחוניות",
+      "items": [
+        {
+          "name": "טארט כרישה ועגבניות מיובשות",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות העונה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מיני ירקות ממולאים",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות מוקפצים עם איטריות שעועית",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "תוספות",
+      "items": [
+        {
+          "name": "תפוחי אדמה זעירים אפויים ברוזמרין",
+          "recipeSlug": null
+        },
+        {
+          "name": "תפוחי אדמה בשום וחמאה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרוסות תפוחי אדמה ובטטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פירה תפוחי אדמה / בטטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פטריות בעשבי תבלין",
+          "recipeSlug": null
+        },
+        {
+          "name": "אורז בר עם פיסטוק חלבי",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוג'דרה עם בצל מטוגן",
+          "recipeSlug": null
+        },
+        {
+          "name": "אורז עם שקדים, צימוקים ותמרים מיובשים",
+          "recipeSlug": null
+        },
+        {
+          "name": "ברוקולי עם אגוזי קשיו",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרגוס מאודה",
+          "recipeSlug": null
+        },
+        {
+          "name": "רטטוי",
+          "recipeSlug": null
+        },
+        {
+          "name": "שעועית בשומשום",
+          "recipeSlug": null
+        },
+        {
+          "name": "במיה בשום / בעגבניות",
+          "recipeSlug": null
+        },
+        {
+          "name": "גזר בהדרים",
+          "recipeSlug": null
+        },
+        {
+          "name": "ארטישוק ירושלמי",
+          "recipeSlug": null
+        },
+        {
+          "name": "זר ירקות העונה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קישואים בפלפלת",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "פלטת גבינות בוטיק עם אגוזים ופירות העונה",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת קוביות שוקולד חמה",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת מוס שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת מוס חלבה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טראפלס שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס שוקולד עם קרוקנט אגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מלאבי עם טלטלי חלבה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס לימונים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם קרמל",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס אספרסו",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובה פירות יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט פירות יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "פלטת פירות העונה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט אגסים",
+          "recipeSlug": null
+        },
+        {
+          "name": "אגסים ביין",
+          "recipeSlug": null
+        },
+        {
+          "name": "לפתן חבושים",
+          "recipeSlug": null
+        },
+        {
+          "name": "לפתן פירות יבשים",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת פרג",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגיות הבית",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארטלטים קטנים במילוי פירות העונה",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחי עץ",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל אגוזים ולוקום",
+          "recipeSlug": null
+        },
+        {
+          "name": "עוגת גבינה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה עם מרציפן",
+          "recipeSlug": null
+        },
+        {
+          "name": "מעדן טפיוקה עם מנגו ופסיפלורה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פירות יבשים",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט אגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פפנש עם קרם פרש וריבת דובדבנים חמוצים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קינוח בולגרי עם משמשים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "ארוחות בוקר · ביצים",
+      "items": [
+        {
+          "name": "שקשוקה עם גבינת פטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "שקשוקה פיקנטית",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ עשבי תבלין",
+          "recipeSlug": null
+        },
+        {
+          "name": "חביתיות עם פטריות ובצל ירוק",
+          "recipeSlug": null
+        },
+        {
+          "name": "אג בנדיקט",
+          "recipeSlug": null
+        },
+        {
+          "name": "ביצה בקן",
+          "recipeSlug": null
+        },
+        {
+          "name": "פריטטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "אומלט גבינה",
+          "recipeSlug": null
+        },
+        {
+          "name": "ביצים חומות",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "ארוחות בוקר · מאפים",
+      "items": [
+        {
+          "name": "קיש חמשת הבצלים / פטריות / כרישה ועגבניות מיובשות / ברוקולי / רוקפור ועגבניות מיובשות",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה תרד וגבינת פטה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה חצילים ביתי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלסלות",
+          "recipeSlug": null
+        },
+        {
+          "name": "ג'חנון",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "רשימת מנות לבחירה 2009.doc",
+      "driveId": "1EMpk-gayXl0RMNiUOrqo8EM5T4lWG1tl"
+    }
+  ]
+}

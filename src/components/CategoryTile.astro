@@ -1,0 +1,32 @@
+---
+import CategoryArt from "./CategoryArt.astro";
+import { imageFor } from "../lib/data";
+interface Props { href: string; title: string; subtitle?: string; count: number; icon: string; coverSlug?: string | null; headingLevel?: 2 | 3 }
+const { href, title, subtitle, count, icon, coverSlug, headingLevel = 3 } = Astro.props;
+const img = coverSlug ? imageFor(coverSlug) : null;
+const H = `h${headingLevel}` as "h2" | "h3";
+---
+<article class="tile">
+  <div class="tile-media">
+    {img ? <img src={img.src640} alt="" loading="lazy" decoding="async" width={img.w} height={img.h} /> : <CategoryArt icon={icon} seed={title} />}
+    <span class="shade" aria-hidden="true"></span>
+  </div>
+  <div class="tile-body">
+    <H class="tile-title"><a href={href} class="card-link">{title}</a></H>
+    {subtitle && <p class="tile-sub latin">{subtitle}</p>}
+    <p class="tile-count">{count.toLocaleString("he-IL")} מתכונים</p>
+  </div>
+</article>
+<style>
+  .tile { position: relative; border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 4 / 3; background: var(--paper-3); isolation: isolate; transition: transform .35s cubic-bezier(.2,.7,.2,1), box-shadow .35s; }
+  .tile:hover { transform: translateY(-4px); box-shadow: 0 26px 50px -28px rgb(var(--shadow) / .6); }
+  .tile-media { position: absolute; inset: 0; }
+  .tile-media img, .tile-media :global(svg) { width: 100%; height: 100%; object-fit: cover; transition: transform .7s cubic-bezier(.2,.7,.2,1); }
+  .tile:hover .tile-media img, .tile:hover .tile-media :global(svg) { transform: scale(1.05); }
+  .shade { position: absolute; inset: 0; background: linear-gradient(to top, rgb(20 12 8 / .82), rgb(20 12 8 / .15) 55%, transparent); }
+  .tile-body { position: absolute; inset-inline: 0; bottom: 0; padding: 18px 20px; color: #fff; z-index: 1; }
+  .tile-title { margin: 0; color: #fff; font-size: var(--step-1); }
+  .tile-title a { color: inherit; text-decoration: none; }
+  .tile-sub { margin: 0; opacity: .85; font-size: 1rem; }
+  .tile-count { margin: 4px 0 0; font-size: .9rem; font-weight: 700; opacity: .9; }
+</style>

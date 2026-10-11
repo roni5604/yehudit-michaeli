@@ -1,0 +1,87 @@
+{
+  "slug": "company-event-2004-06",
+  "title": "ארוחת ערב לאירוע חברה · יוני 2004",
+  "titleEn": "Company event dinner · June 2004",
+  "date": "2004-06",
+  "season": "summer",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות בהגשה לשולחן",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "recipeSlug": null
+        },
+        {
+          "name": "סופלה של קוקי סאן-ז'אק",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפצ'ו עגל על מצע עלעלים",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרגוס מוקרם בסלסלות פילו פריכות",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט ושקדים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט גזר בהדרים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתכם",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט ברוטב פלפלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז ברוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה של פארידה אדומה בשמנת וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות – לצמחונים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "לקינוח – צלחת פינוקים אישית",
+      "items": [
+        {
+          "name": "מוס גנאש שוקולד & קרם ברולה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן & טרין סורבה",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1u9Co4fbkIIvL5td26AJjaQYasxvYbV8L"
+    }
+  ]
+}

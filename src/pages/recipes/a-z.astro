@@ -1,0 +1,43 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { catalog, entryHref } from "../../lib/data";
+import { catBySlug } from "../../lib/site";
+const all = catalog;
+const letters = new Map<string, typeof all>();
+for (const r of all) {
+  const ch = (r.t.match(/[א-ת]/)?.[0] ?? "#").replace(/[ךםןףץ]/, (c) => ({ ך: "כ", ם: "מ", ן: "נ", ף: "פ", ץ: "צ" })[c]!);
+  if (!letters.has(ch)) letters.set(ch, []);
+  letters.get(ch)!.push(r);
+}
+const keys = [...letters.keys()].sort((a, b) => a.localeCompare(b, "he"));
+---
+<BaseLayout title="אינדקס המתכונים א–ת" description="אינדקס אלפביתי מלא של כל המתכונים באתר יהודית מיכאלי · שפית.">
+  <div class="container-x">
+    <div class="head"><Breadcrumbs items={[{ href: "/recipes", label: "מתכונים" }, { label: "אינדקס א–ת" }]} /></div>
+    <h1>אינדקס המתכונים</h1>
+    <nav aria-label="קפיצה לאות" class="letters">
+      {keys.map((k) => <a href={`#l-${k}`}>{k}</a>)}
+    </nav>
+    {keys.map((k) => (
+      <section id={`l-${k}`} aria-labelledby={`h-${k}`} class="letter">
+        <h2 id={`h-${k}`}>{k}</h2>
+        <ul>
+          {letters.get(k)!.map((r) => <li><a href={entryHref(r)} target={r.s ? undefined : "_blank"} rel={r.s ? undefined : "noopener"}>{r.t}{r.s ? " ✦" : ""}</a> <span>{catBySlug[r.c]?.he}</span></li>)}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
+<style>
+  .head { padding-top: 24px; }
+  .letters { position: sticky; top: 76px; z-index: 5; display: flex; flex-wrap: wrap; gap: 6px; padding: 12px 0; background: var(--paper); border-bottom: 1px solid var(--line); }
+  .letters a { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); text-decoration: none; font-family: var(--font-display); font-weight: 700; font-size: 1.2rem; }
+  .letter { padding-top: 26px; scroll-margin-top: 150px; }
+  .letter h2 { font-size: var(--step-3); color: var(--copper-text); border-bottom: 1px solid var(--line); margin: 0 0 12px; }
+  .letter ul { columns: 3 260px; column-gap: 40px; list-style: none; padding: 0; margin: 0; }
+  .letter li { break-inside: avoid; padding: 5px 0; }
+  .letter li a { text-decoration: none; font-weight: 600; }
+  .letter li a:hover { text-decoration: underline; }
+  .letter li span { color: var(--ink-mute); font-size: .85rem; margin-inline-start: 6px; }
+</style>

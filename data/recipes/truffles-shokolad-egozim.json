@@ -1,0 +1,152 @@
+{
+  "slug": "truffles-shokolad-egozim",
+  "title": "טראפלס שוקולד ואגוזים",
+  "titleEn": "Chocolate Walnut Truffles",
+  "description": "טראפלס שוקולד מריר עם ברנדי, אגוזים קצוצים וקורט קפה, מעוטרים בחצי אגוז ומוגשים בסלסלות נייר קטנות.",
+  "category": "sweets",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "tags": [
+    "פרלינים",
+    "אירוח",
+    "מתנה"
+  ],
+  "servings": null,
+  "yield": "כ-30 כדורי טראפלס",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 5,
+  "totalMin": 180,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 300,
+          "unit": "גרם",
+          "item": "שוקולד מריר",
+          "note": null,
+          "raw": "300 גרם שוקולד מריר"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמנת מתוקה",
+          "note": null,
+          "raw": "½ כוס שמנת מתוקה"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "ברנדי",
+          "note": null,
+          "raw": "2 כפות ברנדי"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "חמאה רכה",
+          "note": null,
+          "raw": "100 גרם חמאה רכה"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "חלמונים",
+          "note": null,
+          "raw": "2 חלמונים"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "אגוזים קצוצים",
+          "note": null,
+          "raw": "50 גרם אגוזים קצוצים"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "אבקת קפה נמס",
+          "note": null,
+          "raw": "1 כפית אבקת קפה נמס"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת קקאו",
+          "note": null,
+          "raw": "אבקת קקאו"
+        },
+        {
+          "qty": 30,
+          "unit": null,
+          "item": "חצאי אגוזים",
+          "note": null,
+          "raw": "30 חצאי אגוזים"
+        },
+        {
+          "qty": 30,
+          "unit": null,
+          "item": "סלסלות נייר קטנות",
+          "note": null,
+          "raw": "30 סלסלות נייר קטנות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "ממיסים יחד שוקולד, שמנת וברנדי.",
+          "timerMin": null
+        },
+        {
+          "text": "בוחשים פנימה בהדרגה את החמאה הרכה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים בבחישה את החלמונים, האגוזים והקפה.",
+          "timerMin": null
+        },
+        {
+          "text": "מצננים שעתיים במקפיא ואז יוצרים כדורים קטנים (כ-30).",
+          "timerMin": 120
+        },
+        {
+          "text": "מגלגלים באבקת קקאו, מעטרים בחצי אגוז ומניחים בסלסלות נייר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Dark chocolate truffles dusted with cocoa, each topped with a walnut half and set in small brown paper cups on a platter",
+  "alt": "טראפלס שוקולד מאובקים בקקאו, כל אחד מעוטר בחצי אגוז ומונח בסלסלת נייר קטנה",
+  "originals": [
+    {
+      "file": "טראפלס שוקולד א.doc",
+      "driveId": "1Qisb0MVhdsOcym-lUpY95YyRWT1yokOR"
+    }
+  ]
+}

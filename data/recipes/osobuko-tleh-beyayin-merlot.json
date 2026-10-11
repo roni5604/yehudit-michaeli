@@ -1,0 +1,245 @@
+{
+ "slug": "osobuko-tleh-beyayin-merlot",
+ "title": "אוסובוקו טלה ביין מרלו",
+ "titleEn": "Lamb Osso Buco in Merlot",
+ "description": "נתחי אוסובוקו טלה שמתבשלים בתנור ביין מרלו, דבש ופירות יבשים עד שהבשר נימוח. רוטב עמוק ומתקתק למחצה שמגישים עם נענע טרייה.",
+ "category": "meat",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "תבשיל",
+  "אירוח",
+  "חורף"
+ ],
+ "servings": 6,
+ "yield": null,
+ "pan": "סיר כבד שמתאים לתנור",
+ "prepMin": 30,
+ "cookMin": 120,
+ "totalMin": 150,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "נתחי אוסובוקו טלה",
+     "note": null,
+     "raw": "6 נתחי אוסובוקו טלה"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "זרעי כוסברה",
+     "note": null,
+     "raw": "1 כפית זרעי כוסברה"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "פלפל אדום יבש או צ׳ילי טרי",
+     "note": null,
+     "raw": "1 כפית פלפל אדום יבש או צ׳ילי טרי"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רוזמרין טרי",
+     "note": null,
+     "raw": "1 כף רוזמרין טרי"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "אורגנו יבש",
+     "note": null,
+     "raw": "1 כפית אורגנו יבש"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פלפל שחור גרוס טרי",
+     "note": null,
+     "raw": "פלפל שחור גרוס טרי"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ים",
+     "note": null,
+     "raw": "מלח ים"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "קמח",
+     "note": null,
+     "raw": "1 כף קמח"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "שמן זית",
+     "note": null,
+     "raw": "1 כף שמן זית משובח"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "גזר",
+     "note": "חתוך גס",
+     "raw": "1 גזר חתוך גס"
+    },
+    {
+     "qty": 2,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "קצוץ דק",
+     "raw": "2 שיני שום קצוצות דק"
+    },
+    {
+     "qty": 6,
+     "unit": "גבעולי",
+     "item": "סלרי",
+     "note": "חתוך גס",
+     "raw": "6 גבעולי סלרי חתוכים גס"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים אדומים",
+     "note": "חתוכים גס",
+     "raw": "2 בצלים אדומים חתוכים גס"
+    },
+    {
+     "qty": 120,
+     "unit": "גרם",
+     "item": "פירות יבשים",
+     "note": "משמש, תמר, תאנים ושזיפים",
+     "raw": "120 גרם תערובת פירות יבשים (משמש, תמר, תאנים ושזיפים מגולענים)"
+    },
+    {
+     "qty": 1.5,
+     "unit": "כוסות",
+     "item": "יין מרלו",
+     "note": null,
+     "raw": "1½ כוסות יין מרלו"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "חומץ בלסמי",
+     "note": null,
+     "raw": "2 כפות חומץ בלסמי"
+    },
+    {
+     "qty": 100,
+     "unit": "גרם",
+     "item": "דבש",
+     "note": null,
+     "raw": "100 גרם דבש"
+    },
+    {
+     "qty": 400,
+     "unit": "גרם",
+     "item": "עגבניות מקולפות",
+     "note": null,
+     "raw": "400 גרם עגבניות מקולפות"
+    },
+    {
+     "qty": 100,
+     "unit": "גרם",
+     "item": "נענע טרייה",
+     "note": "קצוצה",
+     "raw": "100 גרם נענע טרייה קצוצה (חבילה)"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "תיבול והשחמה",
+   "items": [
+    {
+     "text": "מחממים תנור ל-180 מעלות.",
+     "timerMin": null
+    },
+    {
+     "text": "כותשים את זרעי הכוסברה והצ׳ילי, מערבבים עם הרוזמרין והאורגנו ומתבלים בפלפל שחור ומלח ים.",
+     "timerMin": null
+    },
+    {
+     "text": "מגלגלים את הבשר בתערובת התבלינים ואחר כך מקמחים אותו.",
+     "timerMin": null
+    },
+    {
+     "text": "מחממים שמן בסיר גדול ועבה שמתאים לתנור, משחימים את הבשר מכל צדדיו ומעבירים לצלחת.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הרוטב",
+   "items": [
+    {
+     "text": "מקפיצים קלות בסיר את הגזר, השום, הסלרי, הבצל והפירות היבשים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את היין, החומץ והדבש ומבשלים עד שהרוטב מצטמצם מעט.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את העגבניות, מביאים לרתיחה וטועמים ומתקנים תיבול.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "בישול בתנור",
+   "items": [
+    {
+     "text": "מחזירים את הבשר לסיר ומוסיפים מעט מים אם צריך, עד שהבשר מכוסה.",
+     "timerMin": null
+    },
+    {
+     "text": "מכסים ואופים כשעה וחצי.",
+     "timerMin": 90
+    },
+    {
+     "text": "מסירים את המכסה וממשיכים לאפות עוד כחצי שעה.",
+     "timerMin": 30
+    },
+    {
+     "text": "לפני ההגשה מסירים את השומן הצף ומתקנים תיבול.",
+     "timerMin": null
+    },
+    {
+     "text": "מגישים עם נענע קצוצה.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "chef",
+  "credit": "אריק שנק",
+  "rewritten": true
+ },
+ "imagePrompt": "Braised lamb osso buco shanks in a dark glossy red wine sauce with dried fruit, carrots and celery, served in a cast iron pot, sprinkled with chopped fresh mint",
+ "alt": "נתחי אוסובוקו טלה ברוטב יין כהה עם פירות יבשים ונענע טרייה",
+ "originals": [
+  {
+   "file": "אוסובוקו טלה.doc",
+   "driveId": "16htfJ_2Tp1Fw4sMM9WiUJxEg3BCfUPt0"
+  }
+ ]
+}

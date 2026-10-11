@@ -1,0 +1,110 @@
+{
+  "slug": "farewell-dinner-2007-05",
+  "title": "ארוחת פרידה · רשפון, מאי 2007",
+  "titleEn": "Farewell dinner · Rishpon, May 2007",
+  "date": "2007-05",
+  "season": "spring",
+  "occasion": "ארוחת פרידה",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "רשפון, 1 במאי 2007",
+  "sections": [
+    {
+      "name": "מנות ראשונות · Appetizers",
+      "items": [
+        {
+          "name": "פארפה כבדים עם ריבת סלרי",
+          "nameEn": "Chicken liver parfait",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "nameEn": "Gravlax – pickled salmon",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרגוס מוקרם בסלסלות פריכות",
+          "nameEn": "Crispy asparagus bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירה · Main courses",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט ברוטב יין אדום",
+          "nameEn": "Sirloin steak with red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה בקר ברוטב פלפלת",
+          "nameEn": "Filet mignon with pepper cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "המבורגר עם צ'ימיצ'ורי",
+          "nameEn": "Hamburger with chimichurri",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית מהגריל",
+          "nameEn": "Grilled baby-chicken filet",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה בס ברוטב שמנת וקוויאר סלמון",
+          "nameEn": "Filet of bass in herb cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות – צמחוני",
+          "nameEn": "Leek & dried tomatoes tart – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים · Desserts",
+      "items": [
+        {
+          "name": "מוס שוקולד",
+          "nameEn": "Chocolate mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "תותים בקצפת",
+          "nameEn": "Strawberries with whipped cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחים",
+          "nameEn": "Apple strudel",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "שמיט באנגלית.doc",
+      "driveId": "1LSxhzmME-ifvg6Anrx_HkLNkWwEKPYbH"
+    }
+  ]
+}

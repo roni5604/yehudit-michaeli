@@ -1,0 +1,122 @@
+{
+  "slug": "levivot-batata-egozim",
+  "title": "לביבות בטטה ואגוזים",
+  "titleEn": "Sweet Potato and Walnut Latkes",
+  "description": "לביבות מבטטה מרוסקת עם אגוזים, טריאקי וסילאן, בלי ביצים. הבטטה הצמיגית מחזיקה אותן שלמות בטיגון.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "tags": [
+    "חנוכה",
+    "בטטה",
+    "טבעוני"
+  ],
+  "servings": null,
+  "yield": "15-20 לביבות",
+  "pan": "מחבת עמוקה",
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "בטטות גדולות",
+          "note": "קלופות ומבושלות",
+          "raw": "2 בטטות גדולות, קלופות ומבושלות"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "רוטב טריאקי",
+          "note": null,
+          "raw": "2 כפות רוטב טריאקי"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "קורנפלור",
+          "note": null,
+          "raw": "3 כפות קורנפלור"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "סילאן",
+          "note": null,
+          "raw": "1 כף סילאן"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "אגוזים",
+          "note": "קצוצים",
+          "raw": "½ כוס אגוזים, קצוצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": "לפי הטעם",
+          "raw": "מלח, לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים שמן בגובה סנטימטר אחד במחבת עמוקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מועכים את הבטטות בממחה ומוסיפים את שאר החומרים.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצרים בידיים לביבות, מעבירים לשמן ומטגנים עד זהוב משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אין צורך בביצים: בשר הבטטה המעוך צמיגי מאוד ולכן הלביבות לא מתפוררות בטיגון."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "דפני",
+    "rewritten": true
+  },
+  "imagePrompt": "Round golden sweet potato latkes dotted with chopped walnuts, piled on a plate",
+  "alt": "לביבות בטטה זהובות עם חתיכות אגוזים, בערימה על צלחת",
+  "originals": [
+    {
+      "file": "לביבות ירק.docx",
+      "driveId": "12wFYmvrDGsSDIZ36O97k8qGikP4hUX6R"
+    }
+  ]
+}

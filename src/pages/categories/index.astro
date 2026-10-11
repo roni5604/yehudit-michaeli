@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import CategoryTile from "../../components/CategoryTile.astro";
+import BookScene from "../../three/BookScene.tsx";
+import { catalog } from "../../lib/data";
+import { categories } from "../../lib/site";
+
+const counts = new Map<string, number>(); for (const e of catalog) counts.set(e.c, (counts.get(e.c) ?? 0) + 1);
+const cover = (_: string) => null;
+const cats = categories.filter((c) => counts.get(c.slug));
+const bookPages = cats.map((c) => ({ slug: c.slug, he: c.he, en: c.en, icon: c.icon, count: counts.get(c.slug) ?? 0 }));
+---
+<BaseLayout title="קטגוריות" description="כל קטגוריות המתכונים של יהודית מיכאלי: עוגות, עוגיות, מרקים, בשר, דגים, ירקות ועוד.">
+  <div class="container-x head">
+    <Breadcrumbs items={[{ label: "קטגוריות" }]} />
+    <h1>ספר המתכונים</h1>
+    <p class="lede">המחברות של יהודית, מסודרות לפי פרקים. אפשר לדפדף בספר או לבחור פרק מהרשימה.</p>
+  </div>
+  <section class="container-x book-wrap" aria-label="ספר המתכונים התלת-ממדי">
+    <BookScene client:visible pages={bookPages} />
+  </section>
+  <section class="container-x" aria-labelledby="all-cats">
+    <h2 id="all-cats" class="visually-hidden">כל הקטגוריות</h2>
+    <div class="tiles">
+      {cats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} coverSlug={cover(c.slug)} />)}
+    </div>
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 10px; }
+  .head h1 { margin: 10px 0 8px; }
+  .book-wrap { margin-block: 10px 50px; }
+  .tiles { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr)); }
+</style>

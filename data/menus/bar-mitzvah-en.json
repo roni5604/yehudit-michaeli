@@ -1,0 +1,112 @@
+{
+  "slug": "bar-mitzvah-en",
+  "title": "תפריט לבר מצווה (אירוע פרטי)",
+  "titleEn": "Bar Mitzvah menu (private event)",
+  "date": null,
+  "season": null,
+  "occasion": "בר מצווה",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Chicken liver parfait",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pickled salmon & salmon mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "Creamed asparagus crisps",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cherry tomatoes salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cabbage salad with sesame & nuts",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Courses (Buffet)",
+      "items": [
+        {
+          "name": "Roast beef",
+          "desc": "Accompanied by a mustard sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Baby chicken fillets with apples & prunes",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea bass fillets with cream & salmon caviar",
+          "recipeSlug": null
+        },
+        {
+          "name": "Baked potatoes",
+          "recipeSlug": null
+        },
+        {
+          "name": "Wild rice",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mushrooms with fine herbs",
+          "recipeSlug": null
+        },
+        {
+          "name": "Creamed spinach",
+          "recipeSlug": null
+        },
+        {
+          "name": "Antipasti",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Hot chocolate bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Strawberries Pavlova",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "Apple strudel",
+          "recipeSlug": null
+        },
+        {
+          "name": "Ice cream & sorbet",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1pQ_5uJbbqATPY2cLXVShXN_GmLWnQyXn"
+    }
+  ]
+}

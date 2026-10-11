@@ -1,0 +1,58 @@
+{
+  "slug": "bourguignon-sirkis",
+  "title": "בף בורגיניון ביתי",
+  "titleEn": "Home-style Beef Bourguignon",
+  "description": "תבשיל בקר ביין אדום, עם חזה אווז מעושן, פטריות ותימין, שמתבשל באיטיות בתנור עד שהרוטב מצטמצם והבשר נמס. מתאים לצד אורז, פירה או פסטה רחבה.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["קלאסיקה צרפתית", "בישול איטי", "אירוח"],
+  "servings": 5,
+  "yield": "4-6 מנות",
+  "pan": "סיר רחב וקדירה חסינת חום עם מכסה",
+  "prepMin": 30,
+  "cookMin": 180,
+  "totalMin": 210,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "ק״ג", "item": "קוביות בשר לצלי קדירה", "note": "כמו בשר לגולאש", "raw": "1 ק״ג קוביות בשר לצלי קדירה (כמו בשר לגולאש)" },
+      { "qty": 0.25, "unit": "כוס", "item": "קמח", "note": null, "raw": "¼ כוס קמח" },
+      { "qty": 0.25, "unit": "כוס", "item": "שמן", "note": null, "raw": "¼ כוס שמן" },
+      { "qty": 2, "unit": null, "item": "בצלים", "note": "חתוכים לקוביות בינוניות", "raw": "2 בצלים חתוכים לקוביות בינוניות" },
+      { "qty": 50, "unit": "גרם", "item": "חזה אווז מעושן", "note": null, "raw": "50 גרם חזה אווז מעושן" },
+      { "qty": 4, "unit": "שיני", "item": "שום", "note": null, "raw": "4 שיני שום" },
+      { "qty": 1, "unit": "בקבוק", "item": "יין אדום יבש", "note": null, "raw": "1 בקבוק יין אדום יבש" },
+      { "qty": 3, "unit": "כפות", "item": "רסק עגבניות", "note": null, "raw": "3 כפות רסק עגבניות" },
+      { "qty": 1, "unit": null, "item": "עלה דפנה", "note": null, "raw": "1 עלה דפנה" },
+      { "qty": 3, "unit": "ענפים", "item": "תימין", "note": null, "raw": "3 ענפי תימין" },
+      { "qty": 250, "unit": "גרם", "item": "פטריות שמפיניון", "note": "סלסלה אחת", "raw": "250 גרם פטריות שמפיניון (סלסלה אחת)" },
+      { "qty": null, "unit": null, "item": "פטרוזיליה", "note": "לקישוט", "raw": "פטרוזיליה לקישוט" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח ופלפל" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מבקשים מהקצב לחתוך את הבשר לקוביות 3×3×3 ס״מ ולנקות משומן וחלקים שאינם ראויים לאכילה (או קונים מארז מוכן של נתחים לתבשיל).", "timerMin": null },
+      { "text": "מתבלים את הבשר במלח ופלפל ומגלגלים בקמח.", "timerMin": null },
+      { "text": "מחממים שמן בסיר רחב ומטגנים את הבשר עד שהוא משחים. מוציאים מהסיר.", "timerMin": null },
+      { "text": "מטגנים בסיר את הבצלים, חזה האווז והשום, טיגון קצר בלבד.", "timerMin": null },
+      { "text": "מחזירים את הבשר לסיר ומוסיפים יין, רסק עגבניות, עלה דפנה ותימין. מביאים לרתיחה ומבשלים 20 דקות.", "timerMin": 20 },
+      { "text": "טועמים ומוסיפים מלח ופלפל לפי הטעם.", "timerMin": null },
+      { "text": "מעבירים לקדירה חסינת חום עם מכסה ואופים בתנור בינוני עוד שעה עד שעה וחצי.", "timerMin": 60 },
+      { "text": "מנגבים את הפטריות ומסלקים חלקים לא נקיים, מקצרים את הרגליים ומוסיפים לקדירה.", "timerMin": null },
+      { "text": "מנמיכים את החום וממשיכים לצלות בתנור כשעה, עד שהרוטב מצטמצם והבשר רך.", "timerMin": 60 },
+      { "text": "מקשטים בפטרוזיליה ומגישים חם, עם אורז, פירה או פסטה רחבה.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["מגישים עם אורז מבושל, מחית תפוחי אדמה או פסטה רחבה."],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Beef bourguignon in a covered casserole: tender beef cubes and whole button mushrooms in a thick dark red wine sauce, sprinkled with fresh parsley, served beside creamy mashed potatoes",
+  "alt": "קדירה עם בשר בקר ופטריות ברוטב יין אדום סמיך, מקושטת בפטרוזיליה ולצדה פירה",
+  "originals": [{ "file": "בורגיניון של סירקיס.doc", "driveId": "1nAwGuukieT8mEKaGl8KJrD_eWlYXb6E0" }]
+}

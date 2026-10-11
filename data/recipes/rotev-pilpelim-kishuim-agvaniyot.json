@@ -1,0 +1,136 @@
+{
+  "slug": "rotev-pilpelim-kishuim-agvaniyot",
+  "title": "רוטב פלפלים, קישואים ועגבניות",
+  "titleEn": "Pepper, Zucchini and Tomato Sauce",
+  "description": "רוטב ירקות צבעוני שמתאים לכל מה שיש במקרר, עם זעפרן וריחן. אפשר להוסיף ולהחליף ירקות.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 40,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "פלפלים בצבעים שונים",
+          "note": "פרוסים לאורכם",
+          "raw": "4 פלפלים בצבעים שונים, פרוסים לאורכם"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "קישואים",
+          "note": "פרוסים לאורכם",
+          "raw": "3 קישואים, פרוסים לאורכם"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "עגבניות",
+          "note": "מגוררות",
+          "raw": "2-3 עגבניות, מגוררות",
+          "qtyMax": 3
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "פרוסות",
+          "raw": "2 שיני שום, פרוסות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "סוכר",
+          "note": null,
+          "raw": "½ כפית סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חוטי זעפרן",
+          "note": "לא חובה, אבל מומלץ",
+          "raw": "חוטי זעפרן, לא חובה, אבל מומלץ"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "עלי ריחן קצוצים",
+          "note": null,
+          "raw": "2 כפות עלי ריחן קצוצים"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים שמן במחבת, מוסיפים את הירקות ומקפיצים על להבה בינונית-גבוהה עד שהם מתחילים להתרכך.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את העגבניות והשום, מתבלים ומוסיפים סוכר וזעפרן.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים ומבשלים כחצי שעה.",
+          "timerMin": 30
+        },
+        {
+          "text": "מוסיפים את הריחן ומגישים על הפסטה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "תוספות אפשריות: עגבניות שרי יחד עם העגבניות המגוררות, פטריות לקראת סוף ההקפצה, פלפל חריף מההתחלה, כוסברה קצוצה יחד עם הריחן.",
+    "הכמות מתאימה לחבילת פסטה אחת."
+  ],
+  "story": null,
+  "source": {
+    "type": "friend",
+    "credit": "משי",
+    "rewritten": false
+  },
+  "imagePrompt": "Colourful stewed sauce of sliced peppers, zucchini and tomato over spaghetti with basil",
+  "alt": "רוטב ירקות מבושל של פלפלים וקישואים ועגבניות על ספגטי",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

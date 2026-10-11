@@ -1,0 +1,95 @@
+{
+  "slug": "maariv-gourmet-extras",
+  "title": "מעריב גורמה · מנות נוספות מהתפריט הקבוע",
+  "titleEn": "Maariv Gourmet · additional dishes",
+  "date": null,
+  "season": null,
+  "occasion": "שבוע מעריב גורמה",
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": "לאורחינו המעוניינים לטעום מנות נוספות מהתפריט הקבוע, ניתן להזמין את המנות הבאות או להמיר אותן במנות מתפריט המבצע בתוספת מחיר.",
+  "sections": [
+    {
+      "name": "לחם וממרחים",
+      "items": [
+        {
+          "name": "מנת לחם, ממרחים וחמוצים",
+          "price": "15 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "כבד אווז חם",
+          "desc": "עם רוטב פירות יער",
+          "price": "50 ₪ / תוספת 25 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס",
+          "desc": "בחמאה מתובלת",
+          "price": "50 ₪ / תוספת 25 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "שלישית ירקות ממולאים",
+          "price": "45 ₪ / תוספת 23 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלאקס סלמון",
+          "desc": "על חביתיות ירק",
+          "price": "45 ₪ / תוספת 23 ₪ בהמרה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "price": "80 ₪ / תוספת 30 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף במילוי חזה אווז וגבינת אמנטל",
+          "price": "80 ₪ / תוספת 30 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "עם בצלים צרובים",
+          "price": "85 ₪ / תוספת 35 ₪ בהמרה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "טארט טאטן",
+          "price": "32 ₪ / תוספת 16 ₪ בהמרה",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "price": "32 ₪ / תוספת 16 ₪ בהמרה",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט מעריב גורמה 2.doc",
+      "driveId": "1vvejsuSJKbyaTsAmkr6lDWReSZwOvLTL"
+    }
+  ]
+}

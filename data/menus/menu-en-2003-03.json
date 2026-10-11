@@ -1,0 +1,188 @@
+{
+  "slug": "menu-en-2003-03",
+  "title": "תפריט באנגלית · מרץ 2003",
+  "titleEn": "English menu · March 2003",
+  "date": "2003-03",
+  "season": "spring",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetisers",
+      "items": [
+        {
+          "name": "Terrine de Foie Gras",
+          "desc": "Goose liver terrine",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Feuilles de vigne farcie",
+          "desc": "Vine leaves stuffed with rice & herbs, served with mint cream cheese",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gravlax",
+          "desc": "Pickled salmon with herb pancakes & crème fraiche",
+          "price": "46 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Plate-cote salee",
+          "desc": "Home made pickled beef sirloin served on a leek salad",
+          "price": "48 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Chou farci",
+          "desc": "Stuffed cabbage in tomato & sauerkraut sauce",
+          "price": "35 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Fruits de Mer",
+          "desc": "Seafood in tarragon & anis sauce",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Cervelles panees",
+          "desc": "Lamb brains in curry sauce",
+          "price": "42 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Salade Verte",
+          "desc": "Green salad with goat's cheese",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe du jour",
+          "desc": "Soup of the Day",
+          "price": "35 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "items": [
+        {
+          "name": "Poitrine de volaille farcie",
+          "desc": "Chicken breast stuffed with ratatouille & cream of bay leaves",
+          "price": "75 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Steak",
+          "desc": "Sirloin steak on a mushroom sauce",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Confit d'Oie",
+          "desc": "Goose leg confit with honey & spices",
+          "price": "70 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Canard a l'Orange",
+          "desc": "Moulard breast in a sweet citrus sauce",
+          "price": "70 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gigot d'agneau",
+          "desc": "Roasted leg of lamb",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Filet de Poisson",
+          "desc": "Sea fish fillet on a saffron sauce",
+          "price": "75 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Truite au Four",
+          "desc": "Trout fillet baked with herbs",
+          "price": "75 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gnocchis",
+          "desc": "Housemade gnocchi with vegetables - vegetarian dish",
+          "price": "65 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Before Dessert",
+      "items": [
+        {
+          "name": "Assortiment de Fromages",
+          "desc": "Selection of Israeli cheeses",
+          "price": "45 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake",
+          "price": "28 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe de fruits rouges",
+          "desc": "Red berries compote",
+          "price": "28 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au chocolat",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crepes Suzette",
+          "desc": "In Grand Marnier",
+          "price": "28 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbet flavors in a terrine with marzipan wrapping",
+          "price": "28 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Créme Brulee",
+          "price": "32 nis",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט באנגלית - מרץ 2003.doc",
+      "driveId": "1Q_Eu-BwnNP6CHN4fkMNPj9BLb57l5kmi"
+    }
+  ]
+}

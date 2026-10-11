@@ -1,0 +1,52 @@
+{
+  "slug": "tajin-tleh-artishok-yerushalmi",
+  "title": "טג׳ין טלה וארטישוק ירושלמי",
+  "titleEn": "Lamb Tagine with Jerusalem Artichokes",
+  "description": "כתף טלה צעירה על העצם, שמתבשלת בטאג׳ין עם בצל, שום, עגבנייה, ג׳ינג׳ר וזעפרן, ומקבלת ארטישוק ירושלמי חצי שעה לפני ההגשה.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": "moroccan",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["תבשיל", "בישול איטי", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "טאג׳ין",
+  "prepMin": 25,
+  "cookMin": 120,
+  "totalMin": 145,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 800, "unit": "גרם", "item": "כתף טלה צעיר", "note": "חתוכה לפרוסות בעובי 4 ס״מ סביב העצם", "raw": "800 גרם כתף טלה צעיר, חתוכה לפרוסות בעובי 4 ס״מ סביב העצם" },
+      { "qty": 0.5, "unit": "ק״ג", "item": "ארטישוק ירושלמי", "note": "קלוף", "raw": "½ ק״ג ארטישוק ירושלמי קלוף" },
+      { "qty": 2, "unit": null, "item": "בצלים", "note": "קצוצים", "raw": "2 בצלים קצוצים" },
+      { "qty": 0.5, "unit": "כפית", "item": "מלח", "note": null, "raw": "½ כפית מלח" },
+      { "qty": 0.5, "unit": "כפית", "item": "ג׳ינג׳ר", "note": null, "raw": "½ כפית ג׳ינג׳ר" },
+      { "qty": 0.5, "unit": "כפית", "item": "פלפל לבן", "note": null, "raw": "½ כפית פלפל לבן" },
+      { "qty": null, "unit": null, "item": "חוטי זעפרן", "note": "מעט", "raw": "מעט חוטי זעפרן" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "½ כוס שמן זית" },
+      { "qty": 1, "unit": null, "item": "עגבנייה", "note": "מקולפת וחתוכה לקוביות", "raw": "1 עגבנייה מקולפת וחתוכה לקוביות" },
+      { "qty": 2, "unit": "שיני", "item": "שום", "note": "כתוש", "raw": "2 שיני שום כתושות" },
+      { "qty": 1, "unit": "צרור", "item": "פטרוזיליה", "note": "קצוצה", "raw": "1 צרור פטרוזיליה קצוצה" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מניחים במרכז הטאג׳ין את הבשר, ומעליו את רוב הבצל, השום, העגבנייה והפטרוזיליה. נכון להשאיר את העצם בנתחים, כי המח שבמרכזה מוסיף לטעם התבשיל.", "timerMin": null },
+      { "text": "מוסיפים את התבלינים והשמן, ויוצקים מים עד שפת הטאג׳ין.", "timerMin": null },
+      { "text": "מבשלים על אש נמוכה עד בינונית כשעתיים.", "timerMin": 120 },
+      { "text": "מרתיחים קלות את הארטישוק הירושלמי במים ומלח.", "timerMin": null },
+      { "text": "מוסיפים אותו לטאג׳ין כחצי שעה לפני ההגשה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": "מסעדת דארנא", "rewritten": true },
+  "imagePrompt": "A clay tagine with lamb shoulder pieces on the bone in a golden saffron broth with whole Jerusalem artichokes and chopped parsley",
+  "alt": "טאג׳ין עם נתחי כתף טלה על העצם, ארטישוק ירושלמי ופטרוזיליה ברוטב זעפרן זהוב",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

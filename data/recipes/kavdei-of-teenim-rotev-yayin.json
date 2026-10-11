@@ -1,0 +1,168 @@
+{
+  "slug": "kavdei-of-teenim-rotev-yayin",
+  "title": "כבדי עוף ותאנים ברוטב יין",
+  "titleEn": "Chicken Livers with Figs in Red Wine Sauce",
+  "description": "כבדי עוף מטוגנים על רוטב יין אדום, דבש ובצל, עם תאנים טריות שמתרככות בו. מנה ראשונה חגיגית, אפשר להכין מראש.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "מנה ראשונה",
+    "אירוח"
+  ],
+  "servings": 6,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 35,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 500,
+          "unit": "גרם",
+          "item": "כבדי עוף",
+          "note": "טריים ויפים",
+          "raw": "500 גרם כבדי עוף, טריים ויפים"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "שמן",
+          "note": null,
+          "raw": "4 כפות שמן"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "בצלים בינוניים",
+          "note": "חתוכים לקוביות קטנות",
+          "raw": "2 בצלים בינוניים, חתוכים לקוביות קטנות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל סגול",
+          "note": "חתוך לקוביות קטנות",
+          "raw": "1 בצל סגול, חתוך לקוביות קטנות"
+        },
+        {
+          "qty": 2,
+          "unit": "כוסות",
+          "item": "יין אדום",
+          "note": null,
+          "raw": "2 כוסות יין אדום"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "דבש רגיל או דבש תמרים (סילאן)",
+          "note": null,
+          "raw": "1 כף דבש רגיל או דבש תמרים (סילאן)"
+        },
+        {
+          "qty": 500,
+          "unit": "גרם",
+          "item": "תאנים טריות",
+          "note": null,
+          "raw": "500 גרם תאנים טריות"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "חומץ בלסמי או מיץ לימון",
+          "note": null,
+          "raw": "2 כפות חומץ בלסמי או מיץ לימון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל גרוס טרי",
+          "note": null,
+          "raw": "מלח, פלפל גרוס טרי"
+        }
+      ]
+    },
+    {
+      "group": "קישוט",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה",
+          "note": null,
+          "raw": "פטרוזיליה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחלקים כל כבד לשני חלקים ומסלקים גידים וחלקים בלתי אכילים. חשוב במיוחד להסיר כל שארית של מרה.",
+          "timerMin": null
+        },
+        {
+          "text": "חותכים את התאנים לחצאים, או לרבעים אם הן גדולות מאוד.",
+          "timerMin": null
+        }
+      ]
+    },
+    {
+      "group": "הרוטב",
+      "items": [
+        {
+          "text": "מחממים 2 כפות שמן במחבת גדולה ומטגנים את הבצלים משני המינים רק עד שקיפות.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים את היין והדבש ומביאים לרתיחה קלה. מוסיפים את התאנים.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים הכול יחד על אש נמוכה כ-15 דקות, עד שהרוטב מתרכז. מוסיפים חומץ בלסמי או מיץ לימון ומתבלים היטב במלח ובפלפל שחור.",
+          "timerMin": 15
+        }
+      ]
+    },
+    {
+      "group": "הכבדים וההגשה",
+      "items": [
+        {
+          "text": "מחממים את יתרת השמן במחבת נפרדת ומטגנים את הכבדים מכל הצדדים. מעבירים אותם למחבת עם הרוטב. אפשר להכין עד שלב זה מראש.",
+          "timerMin": null
+        },
+        {
+          "text": "לפני ההגשה מחממים היטב. מסדרים את הכבדים והתאנים על צלחת, מזלפים עליהם את הרוטב עם הבצל ומקשטים בפטרוזיליה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מטעמי כשרות יש לצלות את הכבדים באש לפני הבישול."
+  ],
+  "story": null,
+  "source": {
+    "type": "magazine",
+    "credit": "רות סירקיס",
+    "rewritten": true
+  },
+  "imagePrompt": "Pan-seared chicken livers and halved fresh figs on a plate, spooned with glossy dark red wine sauce and soft onions, finished with chopped parsley",
+  "alt": "כבדי עוף ותאנים טריות ברוטב יין אדום סמיך ובצל, מקושטים בפטרוזיליה",
+  "originals": [
+    {
+      "file": "כבד עוף ברוטב דבש ותאנים.doc",
+      "driveId": "18xgthh29_Q3vn9j3umC5WBWgmwu6SGom"
+    }
+  ]
+}

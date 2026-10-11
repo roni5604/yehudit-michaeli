@@ -1,0 +1,166 @@
+{
+  "slug": "ktzitzot-yarak-megoradot",
+  "title": "קציצות ירק מגורדות",
+  "titleEn": "Grated Vegetable Fritters",
+  "description": "קציצות מתפוחי אדמה, קישואים וגזר מגורדים עם שום, עשבי תיבול וכורכום. הסוד: לסחוט את הירקות פעמיים כדי שלא יתפרקו בטיגון.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "ירקות",
+    "טיגון"
+  ],
+  "servings": null,
+  "yield": "כ-20 קציצות",
+  "pan": "מחבת עמוקה",
+  "prepMin": 30,
+  "cookMin": 20,
+  "totalMin": 50,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "תפוחי אדמה גדולים",
+          "note": null,
+          "raw": "3 תפוחי אדמה גדולים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "קישואים",
+          "note": null,
+          "raw": "2 קישואים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "גזרים",
+          "note": null,
+          "raw": "2 גזרים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל גדול",
+          "note": null,
+          "raw": "1 בצל גדול"
+        },
+        {
+          "qty": 3,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "כתוש",
+          "raw": "3 שיני שום, כתוש"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "פטרוזיליה",
+          "note": "קצוצה",
+          "raw": "½ כוס פטרוזיליה, קצוצה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "כוסברה",
+          "note": "קצוצה",
+          "raw": "½ כוס כוסברה, קצוצה"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "4 ביצים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "קמח",
+          "note": null,
+          "raw": "2 כפות קמח"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "כורכום",
+          "note": null,
+          "raw": "1 כפית כורכום"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "קולפים את הירקות ומגרדים בפומפייה דקה או במעבד מזון.",
+          "timerMin": null
+        },
+        {
+          "text": "סוחטים היטב את הירקות, פעמיים: מכינים שתי קערות, האחת עם כל הירקות המגורדים והשנייה ריקה. סוחטים כמות מהירקות בין שתי הידיים מעל הכיור, ומעבירים לקערה הריקה. שופכים את הנוזלים מהקערה הראשונה וחוזרים על הפעולה. כך הקציצות לא יתפרקו בטיגון.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שום, עשבי תיבול, ביצים, קמח ותבלינים ולשים היטב בידיים.",
+          "timerMin": null
+        },
+        {
+          "text": "מתאימים את הכמויות לפי המרקם: אם התערובת יבשה מדי מוסיפים ביצה, ואם רטובה מדי מוסיפים כף קמח. מתקנים תיבול.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן בגובה כסנטימטר במחבת עמוקה. בודקים שהוא חם כשבועות קטנות מתהוות סביב מעט מהתערובת.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצרים קציצות עגולות בכפות הידיים, מועכים קלות ומטגנים עד זהוב משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "דפני",
+    "rewritten": true
+  },
+  "imagePrompt": "Round golden-brown vegetable fritters flecked with green zucchini and orange carrot, stacked on a plate with a lemon wedge",
+  "alt": "קציצות ירק זהובות עם פסי קישואים וגזר, בערימה על צלחת",
+  "originals": [
+    {
+      "file": "לביבות ירק.docx",
+      "driveId": "12wFYmvrDGsSDIZ36O97k8qGikP4hUX6R"
+    }
+  ]
+}

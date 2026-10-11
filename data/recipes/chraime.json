@@ -1,0 +1,55 @@
+{
+  "slug": "chraime",
+  "title": "חריימה",
+  "titleEn": "Chraime (Spicy Fish in Tomato-Paprika Sauce)",
+  "description": "פרוסות לוקוס ברוטב אדום של פפריקה מתוקה וחריפה, שום, עגבניות ולימון, שמתבשלות בעדינות עד שהדג רך. מנת דגים חריפה וארומטית.",
+  "category": "fish",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": ["דגים", "חריף", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר רחב",
+  "prepMin": 25,
+  "cookMin": 35,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 2, "unit": "ק״ג", "item": "לוקוס", "note": "פרוס", "raw": "2 ק״ג לוקוס פרוס" },
+      { "qty": 2, "unit": "כפות", "item": "מיץ לימון", "note": "לסחיטה על הדג", "raw": "2 כפות מיץ לימון" },
+      { "qty": 1, "unit": "כף", "item": "פפריקה חריפה", "note": null, "raw": "1 כף פפריקה חריפה" },
+      { "qty": 2, "unit": "כפות", "item": "פפריקה מתוקה", "note": null, "raw": "2 כפות פפריקה מתוקה" },
+      { "qty": 1, "unit": "כף", "item": "שמן זית", "note": null, "raw": "1 כף שמן זית" },
+      { "qty": 1, "unit": null, "item": "ראש שום", "note": "קלוף", "raw": "ראש שום קלוף" },
+      { "qty": 2, "unit": null, "item": "לימונים", "note": null, "raw": "2 לימונים" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן", "note": null, "raw": "½ כוס שמן" },
+      { "qty": 1, "unit": "צרור", "item": "פטרוזיליה או כוסברה", "note": null, "raw": "1 אגד פטרוזיליה או כוסברה" },
+      { "qty": 2, "unit": null, "item": "עגבניות", "note": "חתוכות לפלחים", "raw": "2 עגבניות חתוכות לפלחים" },
+      { "qty": 1, "unit": null, "item": "פלפל חריף", "note": null, "raw": "1 פלפל חריף" },
+      { "qty": 2, "unit": "כוסות", "item": "מים", "note": null, "raw": "2 כוסות מים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "סוחטים מיץ לימון על פרוסות הדג.", "timerMin": null },
+      { "text": "מערבבים את שני סוגי הפפריקה עם שמן הזית.", "timerMin": null },
+      { "text": "מטגנים את שיני השום בשמן, מוסיפים טבעות פלפל חריף, אחר כך עגבניות ואחריהן את פרוסות הדג, מים ומלח.", "timerMin": null },
+      { "text": "מביאים לרתיחה עדינה ומוסיפים את הפפריקות המעובדות בשמן, ולבסוף את הכוסברה הקצוצה.", "timerMin": null },
+      { "text": "מבשלים רק עד שהדג רך.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Thick slices of fish simmered in a glossy brick-red paprika and tomato sauce with whole garlic cloves, tomato wedges, sliced chilli rings and fresh coriander, in a wide shallow pan",
+  "alt": "פרוסות דג ברוטב חריימה אדום עם שום, עגבניות, פלפל חריף וכוסברה, בסיר רחב",
+  "originals": [
+    { "file": "חריימה.doc", "driveId": "1kXGrkFieQbOFkqPb_hmQDtUE3vFRZFiK" }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "yerakot-tzluyim-batanur",
+  "title": "ירקות צלויים בתנור",
+  "titleEn": "Oven-Roasted Vegetables",
+  "description": "תבנית ירקות צבעונית של בטטה, שומר, קישואים, חציל וגמבה, צלויה עד שהם רכים וזהובים ומוגשת פושרת עם רוטב לימון וריחן.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "tags": [
+    "תוספת",
+    "אירוח",
+    "קל להכנה"
+  ],
+  "servings": 4,
+  "yield": null,
+  "pan": "תבנית אפייה גדולה",
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בטטה קטנה",
+          "note": "חתוכה לקוביות בינוניות",
+          "raw": "1 בטטה קטנה, חתוכה לקוביות בינוניות"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ראשי שומר",
+          "note": "פרוסים דק",
+          "raw": "2 ראשי שומר, פרוסים דק"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "קישואים ירוקים (זוקיני)",
+          "note": "פרוסים",
+          "raw": "2 קישואים ירוקים (זוקיני), פרוסים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל סגול",
+          "note": "פרוס",
+          "raw": "1 בצל סגול, פרוס"
+        },
+        {
+          "qty": 3,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "חצויות",
+          "raw": "3 שיני שום, חצויות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "חציל קטן",
+          "note": "בקליפתו, חתוך לקוביות בינוניות",
+          "raw": "1 חציל קטן, בקליפתו, חתוך לקוביות בינוניות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "גמבה אדומה",
+          "note": "חתוכה לקוביות בינוניות",
+          "raw": "1 גמבה אדומה, חתוכה לקוביות בינוניות"
+        },
+        {
+          "qty": 1,
+          "unit": "ענף",
+          "item": "רוזמרין",
+          "note": null,
+          "raw": "1 ענף רוזמרין"
+        },
+        {
+          "qty": 1,
+          "unit": "ענף",
+          "item": "תימין",
+          "note": null,
+          "raw": "1 ענף תימין"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "3 כפות שמן זית"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "מלח גס",
+          "note": null,
+          "raw": "2 כפיות מלח גס"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "מיץ לימון או חומץ בלסמי",
+          "note": null,
+          "raw": "1 כף מיץ לימון או חומץ בלסמי"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": "מאיכות טובה",
+          "raw": "2 כפות שמן זית, מאיכות טובה"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "ריחן (בזיליקום) קצוץ",
+          "note": null,
+          "raw": "2 כפות ריחן (בזיליקום) קצוץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור",
+          "note": null,
+          "raw": "פלפל שחור"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים תנור ל-200 מעלות.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים את כל הירקות החתוכים בתבנית אפייה גדולה, מוסיפים את ענפי הרוזמרין והתימין, מזלפים שמן ומפזרים מלח. מערבבים ופורשים בשכבה אחידה על פני התבנית.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים 30 עד 40 דקות, עד שכל הירקות רכים ומזהיבים.",
+          "timerMin": 30
+        },
+        {
+          "text": "מעבירים לקערת הגשה. טורפים את מרכיבי הרוטב ויוצקים על הירקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים פושר או קר, ואפשר לקשט בעלי רוקט.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "בגרסה אחרת של המתכון משתמשים רק ב-2 כפות שמן זית לצלייה, בלי ענפי הרוזמרין והתימין."
+  ],
+  "story": null,
+  "source": {
+    "type": "magazine",
+    "credit": "רות סירקיס",
+    "rewritten": true
+  },
+  "imagePrompt": "A large roasting tray of caramelised oven-roasted vegetables: cubes of sweet potato, eggplant, zucchini, red pepper, red onion and fennel, golden at the edges, with fresh basil and arugula leaves on top",
+  "alt": "ירקות צלויים בתנור בצבעי זהב: בטטה, חציל, קישואים, גמבה ושומר, עם עלי ריחן",
+  "originals": [
+    {
+      "file": "ירקות צלויים בתנור.doc",
+      "driveId": "1i4sc36M5n1lGjjUyeaXnTl_yc38f5vNa"
+    },
+    {
+      "file": "ירקות בתנור.doc",
+      "driveId": "1jS0yCpnf7uM-AvW85nyrV73pzUxTfn2-"
+    }
+  ]
+}

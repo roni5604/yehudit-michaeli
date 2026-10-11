@@ -1,0 +1,181 @@
+{
+  "slug": "lasagna-pitriyot-cottage",
+  "title": "לזניית פטריות וגבינת קוטג׳",
+  "titleEn": "Mushroom and Cottage Cheese Lasagna",
+  "description": "לזניה חלבית עם מילוי פטריות מוקפצות, קוטג׳ וגבינה בולגרית, ורוטב עגבניות ויין אדום.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "אירוח"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 40,
+  "totalMin": 70,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "למילוי",
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "פרוס",
+          "raw": "1 בצל, פרוס"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן",
+          "note": null,
+          "raw": "2 כפות שמן"
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "פטריות חתוכות",
+          "note": null,
+          "raw": "1 קופסה פטריות חתוכות"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "אבקת מרק פטריות",
+          "note": null,
+          "raw": "1 כף אבקת מרק פטריות"
+        },
+        {
+          "qty": 2,
+          "unit": "גביעים",
+          "item": "קוטג׳",
+          "note": null,
+          "raw": "2 גביעים קוטג׳"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינה בולגרית",
+          "note": null,
+          "raw": "100 גרם גבינה בולגרית"
+        },
+        {
+          "qty": 9,
+          "unit": null,
+          "item": "עלי לזניה",
+          "note": null,
+          "raw": "9 עלי לזניה"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינה צהובה",
+          "note": "לא חובה",
+          "raw": "100 גרם גבינה צהובה, לא חובה"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "קופסאות קטנות",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "2 קופסאות קטנות רסק עגבניות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "יין אדום",
+          "note": null,
+          "raw": "½ כוס יין אדום"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "מים",
+          "note": null,
+          "raw": "½ כוס מים"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום כתושות",
+          "note": null,
+          "raw": "2 שיני שום כתושות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח, פלפל, אורגנו וריחן",
+          "note": null,
+          "raw": "מלח, פלפל, אורגנו וריחן"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים בצל ופטריות בשמן, מוסיפים את אבקת המרק, מערבבים ומכבים את האש.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים קוטג׳, בולגרית, ביצים, מלח ופלפל ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים את מרכיבי הרוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים לתבנית מעט רוטב לכיסוי התחתית, ומסדרים עלי לזניה, מילוי ורוטב. חוזרים כך עוד פעמיים, בסך הכול שלוש שכבות עלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מסיימים ברוטב ומפזרים מעל גבינה צהובה.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים בנייר אלומיניום ואופים כ-30 דקות בחום בינוני. לקראת הסוף מסירים את הכיסוי.",
+          "timerMin": 30
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Baked mushroom lasagna with a browned cheese top in a rectangular ceramic dish, one square portion cut out",
+  "alt": "לזניית פטריות אפויה עם גבינה שחומה בתבנית מלבנית, ריבוע אחד חתוך",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

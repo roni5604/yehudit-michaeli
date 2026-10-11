@@ -1,0 +1,172 @@
+{
+ "slug": "marak-chumus-napolitani",
+ "title": "מרק חומוס נפוליטני",
+ "titleEn": "Neapolitan Chickpea Soup",
+ "description": "מרק חומוס עשיר במרק עוף, עגבניות, עשבי תיבול ופסטה קצרה, שמבשלים לאט עד שהחומוס נימוח.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "italian",
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "חורף",
+  "ארוחה שלמה"
+ ],
+ "servings": 10,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 30,
+ "cookMin": 140,
+ "totalMin": 170,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 4,
+     "unit": "כוסות",
+     "item": "חומוס",
+     "note": "שהושרה בלילה",
+     "raw": "4 כוסות חומוס שהושרה בלילה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים",
+     "raw": "2 בצלים קצוצים"
+    },
+    {
+     "qty": 6,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "קצוץ",
+     "raw": "6 שיני שום קצוצות"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "עגבניות",
+     "note": "קצוצות דק, ללא גרעינים",
+     "raw": "4 עגבניות קצוצות דק, ללא גרעינים"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "תימין",
+     "note": null,
+     "raw": "2 כפות תימין"
+    },
+    {
+     "qty": 4,
+     "unit": "כפות",
+     "item": "אורגנו",
+     "note": null,
+     "raw": "4 כפות אורגנו"
+    },
+    {
+     "qty": 0.25,
+     "unit": "כוס",
+     "item": "עלי בזיליקום",
+     "note": null,
+     "raw": "¼ כוס עלי בזיליקום"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "1 כף רסק עגבניות"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "גזרים",
+     "note": "מגורדים גס",
+     "raw": "4 גזרים מגורדים גס"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "שורשי פטרוזיליה",
+     "note": "מגורדים",
+     "raw": "2 שורשי פטרוזיליה מגורדים"
+    },
+    {
+     "qty": 14,
+     "unit": "כוסות",
+     "item": "מרק עוף",
+     "note": null,
+     "raw": "14 כוסות מרק עוף"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור ופפריקה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פסטה קצרה",
+     "note": null,
+     "raw": "חופן נדיב פסטה קצרה"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "משרים את החומוס לילה. אפשר להרתיח אותו עוד שעה לפני שמכניסים אותו למרק.",
+     "timerMin": null
+    },
+    {
+     "text": "מחממים שמן בסיר כבד ומטגנים כ-5 דקות את הבצל, הגזר ושורש הפטרוזיליה. מוסיפים את השום לדקה, ואחריו את העגבניות הקצוצות.",
+     "timerMin": null
+    },
+    {
+     "text": "אחרי כ-10 דקות מוסיפים את שאר החומרים ואת מרק העוף.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים כשעתיים לפחות, עד שהחומוס רך מאוד.",
+     "timerMin": 120
+    },
+    {
+     "text": "ב-10 הדקות האחרונות מוסיפים את הפסטה.",
+     "timerMin": 10
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Hearty chickpea soup with tomatoes, carrots and small pasta in a rustic bowl, flecked with herbs",
+ "alt": "מרק חומוס עם עגבניות, גזר ופסטה קטנה בקערה כפרית",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "betzek-parich-ronen",
+  "title": "בצק פריך של רונן",
+  "titleEn": "Ronen's Shortcrust Pastry",
+  "description": "בצק פריך חמאתי בכמות נדיבה, שאפשר להתאים לשימוש מתוק או מלוח לפי הסוכר או המלח שמוסיפים. מתאים לטארטים, לפאי ולקיש.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["בצק בסיס"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": null,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 450, "unit": "גרם", "item": "קמח", "note": null, "raw": "450 גרם קמח" },
+      { "qty": 250, "unit": "גרם", "item": "חמאה", "note": null, "raw": "250 גרם חמאה" },
+      { "qty": 2, "unit": null, "item": "ביצים", "note": null, "raw": "2 ביצים" },
+      { "qty": null, "unit": null, "item": "מים קרים", "note": "לפי הצורך", "raw": "מים קרים לפי הצורך" },
+      { "qty": null, "unit": null, "item": "סוכר או מלח", "note": "סוכר לבצק מתוק, מלח לבצק מלוח", "raw": "סוכר או מלח (לפי השימוש)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את הקמח, המלח (או הסוכר) והחמאה לקבלת בצק חולי.", "timerMin": null },
+      { "text": "מוסיפים את הביצים ואת המים, ומערבבים עד לקבלת בצק אחיד.", "timerMin": null },
+      { "text": "זמן לישה מינימלי.", "timerMin": null },
+      { "text": "מניחים למנוחה לפחות 30 דקות.", "timerMin": 30 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "friend", "credit": "רונן", "rewritten": false },
+  "imagePrompt": "A ball of smooth shortcrust dough resting on a floured wooden board next to a rolling pin, cubes of cold butter and a bowl of flour",
+  "alt": "כדור בצק פריך על משטח מקומח לצד מערוך וקוביות חמאה",
+  "originals": [{ "file": "בצקים.doc", "driveId": "1hHcVqFDOdWbQKAWksr3nRzbwGDotp1Xj" }]
+}

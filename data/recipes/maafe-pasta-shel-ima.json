@@ -1,0 +1,140 @@
+{
+  "slug": "maafe-pasta-shel-ima",
+  "title": "מאפה פסטה של אמא",
+  "titleEn": "Mum's Spaghetti Bake",
+  "description": "פשטידת ספגטי ביתית ברוטב לבן עם קוטג׳, ירקות וגבינה צהובה, כמו שהכינו פעם בבית.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "ילדים",
+    "מהיר"
+  ],
+  "servings": 6,
+  "yield": null,
+  "pan": "תבנית פיירקס מלבנית",
+  "prepMin": 15,
+  "cookMin": 40,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 350,
+          "unit": "גרם",
+          "item": "ספגטי",
+          "note": null,
+          "raw": "350 גרם ספגטי"
+        },
+        {
+          "qty": 1,
+          "unit": "שקית",
+          "item": "רוטב שמפיניון",
+          "note": null,
+          "raw": "1 שקית רוטב שמפיניון"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "מרגרינה",
+          "note": null,
+          "raw": "50 גרם מרגרינה"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "חלב",
+          "note": null,
+          "raw": "1 כוס חלב"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "מים",
+          "note": null,
+          "raw": "1 כוס מים"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "קוטג׳",
+          "note": null,
+          "raw": "1 גביע קוטג׳"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "ירקות מעורבים",
+          "note": "אפונה, גזר, גמבה, תירס; טריים מבשלים מראש",
+          "raw": "1 כוס ירקות מעורבים, אפונה, גזר, גמבה, תירס; טריים מבשלים מראש"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "2 כפות פטרוזיליה קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "גבינה צהובה מגוררת",
+          "note": null,
+          "raw": "1 כוס גבינה צהובה מגוררת"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הספגטי.",
+          "timerMin": null
+        },
+        {
+          "text": "בסיר קטן מבשלים את הרוטב עם המרגרינה, החלב והמים, בוחשים עד לרתיחה ומבשלים עד שהוא מסמיך.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים את הרוטב עם הספגטי המבושל, הקוטג׳, הירקות והפטרוזיליה.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לתבנית פיירקס מלבנית ומפזרים מעל גבינה צהובה.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים 25 דקות בחום בינוני, עד שהמאפה מבעבע.",
+          "timerMin": 25
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "בעבר קראו לזה פשטידת ספגטי."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Rectangular glass dish of baked spaghetti with peas, carrots and corn, topped with bubbling golden cheese",
+  "alt": "מאפה ספגטי עם אפונה, גזר ותירס וגבינה צהובה זהובה בתבנית פיירקס",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

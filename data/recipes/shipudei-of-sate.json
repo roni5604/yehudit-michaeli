@@ -1,0 +1,64 @@
+{
+  "slug": "shipudei-of-sate",
+  "title": "שיפודי עוף עם רוטב סאטה",
+  "titleEn": "Chicken Satay Skewers with Peanut Sauce",
+  "description": "רצועות חזה עוף שהושרו בקארי וחלב קוקוס, צלויות על הגריל ומוגשות עם רוטב סאטה בוטנים וכוסברה טרייה.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": "thai",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["שיפודים", "גריל", "אירוח", "פינגר פוד"],
+  "servings": 8,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 25,
+  "totalMin": 230,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1.5, "unit": "ק״ג", "item": "חזה עוף", "note": "חתוך לרצועות", "raw": "1½ ק״ג רצועות חזה עוף" }
+    ] },
+    { "group": "למרינדה", "items": [
+      { "qty": 1, "unit": "כפית", "item": "אבקת קארי", "note": null, "raw": "1 כפית אבקת קארי" },
+      { "qty": 2, "unit": "כוסות", "item": "חלב קוקוס", "note": null, "raw": "2 כוסות חלב קוקוס" },
+      { "qty": 2, "unit": "כפות", "item": "רוטב סויה בהיר", "note": null, "raw": "2 כפות רוטב סויה בהיר" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": "לפי הטעם", "raw": "מלח ופלפל לפי הטעם" }
+    ] },
+    { "group": "לרוטב סאטה", "items": [
+      { "qty": 2, "unit": "כפיות", "item": "קארי אדום", "note": null, "raw": "2 כפיות קארי אדום" },
+      { "qty": 2, "unit": "כפיות", "item": "פפריקה מתוקה", "note": null, "raw": "2 כפיות פפריקה מתוקה" },
+      { "qty": 2, "unit": "כפיות", "item": "שמן", "note": null, "raw": "2 כפיות שמן" },
+      { "qty": 6, "unit": "כפיות", "item": "סוכר חום", "note": null, "raw": "6 כפיות סוכר חום" },
+      { "qty": 6, "unit": "כפיות", "item": "סויה בהירה", "note": null, "raw": "6 כפיות סויה בהירה" },
+      { "qty": 4, "unit": "כפיות", "item": "חמאת בוטנים", "note": null, "raw": "4 כפיות חמאת בוטנים" },
+      { "qty": 2, "unit": "כוסות", "item": "חלב קוקוס", "note": null, "raw": "2 כוסות חלב קוקוס" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" },
+      { "qty": null, "unit": null, "item": "פלפל לבן", "note": "מעט", "raw": "מעט פלפל לבן" },
+      { "qty": null, "unit": null, "item": "כוסברה", "note": "לפיזור מעל", "raw": "כוסברה לפיזור מעל" }
+    ] }
+  ],
+  "steps": [
+    { "group": "השיפודים", "items": [
+      { "text": "משרים את רצועות העוף במרינדה כ-3 שעות.", "timerMin": 180 },
+      { "text": "משפדים את הרצועות וצולים על הגריל.", "timerMin": null }
+    ] },
+    { "group": "רוטב הסאטה", "items": [
+      { "text": "מחממים את השמן בסיר קטן ומטגנים בו את הפפריקה והקארי.", "timerMin": null },
+      { "text": "מוסיפים את שאר החומרים לרוטב ומבשלים על אש קטנה כ-10 דקות.", "timerMin": 10 },
+      { "text": "שופכים על השיפודים ומפזרים כוסברה מעל.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Grilled chicken satay skewers arranged on a long white platter, glazed with golden-orange peanut and coconut sauce and scattered with fresh cilantro leaves",
+  "alt": "שיפודי עוף צלויים בצלחת הגשה ארוכה, מכוסים ברוטב סאטה כתום ומפוזר עליהם כוסברה",
+  "originals": [
+    { "file": "שיפודי עוף עם רוטב סאטה.doc", "driveId": "138u0sWQ_pW6XsIpuw2ulMTTYS7PIvJB-" },
+    { "file": "שיפודי עוף עם רוטב סאטה.doc", "driveId": "14vE1mllCrS67KmUZbvtWmStYUza2sF16" }
+  ]
+}

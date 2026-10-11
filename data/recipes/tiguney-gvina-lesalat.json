@@ -1,0 +1,43 @@
+{
+  "slug": "tiguney-gvina-lesalat",
+  "title": "טיגוני גבינה לסלט",
+  "titleEn": "Parmesan Cheese Fritters for Salad",
+  "description": "קצף חלבונים נוקשה עם פרמזן, שמטגנים בשמן עמוק לנגיסות קטנות ופריכות, כתוספת לסלט.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian", "gluten-free"],
+  "tags": ["תוספת לסלט", "מנת מסעדה", "מהיר"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 10,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": null, "unit": null, "item": "חלבוני ביצה", "note": "מוקצפים לקצף נוקשה", "raw": "חלבוני ביצה, מוקצפים לקצף נוקשה" },
+      { "qty": 1, "unit": "כף", "item": "פרמזן", "note": "לכל חלבון; או כל גבינה אחרת", "raw": "1 כף פרמזן לכל חלבון (או כל גבינה אחרת)" },
+      { "qty": null, "unit": null, "item": "שמן", "note": "לטיגון עמוק", "raw": "שמן לטיגון עמוק" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מקציפים את החלבונים לקצף נוקשה.", "timerMin": null },
+      { "text": "מקפלים לתוך החלבונים המוקצפים פרמזן, או כל גבינה אחרת, בכמות של כף לכל חלבון.", "timerMin": null },
+      { "text": "מטגנים בשמן עמוק.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["מגישים לצד סלט, או מעליו."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Small golden airy cheese fritters made from whipped egg whites and parmesan, served on top of a fresh green salad",
+  "alt": "טיגוני גבינה קטנים, מוזהבים ואוורירים, מעל סלט ירוק טרי",
+  "originals": [
+    { "file": "טיגוני גבינה לסלט.doc", "driveId": "1xzMLDO1ctBTakXs1wmTlqtoHO1kdGWUg" }
+  ]
+}

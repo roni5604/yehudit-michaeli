@@ -1,0 +1,133 @@
+{
+  "slug": "rotev-agvaniyot-rozmarin-salami",
+  "title": "רוטב עגבניות עם רוזמרין וסלמי",
+  "titleEn": "Tomato Sauce with Rosemary and Salami",
+  "description": "רוטב עגבניות עם ירקות שורש ורצועות סלמי מטוגנות ברוזמרין.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 60,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 800,
+          "unit": "גרם",
+          "item": "עגבניות מרוסקות",
+          "note": null,
+          "raw": "800 גרם עגבניות מרוסקות"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "גזרים",
+          "note": "קצוצים גס",
+          "raw": "2 גזרים, קצוצים גס"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל גדול",
+          "note": "קצוץ גס",
+          "raw": "1 בצל גדול, קצוץ גס"
+        },
+        {
+          "qty": 1,
+          "unit": "גבעול",
+          "item": "סלרי",
+          "note": "קצוץ לפרוסות",
+          "raw": "1 גבעול סלרי, קצוץ לפרוסות"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "מלח",
+          "note": null,
+          "raw": "2 כפיות מלח"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "סלמי טוב",
+          "note": "פרוס לרצועות",
+          "raw": "50-100 גרם סלמי טוב, פרוס לרצועות",
+          "qtyMax": 100
+        },
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "⅓ כוס שמן זית"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "רוזמרין טרי",
+          "note": "עלים בלבד",
+          "raw": "2 כפיות רוזמרין טרי, עלים בלבד"
+        },
+        {
+          "qty": 25,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": "לא חובה",
+          "raw": "25 גרם חמאה, לא חובה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "בסיר כבד או מחבת עמוקה מניחים עגבניות, סלרי, גזר, בצל ושתי כפיות מלח. מבשלים רבע שעה על אש גבוהה ועוד חצי שעה על אש נמוכה. אפשר להוסיף כאן חמאה.",
+          "timerMin": null
+        },
+        {
+          "text": "במחבת קטנה מטגנים קלות שליש כוס שמן זית עם הסלמי ושתי כפיות רוזמרין.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את תערובת הסלמי לסיר הגדול, מתבלים במלח ופלפל ומבשלים עוד 15 דקות על אש נמוכה.",
+          "timerMin": 15
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "ספר הפסטה הגדול, זיו",
+    "rewritten": true
+  },
+  "imagePrompt": "Thick red tomato sauce with rosemary and slivers of salami simmering in a heavy pan",
+  "alt": "רוטב עגבניות סמיך עם רוזמרין ורצועות סלמי במחבת כבדה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "chatzilonim-memulaim-tamarindi",
+  "title": "חצילים קטנים ממולאים ברוטב תמרינדי",
+  "titleEn": "Baby Eggplants Stuffed with Rice in Tamarind Sauce",
+  "description": "חצילונים ממולאים באורז פרסי, בצל ונענע, שמתבשלים על מצע כרישה ברוטב תמרינדי, ומוגשים עם רוטב יוגורט, שום ונענע.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["ממולאים", "אירוח", "נענע"],
+  "servings": null,
+  "yield": "20 חצילונים",
+  "pan": "סיר עמוק",
+  "prepMin": 60,
+  "cookMin": 100,
+  "totalMin": 160,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 20, "unit": null, "item": "חצילים קטנים", "note": null, "raw": "20 חצילים קטנים" },
+      { "qty": 4, "unit": null, "item": "כרישות", "note": "החלק הלבן", "raw": "4 כרישות (החלק הלבן)" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": "לאידוי הכרישה", "raw": "½ כוס שמן זית" }
+    ] },
+    { "group": "למילוי", "items": [
+      { "qty": 2, "unit": null, "item": "בצלים", "note": "קצוצים", "raw": "2 בצלים קצוצים" },
+      { "qty": 0.333, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "⅓ כוס שמן זית" },
+      { "qty": 1, "unit": "חופן", "item": "נענע", "note": "קצוצה", "raw": "חופן נענע קצוצה" },
+      { "qty": 1.5, "unit": "כוסות", "item": "אורז פרסי", "note": null, "raw": "1½ כוסות אורז פרסי" },
+      { "qty": 1, "unit": "כפית", "item": "סומאק", "note": null, "raw": "1 כפית סומאק" },
+      { "qty": 1, "unit": null, "item": "לימון גדול", "note": null, "raw": "1 לימון גדול" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח ופלפל" }
+    ] },
+    { "group": "לבישול", "items": [
+      { "qty": null, "unit": null, "item": "רוטב תמרינדי", "note": "מדולל בכוס מים", "raw": "רוטב תמרינדי, מדולל בכוס מים" }
+    ] },
+    { "group": "לרוטב היוגורט", "items": [
+      { "qty": 3, "unit": "גביעים", "item": "יוגורט", "note": null, "raw": "3 גביעי יוגורט" },
+      { "qty": 3, "unit": "כפות", "item": "עלי נענע", "note": "קצוצים", "raw": "3 כפות עלי נענע קצוצים" },
+      { "qty": 3, "unit": "שיני", "item": "שום", "note": "כתוש", "raw": "3 שיני שום כתוש" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "שמן זית" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכנת הסיר והחצילים", "items": [
+      { "text": "בסיר עמוק מאדים את הכרישה החתוכה לפסים ב-½ כוס שמן זית.", "timerMin": null },
+      { "text": "מסירים מהאש ומרפדים באחידות את קרקעית הסיר בכרישה.", "timerMin": null },
+      { "text": "קוטמים את גבעולי החצילונים ומרוקנים אותם באמצעות מכשיר.", "timerMin": null }
+    ] },
+    { "group": "המילוי", "items": [
+      { "text": "מטגנים את הבצל בשמן עד לזהוב.", "timerMin": null },
+      { "text": "מוסיפים את האורז ואת עלי הנענע הקצוצים, ומערבבים ומטגנים כ-2 דקות.", "timerMin": 2 },
+      { "text": "מוסיפים את הסומאק, מיץ מחצי לימון, מלח, פלפל וכחצי כוס מים.", "timerMin": null },
+      { "text": "מבשלים על אש קטנה כ-10 דקות.", "timerMin": 10 }
+    ] },
+    { "group": "הרכבה ובישול", "items": [
+      { "text": "ממלאים את החצילים בתערובת הבצל והאורז, אבל לא דוחסים.", "timerMin": null },
+      { "text": "מסדרים את החצילונים על הכרישה שבסיר.", "timerMin": null },
+      { "text": "מדללים רוטב תמרינדי בכוס מים ושופכים מעל החצילונים.", "timerMin": null },
+      { "text": "מוסיפים מים עד לכיסוי ומלח לפי הטעם.", "timerMin": null },
+      { "text": "מבשלים כשעה על אש קטנה, ואופים כמחצית השעה לפני ההגשה.", "timerMin": 60 }
+    ] },
+    { "group": "רוטב יוגורט והגשה", "items": [
+      { "text": "כותשים נענע, שום ומלח בקערה קטנה, ומוסיפים את היוגורט ומעט שמן זית.", "timerMin": null },
+      { "text": "מגישים את החצילים בצלחת עמוקה, עם הכרישה ורוטב היוגורט מעל.", "timerMin": null },
+      { "text": "אפשר לזלף עוד שמן זית מעל, ולפזר עלי נענע ופלפל חריף קצוץ דק-דק.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Small stuffed baby eggplants served in a deep plate over soft leeks, with a swirl of white yogurt and mint sauce on top, olive oil, fresh mint leaves and finely chopped chilli",
+  "alt": "חצילונים ממולאים באורז על מצע כרישה, ברוטב תמרינדי ומעליהם רוטב יוגורט ונענע",
+  "originals": [
+    { "file": "חצילים קטנים ממולאים ברוטב תמרינדי.doc", "driveId": "1MjNgruRPTR4080J-lVipMPU0vWNvdaBI" }
+  ]
+}

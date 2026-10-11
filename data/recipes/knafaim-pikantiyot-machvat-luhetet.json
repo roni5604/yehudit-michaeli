@@ -1,0 +1,120 @@
+{
+  "slug": "knafaim-pikantiyot-machvat-luhetet",
+  "title": "כנפיים ברוטב פיקנטי על מחבת לוהטת",
+  "titleEn": "Spicy Wings on a Sizzling Skillet",
+  "description": "כנפי עוף מטוגנות עמוק, מצופות ברוטב ברביקיו או צ׳ילי מתוק, ומוגשות מיד במחבת ברזל לוהטת על טבעות בצל אדום.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": [
+    "מנת פתיחה",
+    "אירוח",
+    "מנת מסעדה"
+  ],
+  "servings": 4,
+  "yield": null,
+  "pan": "מחבת ברזל",
+  "prepMin": 15,
+  "cookMin": 15,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "ק״ג",
+          "item": "כנפי עוף טריות",
+          "note": null,
+          "raw": "1 ק״ג כנפי עוף טריות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון עמוק",
+          "raw": "שמן, לטיגון עמוק"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": 150,
+          "unit": "גרם",
+          "item": "רוטב ברביקיו מוכן או רוטב צ׳ילי חריף-מתוק",
+          "note": "כ-⅔ כוס",
+          "raw": "⅔ כוס (150 גרם) רוטב ברביקיו מוכן או רוטב צ׳ילי חריף-מתוק"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל אדום",
+          "note": "פרוס לטבעות",
+          "raw": "1 בצל אדום, פרוס לטבעות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה",
+          "note": "קצוצה, מעט",
+          "raw": "פטרוזיליה, קצוצה, מעט"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "שוטפים ומנקים היטב את הכנפיים. בסכין חדה או במספריים חוצים כל כנף לשני חלקים קטנים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים את השמן בסיר או בצ׳יפסר ומטגנים את הכנפיים כ-8 דקות, עד שהן זהובות ומבושלות עד העצם. מניחים על צלחת עם נייר סופג.",
+          "timerMin": 8
+        },
+        {
+          "text": "מעבירים את הכנפיים לקערה, יוצקים את הרוטב ומערבבים לציפוי אחיד.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים היטב מחבת ברזל או מחבת כבדה אחרת.",
+          "timerMin": null
+        },
+        {
+          "text": "מפזרים על התחתית טבעות בצל ומניחים מעליהן את הכנפיים והרוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים-מטגנים בתוך הרוטב כמה דקות, רק עד שהכנפיים חמות היטב. מקשטים בפטרוזיליה ומגישים מיד במחבת החמה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "רוטב צ׳ילי תאילנדי שכתוב עליו SWEET אינו מתוק ממש: הוא חריף במידה מתונה, עם מעט מתיקות."
+  ],
+  "story": null,
+  "source": {
+    "type": "chef",
+    "credit": "אורי וינשטיין",
+    "rewritten": true
+  },
+  "imagePrompt": "Fried chicken wings coated in glossy red sauce served in a hot cast-iron skillet on a bed of red onion rings, sprinkled with chopped parsley",
+  "alt": "כנפי עוף ברוטב אדום במחבת ברזל על טבעות בצל אדום, מקושטות בפטרוזיליה",
+  "originals": [
+    {
+      "file": "כנפי עוף.doc",
+      "driveId": "1ayiXyTrrIyU769O3JJZQS3ZCpiK4cHDs"
+    }
+  ]
+}

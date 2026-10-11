@@ -1,0 +1,74 @@
+{
+  "slug": "beitzim-alumot-al-tost-tzarfati",
+  "title": "ביצים עלומות על טוסט צרפתי",
+  "titleEn": "Poached Eggs on French Toast with Mornay Sauce",
+  "description": "פרוסות חלה טבולות בביצה ושמנת ומטוגנות בחמאה, עם ביצה עלומה ורוטב מורניי גבינתי. ארוחת בוקר חגיגית שמקשטים בזיתים ובפלפל צבעוני.",
+  "category": "breakfast",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["ארוחת בוקר", "אירוח", "קלאסיקה צרפתית"],
+  "servings": 8,
+  "yield": "8 מנות",
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 25,
+  "totalMin": 50,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "ללחם המטוגן", "items": [
+      { "qty": 8, "unit": "פרוסות", "item": "חלה", "note": null, "raw": "8 פרוסות חלה" },
+      { "qty": 6, "unit": null, "item": "ביצים", "note": null, "raw": "6 ביצים" },
+      { "qty": 100, "unit": "מ״ל", "item": "שמנת", "note": null, "raw": "100 מ״ל שמנת" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": "לטיגון", "raw": "חמאה לטיגון" }
+    ] },
+    { "group": "לרוטב מורניי", "items": [
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": null, "raw": "50 גרם חמאה" },
+      { "qty": 5, "unit": "כפות", "item": "קמח", "note": null, "raw": "5 כפות קמח" },
+      { "qty": 750, "unit": "מ״ל", "item": "חלב", "note": null, "raw": "750 מ״ל חלב" },
+      { "qty": null, "unit": "קורט", "item": "אגוז מוסקט טחון", "note": null, "raw": "קורט אגוז מוסקט טחון" },
+      { "qty": 100, "unit": "גרם", "item": "גבינה פיקנטית", "note": "מגוררת", "raw": "100 גרם גבינה פיקנטית מגוררת" },
+      { "qty": 2, "unit": null, "item": "חלמונים", "note": null, "raw": "2 חלמונים" }
+    ] },
+    { "group": "לביצים העלומות", "items": [
+      { "qty": 3, "unit": "כפות", "item": "חומץ", "note": null, "raw": "3 כפות חומץ" },
+      { "qty": 2, "unit": "ליטר", "item": "מים", "note": null, "raw": "2 ליטר מים" },
+      { "qty": 8, "unit": null, "item": "ביצים", "note": null, "raw": "8 ביצים" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "זיתים מגולענים", "note": null, "raw": "זיתים מגולענים" },
+      { "qty": null, "unit": null, "item": "פלפל צבעוני או עגבניית שרי", "note": null, "raw": "פלפל צבעוני או עגבניות שרי" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הלחם המטוגן", "items": [
+      { "text": "טורפים ביצים ושמנת וטובלים בתערובת את פרוסות החלה.", "timerMin": null },
+      { "text": "מטגנים בחמאה עד להזהבה משני הצדדים ושומרים חם עד ההגשה.", "timerMin": null }
+    ] },
+    { "group": "הרוטב", "items": [
+      { "text": "ממיסים את החמאה על להבה נמוכה, מפזרים קמח ומטגנים 2 דקות תוך בחישה מתמדת. לא להשחים.", "timerMin": 2 },
+      { "text": "מוסיפים את החלב תוך כדי טריפה, כדי שלא יווצרו גושים.", "timerMin": null },
+      { "text": "מביאים לרתיחה ובוחשים כל הזמן עד להסמכה, כ-3 דקות.", "timerMin": 3 },
+      { "text": "מורידים מהאש ומקציפים פנימה את הגבינה ואחריה את החלמונים. מוסיפים אגוז מוסקט.", "timerMin": null },
+      { "text": "מחזירים לאש ומחממים בלי להרתיח. שומרים חם עד ההגשה.", "timerMin": null }
+    ] },
+    { "group": "הביצים", "items": [
+      { "text": "שופכים את המים לסיר שטוח, מביאים לרתיחה ומוסיפים את החומץ. מחזירים לרתיחה קלה.", "timerMin": null },
+      { "text": "שוברים כל ביצה בנפרד לכוס ומחליקים לסיר המבעבע קלות.", "timerMin": null },
+      { "text": "מבשלים כ-2 דקות, עד שהחלבון מוצק אך לא הרבה יותר.", "timerMin": 2 },
+      { "text": "מוציאים בעדינות בכף מחוררת, מסננים היטב ומניחים על הלחם.", "timerMin": null }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "שופכים מעל כל ביצה 2 כפות רוטב ומקשטים בזיתים ובעגבנייה או בגזרי פלפל.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["במקום על לחם, אפשר להגיש 2 ביצים על תרד מאודה בחמאה, נוסח פלורנטין."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A slice of golden French toast topped with a poached egg and a creamy cheese mornay sauce, garnished with sliced olives and diced colourful pepper",
+  "alt": "פרוסת טוסט צרפתי זהובה עם ביצה עלומה ורוטב גבינה, מקושטת בזיתים ובפלפל צבעוני",
+  "originals": [{ "file": "ביצים עלומות על טוסט צרפתי.doc", "driveId": "11cw8jDh9B2LmJxlxIeGqLkAn-Mg4L6U5" }]
+}

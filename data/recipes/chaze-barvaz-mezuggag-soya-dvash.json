@@ -1,0 +1,60 @@
+{
+  "slug": "chaze-barvaz-mezuggag-soya-dvash",
+  "title": "חזה ברווז מזוגג בסויה ודבש",
+  "titleEn": "Honey and Soy Glazed Duck Breast",
+  "description": "חזות ברווז שנצלות במשחה של דבש, סויה, חומץ בלסמי ותבלינים טחונים, נפרסות למניפה ומוגשות על מצע כרוב אדום ותאנים.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "מנת שף", "ברווז"],
+  "servings": 10,
+  "yield": "10 מנות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 30,
+  "totalMin": 65,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 5, "unit": null, "item": "חזות ברווז", "note": "מנוקים; חזות של 5 ברווזים", "raw": "חזות של 5 ברווזים, מנוקים" },
+      { "qty": 375, "unit": "גרם", "item": "דבש דבורים טהור", "note": null, "raw": "375 גרם דבש דבורים טהור" },
+      { "qty": 1, "unit": "כף", "item": "רוטב סויה", "note": null, "raw": "1 כף רוטב סויה" },
+      { "qty": 5, "unit": "כפות", "item": "חומץ בלסמי משובח", "note": null, "raw": "5 כפות חומץ בלסמי משובח" },
+      { "qty": null, "unit": null, "item": "פלפל סצ׳ואני", "note": "לפי הטעם", "raw": "פלפל סצ׳ואני לפי הטעם" },
+      { "qty": 75, "unit": "גרם", "item": "זרעוני כוסברה", "note": null, "raw": "75 גרם זרעוני כוסברה" },
+      { "qty": 75, "unit": "גרם", "item": "כמון", "note": null, "raw": "75 גרם כמון" },
+      { "qty": 10, "unit": null, "item": "תרמילי הל ירוקים", "note": null, "raw": "10 תרמילי הל ירוקים" },
+      { "qty": 5, "unit": "שיני", "item": "שום", "note": "שלמות, ללא קליפה", "raw": "5 שיני שום שלמות, ללא קליפה" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": null, "unit": null, "item": "פלפל שחור", "note": null, "raw": "פלפל שחור" }
+    ] }
+  ],
+  "steps": [
+    { "group": "משחת התבלינים", "items": [
+      { "text": "מחממים את התנור ל-210 מעלות.", "timerMin": null },
+      { "text": "טוחנים במטחנת תבלינים את פלפל הסצ׳ואני, הכוסברה, הכמון וההל.", "timerMin": null },
+      { "text": "מערבבים את התבלינים הטחונים עם הדבש, רוטב הסויה, החומץ והשום לתערובת אחידה.", "timerMin": null }
+    ] },
+    { "group": "צלייה", "items": [
+      { "text": "מתבלים את חזות הברווז במלח ובפלפל שחור, ומורחים עליהן את משחת התבלינים. משאירים בצד 2 כפות מהתערובת.", "timerMin": null },
+      { "text": "אופים 20 דקות. מוציאים מהתנור ומניחים להתקרר 15 דקות.", "timerMin": 20 },
+      { "text": "מורחים את 2 הכפות ששמרנו בצד וצולים בתנור החם עוד 10 דקות.", "timerMin": 10 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "מחלקים כל חזה לשתי מנות ופורסים כל מנה בצורת מניפה.", "timerMin": null },
+      { "text": "מסדרים את הבשר על הצלחת, על מצע של כרוב אדום ותאנים.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["מגישים על מצע כרוב אדום ותאנים, שמתכונו מופיע בנפרד."],
+  "story": null,
+  "source": { "type": "magazine", "credit": "מרק אברליין, אוברג׳ דה ל׳יל (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "Sliced glazed duck breast fanned out on a plate, lacquered dark mahogany skin and rosy meat, resting on a bed of braised deep purple red cabbage with figs",
+  "alt": "חזה ברווז מזוגג פרוס למניפה על מצע כרוב אדום מבושל, בצלחת הגשה",
+  "originals": [
+    { "file": "חזה מולארד מזוגג ועוף אלזסי.doc", "driveId": "1l7MIlDVMGALbjsaBw0etpamty3YMbMJp" }
+  ]
+}

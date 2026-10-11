@@ -1,0 +1,162 @@
+{
+  "slug": "rotev-arba-gvinot-lepasta",
+  "title": "רוטב ארבע גבינות לפסטה",
+  "titleEn": "Four Cheese Pasta Sauce",
+  "description": "רוטב שמנת וגבינות עשיר על בסיס חמאה וקמח, מארבע גבינות. אפשר להכין כמות גדולה ולהקפיא.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "אירוח",
+    "להקפאה"
+  ],
+  "servings": 6,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 20,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פסטה",
+          "note": "מסולסלת או קונכיות",
+          "raw": "1 חבילה פסטה, מסולסלת או קונכיות"
+        },
+        {
+          "qty": 250,
+          "unit": "מ״ל",
+          "item": "שמנת מתוקה 32%",
+          "note": null,
+          "raw": "250 מ״ל שמנת מתוקה 32%"
+        },
+        {
+          "qty": 250,
+          "unit": "מ״ל",
+          "item": "שמנת לקצפת 15%",
+          "note": null,
+          "raw": "250 מ״ל שמנת לקצפת 15%"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינת קשקבל מגוררת",
+          "note": null,
+          "raw": "100 גרם גבינת קשקבל מגוררת"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינת עמק מגוררת",
+          "note": null,
+          "raw": "100 גרם גבינת עמק מגוררת"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינת טל העמק מגוררת",
+          "note": null,
+          "raw": "100 גרם גבינת טל העמק מגוררת"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "פרמזן מגורר",
+          "note": null,
+          "raw": "100 גרם פרמזן מגורר"
+        },
+        {
+          "qty": 75,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "75 גרם חמאה"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "קמח",
+          "note": null,
+          "raw": "1 כף קמח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח, פלפל ואגוז מוסקט טחון",
+          "note": null,
+          "raw": "מלח, פלפל ואגוז מוסקט טחון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פתיתי פרמזן",
+          "note": "להגשה",
+          "raw": "פתיתי פרמזן, להגשה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה לפי הוראות היצרן.",
+          "timerMin": null
+        },
+        {
+          "text": "ממיסים את החמאה בסיר ושומרים שלא תשחים.",
+          "timerMin": null
+        },
+        {
+          "text": "זורים את הקמח על החמאה ומערבבים כל הזמן כדי שלא ייווצרו גושים, כשהסיר עדיין על האש.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים בהדרגה את שני מיכלי השמנת תוך ערבוב מתמיד, ומביאים לרתיחה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הגבינות ומורידים מהאש. ממשיכים לערבב עד שהן נמסות.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים במעט מלח (הגבינות מלוחות), פלפל ואגוז מוסקט.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים על הפסטה ומפזרים פרמזן.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "כדאי להכין כמות גדולה, לחלק לקופסאות קטנות ולהקפיא. כשמגיעים אורחים פתאום מבשלים פסטה ומפשירים רוטב."
+  ],
+  "story": null,
+  "source": {
+    "type": "chef",
+    "credit": "השף הלבן",
+    "rewritten": true
+  },
+  "imagePrompt": "Shell pasta coated in a creamy four-cheese sauce with shaved Parmesan on top, in a wide bowl",
+  "alt": "קונכיות פסטה ברוטב שמנת וארבע גבינות עם פרמזן מעל",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

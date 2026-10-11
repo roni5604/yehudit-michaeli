@@ -1,0 +1,109 @@
+{
+  "slug": "welcome-dinner-private",
+  "title": "ארוחת קבלת פנים (אירוע פרטי)",
+  "titleEn": "Welcome dinner (private event)",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he",
+  "intro": "ברוכה הבאה",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "פארפה כבדים עם ריבת סלרי ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "עגבניות בנוסח פרובאנס",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית בשזיפים ותפוחים",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג ברוטב פלפלים ועגבניות פיקנטי",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת פירות ים בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי בטטות – לצמחונים",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל, צ'יפס ותירס – לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "פבלובה פירות יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "פנקוטת פסיפלורה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        {
+          "name": "יין אדום ולבן",
+          "desc": "סדרת רכס – יקבי כרמל",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1JsWZdROEsbLuSs_Gi64I8CyKmdJbiisj"
+    }
+  ]
+}

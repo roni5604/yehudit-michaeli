@@ -1,0 +1,163 @@
+{
+ "slug": "marak-shaorit-levana",
+ "title": "מרק שעועית לבנה",
+ "titleEn": "White Bean Soup",
+ "description": "מרק שעועית לבנה סמיך מאוד, עם רסק עגבניות, פפריקה אדומה וכמון, שמספיק לארוחה שלמה.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "ארוחה שלמה",
+  "חורף"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 30,
+ "cookMin": 180,
+ "totalMin": 210,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "חתוכים לקוביות",
+     "raw": "2 בצלים קלופים וחתוכים לקוביות"
+    },
+    {
+     "qty": 500,
+     "unit": "גרם",
+     "item": "שעועית לבנה",
+     "note": "שהושרתה בלילה ובושלה כשעה ללא מלח",
+     "raw": "500 גרם שעועית לבנה שהושרתה בלילה"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "2 כפות קמח"
+    },
+    {
+     "qty": 6,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "קצוץ",
+     "raw": "6 שיני שום קצוצות"
+    },
+    {
+     "qty": 200,
+     "unit": "גרם",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "200 גרם רסק עגבניות"
+    },
+    {
+     "qty": 12,
+     "unit": "כוסות",
+     "item": "מים רותחים",
+     "note": null,
+     "raw": "12 כוסות מים רותחים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור, הרבה פפריקה אדומה וכמון"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "גזרים",
+     "note": "בפרוסות",
+     "raw": "3 גזרים חתוכים לפרוסות"
+    },
+    {
+     "qty": 4,
+     "unit": "כפות",
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "4 כפות אבקת מרק עוף"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "עגבניות",
+     "note": "מגורדות",
+     "raw": "2 עגבניות מגורדות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי סלרי",
+     "note": null,
+     "raw": "צרור עלי סלרי"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מבשלים את השעועית שהושרתה כשעה, ללא מלח.",
+     "timerMin": 60
+    },
+    {
+     "text": "מטגנים את הבצלים עד הזהבה, מוסיפים את השעועית והקמח ומערבבים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את המים ושאר החומרים, מתבלים ומביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים על אש נמוכה שעתיים לפחות.",
+     "timerMin": 120
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "המרק סמיך מאוד ומשמש ארוחה בפני עצמה. המתכון מבוסס על גרסה עם בשר בקר ועצמות מספר המרקים של חנה שאולוב."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Very thick white bean soup in a deep bowl, red with tomato and paprika, with carrot slices and chopped parsley",
+ "alt": "מרק שעועית לבנה סמיך ואדום עם גזר ופטרוזיליה",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

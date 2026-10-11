@@ -1,0 +1,139 @@
+{
+  "slug": "paglia-e-fieno",
+  "title": "פאליה אה פיינו (קש וחציר)",
+  "titleEn": "Paglia e Fieno",
+  "description": "מנה איטלקית דרומית של פטוצ׳יני לבן וירוק ברוטב שמנת, פטריות ואפונה.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "אירוח"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 20,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "פטוצ׳יני לבן (קש)",
+          "note": null,
+          "raw": "200 גרם פטוצ׳יני לבן (קש)"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "פטוצ׳יני ירוק (חציר)",
+          "note": null,
+          "raw": "200 גרם פטוצ׳יני ירוק (חציר)"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "חמאה",
+          "note": "כ-50 גרם",
+          "raw": "4 כפות חמאה, כ-50 גרם"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצלי שאלוט",
+          "note": "קטנים קצוצים דק, או בצל בינוני אחד פחות",
+          "raw": "1-2 בצלי שאלוט, קטנים קצוצים דק, או בצל בינוני אחד פחות",
+          "qtyMax": 2
+        },
+        {
+          "qty": 400,
+          "unit": "גרם",
+          "item": "שמפיניון טריים",
+          "note": null,
+          "raw": "400 גרם שמפיניון טריים"
+        },
+        {
+          "qty": 150,
+          "unit": "גרם",
+          "item": "אפונה קפואה",
+          "note": "מופשרת",
+          "raw": "150 גרם אפונה קפואה, מופשרת"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת מתוקה",
+          "note": null,
+          "raw": "1 גביע שמנת מתוקה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": 75,
+          "unit": "גרם",
+          "item": "פרמזן מגורר",
+          "note": null,
+          "raw": "75-100 גרם פרמזן מגורר",
+          "qtyMax": 100
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים את השאלוט בחמאה, או בשמן זית.",
+          "timerMin": null
+        },
+        {
+          "text": "פורסים את הפטריות ומוסיפים לטיגון קל על אש גבוהה. מתבלים, מנמיכים את האש וממתינים לצמצום.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את האפונה ומבשלים דקה. מוסיפים שמנת ומרתיחים, ומבשלים עוד כחמש דקות עד להסמכה.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הפסטה, מסננים ויוצקים מעליה את הרוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים ומפזרים פרמזן.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "ספר הפסטה הגדול, זיו",
+    "rewritten": true
+  },
+  "imagePrompt": "Green and white tagliatelle nests in a creamy mushroom and pea sauce with grated Parmesan",
+  "alt": "קני טליאטלה ירוקה ולבנה ברוטב שמנת פטריות ואפונה עם פרמזן",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

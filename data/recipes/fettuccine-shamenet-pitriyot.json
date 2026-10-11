@@ -1,0 +1,160 @@
+{
+  "slug": "fettuccine-shamenet-pitriyot",
+  "title": "פטוצ׳יני ברוטב שמנת ופטריות",
+  "titleEn": "Fettuccine with Mushroom Cream Sauce",
+  "description": "פסטה ברוטב שמנת קרמי עם פטריות טריות, שום ובצל, מתובל באגוז מוסקט ויין.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 20,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פטוצ׳יני",
+          "note": null,
+          "raw": "1 חבילה פטוצ׳יני"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "קצוץ",
+          "raw": "1 בצל, קצוץ"
+        },
+        {
+          "qty": 3,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קצוצות",
+          "raw": "3-4 שיני שום, קצוצות",
+          "qtyMax": 4
+        },
+        {
+          "qty": 8,
+          "unit": null,
+          "item": "פטריות טריות",
+          "note": "פרוסות, אפשר יותר או פחות",
+          "raw": "8 פטריות טריות, פרוסות, אפשר יותר או פחות"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת קרם פרש",
+          "note": null,
+          "raw": "1 גביע שמנת קרם פרש"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אגוז מוסקט",
+          "note": "מעט",
+          "raw": "אגוז מוסקט, מעט"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור",
+          "note": null,
+          "raw": "פלפל שחור"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בזיליקום או אורגנו טריים",
+          "note": null,
+          "raw": "בזיליקום או אורגנו טריים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "יין לבן או אדום",
+          "note": null,
+          "raw": "יין לבן או אדום"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה לפי הוראות היצרן.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים את הבצל בשמן עד שהוא מזהיב, ורק אחר כך מוסיפים את השום, כי הוא נשרף מהר יותר.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הפטריות ומאדים קלות.",
+          "timerMin": null
+        },
+        {
+          "text": "כשהפטריות מתחילות לשחרר נוזלים מוסיפים את השמנת ומבשלים על אש קטנה כ-5 דקות.",
+          "timerMin": 5
+        },
+        {
+          "text": "מתבלים ומבשלים עוד כ-2 דקות.",
+          "timerMin": 2
+        },
+        {
+          "text": "מוסיפים את היין ואת עשבי התיבול ומבשלים עוד כדקה.",
+          "timerMin": 1
+        },
+        {
+          "text": "יוצקים את הרוטב על הפסטה המוכנה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Fettuccine in a creamy sauce with sliced mushrooms and fresh basil leaves on a white plate",
+  "alt": "פטוצ׳יני ברוטב שמנת עם פטריות פרוסות ועלי בזיליקום בצלחת לבנה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

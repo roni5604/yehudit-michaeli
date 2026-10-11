@@ -1,0 +1,159 @@
+{
+  "slug": "salat-bananot",
+  "title": "סלט בננות",
+  "titleEn": "Green Banana Salad",
+  "description": "סלט מפתיע מבננות ירוקות וקשות שמבשלים בחלב ובמים ומשרים בתחמיץ שמן זית וחומץ תפוחים עם זיתים ועלי דפנה. מגישים קר.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "סלט מפתיע",
+    "מרינדה"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 25,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "לבישול",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "ק״ג",
+          "item": "בננות לא בשלות",
+          "note": "ירוקות וקשות",
+          "raw": "1 ק״ג בננות לא בשלות, ירוקות וקשות"
+        },
+        {
+          "qty": 1.25,
+          "unit": "כוסות",
+          "item": "חלב",
+          "note": null,
+          "raw": "1¼ כוסות חלב"
+        },
+        {
+          "qty": 1,
+          "unit": "ליטר",
+          "item": "מים",
+          "note": null,
+          "raw": "1 ליטר מים"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית מלח"
+        }
+      ]
+    },
+    {
+      "group": "לתחמיץ ולסלט",
+      "items": [
+        {
+          "qty": 0.33,
+          "unit": "כוס",
+          "item": "חומץ תפוחים",
+          "note": null,
+          "raw": "⅓ כוס חומץ תפוחים"
+        },
+        {
+          "qty": 0.67,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "⅔ כוס שמן זית"
+        },
+        {
+          "qty": 0.67,
+          "unit": "כוס",
+          "item": "זיתים ירוקים",
+          "note": null,
+          "raw": "⅔ כוס זיתים ירוקים"
+        },
+        {
+          "qty": 4,
+          "qtyMax": 5,
+          "unit": null,
+          "item": "גרגרי פלפל שחור שלמים",
+          "note": null,
+          "raw": "4-5 גרגרי פלפל שחור שלמים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "עלי דפנה",
+          "note": null,
+          "raw": "2 עלי דפנה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חוצים כל בננה לרוחבה, בלי לקלף.",
+          "timerMin": null
+        },
+        {
+          "text": "מרתיחים בסיר את החלב והמים, מוסיפים את הבננות ואת המלח.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים על סף רתיחה 20–25 דקות, עד שהבננות רכות אך עדיין מוצקות.",
+          "timerMin": 20
+        },
+        {
+          "text": "מסננים, קולפים ופורסים את הבננות לפרוסות בעובי 1 ס״מ.",
+          "timerMin": null
+        }
+      ]
+    },
+    {
+      "group": "הכנת הסלט",
+      "items": [
+        {
+          "text": "מכינים תחמיץ מהחומץ והשמן.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הבננות, הזיתים, הפלפל ועלי הדפנה.",
+          "timerMin": null
+        },
+        {
+          "text": "משהים בכלי סגור במקרר שעה לפחות, רצוי במשך הלילה, ומגישים קר.",
+          "timerMin": 60
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "לגיוון: אפשר להוסיף בצל סגול כדי לגוון את צבע הסלט, ואפשר להחליף את הזיתים הירוקים בשחורים."
+  ],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Cold marinated green banana slices with green olives, whole black peppercorns and bay leaves glistening in olive oil, in a glass serving dish",
+  "alt": "פרוסות בננה ירוקה כבושות בשמן זית עם זיתים ירוקים, פלפל שחור ועלי דפנה בכלי זכוכית",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "kruv-adom-ve-teenim",
+  "title": "כרוב אדום ותאנים",
+  "titleEn": "Braised Red Cabbage with Figs",
+  "description": "כרוב אדום שנשרה לילה בחומץ וסוכר ומתבשל בתנור לאט עם בצל מזהיב, תאנים, שני סוגי יין אדום וג׳ינג׳ר. תוספת עשירה וכהה שמלווה היטב בשר ועופות.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["תוספת", "בישול איטי", "אירוח"],
+  "servings": 10,
+  "yield": null,
+  "pan": "סיר בעל תחתית עבה שמתאים גם לתנור",
+  "prepMin": 30,
+  "cookMin": 105,
+  "totalMin": 840,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לשרייה", "items": [
+      { "qty": 2.5, "unit": null, "item": "ראשי כרוב אדום", "note": null, "raw": "2½ ראשי כרוב אדום" },
+      { "qty": null, "unit": null, "item": "סוכר", "note": null, "raw": "סוכר" },
+      { "qty": null, "unit": null, "item": "חומץ", "note": null, "raw": "חומץ" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" }
+    ] },
+    { "group": "לבישול", "items": [
+      { "qty": 20, "unit": null, "item": "תאנים", "note": null, "raw": "20 תאנים" },
+      { "qty": 0.5, "unit": "ק״ג", "item": "בצל", "note": null, "raw": "½ ק״ג בצל" },
+      { "qty": 1, "unit": "כוס", "item": "שמן זית משובח", "note": null, "raw": "1 כוס שמן זית משובח" },
+      { "qty": 2.5, "unit": "כוסות", "item": "יין אדום יבש משובח", "note": null, "raw": "2½ כוסות יין אדום יבש משובח" },
+      { "qty": 2.5, "unit": "כוסות", "item": "יין אדום מתוק (פורט)", "note": null, "raw": "2½ כוסות יין אדום מתוק (פורט)" },
+      { "qty": 7.5, "unit": "כפות", "item": "חומץ יין", "note": null, "raw": "7½ כפות חומץ יין" },
+      { "qty": 7.5, "unit": "פרוסות", "item": "ג׳ינג׳ר", "note": null, "raw": "7½ פרוסות ג׳ינג׳ר" }
+    ] }
+  ],
+  "steps": [
+    { "group": "ערב לפני הבישול", "items": [
+      { "text": "חותכים את הכרוב לרבעים, מוציאים את הליבה וקוצצים.", "timerMin": null },
+      { "text": "מערבבים את הכרוב עם סוכר, חומץ ומלח ומשרים למשך הלילה.", "timerMin": null }
+    ] },
+    { "group": "בישול", "items": [
+      { "text": "למחרת מחממים את התנור ל-150 מעלות.", "timerMin": null },
+      { "text": "חותכים את התאנים והבצלים לחתיכות קטנות.", "timerMin": null },
+      { "text": "מזהיבים את הבצל בשמן הזית בסיר בעל תחתית עבה שמתאים גם לתנור.", "timerMin": null },
+      { "text": "מוסיפים לסיר את הכרוב, התאנים, שני סוגי היין, חומץ היין והג׳ינג׳ר.", "timerMin": null },
+      { "text": "מכסים את הסיר ואופים שעה וחצי. בודקים אם הכרוב מוכן, וממשיכים לאפות לפי הצורך.", "timerMin": 90 },
+      { "text": "טועמים ומתקנים את התיבול לפני ההגשה.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["משמש מצע לחזה ברווז מזוגג בסויה ודבש."],
+  "story": null,
+  "source": { "type": "magazine", "credit": "מרק אברליין, אוברג׳ דה ל׳יל (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "A deep purple braised red cabbage and fig compote glistening with olive oil, served in a rustic enameled casserole, with halved soft figs visible among the shredded cabbage",
+  "alt": "כרוב אדום מבושל עם חצאי תאנים בסיר אמייל כפרי, בצבע סגול עמוק ומבריק",
+  "originals": [
+    { "file": "חזה מולארד מזוגג ועוף אלזסי.doc", "driveId": "1l7MIlDVMGALbjsaBw0etpamty3YMbMJp" }
+  ]
+}

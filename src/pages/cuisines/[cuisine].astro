@@ -1,0 +1,21 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import EntryCard from "../../components/EntryCard.astro";
+export async function getStaticPaths() {
+  const { catalog } = await import("../../lib/data");
+  const { cuisines } = await import("../../lib/site");
+  return cuisines.map((c) => ({ c, list: catalog.filter((e) => e.cu === c.slug) })).filter((x) => x.list.length)
+    .map(({ c, list }) => ({ params: { cuisine: c.slug }, props: { c, list } }));
+}
+const { c, list } = Astro.props;
+---
+<BaseLayout title={`המטבח ה${c.he}`} description={`${list.length} מתכונים מהמטבח ה${c.he} במחברות של יהודית מיכאלי.`}>
+  <div class="container-x head">
+    <Breadcrumbs items={[{ href: "/cuisines", label: "מטבחי העולם" }, { label: `מטבח ${c.he}` }]} />
+    <h1>המטבח ה{c.he}</h1>
+    <p class="lede">{list.length} מתכונים</p>
+  </div>
+  <section class="container-x"><ul class="ecard-grid">{list.map((e) => <li><EntryCard e={e} headingLevel={2} /></li>)}</ul></section>
+</BaseLayout>
+<style>.head { padding-block: 24px 28px; } .head h1 { margin: 10px 0 6px; }</style>

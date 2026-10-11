@@ -1,0 +1,119 @@
+{
+  "slug": "levivot-yarak-asavim",
+  "title": "לביבות ירק ועשבי תיבול",
+  "titleEn": "Fresh Herb Latkes",
+  "description": "לביבות ירוקות ופשוטות מצרור עשבי תיבול טריים וביצים, מטוגנות בשמן דקות ספורות מכל צד.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "מהיר",
+    "ירוק"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 15,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "פטרוזיליה",
+          "note": "קצוצה",
+          "raw": "1 כוס פטרוזיליה, קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "שמיר",
+          "note": "קצוץ",
+          "raw": "1 כוס שמיר, קצוץ"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "כוסברה",
+          "note": "קצוצה",
+          "raw": "1 כוס כוסברה, קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "צרור",
+          "item": "עירית",
+          "note": "קצוצה",
+          "raw": "1 צרור עירית, קצוצה"
+        },
+        {
+          "qty": 12,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "12 ביצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל גרוס",
+          "note": null,
+          "raw": "מלח ופלפל גרוס"
+        },
+        {
+          "qty": 8,
+          "unit": "כפות",
+          "item": "קמח או קמח מצה",
+          "note": "כ-8 כפות",
+          "raw": "כ-8 כפות קמח או קמח מצה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל החומרים ומשפרים תיבול.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים בשמן בגובה 1 ס״מ, 2 דקות מכל צד.",
+          "timerMin": 2
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Flat green herb latkes flecked with parsley, dill and cilantro, golden at the edges, stacked on a plate",
+  "alt": "לביבות ירוקות שטוחות מעשבי תיבול, זהובות בקצוות, בערימה על צלחת",
+  "originals": [
+    {
+      "file": "לביבות ירק.doc",
+      "driveId": "1UDiFMgDGK2kiQYzEcTnp2mzFv65NAfJe"
+    },
+    {
+      "file": "לביבות ירק.doc",
+      "driveId": "1FsMEUfiL-R-NxOkGga0gl7LVlu2BD72g"
+    }
+  ]
+}

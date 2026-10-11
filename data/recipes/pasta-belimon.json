@@ -1,0 +1,135 @@
+{
+  "slug": "pasta-belimon",
+  "title": "פסטה בלימון",
+  "titleEn": "Lemon Chili Pasta",
+  "description": "פסטה קלילה עם זסט ופילטים של לימון, שום וצ׳ילי, מוקפצת במחבת.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פסטה",
+          "note": null,
+          "raw": "פסטה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שיני שום",
+          "note": "פרוסות גס",
+          "raw": "שיני שום, פרוסות גס"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "לימונים",
+          "note": "לזסט",
+          "raw": "2 לימונים, לזסט"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "לימון",
+          "note": "לפילטים",
+          "raw": "1 לימון, לפילטים"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "לימון",
+          "note": "למיץ",
+          "raw": "1 לימון, למיץ"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "צ׳ילי קטן",
+          "note": "קצוץ, לפי החריפות",
+          "raw": "1-2 צ׳ילי קטן, קצוץ, לפי החריפות",
+          "qtyMax": 2
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן",
+          "note": "לא חובה",
+          "raw": "פרמזן, לא חובה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מכינים פסטה כרגיל.",
+          "timerMin": null
+        },
+        {
+          "text": "במחבת מחממים שמן זית עם שום פרוס גס וזסט משני לימונים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוציאים פילטים מלימון אחד ומוסיפים למחבת, יחד עם מיץ מלימון נוסף.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הצ׳ילי הקצוץ.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה ומקפיצים במחבת.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לצלחת, ואפשר לגרר מעל מעט פרמזן.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti with lemon zest, lemon segments, garlic slivers and chili flakes on a plate",
+  "alt": "ספגטי עם זסט לימון, פלחי לימון, שום וצ׳ילי בצלחת",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "lasagna-leatzlanim",
+  "title": "לזניה לעצלנים",
+  "titleEn": "Lazy Lasagna",
+  "description": "לזניה מהירה מדפים שלא דורשים בישול, קוטג׳, רסק עגבניות ואורגנו. מתאימה להכנה שבועית.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "למילוי הלבן",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "קוטג׳",
+          "note": null,
+          "raw": "1 קופסה קוטג׳"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": null,
+          "raw": "1 ביצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת שום ואורגנו",
+          "note": null,
+          "raw": "אבקת שום ואורגנו"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינה בולגרית",
+          "note": "אם יש",
+          "raw": "גבינה בולגרית, אם יש"
+        }
+      ]
+    },
+    {
+      "group": "למילוי האדום",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "1 קופסה רסק עגבניות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בזיליקום",
+          "note": "יבש או קפוא בקוביות",
+          "raw": "בזיליקום, יבש או קפוא בקוביות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "זיתים חתוכים",
+          "note": "לא חובה",
+          "raw": "זיתים חתוכים, לא חובה"
+        }
+      ]
+    },
+    {
+      "group": "להרכבה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "דפי לזניה שלא דורשים בישול",
+          "note": null,
+          "raw": "דפי לזניה שלא דורשים בישול"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מים רותחים",
+          "note": "לטבילה",
+          "raw": "מים רותחים, לטבילה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינה צהובה מגוררת",
+          "note": "בנדיבות",
+          "raw": "גבינה צהובה מגוררת, בנדיבות"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "שמים בקערה מים רותחים כדי לטבול בהם את דפי הלזניה.",
+          "timerMin": null
+        },
+        {
+          "text": "בקערה אחת מערבבים קוטג׳, ביצה, אבקת שום, אורגנו ובולגרית. בקערה שנייה מערבבים רסק עגבניות, מעט שמן זית ובזיליקום.",
+          "timerMin": null
+        },
+        {
+          "text": "טובלים כל דף לזניה במים לכמה שניות ומניחים בתבנית פיירקס, רצוי מרובעת. מסדרים שני דפים זה ליד זה.",
+          "timerMin": null
+        },
+        {
+          "text": "מורחים מעליהם מהמילוי הלבן ומהרסק, וחוזרים כך עד ארבע שכבות. מסיימים בשכבת מילוי.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים בתנור ב-180 מעלות כחצי שעה.",
+          "timerMin": 30
+        },
+        {
+          "text": "מפזרים גבינה צהובה בנדיבות ואופים עוד כמה דקות, עד שהלזניה מוכנה ונחתכת בקלות.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אפשר להוסיף לרסק זיתים חתוכים, והטעם מצוין.",
+    "רוטב קל נוסף: מטגנים 4 שיני שום בשמן זית, מוסיפים בזיליקום ואז 10 עד 15 עגבניות שרי חצויות, ויוצקים על פסטה."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Square baking dish of layered lasagna with melted yellow cheese on top, a slice lifted showing layers",
+  "alt": "תבנית מרובעת של לזניה שכבות עם גבינה צהובה מומסת, פרוסה מורמת",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

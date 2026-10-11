@@ -1,0 +1,62 @@
+{
+  "slug": "paprikash-off",
+  "title": "פפריקש עוף",
+  "titleEn": "Chicken Paprikash",
+  "description": "תבשיל הונגרי קלאסי של שוקי עוף ברוטב פפריקה ושמנת חמוצה, שמתבשל לאט עד שהרוטב סמיך ומבריק. מגישים עם נוקדלי.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": "hungarian",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": ["תבשיל", "בישול איטי", "ארוחה משפחתית"],
+  "servings": 6,
+  "yield": null,
+  "pan": "סיר רחב עם מכסה",
+  "prepMin": 20,
+  "cookMin": 55,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 3, "unit": null, "item": "בצלים", "note": "קצוצים", "raw": "3 בצלים קצוצים" },
+      { "qty": 3, "unit": "כפות", "item": "שמן תירס", "note": null, "raw": "3 כפות שמן תירס" },
+      { "qty": 15, "unit": null, "item": "שוקי עוף", "note": null, "raw": "15 שוקי עוף" },
+      { "qty": 1, "unit": null, "item": "עגבנייה גדולה", "note": "קלופה וחתוכה לקוביות", "raw": "1 עגבנייה גדולה, קלופה וחתוכה לקוביות" },
+      { "qty": 1, "unit": null, "item": "פלפל ירוק", "note": "בלי גרעינים, פרוס לטבעות", "raw": "1 פלפל ירוק, בלי גרעינים, פרוס לטבעות" },
+      { "qty": 2, "unit": "כפות", "item": "פפריקה מתוקה", "note": null, "raw": "2 כפות פפריקה מתוקה" },
+      { "qty": 1, "unit": "כף", "item": "רסק פפריקה הונגרית חריפה", "note": null, "raw": "1 כף רסק פפריקה הונגרית חריפה" },
+      { "qty": 0.5, "unit": "כוס", "item": "מים או מרק", "note": null, "raw": "½ כוס מים או מרק" },
+      { "qty": 0.5, "unit": "כפית", "item": "מלח", "note": null, "raw": "½ כפית מלח" },
+      { "qty": 0.25, "unit": "כפית", "item": "פלפל שחור", "note": null, "raw": "¼ כפית פלפל שחור" },
+      { "qty": 2, "unit": "כפיות", "item": "שום כתוש", "note": null, "raw": "2 כפיות שום כתוש" }
+    ] },
+    { "group": "לרוטב השמנת", "items": [
+      { "qty": 2, "unit": "גביעים", "item": "שמנת חמוצה", "note": null, "raw": "2 גביעי שמנת חמוצה" },
+      { "qty": 1, "unit": "כף", "item": "קמח", "note": null, "raw": "1 כף קמח" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "קורט", "raw": "קורט מלח" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מטגנים את הבצל בשמן עד שהוא מתרכך ומשחים. מוסיפים את הפלפל והעגבנייה ומטגנים יחד כמה דקות.", "timerMin": null },
+      { "text": "מוסיפים את התבלינים ומורידים מיד מהאש, כדי שהפפריקה לא תיחרך.", "timerMin": null },
+      { "text": "מוסיפים את העוף ומערבבים היטב עם התבלינים.", "timerMin": null },
+      { "text": "מוסיפים מרק עד שכמעט מכסה את העוף. לא להגזים בנוזלים: מוסיפים מעט בכל פעם. זה הסוד של הפפריקש, וככה נוצר הרוטב הסמיך והטעים.", "timerMin": null },
+      { "text": "מבשלים על אש קטנה כ-40 דקות ומערבבים מדי פעם, ושמים לב שלא יישרף. הופכים את העוף ברוטב מפעם לפעם. אם הבשר עדיין קשה, מוסיפים כמה כפות מים ומאריכים את הבישול.", "timerMin": 40 },
+      { "text": "לקראת סוף הבישול מסירים את המכסה ונותנים לשארית הנוזלים להתאדות, כך שהעוף מתבשל במיציו ובשומנו. מקפידים שלא ייחרך.", "timerMin": null }
+    ] },
+    { "group": "גימור", "items": [
+      { "text": "מוציאים את נתחי העוף לצלחת ומוציאים את הפלפל הירוק ואת קליפות העגבנייה.", "timerMin": null },
+      { "text": "מערבבים היטב את השמנת, המלח והקמח, מוסיפים לרוטב שבסיר ובוחשים עד שהוא חלק ואחיד בצבעו.", "timerMin": null },
+      { "text": "מחזירים את העוף לסיר, טועמים ומתקנים תיבול. מכסים ומבשלים כמה דקות על אש נמוכה עד שהעוף חם מאוד.", "timerMin": 5 }
+    ] }
+  ],
+  "tips": ["מגישים חם לצד נוקדלי, בצקניות הונגריות קטנות."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Hungarian chicken paprikash: braised chicken drumsticks in a glossy brick-red paprika and sour cream sauce, served in a shallow enamel casserole with small nokedli dumplings on the side, sprinkled with parsley",
+  "alt": "שוקי עוף ברוטב פפריקה אדום וסמיך עם שמנת חמוצה, בסיר רדוד לצד בצקניות נוקדלי",
+  "originals": [{ "file": "עוף פפריקש.doc", "driveId": "EXAMPLE" }]
+}

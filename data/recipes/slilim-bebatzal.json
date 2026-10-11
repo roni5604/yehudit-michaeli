@@ -1,0 +1,95 @@
+{
+  "slug": "slilim-bebatzal",
+  "title": "סלילים בבצל",
+  "titleEn": "Fusilli with Fried Onions and Butter",
+  "description": "פסטה פשוטה עם הרבה בצל מטוגן וחמאה. מנה בזק לימים עמוסים.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר",
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 25,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פסטה סלילים",
+          "note": null,
+          "raw": "פסטה סלילים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בצל",
+          "note": "הרבה, מטוגן",
+          "raw": "בצל, הרבה, מטוגן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חמאה",
+          "note": null,
+          "raw": "חמאה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים כמות גדולה של בצל.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה היטב היטב, כך שלא תישאר אפילו טיפת מים, ומערבבים אותה עם הבצל המטוגן, החמאה והמלח.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Fusilli spirals tossed with deeply browned onions and butter in a simple bowl",
+  "alt": "פסטה סלילים עם בצל מטוגן וחמאה בקערה פשוטה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

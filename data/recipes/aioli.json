@@ -1,0 +1,145 @@
+{
+ "slug": "aioli",
+ "title": "איולי",
+ "titleEn": "Aioli",
+ "description": "מיונז שום מסורתי מחלמונים, חרדל ושום כתוש, שמוקצף עם שמן זית ושמן רגיל ומקבל צבע וארומה מיין לבן וזעפרן.",
+ "category": "sauces",
+ "subcategory": null,
+ "cuisine": "french",
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "רוטב",
+  "קלאסיקה צרפתית"
+ ],
+ "servings": null,
+ "yield": null,
+ "pan": null,
+ "prepMin": 15,
+ "cookMin": 5,
+ "totalMin": 20,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "חלמונים",
+     "note": "בטמפרטורת החדר",
+     "raw": "2 חלמונים בטמפרטורת החדר"
+    },
+    {
+     "qty": 0.25,
+     "unit": "כף",
+     "item": "חרדל",
+     "note": null,
+     "raw": "¼ כף חרדל"
+    },
+    {
+     "qty": 4,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "כתוש",
+     "raw": "4–5 שיני שום כתוש",
+     "qtyMax": 5
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית ושמן רגיל",
+     "note": "100 מ״ל מכל סוג לכל חלמון",
+     "raw": "200 מ״ל שמן לכל חלמון: חצי שמן זית וחצי שמן רגיל"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "זעפרן באבקה",
+     "note": null,
+     "raw": "מעט זעפרן באבקה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "יין לבן",
+     "note": null,
+     "raw": "מעט יין לבן"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מלח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "סוכר",
+     "note": null,
+     "raw": "סוכר"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פלפל לבן",
+     "note": null,
+     "raw": "פלפל לבן"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מרתיחים מעט זעפרן באבקה עם מעט יין לבן.",
+     "timerMin": null
+    },
+    {
+     "text": "מקציפים במיקסר במהירות 4 את החלמונים עם החרדל והשום הכתוש.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את השמן בזילוף איטי מאוד, כף אחר כף, ומעלים את המהירות ל-6 עד 10.",
+     "timerMin": null
+    },
+    {
+     "text": "בסוף מוסיפים את היין עם הזעפרן.",
+     "timerMin": null
+    },
+    {
+     "text": "טועמים ומתקנים בתיבול: מלח, סוכר ופלפל לבן.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "הביצים צריכות להיות בטמפרטורת החדר."
+ ],
+ "story": null,
+ "source": {
+  "type": "restaurant",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "Pale golden garlic aioli in a small white bowl, thick and glossy, with a spoon and a few threads of saffron on top",
+ "alt": "קערית איולי צהבהב וסמיך עם חוטי זעפרן",
+ "originals": [
+  {
+   "file": "איולי.doc",
+   "driveId": "1txEXUff8j_bQaOoV5KeZZwrzJVzP2DEg"
+  },
+  {
+   "file": "איולי.doc",
+   "driveId": "1qgnYj9T0V_jdTyDWYbFv0Uvfg4-AOr9Y"
+  }
+ ]
+}

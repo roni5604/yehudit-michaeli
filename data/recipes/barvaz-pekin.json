@@ -1,0 +1,57 @@
+{
+  "slug": "barvaz-pekin",
+  "title": "ברווז פקין",
+  "titleEn": "Peking-Style Duck",
+  "description": "ברווז צלוי ומצופה בסירופ סוכר, עם למון גראס, ג׳ינג׳ר ולימון בבטן. פורסים דק ומגישים עם בצל ירוק, מלפפון ורוטב הויסין על קרפים דקים.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": "chinese",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "ברווז"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית צלייה עם רשת",
+  "prepMin": 20,
+  "cookMin": 70,
+  "totalMin": 90,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לברווז", "items": [
+      { "qty": 1, "unit": null, "item": "ברווז נקי", "note": null, "raw": "1 ברווז נקי" },
+      { "qty": 1, "unit": "כוס", "item": "סוכר", "note": null, "raw": "1 כוס סוכר" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": "לסירופ", "raw": "1 כוס מים לסירופ" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח ופלפל" },
+      { "qty": null, "unit": null, "item": "למון גראס", "note": "לבטן הברווז", "raw": "למון גראס" },
+      { "qty": null, "unit": null, "item": "ג׳ינג׳ר", "note": "לבטן הברווז", "raw": "ג׳ינג׳ר" },
+      { "qty": null, "unit": null, "item": "לימון", "note": "בפרוסות, לבטן הברווז", "raw": "פרוסות לימון" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "בצל ירוק", "note": null, "raw": "בצל ירוק" },
+      { "qty": null, "unit": null, "item": "מלפפון", "note": "ג׳וליין", "raw": "ג׳וליין של מלפפון" },
+      { "qty": null, "unit": null, "item": "רוטב הויסין", "note": null, "raw": "רוטב הויסין" },
+      { "qty": null, "unit": null, "item": "קרפים דקים", "note": null, "raw": "קרפים דקים" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הצלייה", "items": [
+      { "text": "חולטים את הברווז 30 שניות בסיר עם מים רותחים.", "timerMin": 0.5 },
+      { "text": "מייבשים היטב ומתבלים במלח ופלפל.", "timerMin": null },
+      { "text": "מניחים בבטן הברווז למון גראס, ג׳ינג׳ר ופרוסות לימון.", "timerMin": null },
+      { "text": "מבשלים סירופ מכוס מים וכוס סוכר, מברישים בו את הברווז ומניחים על רשת צלייה.", "timerMin": null },
+      { "text": "צולים בתנור ב-250 מעלות כ-10 דקות.", "timerMin": 10 },
+      { "text": "מנמיכים את החום ל-180 מעלות וממשיכים לצלות כשעה, עד שהברווז רך ושחום. מדי רבע שעה מברישים בסירופ ובמיצים שהצטברו בתחתית התבנית.", "timerMin": 60 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "פורסים את הברווז לפיסות דקות ומגישים עם בצל ירוק, ג׳וליין מלפפון ורוטב הויסין, על קרפים דקים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Thin slices of lacquered mahogany roast duck with crisp skin on a platter, beside thin crepes, spring onion strips, cucumber matchsticks and a small dish of hoisin sauce",
+  "alt": "פרוסות ברווז צלוי עם עור פריך לצד קרפים דקים, בצל ירוק, מלפפון ורוטב הויסין",
+  "originals": [{ "file": "ברווז צלוי.doc", "driveId": "1itsulOoUKY1PNl2OcEQTi9HpSnxorCPt" }]
+}

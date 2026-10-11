@@ -1,0 +1,121 @@
+---
+// Built-in accessibility menu (not a third-party overlay). Preferences live in
+// localStorage ("ym.a11y") and are applied by the inline script in BaseLayout.
+import Icon from "./Icon.astro";
+const toggles = [
+  { key: "contrast", label: "ניגודיות גבוהה", hint: "צבעים חדים ורקע אחיד" },
+  { key: "links", label: "הדגשת קישורים", hint: "קו תחתון ומסגרת לכל קישור" },
+  { key: "readable", label: "גופן קריא", hint: "גופן פשוט ללא תגים" },
+  { key: "spacing", label: "ריווח טקסט מוגדל", hint: "ריווח שורות, מילים ואותיות" },
+  { key: "no-motion", label: "עצירת אנימציות ותלת-ממד", hint: "מקפיא תנועה והדמיות" },
+  { key: "cursor", label: "סמן עכבר גדול", hint: "" },
+];
+---
+<dialog id="a11y-dialog" class="a11y-dialog" aria-labelledby="a11y-title">
+  <form method="dialog" class="inner">
+    <div class="head">
+      <h2 id="a11y-title"><Icon name="a11y" size={26} /> תפריט נגישות</h2>
+      <button class="icon-btn" value="close" aria-label="סגירת תפריט הנגישות"><Icon name="close" /></button>
+    </div>
+    <fieldset class="size">
+      <legend>גודל טקסט</legend>
+      <div class="seg" role="group">
+        {["רגיל", "גדול", "גדול מאוד", "ענק"].map((l, i) => (
+          <button type="button" class="seg-btn" data-text={i} aria-pressed="false">
+            <span style={`font-size:${1 + i * 0.12}em`}>א</span> {l}
+          </button>
+        ))}
+      </div>
+    </fieldset>
+    <ul class="toggles">
+      {toggles.map((t) => (
+        <li>
+          <button type="button" class="toggle" data-key={t.key} aria-pressed="false">
+            <span class="sw" aria-hidden="true"></span>
+            <span><strong>{t.label}</strong>{t.hint && <small>{t.hint}</small>}</span>
+          </button>
+        </li>
+      ))}
+    </ul>
+    <div class="foot">
+      <button type="button" class="btn btn-ghost btn-sm" data-reset>איפוס הגדרות</button>
+      <a href="/accessibility">להצהרת הנגישות</a>
+    </div>
+    <p class="note">ההגדרות נשמרות רק בדפדפן שלך. כל האתר נבנה לפי תקן ישראלי 5568 ו-WCAG 2.2 ברמה AA, גם בלי התפריט הזה.</p>
+  </form>
+</dialog>
+
+<script>
+  const KEY = "ym.a11y";
+  type Prefs = Record<string, any>;
+  const read = (): Prefs => { try { return JSON.parse(localStorage.getItem(KEY) || "{}"); } catch { return {}; } };
+  const save = (p: Prefs) => { try { localStorage.setItem(KEY, JSON.stringify(p)); } catch {} };
+
+  function apply(p: Prefs) {
+    const d = document.documentElement;
+    d.className = d.className.replace(/\ba11y-[\w-]+/g, "").trim();
+    if (p.text) d.classList.add("a11y-text-" + p.text);
+    for (const k of ["contrast", "links", "readable", "spacing", "no-motion", "cursor"]) if (p[k]) d.classList.add("a11y-" + k);
+    window.dispatchEvent(new CustomEvent("ym:a11y", { detail: p }));
+  }
+
+  function sync(dlg: HTMLDialogElement, p: Prefs) {
+    dlg.querySelectorAll<HTMLButtonElement>("[data-text]").forEach((b) => b.setAttribute("aria-pressed", String(Number(b.dataset.text) === (p.text || 0))));
+    dlg.querySelectorAll<HTMLButtonElement>("[data-key]").forEach((b) => b.setAttribute("aria-pressed", String(!!p[b.dataset.key!])));
+  }
+
+  function init() {
+    const dlg = document.getElementById("a11y-dialog") as HTMLDialogElement | null;
+    if (!dlg || dlg.dataset.ready) return;
+    dlg.dataset.ready = "1";
+    dlg.addEventListener("click", (e) => {
+      const t = e.target as HTMLElement;
+      if (t === dlg) { dlg.close(); return; } // backdrop click
+      const p = read();
+      const size = t.closest<HTMLButtonElement>("[data-text]");
+      const tog = t.closest<HTMLButtonElement>("[data-key]");
+      if (size) p.text = Number(size.dataset.text) || 0;
+      else if (tog) p[tog.dataset.key!] = !p[tog.dataset.key!];
+      else if (t.closest("[data-reset]")) { save({}); apply({}); sync(dlg, {}); return; }
+      else return;
+      save(p); apply(p); sync(dlg, p);
+    });
+  }
+  document.addEventListener("click", (e) => {
+    const opener = (e.target as HTMLElement).closest("[data-open-a11y]");
+    if (!opener) return;
+    init();
+    const dlg = document.getElementById("a11y-dialog") as HTMLDialogElement;
+    sync(dlg, read());
+    dlg.showModal();
+  });
+  // Keyboard shortcut Alt+A (common on Israeli sites)
+  document.addEventListener("keydown", (e) => {
+    if (e.altKey && (e.key === "a" || e.key === "ש" || e.code === "KeyA")) {
+      e.preventDefault();
+      (document.querySelector("[data-open-a11y]") as HTMLElement | null)?.click();
+    }
+  });
+</script>
+
+<style>
+  .a11y-dialog { width: min(440px, calc(100vw - 24px)); max-height: calc(100dvh - 24px); }
+  .inner { padding: 22px; display: grid; gap: 18px; }
+  .head { display: flex; justify-content: space-between; align-items: center; }
+  .head h2 { font-size: var(--step-1); display: flex; align-items: center; gap: 10px; margin: 0; }
+  fieldset { border: 0; padding: 0; margin: 0; }
+  legend { font-weight: 700; margin-bottom: 8px; }
+  .seg { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+  .seg-btn { min-height: 56px; border: 1.5px solid var(--line); border-radius: 12px; background: var(--card); color: var(--ink); font: inherit; font-size: .9rem; cursor: pointer; display: grid; place-items: center; line-height: 1.2; padding: 6px 2px; }
+  .seg-btn[aria-pressed="true"] { border-color: var(--bordeaux); background: color-mix(in oklab, var(--bordeaux) 12%, var(--card)); font-weight: 700; }
+  .toggles { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .toggle { width: 100%; display: flex; align-items: center; gap: 14px; text-align: start; padding: 10px 12px; border-radius: 12px; border: 1.5px solid var(--line); background: var(--card); color: var(--ink); font: inherit; cursor: pointer; min-height: 56px; }
+  .toggle small { display: block; color: var(--ink-mute); font-size: .85rem; }
+  .sw { flex: none; width: 44px; height: 26px; border-radius: 999px; background: var(--paper-3); border: 1.5px solid var(--line); position: relative; transition: background .2s; }
+  .sw::after { content: ""; position: absolute; top: 2px; inset-inline-start: 2px; width: 19px; height: 19px; border-radius: 50%; background: var(--ink-mute); transition: inset-inline-start .2s, background .2s; }
+  .toggle[aria-pressed="true"] { border-color: var(--bordeaux); }
+  .toggle[aria-pressed="true"] .sw { background: var(--bordeaux); border-color: var(--bordeaux); }
+  .toggle[aria-pressed="true"] .sw::after { inset-inline-start: 20px; background: var(--paper); }
+  .foot { display: flex; justify-content: space-between; align-items: center; }
+  .note { margin: 0; color: var(--ink-mute); font-size: .85rem; }
+</style>

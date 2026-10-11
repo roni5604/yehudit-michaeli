@@ -1,0 +1,53 @@
+{
+  "slug": "barvaz-tapuzim-vesoya",
+  "title": "ברווז בתפוזים וסויה",
+  "titleEn": "Duck with Orange, Soy and Sesame",
+  "description": "ברווזים שנצלים מכוסים בנייר אלומיניום עם פרוסות תפוז, מיץ הדרים, רוטב סויה ושמן שומשום. הרוטב המרוכז בתבנית מתאים מאוד לאורז לבן.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "ברווז"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית צלייה גדולה",
+  "prepMin": 20,
+  "cookMin": 70,
+  "totalMin": 90,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 2, "unit": null, "item": "ברווזים מנוקים", "note": null, "raw": "2 ברווזים מנוקים" },
+      { "qty": 2, "unit": null, "item": "תפוזים", "note": "מקולפים וחתוכים לפרוסות", "raw": "2 תפוזים מקולפים וחתוכים לפרוסות" },
+      { "qty": null, "unit": null, "item": "קליפת תפוז", "note": "מגוררת, מהתפוזים המקולפים", "raw": "קליפת תפוז מגוררת (מהתפוזים המקולפים)" },
+      { "qty": null, "unit": null, "item": "קליפת לימון", "note": "מגוררת", "raw": "קליפת לימון מגוררת" },
+      { "qty": 0.5, "unit": "כוס", "item": "מיץ תפוזים טרי", "note": "או פריגת", "raw": "½ כוס מיץ תפוזים טרי (או פריגת)" },
+      { "qty": 2, "unit": "כפיות", "item": "מיץ לימון", "note": null, "raw": "2 כפיות מיץ לימון" },
+      { "qty": 0.5, "unit": "כוס", "item": "מים", "note": "לדילול המיץ", "raw": "½ כוס מים לדילול המיץ" },
+      { "qty": 4, "unit": "כפות", "item": "רוטב סויה", "note": null, "raw": "4 כפות רוטב סויה" },
+      { "qty": 4, "unit": "כפות", "item": "שמן שומשום", "note": null, "raw": "4 כפות שמן שומשום" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את רוטב הסויה עם שמן השומשום ומורחים על הברווזים.", "timerMin": null },
+      { "text": "מערבבים את מיץ התפוזים עם מיץ הלימון והמים. מטפטפים כמה כפיות מהתערובת לתוך הברווזים.", "timerMin": null },
+      { "text": "מניחים פרוסות תפוז על הברווזים כשהחזה כלפי מעלה, מפזרים את הקליפות המגוררות ומעבירים לתבנית.", "timerMin": null },
+      { "text": "שופכים לתבנית את שאר תערובת המיץ ומכסים בנייר אלומיניום.", "timerMin": null },
+      { "text": "אופים ב-175 מעלות 45 דקות.", "timerMin": 45 },
+      { "text": "מסירים את הנייר וממשיכים לאפות עוד 20 עד 30 דקות, עד שהעור מזהיב מעט.", "timerMin": 20 },
+      { "text": "אם הנוזלים בתחתית התבנית מתמעטים ונשאר רק שומן, מוסיפים מעט מים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "הרוטב שנשאר בתבנית מרוכז ומתאים מאוד להגשה עם אורז לבן."
+  ],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "Two roasted ducks with golden-brown skin on a baking tray with orange slices and a dark soy-citrus glaze, served alongside white rice",
+  "alt": "ברווז צלוי זהוב עם פרוסות תפוז ורוטב סויה כהה, לצד אורז לבן",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

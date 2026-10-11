@@ -1,0 +1,44 @@
+{
+  "slug": "betzek-pasta-chalmonim",
+  "title": "בצק פסטה עשיר בחלמונים",
+  "titleEn": "Rich Egg-Yolk Pasta Dough",
+  "description": "בצק פסטה צהוב ועשיר של קמח, תשעה חלמונים וביצה, שמכינים במעבד מזון ומרדדים במכונת פסטה לעובי הרצוי.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian"],
+  "tags": ["פסטה ביתית", "בצק בסיס"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": null,
+  "totalMin": 85,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 400, "unit": "גרם", "item": "קמח", "note": null, "raw": "400 גרם קמח" },
+      { "qty": 9, "unit": null, "item": "חלמונים", "note": null, "raw": "9 חלמונים" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" },
+      { "qty": 20, "unit": "גרם", "item": "מלח", "note": null, "raw": "20 גרם מלח" },
+      { "qty": 1, "unit": "כף", "item": "שמן זית", "note": null, "raw": "1 כף שמן זית" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "שמים במעבד מזון את הקמח ומוסיפים את הביצים תוך כדי עיבוד. מוסיפים את שמן הזית ואת המלח.", "timerMin": null },
+      { "text": "אם הבצק רטוב מדי מוסיפים קמח, ואם הוא יבש מדי מוסיפים ביצה.", "timerMin": null },
+      { "text": "מוציאים את הבצק ועובדים אותו ביד כדקה. מעבירים למקרר.", "timerMin": null },
+      { "text": "אחרי כשעה מעבירים את הבצק במכונת פסטה, עד לעובי הרצוי.", "timerMin": 60 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Golden egg-yolk pasta ribbons draped over a floured wooden board beside a hand-crank pasta machine and a few egg yolks in a small bowl",
+  "alt": "סרטי פסטה צהובים ועשירים בחלמונים על משטח מקומח ליד מכונת פסטה",
+  "originals": [{ "file": "בצקים.docx", "driveId": "1jLvEl21fBou1M3XbnnvCbM1V2HKptmTS" }]
+}

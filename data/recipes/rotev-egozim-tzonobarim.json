@@ -1,0 +1,120 @@
+{
+  "slug": "rotev-egozim-tzonobarim",
+  "title": "רוטב אגוזים וצנוברים",
+  "titleEn": "Walnut and Pine Nut Pasta Sauce",
+  "description": "משחה חלקה מאגוזי מלך, צנוברים, מיורן ושום, עם שמנת ושמן זית, שמערבבים עם פסטה.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 5,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "אגוזי מלך קלופים",
+          "note": null,
+          "raw": "200 גרם אגוזי מלך קלופים"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "צנוברים",
+          "note": "קלויים קלות",
+          "raw": "50 גרם צנוברים, קלויים קלות"
+        },
+        {
+          "qty": 2,
+          "unit": "גבעולי",
+          "item": "מיורן טרי",
+          "note": "עלים בלבד, או טימין, קצוצים",
+          "raw": "2 גבעולי מיורן טרי, עלים בלבד, או טימין, קצוצים"
+        },
+        {
+          "qty": 1,
+          "unit": "שן",
+          "item": "שום",
+          "note": "קצוצה",
+          "raw": "1 שן שום, קצוצה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "מיכל",
+          "item": "שמנת מתוקה לבישול 15%",
+          "note": null,
+          "raw": "½ מיכל שמנת מתוקה לבישול 15%"
+        },
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "⅓ כוס שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינה מגוררת",
+          "note": "לקישוט",
+          "raw": "גבינה מגוררת, לקישוט"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מקלים צנוברים במחבת כדקה, הופכים ומכבים מיד את האש.",
+          "timerMin": null
+        },
+        {
+          "text": "טוחנים במעבד מזון אגוזים, צנוברים, מיורן, שום, שמנת וקורט מלח, עד משחה חלקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לקערה, מוסיפים שמן זית ותיבול, ומערבבים עם הפסטה. מקשטים בגבינה מגוררת.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Pasta tossed in a smooth beige walnut and pine nut sauce, topped with grated cheese",
+  "alt": "פסטה ברוטב אגוזים וצנוברים חלק עם גבינה מגוררת",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

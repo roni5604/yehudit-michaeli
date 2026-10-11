@@ -1,0 +1,155 @@
+{
+  "slug": "levivot-karisha-tapuchei-adama",
+  "title": "לביבות כרישה ותפוחי אדמה",
+  "titleEn": "Leek and Potato Fritters",
+  "description": "לביבות רכות מכרישה ותפוחי אדמה מבושלים ומרוסקים, עם קמחים ופירורי לחם, מטוגנות בשמן עמוק עד השחמה.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "ירקות",
+    "טיגון"
+  ],
+  "servings": null,
+  "yield": "20 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 40,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 700,
+          "unit": "גרם",
+          "item": "כרישה",
+          "note": "2 כרישות נקיות וחתוכות",
+          "raw": "700 גרם כרישה, 2 כרישות נקיות וחתוכות"
+        },
+        {
+          "qty": 400,
+          "unit": "גרם",
+          "item": "תפוחי אדמה",
+          "note": "2 תפוחי אדמה חתוכים לפרוסות עבות",
+          "raw": "400 גרם תפוחי אדמה, 2 תפוחי אדמה חתוכים לפרוסות עבות"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים גדולות",
+          "note": null,
+          "raw": "2 ביצים גדולות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": "שטוחה",
+          "raw": "½ כפית מלח, שטוחה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "פלפל שחור",
+          "note": "שטוחה",
+          "raw": "½ כפית פלפל שחור, שטוחה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "כמון טחון",
+          "note": "קורט",
+          "raw": "קורט כמון טחון"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "קמח חיטה לבן",
+          "note": "שטוחות",
+          "raw": "2 כפות קמח חיטה לבן, שטוחות"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "פירורי לחם",
+          "note": null,
+          "raw": "1 כף פירורי לחם"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "קמח תפוחי אדמה",
+          "note": "שטוחה",
+          "raw": "1 כף קמח תפוחי אדמה, שטוחה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן קנולה",
+          "note": "לטיגון עמוק",
+          "raw": "שמן קנולה, לטיגון עמוק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מי מלח",
+          "note": "לבישול",
+          "raw": "מי מלח, לבישול"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים בסיר עם מי מלח את הכרישות ותפוחי האדמה כחצי שעה, עד שהם רכים.",
+          "timerMin": 30
+        },
+        {
+          "text": "מעבירים למסננת וסוחטים את הנוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מרסקים בממחה כמו פירה, ומוסיפים ביצים, פירורי לחם, תבלינים וקמחים.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים היטב לקבלת מרקם אחיד.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים בשמן עמוק עד השחמה יפה ומעבירים לנייר סופג.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Round golden-brown leek and potato fritters on paper-lined plate",
+  "alt": "לביבות כרישה ותפוחי אדמה מושחמות על צלחת",
+  "originals": [
+    {
+      "file": "לביבות כרישה 2.docx",
+      "driveId": "1UuTEgpvfeDZ4xFr_4znIh-mBChqqwY_z"
+    }
+  ]
+}

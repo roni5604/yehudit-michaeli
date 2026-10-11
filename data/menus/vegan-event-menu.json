@@ -1,0 +1,37 @@
+{
+  "slug": "vegan-event-menu",
+  "title": "מנות לאירוע טבעוני",
+  "titleEn": "Vegan event dishes",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע טבעוני",
+  "kind": "event",
+  "language": "he",
+  "intro": "לא בשר, לא דגים, לא חלב, לא ביצים ולפעמים גם לא דבש.",
+  "sections": [
+    {
+      "name": "מנות",
+      "items": [
+        { "name": "פסטה עם רוטבים טבעוניים" },
+        { "name": "ספרינג רול במילוי ירקות" },
+        { "name": "פטריות פורטבלו ממולאות" },
+        { "name": "קיש בצלים ביין" },
+        { "name": "מוסקה" },
+        { "name": "ריזוטו ירקות" },
+        { "name": "פסטה על בסיס חלב קוקוס" },
+        { "name": "קטניות מונבטות" },
+        { "name": "טופו" }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        { "name": "סיגר שוקולד בקרם קוקוס" },
+        { "name": "מלבי קוקוס" },
+        { "name": "טפיוקה עם מנגו ופסיפלורה" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "מנות טבעוניות.doc", "driveId": "1AVvpj4n-aOyAFB3wtBwj2tZJ0vOrNAMC" }]
+}

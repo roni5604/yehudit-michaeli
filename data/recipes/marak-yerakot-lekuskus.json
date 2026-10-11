@@ -1,0 +1,156 @@
+{
+ "slug": "marak-yerakot-lekuskus",
+ "title": "מרק ירקות לקוסקוס",
+ "titleEn": "Vegetable Soup for Couscous",
+ "description": "מרק בשר וירקות מתובל בכמון וכורכום, עם חומוס, קישואים, כרוב ודלעת, מיועד להגשה על קוסקוס.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "moroccan",
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "קוסקוס",
+  "ארוחה שלמה"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 30,
+ "cookMin": 120,
+ "totalMin": 150,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": null,
+     "unit": null,
+     "item": "בשר",
+     "note": "בקוביות",
+     "raw": "בשר בקוביות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "בצל",
+     "note": null,
+     "raw": "בצל"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גרגרי חומוס",
+     "note": "שהושרו בלילה",
+     "raw": "גרגרי חומוס שהושרו בלילה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "קישואים",
+     "note": null,
+     "raw": "קישואים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "כרוב",
+     "note": null,
+     "raw": "כרוב"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "דלעת",
+     "note": null,
+     "raw": "דלעת"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": null,
+     "raw": "תפוחי אדמה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גזר",
+     "note": null,
+     "raw": "גזר"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "עלי סלרי",
+     "note": null,
+     "raw": "עלי סלרי"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": null,
+     "raw": "פטרוזיליה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "כמון וכורכום",
+     "note": null,
+     "raw": "כמון וכורכום"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים את הבצל עד הזהבה ומוסיפים את קוביות הבשר עד שהן נסגרות.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את גרגרי החומוס שהושרו בלילה, ואחריהם את שאר הירקות.",
+     "timerMin": null
+    },
+    {
+     "text": "מתבלים לפי הטעם ומוסיפים מים.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים כשעתיים.",
+     "timerMin": 120
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "מגישים על קוסקוס."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Moroccan couscous vegetable and meat soup with chickpeas, zucchini, cabbage, pumpkin and carrots in a deep bowl",
+ "alt": "מרק ירקות ובשר עם חומוס, קישואים, כרוב ודלעת להגשה על קוסקוס",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

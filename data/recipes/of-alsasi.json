@@ -1,0 +1,80 @@
+{
+  "slug": "of-alsasi",
+  "title": "עוף מסורתי בנוסח אלזס",
+  "titleEn": "Alsatian-Style Roast Chicken in a Sealed Pot",
+  "description": "שני עופות שלמים ממולאים בג׳ינג׳ר, שום ועשבי תיבול, שנאפים במכסה אטום על מצע תפוחי אדמה, גזר וכרישה עם יין לבן וקונפי לימון. כל הניחוחות נשארים בקדרה.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "קלאסיקה צרפתית", "תבשיל בתנור"],
+  "servings": null,
+  "yield": "2 עופות שלמים",
+  "pan": "תבנית בקאופה או כלי חסין חום עם מכסה הדוק",
+  "prepMin": 30,
+  "cookMin": 60,
+  "totalMin": 90,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 2, "unit": null, "item": "עופות שלמים נקיים", "note": "במשקל 1.1 ק״ג כל אחד", "raw": "2 עופות נקיים, במשקל 1.1 ק״ג כל אחד" }
+    ] },
+    { "group": "ירקות לקדרה", "items": [
+      { "qty": 1.6, "unit": "ק״ג", "item": "תפוחי אדמה", "note": "קלופים", "raw": "1.6 ק״ג תפוחי אדמה, קלופים" },
+      { "qty": 5, "unit": null, "item": "גזרים", "note": null, "raw": "5 גזרים" },
+      { "qty": 5, "unit": null, "item": "גבעולי כרישה", "note": null, "raw": "5 גבעולי כרישה" },
+      { "qty": 2.5, "unit": null, "item": "בצלים", "note": null, "raw": "2½ בצלים" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח, פלפל" },
+      { "qty": 1, "unit": "כף", "item": "תערובת תבלינים מרוקאית (ראס אל חנות)", "note": null, "raw": "1 כף תערובת תבלינים מרוקאית (ראס אל חנות)" }
+    ] },
+    { "group": "למילוי העופות", "items": [
+      { "qty": 1, "unit": null, "item": "שורש ג׳ינג׳ר קטן", "note": null, "raw": "שורש ג׳ינג׳ר קטן" },
+      { "qty": null, "unit": null, "item": "עלי דפנה", "note": null, "raw": "עלי דפנה" },
+      { "qty": 1, "unit": "ענף", "item": "תימין", "note": null, "raw": "ענף תימין" },
+      { "qty": 1, "unit": "ענף", "item": "רוזמרין", "note": null, "raw": "ענף רוזמרין" },
+      { "qty": 7.5, "unit": "שיני", "item": "שום", "note": null, "raw": "7½ שיני שום" },
+      { "qty": 0.5, "unit": null, "item": "לימון", "note": null, "raw": "½ לימון" }
+    ] },
+    { "group": "נוזלים לבישול", "items": [
+      { "qty": 2.5, "unit": "כוסות", "item": "יין לבן יבש", "note": null, "raw": "2½ כוסות יין לבן יבש" },
+      { "qty": 2.5, "unit": "כוסות", "item": "מרק עוף צח", "note": null, "raw": "2½ כוסות מרק עוף צח" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח, פלפל" },
+      { "qty": 100, "unit": "גרם", "item": "קונפי לימון", "note": null, "raw": "100 גרם קונפי לימון" }
+    ] },
+    { "group": "לאיטום הקדרה", "items": [
+      { "qty": null, "unit": null, "item": "קמח", "note": "לבצק איטום", "raw": "קמח" },
+      { "qty": null, "unit": null, "item": "מים", "note": null, "raw": "מים" },
+      { "qty": null, "unit": null, "item": "שמן", "note": null, "raw": "שמן" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הירקות", "items": [
+      { "text": "חותכים את תפוחי האדמה לפרוסות עבות, ממליחים ומפלפלים.", "timerMin": null },
+      { "text": "חותכים את הגזר, הכרישה והבצל לפרוסות דקות ומערבבים עם תפוחי האדמה ועם שמן זית.", "timerMin": null }
+    ] },
+    { "group": "הרכבה", "items": [
+      { "text": "מחממים את התנור ל-200 מעלות.", "timerMin": null },
+      { "text": "משמנים את תבנית הבקאופה, או כל תבנית חסינת חום עם מכסה הדוק.", "timerMin": null },
+      { "text": "מפזרים את הירקות בתחתית התבנית ומתבלים במלח, בפלפל וב״ראס אל חנות״.", "timerMin": null },
+      { "text": "ממלאים את חלל העופות בג׳ינג׳ר, עלי דפנה, תימין, רוזמרין, שום וחצי הלימון.", "timerMin": null },
+      { "text": "מניחים את העופות בתבנית בין הירקות.", "timerMin": null },
+      { "text": "יוצקים את היין והמרק ומוסיפים את קונפי הלימון.", "timerMin": null }
+    ] },
+    { "group": "איטום ואפייה", "items": [
+      { "text": "מכסים את הכלי היטב ואוטמים אותו בבצק שמכינים מקמח, מים ושמן.", "timerMin": null },
+      { "text": "אופים שעה בתנור. הבצק צריך להשחים; את הבצק עצמו לא אוכלים.", "timerMin": 60 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Two golden roast chickens nestled among sliced potatoes, carrots and leeks in an earthenware baeckeoffe casserole, with a browned dough seal around the rim and sprigs of thyme and rosemary",
+  "alt": "שני עופות צלויים בין פרוסות תפוחי אדמה, גזר וכרישה בקדרת חרס עם חותם בצק מושחם",
+  "originals": [
+    { "file": "חזה מולארד מזוגג ועוף אלזסי.doc", "driveId": "1l7MIlDVMGALbjsaBw0etpamty3YMbMJp" }
+  ]
+}

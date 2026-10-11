@@ -1,0 +1,148 @@
+{
+  "slug": "itriyot-yerukot-kemach-male",
+  "title": "איטריות ירוקות מקמח מלא ברוטב צנוברים",
+  "titleEn": "Green Whole-Wheat Spinach Noodles with Pine Nut Sauce",
+  "description": "איטריות ביתיות מקמח מלא ותרד חלוט, עם רוטב סמיך של צנוברים, קרם פרש ופרמזן.",
+  "category": "pasta",
+  "subcategory": "noodles",
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 10,
+  "totalMin": 70,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": "לבצק",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "עלי תרד חלוטים",
+          "note": "קצוצים דק מאוד",
+          "raw": "1 כוס עלי תרד חלוטים, קצוצים דק מאוד"
+        },
+        {
+          "qty": 0.25,
+          "unit": "ק״ג",
+          "item": "קמח חיטה מלא",
+          "note": null,
+          "raw": "¼ ק״ג קמח חיטה מלא"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": null,
+          "raw": "1 ביצה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "½ כפית מלח"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "1 כף שמן זית"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 40,
+          "unit": "גרם",
+          "item": "צנוברים",
+          "note": null,
+          "raw": "40 גרם צנוברים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן חמניות",
+          "note": null,
+          "raw": "2 כפות שמן חמניות"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "קרם פרש",
+          "note": null,
+          "raw": "1 גביע קרם פרש"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "פרמזן",
+          "note": null,
+          "raw": "50 גרם פרמזן"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חולטים את התרד במים רותחים וקוצצים דק מאוד.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצרים תלולית קמח על משטח עבודה, עושים גומה ויוצקים לתוכה ביצה, שמן זית, מלח ותרד, ולשים לבצק חלק.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים בצד חצי שעה.",
+          "timerMin": 30
+        },
+        {
+          "text": "מרדדים לעלה דק וחותכים לרצועות ארוכות.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים בהרבה מים מומלחים עד לריכוך הרצוי.",
+          "timerMin": null
+        },
+        {
+          "text": "קוצצים דק את הצנוברים ומוסיפים בהדרגה שמן, קרם פרש ופרמזן, ומערבבים לרוטב סמיך.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים על האיטריות החמות ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "אחוזת יערות הכרמל",
+    "rewritten": true
+  },
+  "imagePrompt": "Handmade green spinach tagliatelle in a thick creamy pine nut sauce with Parmesan on a plate",
+  "alt": "טליאטלה ירוקה מתרד ברוטב קרמי של צנוברים ופרמזן",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

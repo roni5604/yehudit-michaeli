@@ -1,0 +1,58 @@
+{
+  "slug": "shipudei-perot-flambe",
+  "title": "שיפודי פירות פלמבה",
+  "titleEn": "Flambéed Fruit Skewers",
+  "description": "שיפודי פירות עונתיים בדבש, לימון ורוזמרין, צלויים קלות ומוגשים בלהבות. קינוח מרשים לאש של ל״ג בעומר.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian"],
+  "tags": ["ל״ג בעומר", "פלמבה", "אירוח", "מרשים"],
+  "servings": null,
+  "yield": "10 שיפודים",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 5,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 10, "unit": null, "item": "שיפודי במבוק", "note": "באורך בינוני", "raw": "10 שיפודי במבוק באורך בינוני" },
+      { "qty": 2, "unit": null, "item": "תפוחי עץ", "note": null, "raw": "2 תפוחי עץ" },
+      { "qty": 2, "unit": null, "item": "אגסים", "note": null, "raw": "2 אגסים" },
+      { "qty": 1, "unit": null, "item": "מלון קטן", "note": null, "raw": "1 מלון קטן" },
+      { "qty": 1, "unit": null, "item": "תפוז גדול", "note": null, "raw": "1 תפוז גדול" },
+      { "qty": 5, "unit": null, "item": "בננות", "note": null, "raw": "5 בננות" },
+      { "qty": 10, "unit": null, "item": "תותים", "note": null, "raw": "10 תותים" },
+      { "qty": 2, "unit": "כפות", "item": "דבש", "note": null, "raw": "2 כפות דבש" },
+      { "qty": 1, "unit": "כף", "item": "מיץ לימון", "note": null, "raw": "1 כף מיץ לימון" },
+      { "qty": 2, "unit": "ענפים", "item": "רוזמרין", "note": null, "raw": "2 ענפי רוזמרין" },
+      { "qty": 1, "unit": "כוסית", "item": "אלכוהול 95%", "note": null, "raw": "כוסית אלכוהול 95%" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "משרים את השיפודים שעה במים קרים.", "timerMin": 60 },
+      { "text": "חותכים את הפירות לקוביות יפות או לטבעות בגודל אחיד. התותים נשארים שלמים.", "timerMin": null },
+      { "text": "מערבבים את הדבש ואת מיץ הלימון ושופכים על הפירות.", "timerMin": null },
+      { "text": "מפרקים את מחטי הרוזמרין ובוחשים אותם לתוך תערובת הפירות.", "timerMin": null },
+      { "text": "משהים שעה או יותר בקערה מכוסה במקרר.", "timerMin": 60 },
+      { "text": "לפני ההגשה משפדים את הפירות על השיפודים.", "timerMin": null },
+      { "text": "צולים 5 דקות מתחת לגריל, או אופים בתנור בחום גבוה (220 מעלות).", "timerMin": 5 }
+    ] },
+    { "group": "הגשה בלהבות", "items": [
+      { "text": "מניחים את השיפודים בצלחת הגשה חסינת אש.", "timerMin": null },
+      { "text": "שופכים מעל השיפודים את האלכוהול ומדליקים בזהירות.", "timerMin": null },
+      { "text": "מגישים לשולחן לקול תשואות הסועדים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "restaurant", "credit": null, "rewritten": false },
+  "imagePrompt": "Fruit skewers of apple, pear, melon, orange, banana and whole strawberries on bamboo sticks, glazed with honey and topped with blue flames on a fireproof serving dish with rosemary sprigs",
+  "alt": "שיפודי פירות צבעוניים בלהבה כחולה בצלחת הגשה חסינת אש, עם ענפי רוזמרין",
+  "originals": [{ "file": "מתכון לשיפודי פירות.doc", "driveId": "1jaP4DNvJfLFcoscfexWOIxaxDqhcvdRs" }]
+}

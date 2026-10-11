@@ -1,0 +1,159 @@
+{
+  "slug": "salat-aviv",
+  "title": "סלט אביב",
+  "titleEn": "Spring Salad",
+  "description": "סלט כרוב סיני עם אבוקדו, תפוחים וירקות כבושים, בתיבול חרדל ולימון. קליל, פריך ומלא צבע.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "tags": [
+    "קל",
+    "סלט צבעוני"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 0,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ראש כרוב סיני",
+          "note": "חתוך לרצועות",
+          "raw": "1 ראש כרוב סיני, חתוך לרצועות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "אבוקדו",
+          "note": "חתוך לקוביות",
+          "raw": "1 אבוקדו, חתוך לקוביות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "גמבה כבושה",
+          "note": "חתוכה לקוביות",
+          "raw": "1 גמבה כבושה, חתוכה לקוביות"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "מלפפונים כבושים",
+          "note": null,
+          "raw": "2 מלפפונים כבושים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "תפוחים",
+          "note": "קלופים וחתוכים לקוביות",
+          "raw": "2 תפוחים, קלופים וחתוכים לקוביות"
+        },
+        {
+          "qty": 5,
+          "unit": null,
+          "item": "זיתים שחורים",
+          "note": null,
+          "raw": "5 זיתים שחורים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "פטרוזיליה קצוצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": null,
+          "raw": "שמן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל",
+          "note": null,
+          "raw": "פלפל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "חרדל",
+          "note": null,
+          "raw": "חרדל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מיץ לימון או חומץ",
+          "note": null,
+          "raw": "מיץ לימון או חומץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת שום",
+          "note": null,
+          "raw": "אבקת שום"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים בקערה את הכרוב הסיני, האבוקדו, הגמבה הכבושה, המלפפונים הכבושים, התפוחים והזיתים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים פטרוזיליה קצוצה.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים בשמן, מלח, פלפל, חרדל, מיץ לימון או חומץ ואבקת שום, ומערבבים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Colourful spring salad of shredded Chinese cabbage with diced avocado, apple, pickled pepper and black olives, sprinkled with parsley in a wide white bowl",
+  "alt": "סלט כרוב סיני עם קוביות אבוקדו, תפוח, גמבה כבושה וזיתים שחורים בקערה לבנה רחבה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

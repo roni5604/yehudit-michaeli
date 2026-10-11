@@ -1,0 +1,66 @@
+{
+  "slug": "christmas-pudding",
+  "title": "פודינג חג המולד",
+  "titleEn": "Christmas Pudding",
+  "description": "פודינג בריטי מסורתי עשיר בפירות יבשים, בירה כהה וברנדי, שמבשילים בהשריה ובאידוי ומגישים עם רוטב רום וחמאה.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "british",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [],
+  "tags": ["קלאסיקה בריטית", "מנת מסעדה", "מכינים מראש"],
+  "servings": null,
+  "yield": "2 פודינגים",
+  "pan": "2 קערות פודינג משומנות, 8 כוסות כל אחת",
+  "prepMin": 30,
+  "cookMin": 120,
+  "totalMin": 210,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 0.5, "unit": "כוס", "item": "תאנים מיובשות", "note": null, "raw": "½ כוס תאנים מיובשות" },
+      { "qty": 0.75, "unit": "כוס", "item": "קליפות הדרים מסוכרות", "note": null, "raw": "¾ כוס קליפות הדרים מסוכרות" },
+      { "qty": 0.75, "unit": "כוס", "item": "צימוקים כהים", "note": null, "raw": "¾ כוס צימוקים כהים" },
+      { "qty": 0.75, "unit": "כוס", "item": "צימוקים בהירים", "note": null, "raw": "¾ כוס צימוקים בהירים" },
+      { "qty": 1.5, "unit": "כוסות", "item": "בירה כהה", "note": null, "raw": "1½ כוסות בירה כהה" },
+      { "qty": 1.5, "unit": "כוסות", "item": "סוכר חום", "note": null, "raw": "1½ כוסות סוכר חום" },
+      { "qty": 0.5, "unit": "כוס", "item": "אגוזים כתושים", "note": null, "raw": "½ כוס אגוזים כתושים" },
+      { "qty": 0.5, "unit": "כוס", "item": "פירורי לחם", "note": null, "raw": "½ כוס פירורי לחם" },
+      { "qty": 200, "unit": "גרם", "item": "חמאה", "note": "רכה", "raw": "200 גרם חמאה רכה" },
+      { "qty": 1, "unit": "כוס", "item": "קמח לבן", "note": null, "raw": "1 כוס קמח לבן" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" },
+      { "qty": 0.25, "unit": "כוס", "item": "ברנדי", "note": null, "raw": "¼ כוס ברנדי" },
+      { "qty": 1, "unit": "כפית", "item": "מלח", "note": null, "raw": "1 כפית מלח" },
+      { "qty": 1.5, "unit": "כפיות", "item": "אבקת אפייה", "note": null, "raw": "1½ כפיות אבקת אפייה" },
+      { "qty": 1, "unit": "כפית", "item": "סודה לשתייה", "note": null, "raw": "1 כפית סודה לשתייה" },
+      { "qty": 1.75, "unit": "כפיות", "item": "תערובת תבלינים", "note": "ג׳ינג׳ר, ציפורן, קינמון ועוד", "raw": "1¾ כפיות תערובת תבלינים (ג׳ינג׳ר, ציפורן, קינמון ועוד)" },
+      { "qty": 1, "unit": null, "item": "תפוז", "note": "קליפה מגוררת דק", "raw": "קליפה מגוררת דק של תפוז אחד" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "משרים את הפירות המיובשים בבירה למשך שעה.", "timerMin": 60 },
+      { "text": "טורפים את הביצים עם הסוכר והברנדי.", "timerMin": null },
+      { "text": "מוסיפים את האגוזים, פירורי הלחם והחמאה, ולבסוף את הפירות עם הבירה.", "timerMin": null },
+      { "text": "מנפים פנימה את הקמח, אבקת האפייה, הסודה והתבלינים, ומערבבים היטב.", "timerMin": null },
+      { "text": "ממלאים 2 קערות פודינג משומנות היטב, בנפח 8 כוסות כל אחת, ומכסים בחוזקה בנייר אלומיניום.", "timerMin": null },
+      { "text": "מניחים את הקערות בתבנית אפייה עמוקה מרופדת במגבת מטבח, ממלאים עד שליש במים רותחים.", "timerMin": null },
+      { "text": "אופים בתנור שחומם מראש ל-180 מעלות שעתיים. בודקים ומוסיפים מים רותחים לפי הצורך.", "timerMin": 120 }
+    ] },
+    { "group": "אחסון והגשה", "items": [
+      { "text": "מאחסנים במקום קריר. הפודינג הכי טעים אחרי שלושה שבועות.", "timerMin": null },
+      { "text": "לפני ההגשה מחממים שוב בתנור כ-45 דקות.", "timerMin": 45 },
+      { "text": "מגישים עם רוטב רום וחמאה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "הפודינג משתבח עם הזמן: מכינים כשלושה שבועות לפני ההגשה ומאחסנים במקום קריר."
+  ],
+  "story": null,
+  "source": { "type": "restaurant", "credit": "מסעדת מיכאלי, רשפון", "rewritten": false },
+  "imagePrompt": "A dark round Christmas pudding turned out on a plate, glossy with rum and butter sauce poured over it, topped with a sprig of holly, and a few slices showing the dense fruit-studded crumb",
+  "alt": "פודינג חג מולד כהה ועגול עם רוטב רום וחמאה מעליו, ופרוסות שחושפות פירות יבשים",
+  "originals": [{ "file": "Christmas Pudding.doc", "driveId": "1j2HKTrbBixFc6-tJeSBMxyv6yBAP1TXT" }]
+}

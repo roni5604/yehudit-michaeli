@@ -1,0 +1,112 @@
+{
+  "slug": "yerakot-mezugagim",
+  "title": "ירקות מזוגגים",
+  "titleEn": "Glazed Carrots or Shallots",
+  "description": "גזר או בצלי שאלוט מבושלים במחבת בחמאה וסוכר, מתחת לנייר פרגמנט, עד שהם מצופים בקרמל מבריק ועדיין קראנצ׳יים.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "tags": [
+    "תוספת",
+    "טכניקה",
+    "מנת מסעדה"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": "מחבת שחורה",
+  "prepMin": 10,
+  "cookMin": 25,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גזר או בצלי שאלוט",
+          "note": "בשכבה אחת במחבת שחורה",
+          "raw": "גזר או בצלי שאלוט, בשכבה אחת במחבת שחורה"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "50 גרם חמאה"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "סוכר",
+          "note": null,
+          "raw": "50 גרם סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": "קורט",
+          "raw": "קורט מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מים",
+          "note": "לפי הצורך",
+          "raw": "מים לפי הצורך"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מסדרים את הירק בשכבה אחת במחבת שחורה, עם החמאה, הסוכר, קורט מלח ומעט מים.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים בנייר פרגמנט עגול, שמכסה את המחבת ושוליו יושבים על המחבת, ופותחים חור באמצע ליציאת האדים.",
+          "timerMin": null
+        },
+        {
+          "text": "בודקים שהמים לא התאדו, כי יש סכנה לחריכה.",
+          "timerMin": null
+        },
+        {
+          "text": "מכיוון שנוצר במחבת קרמל, מוסיפים בכל פעם עוד מעט מים עד שהירק מוכן.",
+          "timerMin": null
+        },
+        {
+          "text": "מוודאים שהירק לא יהיה רך מדי ושיישאר קראנצ׳י.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "restaurant",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Glossy caramel-glazed baby carrots and whole shallots in a single layer in a black skillet, with a round of parchment paper beside it",
+  "alt": "גזר ובצלי שאלוט מזוגגים בקרמל מבריק במחבת שחורה",
+  "originals": [
+    {
+      "file": "ירקות מזוגגים.doc",
+      "driveId": "1OXX3psQId5_3bwTOTpLZtr2ufkzF49QG"
+    }
+  ]
+}

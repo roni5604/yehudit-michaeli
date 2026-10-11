@@ -1,0 +1,50 @@
+{
+  "slug": "brownies-charlie",
+  "title": "הבראוניז של צ׳רלי",
+  "titleEn": "Charlie's Brandy and Hazelnut Brownies",
+  "description": "בראוניז חמאתיים עם שוקולד מריר, ברנדי ואגוזי לוז שבורים גס, שנאפים בחום עדין עד שהמרכז נשאר גמיש.",
+  "category": "cakes",
+  "subcategory": "chocolate-cakes",
+  "cuisine": "american",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["שוקולד", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית מרופדת בנייר אפייה",
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 100, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "100 גרם שוקולד מריר" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": null, "raw": "150 גרם חמאה" },
+      { "qty": 250, "unit": "גרם", "item": "סוכר", "note": null, "raw": "250 גרם סוכר" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" },
+      { "qty": 100, "unit": "גרם", "item": "קמח", "note": null, "raw": "100 גרם קמח" },
+      { "qty": 2, "qtyMax": 3, "unit": "כפות", "item": "ברנדי", "note": null, "raw": "2-3 כפות ברנדי" },
+      { "qty": 1, "unit": "כוס", "item": "אגוזי לוז", "note": "שבורים גס", "raw": "1 כוס אגוזי לוז שבורים גס" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "ממיסים שוקולד וחמאה.", "timerMin": null },
+      { "text": "מערבלים היטב סוכר, חמאה וביצים.", "timerMin": null },
+      { "text": "מוסיפים שוקולד מומס וברנדי, ואחר כך אגוזים וקמח.", "timerMin": null },
+      { "text": "יוצקים לתבנית מרופדת בנייר אפייה ואופים ב-150 מעלות כ-20 עד 30 דקות. המרכז צריך להישאר גמיש.", "timerMin": 20 },
+      { "text": "פורסים לריבועים בעוד העוגה חמה, מצננים ומאחסנים בקופסה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "friend", "credit": "צ׳רלי", "rewritten": false },
+  "imagePrompt": "Glossy dark chocolate brownie squares with a thin shiny crust and chopped hazelnuts on top, arranged on a plate over parchment paper",
+  "alt": "ריבועי בראוניז שוקולד עם אגוזי לוז קצוצים, על נייר אפייה",
+  "originals": [
+    { "file": "בראוניס.doc", "driveId": "1AOShcioLXFhwIqt7tZw4CeZ3FI4geDui" },
+    { "file": "בראוניס.doc", "driveId": "147nSf2x_ENkyN0RPJzVscbMWTLvT21ZU" }
+  ]
+}

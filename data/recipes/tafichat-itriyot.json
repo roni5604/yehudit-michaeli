@@ -1,0 +1,106 @@
+{
+  "slug": "tafichat-itriyot",
+  "title": "תפיחת איטריות",
+  "titleEn": "Austro-Hungarian Noodle Puff",
+  "description": "תפיחה אוסטרו-הונגרית מפתיתים, שמנת חמוצה ופסטרמה מעושנת, עם חלבונים מקצפים שמרימים אותה.",
+  "category": "pasta",
+  "subcategory": "noodles",
+  "cuisine": "polish-ashkenazi",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 40,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פתיתים מרובעים",
+          "note": "מבושלים אל דנטה במי מלח",
+          "raw": "1 חבילה פתיתים מרובעים, מבושלים אל דנטה במי מלח"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "מרגרינה מומסת",
+          "note": "ועוד מעט לשימון התבנית",
+          "raw": "2 כפיות מרגרינה מומסת, ועוד מעט לשימון התבנית"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "1 גביע שמנת חמוצה"
+        },
+        {
+          "qty": 150,
+          "unit": "גרם",
+          "item": "פסטרמה מעושנת",
+          "note": "בקוביות; או 2 כפות בייקוס מסויה לשומרי כשרות",
+          "raw": "150 גרם פסטרמה מעושנת, בקוביות; או 2 כפות בייקוס מסויה לשומרי כשרות"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "ביצים",
+          "note": "מופרדות",
+          "raw": "3 ביצים, מופרדות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את החלמונים עם הפתיתים, המרגרינה, השמנת החמוצה, הפסטרמה והתיבול.",
+          "timerMin": null
+        },
+        {
+          "text": "מקציפים את החלבונים ומקפלים לתערובת.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לתבנית משומנת ואופים עד השחמה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "לא מתכון איטלקי אלא אוסטרו-הונגרי."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "האמא של הבשלניות",
+    "rewritten": true
+  },
+  "imagePrompt": "Golden puffed noodle bake with diced smoked pastrami in a round baking dish",
+  "alt": "תפיחת איטריות זהובה ותפוחה עם קוביות פסטרמה בתבנית עגולה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

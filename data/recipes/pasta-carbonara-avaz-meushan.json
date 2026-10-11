@@ -1,0 +1,112 @@
+{
+  "slug": "pasta-carbonara-avaz-meushan",
+  "title": "פסטה קרבונרה באווז מעושן",
+  "titleEn": "Carbonara with Smoked Goose",
+  "description": "קרבונרה כשרה עם פרוסות אווז מעושן, שמנת וחלמון, שמוגשת מיד על פסטה חמה.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "mixed",
+  "diet": [],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "אווז מעושן",
+          "note": "פרוס דק וקטן",
+          "raw": "100 גרם אווז מעושן, פרוס דק וקטן"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "2 כפות שמן זית"
+        },
+        {
+          "qty": 1,
+          "unit": "שקית",
+          "item": "שמנת רגילה",
+          "note": "או שמנת צמחית",
+          "raw": "1 שקית שמנת רגילה, או שמנת צמחית"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "חלמון ביצה",
+          "note": null,
+          "raw": "1 חלמון ביצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל לבן טחון דק",
+          "note": null,
+          "raw": "מלח ופלפל לבן טחון דק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פסטה",
+          "note": "מבושלת טרי",
+          "raw": "פסטה, מבושלת טרי"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים במחבת את פרוסות האווז בשמן עד שהן כמעט משחימות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שמנת, מלח ופלפל ומביאים לרתיחה תוך בחישה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הפסטה שבושלה זה עתה, מערבבים ומכבים את האש.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים על הפסטה החמה את החלמון, מערבבים במהירות ומגישים מיד.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אם משתמשים בשמנת צמחית, המנה בשרית ופרווה."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "אתר האוכל של ג׳אקומו",
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti carbonara with strips of smoked goose in a creamy egg sauce and cracked white pepper",
+  "alt": "ספגטי קרבונרה עם רצועות אווז מעושן ברוטב שמנת וחלמון",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

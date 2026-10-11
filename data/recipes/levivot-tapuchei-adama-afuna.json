@@ -1,0 +1,130 @@
+{
+  "slug": "levivot-tapuchei-adama-afuna",
+  "title": "לביבות תפוחי אדמה ואפונה ירוקה",
+  "titleEn": "Potato and Green Pea Latkes",
+  "description": "לביבות מפירה תפוחי אדמה, אפונה ירוקה, שום ובולגרית מגוררת.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "לביבות",
+    "ירקות"
+  ],
+  "servings": null,
+  "yield": "כ-15 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "תפוח אדמה",
+          "note": "מבושל ומעוך",
+          "raw": "1 תפוח אדמה, מבושל ומעוך"
+        },
+        {
+          "qty": 1.5,
+          "unit": "כוסות",
+          "item": "אפונה קפואה",
+          "note": "חלוטה 2 דקות במים רותחים",
+          "raw": "1½ כוסות אפונה קפואה, חלוטה 2 דקות במים רותחים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": "טרופות",
+          "raw": "2 ביצים, טרופות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "פירורי לחם",
+          "note": null,
+          "raw": "½ כוס פירורי לחם"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "כתושות",
+          "raw": "2 שיני שום, כתושות"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "גבינה בולגרית",
+          "note": "מגוררת",
+          "raw": "2 כפות גבינה בולגרית, מגוררת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור",
+          "note": null,
+          "raw": "מלח ופלפל שחור"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל המרכיבים לבלילה.",
+          "timerMin": null
+        },
+        {
+          "text": "את הירקות רצוי להניח במסננת ולסחוט היטב, ולערבב בבלילה ממש לפני הטיגון, כדי למנוע הצטברות נוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן בגובה 2 ס״מ במחבת שטוחה, לוקחים כף מהתערובת ומחליקים אותה בעזרת כף שנייה לתוך השמן החם. מטגנים עד שהלביבות מזהיבות משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Round golden potato and green pea fritters showing bright green peas on a plate",
+  "alt": "לביבות תפוחי אדמה ואפונה זהובות עם אפונה ירוקה גלויה",
+  "originals": [
+    {
+      "file": "לביבות.doc",
+      "driveId": "1xuFLvagHyRzo2D3INkILBwLWHsn4RcUj"
+    },
+    {
+      "file": "לביבות.doc",
+      "driveId": "1kbI3XvjLsHNnfMDz1d2zR-LmU8aibush"
+    }
+  ]
+}

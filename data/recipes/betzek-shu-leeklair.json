@@ -1,0 +1,44 @@
+{
+  "slug": "betzek-shu-leeklair",
+  "title": "בצק שו לאקלייר",
+  "titleEn": "Choux Pastry for Eclairs",
+  "description": "בצק שו קלאסי של מים, חמאה, קמח וארבע ביצים, שמזלפים לאצבעות ואופים עד שהן תפוחות וחלולות. בסיס לאקלרים.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["בצק בסיס", "קלאסיקה צרפתית"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 25,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 200, "unit": "מ״ל", "item": "מים", "note": null, "raw": "200 מ״ל מים" },
+      { "qty": 100, "unit": "גרם", "item": "חמאה", "note": null, "raw": "100 גרם חמאה" },
+      { "qty": 150, "unit": "גרם", "item": "קמח", "note": null, "raw": "150 גרם קמח" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מרתיחים בסיר את המים והחמאה.", "timerMin": null },
+      { "text": "מורידים מהאש, מוסיפים את הקמח בבת אחת ומערבבים במרץ עד שנוצר בצק חלק.", "timerMin": null },
+      { "text": "מחזירים לאש נמוכה ובוחשים דקה או שתיים, עד שהבצק נפרד מדפנות הסיר. מצננים מעט.", "timerMin": null },
+      { "text": "מוסיפים את הביצים אחת אחת, ומערבבים היטב אחרי כל אחת עד לבצק חלק ומבריק.", "timerMin": null },
+      { "text": "מזלפים אצבעות על תבנית מרופדת בנייר אפייה, ואופים בתנור חם כ-25 דקות, עד שהן תפוחות וזהובות. לא פותחים את התנור בזמן האפייה.", "timerMin": 25 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A tray of freshly baked golden choux pastry fingers, puffed and hollow, lined up on parchment paper before filling",
+  "alt": "אצבעות בצק שו אפויות, תפוחות וזהובות, על נייר אפייה",
+  "originals": [{ "file": "בצקים1.doc", "driveId": "1jWlKe_SBZNcPoXFjncFXIcRM780IPtdW" }]
+}

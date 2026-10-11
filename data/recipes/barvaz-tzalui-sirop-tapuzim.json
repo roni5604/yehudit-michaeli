@@ -1,0 +1,51 @@
+{
+  "slug": "barvaz-tzalui-sirop-tapuzim",
+  "title": "ברווז צלוי בסירופ תפוזים",
+  "titleEn": "Roast Duck with Orange Syrup Glaze",
+  "description": "ברווז שחולטים רגע במים רותחים, ממלאים בפרוסות תפוז וצולים תוך הברשה חוזרת בסירופ סוכר עם גרידת תפוז, עד שהעור שחום ומבריק.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "ברווז"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית צלייה עם רשת",
+  "prepMin": 20,
+  "cookMin": 70,
+  "totalMin": 90,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": null, "item": "ברווז נקי", "note": null, "raw": "1 ברווז נקי" },
+      { "qty": 1, "unit": "כוס", "item": "סוכר", "note": null, "raw": "1 כוס סוכר" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": "לסירופ", "raw": "1 כוס מים לסירופ" },
+      { "qty": null, "unit": null, "item": "גרידת תפוז", "note": null, "raw": "גרידת תפוז" },
+      { "qty": 1, "unit": null, "item": "תפוז", "note": "בפרוסות", "raw": "פרוסות מתפוז אחד" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": null, "raw": "מלח ופלפל" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "חולטים את הברווז 30 שניות בסיר עם מים רותחים.", "timerMin": 0.5 },
+      { "text": "מייבשים היטב ומתבלים במלח ופלפל.", "timerMin": null },
+      { "text": "מניחים בבטן הברווז פרוסות תפוז.", "timerMin": null },
+      { "text": "מבשלים סירופ מכוס מים, כוס הסוכר וגרידת התפוז.", "timerMin": null },
+      { "text": "מברישים את הברווז בסירופ ומניחים על רשת צלייה.", "timerMin": null },
+      { "text": "צולים בתנור ב-250 מעלות כ-10 דקות.", "timerMin": 10 },
+      { "text": "מנמיכים את החום ל-180 מעלות וממשיכים לצלות כשעה, עד שהברווז רך ושחום. מדי רבע שעה מברישים בסירופ ובמיצים שהצטברו בתחתית התבנית.", "timerMin": 60 },
+      { "text": "מגישים עם רוטב תפוזים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "גרסה לברווז פקין מופיעה במתכון נפרד, ללא התפוזים."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A whole roast duck with deep mahogany lacquered skin on a roasting rack, surrounded by orange slices",
+  "alt": "ברווז שלם צלוי עם עור שחום ומבריק, מוקף בפרוסות תפוז",
+  "originals": [{ "file": "ברווז צלוי.doc", "driveId": "1itsulOoUKY1PNl2OcEQTi9HpSnxorCPt" }]
+}

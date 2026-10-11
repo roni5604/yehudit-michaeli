@@ -1,0 +1,53 @@
+{
+  "slug": "betzek-lekish",
+  "title": "בצק לקיש",
+  "titleEn": "Savory Quiche Pastry Dough",
+  "description": "בצק פריך בסיסי לקיש ולטארטים מלוחים, מקמח, חמאה וביצה. מכינים במעבד מזון במהירות ועובדים איתו כמה שפחות.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["בצק בסיס", "קיש"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": null,
+  "totalMin": 10,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 250, "unit": "גרם", "item": "קמח", "note": null, "raw": "250 גרם קמח" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": "בקוביות", "raw": "150 גרם חמאה, בקוביות" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" },
+      { "qty": null, "unit": "קורט", "item": "מלח", "note": null, "raw": "קורט מלח" },
+      { "qty": 2, "unit": "כפות", "item": "מים קרים", "note": "לפי הצורך", "raw": "2 כפות מים קרים, לפי הצורך" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "במעבד מזון מעבדים את הקמח, קוביות החמאה והמלח.", "timerMin": null },
+      { "text": "מוסיפים את הביצה.", "timerMin": null },
+      { "text": "מוסיפים מים במידת הצורך, עד שהבצק מתחבר יחד.", "timerMin": null },
+      { "text": "משתדלים לעבוד עם הבצק מינימום זמן.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "אופים את הקיש ב-180 מעלות.",
+    "לכמות גדולה יותר של בצק לקיש מלוח (מדף אחר): 700 גרם קמח, 300 גרם חמאה, מלח, 2 ביצים ו-4-5 כפות מים.",
+    "בגרסה אחרת של בצק לקיש עוטפים את הבצק בניילון נצמד ומקררים כחצי שעה לפני הרידוד."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A golden blind-baked shortcrust tart shell with fluted edges in a metal tin, set on a wooden board beside a small block of butter",
+  "alt": "תחתית קיש פריכה וזהובה בתבנית מחוררת עם שוליים מסולסלים",
+  "originals": [
+    { "file": "בצק לקיש.doc", "driveId": "1uBFTM2VUfnBYMNb-cjUtVpWirX0o7_Dr" },
+    { "file": "בצק לקיש.doc", "driveId": "1uJC4WXb8C9eR5uRW8IQG3ul3n2mNemQt" },
+    { "file": "בצקים.doc", "driveId": "1hHcVqFDOdWbQKAWksr3nRzbwGDotp1Xj" },
+    { "file": "בצקים1.doc", "driveId": "1jWlKe_SBZNcPoXFjncFXIcRM780IPtdW" }
+  ]
+}

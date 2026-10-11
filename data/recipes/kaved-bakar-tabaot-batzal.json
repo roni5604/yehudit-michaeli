@@ -1,0 +1,46 @@
+{
+  "slug": "kaved-bakar-tabaot-batzal",
+  "title": "כבד בקר עם טבעות בצל",
+  "titleEn": "Pan-Fried Beef Liver with Onion Rings",
+  "description": "פרוסות כבד בקר שמטגנים שתי דקות מכל צד על מצע של טבעות בצל משחימות, כך שהכבד נשאר רך בפנים. פשוט ומהיר.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["מהיר", "פשוט"],
+  "servings": null,
+  "yield": null,
+  "pan": "מחבת עם מכסה",
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": null, "unit": null, "item": "כבד בקר", "note": "בפרוסות", "raw": "כבד בקר בפרוסות" },
+      { "qty": null, "unit": null, "item": "בצל", "note": "בטבעות", "raw": "בצל בטבעות" },
+      { "qty": null, "unit": null, "item": "שמן", "note": "לטיגון", "raw": "שמן לטיגון" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מעט מלח" },
+      { "qty": null, "unit": null, "item": "פלפל שחור גרוס", "note": null, "raw": "פלפל שחור גרוס" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מטגנים טבעות בצל בשמן רגיל עד שהן משחימות.", "timerMin": null },
+      { "text": "מתבלים את הכבד במעט מלח ופלפל שחור גרוס, ומטגנים כל פרוסה כשתי דקות מכל צד על טבעות הבצל. הכבד צריך להישאר רך בפנים.", "timerMin": 2 },
+      { "text": "עדיף לטגן במחבת עם מכסה, כשחריץ צר נשאר פתוח.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "אוכלים מיד: כבד שמחממים מחדש מתקשה.",
+    "אפשר לטגן גם בחמאה."
+  ],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "Pan-fried slices of beef liver resting on a bed of golden-brown caramelized onion rings in a skillet, seasoned with cracked black pepper",
+  "alt": "פרוסות כבד בקר מטוגנות על מצע טבעות בצל זהובות במחבת",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

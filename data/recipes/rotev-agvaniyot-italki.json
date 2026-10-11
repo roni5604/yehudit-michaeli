@@ -1,0 +1,160 @@
+{
+  "slug": "rotev-agvaniyot-italki",
+  "title": "רוטב עגבניות איטלקי",
+  "titleEn": "Italian Tomato Sauce",
+  "description": "רוטב עגבניות עשיר עם ירקות שורש, סלרי ועלי דפנה, שמתבשל כשעה וחצי.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 90,
+  "totalMin": 110,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "בצלים בינוניים",
+          "note": "קצוצים",
+          "raw": "3 בצלים בינוניים, קצוצים"
+        },
+        {
+          "qty": 6,
+          "unit": "כפות",
+          "item": "שמן סויה",
+          "note": null,
+          "raw": "6 כפות שמן סויה"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "2 כפות שמן זית"
+        },
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "עגבניות",
+          "note": "קלופות וקצוצות",
+          "raw": "½ ק״ג עגבניות, קלופות וקצוצות"
+        },
+        {
+          "qty": 1,
+          "unit": "גבעול",
+          "item": "סלרי",
+          "note": "קצוץ",
+          "raw": "1 גבעול סלרי, קצוץ"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "גזר בינוני",
+          "note": "בקוביות קטנות",
+          "raw": "1 גזר בינוני, בקוביות קטנות"
+        },
+        {
+          "qty": 2,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "פרוסות",
+          "raw": "2 שיני שום, פרוסות"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "אבקת מרק",
+          "note": null,
+          "raw": "1 כף אבקת מרק"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "עלי דפנה",
+          "note": null,
+          "raw": "2 עלי דפנה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "ריחן וכמון",
+          "note": null,
+          "raw": "ריחן וכמון"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "200 גרם רסק עגבניות"
+        },
+        {
+          "qty": 3,
+          "unit": "כוסות",
+          "item": "מים",
+          "note": null,
+          "raw": "3 כוסות מים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מרככים את הבצל בתערובת השמנים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את שאר הירקות ומאדים כמה דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את שאר המרכיבים, 3 כוסות מים, מלח ופלפל.",
+          "timerMin": null
+        },
+        {
+          "text": "מביאים לרתיחה, מנמיכים את האש ומבשלים כשעה וחצי.",
+          "timerMin": 90
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "שירה שלו",
+    "rewritten": true
+  },
+  "imagePrompt": "Thick red Italian tomato sauce with visible vegetable pieces simmering in a heavy pot with a bay leaf",
+  "alt": "רוטב עגבניות איטלקי סמיך עם חתיכות ירקות בסיר כבד ועלה דפנה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

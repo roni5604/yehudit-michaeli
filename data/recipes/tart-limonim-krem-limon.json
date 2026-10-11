@@ -1,0 +1,56 @@
+{
+  "slug": "tart-limonim-krem-limon",
+  "title": "טארט לימונים בקרם לימון",
+  "titleEn": "Lemon Curd Tart",
+  "description": "קלתית חמאה מתוקה ממולאת בקרם לימון מבושל מביצים, חלמונים וחמאה, שמסוננים ומצוננים לפני שמורחים אותם בקלתית.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["לימון", "קלאסיקה צרפתית", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית טארט",
+  "prepMin": 30,
+  "cookMin": 35,
+  "totalMin": 125,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 300, "unit": "גרם", "item": "קמח", "note": null, "raw": "300 גרם קמח" },
+      { "qty": 200, "unit": "גרם", "item": "חמאה", "note": null, "raw": "200 גרם חמאה" },
+      { "qty": 100, "unit": "גרם", "item": "סוכר", "note": null, "raw": "100 גרם סוכר" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" },
+      { "qty": null, "unit": null, "item": "גרידת לימון", "note": null, "raw": "גרידת לימון" }
+    ] },
+    { "group": "למלית", "items": [
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" },
+      { "qty": 4, "unit": null, "item": "חלמונים", "note": null, "raw": "4 חלמונים" },
+      { "qty": 0.75, "unit": "כוס", "item": "סוכר", "note": null, "raw": "¾ כוס סוכר" },
+      { "qty": 0.75, "unit": "כוס", "item": "מיץ לימון", "note": null, "raw": "¾ כוס מיץ לימון" },
+      { "qty": 2, "unit": null, "item": "לימונים", "note": "גרידה מהקליפה", "raw": "גרידה מקליפה של 2 לימונים" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": null, "raw": "150 גרם חמאה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבצק", "items": [
+      { "text": "ללוש את הבצק ולצנן אותו במקרר שעה.", "timerMin": 60 },
+      { "text": "מרדדים את הבצק ואופים קלתית.", "timerMin": null }
+    ] },
+    { "group": "המלית", "items": [
+      { "text": "מבשלים את חומרי המלית על אש קטנה עד להסמכה, מסננים ומצננים.", "timerMin": null },
+      { "text": "מורחים את המילוי על הקלתית.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A lemon tart with a smooth glossy yellow lemon curd filling in a golden shortcrust shell, a few slices cut and lemon zest curls on top",
+  "alt": "טארט לימונים עם מלית קרם לימון צהובה וחלקה בקלתית חמאה זהובה",
+  "originals": [
+    { "file": "טארט לימונים.doc", "driveId": "1dHUAN7kC_zPuFIsu2pGwjJPxcl1E_rtG" }
+  ]
+}

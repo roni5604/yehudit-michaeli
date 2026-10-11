@@ -1,0 +1,151 @@
+{
+  "slug": "silvester-2007",
+  "title": "סילבסטר · דינר דאנס · דצמבר 2006",
+  "titleEn": "New Year's Eve dinner dance · December 2006",
+  "date": "2006-12",
+  "season": "winter",
+  "occasion": "סילבסטר",
+  "kind": "holiday",
+  "language": "he",
+  "intro": "סוגרים שנה ב״מיכאלי״ – ארוחת ערב וריקודים סלוניים בשיתוף בית הספר לריקודים “ארתור מאריי”. מוצ״ש 30.12.06 ויום א׳ 31.12.06 בשעה 20:30.",
+  "sections": [
+    {
+      "name": "קבלת פנים",
+      "items": [
+        {
+          "name": "קוקטייל בלאדי מרי או סיידר חם מתובל ברום",
+          "recipeSlug": null
+        },
+        {
+          "name": "ברוסקטות עשבי תיבול",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנות ראשונות · מוגשות כולן לשולחן",
+      "items": [
+        {
+          "name": "ביצים “מכושפות”",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס",
+          "desc": "עם קוויאר",
+          "recipeSlug": null
+        },
+        {
+          "name": "פארפה כבדים",
+          "desc": "עם תאנים ביין",
+          "recipeSlug": null
+        },
+        {
+          "name": "קלאפמרי",
+          "desc": "ממולא בפולנטה עשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי בטטות",
+          "desc": "ברוטב מרווה",
+          "recipeSlug": null
+        },
+        {
+          "name": "טוסטוני איולי",
+          "desc": "עם חזה הודו מתובל",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט וולדורף",
+          "desc": "בעלי עולש",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרסו פטריות",
+          "desc": "עם קרוסטיני כמהין",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית · לבחירתו של כל אורח",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת כרוב כבוש עם בשרים מעושנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת פירות-ים בחמאה מתובלת",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה לברק",
+          "desc": "בשמפניה וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "חזה עוף",
+          "desc": "במעטה פנקו ופיסטוקים ברוטב לימונית",
+          "recipeSlug": null
+        },
+        {
+          "name": "תוספות",
+          "desc": "פירה ערמונים וסלט ירוק",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מזנון קינוחים",
+      "items": [
+        {
+          "name": "קרם ברולה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס שוקולד",
+          "desc": "עם קרוקנט",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "מעדן טפיוקה",
+          "desc": "עם מנגו ופסיפלורה",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס לימונים",
+          "desc": "עם מרנג",
+          "recipeSlug": null
+        },
+        {
+          "name": "תות שדה בקצפת",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "המחיר",
+      "items": [
+        {
+          "name": "כולל יין אדום ולבן, שתייה קלה, שתייה חמה, יין מבעבע וטראפלס בחצות",
+          "price": "600 ₪ לזוג – לא כולל שירות",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט סילבסטר 2007.doc",
+      "driveId": "1zBTd8Q87xIcVKPy52DP0D7b5pEnFFKJS"
+    }
+  ]
+}

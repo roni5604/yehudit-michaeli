@@ -1,0 +1,59 @@
+{
+  "slug": "tavshil-kitniyot-parsi",
+  "title": "תבשיל קטניות פרסי",
+  "titleEn": "Persian Legume Stew",
+  "description": "תבשיל קטניות ריחני של אפונה, עדשים, חומוס ושעועית, מתובל בכורכום וכמון ומוגש עם בצל מטוגן ועשבי תיבול טריים.",
+  "category": "vegetarian",
+  "subcategory": null,
+  "cuisine": "persian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["תבשיל", "קטניות", "ארוחה צמחונית"],
+  "servings": 7,
+  "yield": "6-8 מנות",
+  "pan": "סיר מרק",
+  "prepMin": 25,
+  "cookMin": 70,
+  "totalMin": 215,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "כוס", "item": "אפונה יבשה", "note": null, "raw": "1 כוס אפונה יבשה" },
+      { "qty": 1, "unit": "כוס", "item": "עדשים", "note": null, "raw": "1 כוס עדשים" },
+      { "qty": 2, "unit": null, "item": "בצלים", "note": null, "raw": "2 בצלים" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן", "note": null, "raw": "½ כוס שמן" },
+      { "qty": 1, "unit": "כוס", "item": "חומוס קפוא", "note": null, "raw": "1 כוס חומוס קפוא" },
+      { "qty": 1, "unit": "כוס", "item": "שעועית קפואה", "note": null, "raw": "1 כוס שעועית קפואה" },
+      { "qty": 1, "unit": "כף", "item": "אבקת מרק ללא תוספים", "note": null, "raw": "1 כף אבקת מרק ללא תוספים" },
+      { "qty": 1, "unit": "כפית", "item": "כורכום", "note": null, "raw": "1 כפית כורכום" },
+      { "qty": 1, "unit": "כפית", "item": "פפריקה מתוקה", "note": null, "raw": "1 כפית פפריקה מתוקה" },
+      { "qty": 0.5, "unit": "כפית", "item": "כמון", "note": null, "raw": "½ כפית כמון" },
+      { "qty": 1, "unit": "חופן", "item": "פטרוזיליה וכוסברה", "note": "חופן קטן", "raw": "חופן קטן פטרוזיליה וכוסברה" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח, פלפל שחור" },
+      { "qty": null, "unit": null, "item": "לימונים", "note": "להגשה", "raw": "לימונים להגשה" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "משרים את האפונה והעדשים במים למשך שעתיים.", "timerMin": 120 },
+      { "text": "מקלפים את הבצלים וחותכים לקוביות. מטגנים במחבת עד להזהבה.", "timerMin": null },
+      { "text": "מוציאים מחצית מהבצל המטוגן ושומרים לקישוט.", "timerMin": null },
+      { "text": "בסיר מרק מביאים לרתיחה 4 כוסות מים. מוסיפים את הבצל שנשאר במחבת יחד עם שמן הטיגון.", "timerMin": null },
+      { "text": "מנקזים את האפונה והעדשים, מוסיפים לסיר יחד עם אבקת המרק ומבשלים כחצי שעה, עד שהם מתרככים. טועמים ומתבלים במלח ובפלפל.", "timerMin": 30 },
+      { "text": "מוסיפים את החומוס והשעועית הקפואים, את הכורכום, הפפריקה והכמון. מבשלים עוד כחצי שעה, עד שמרבית המים נספגת בקטניות.", "timerMin": 30 },
+      { "text": "קוצצים היטב את הפטרוזיליה והכוסברה ומוסיפים לסיר. טועמים ומתקנים תיבול.", "timerMin": null },
+      { "text": "מגישים בצלחת ומפזרים מעל את הבצל המטוגן ששמרנו.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "מי שאוהב יכול להוסיף לתבשיל או למנה האישית מיץ לימון טרי.",
+    "במקום חומוס ושעועית קפואים אפשר להשרות לילה חומוס ושעועית יבשים, לבשל עד שהם רכים ואז להוסיף לתבשיל."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Persian legume stew of split peas, lentils, chickpeas and beans in a golden turmeric broth, in a deep bowl topped with crisp fried onions and chopped fresh parsley and coriander, with lemon wedges on the side",
+  "alt": "תבשיל קטניות צהוב עם אפונה, עדשים וחומוס בקערה עמוקה, מעליו בצל מטוגן ועשבי תיבול ולצדו פלחי לימון",
+  "originals": [{ "file": "3תבשיל קטניות פרסי.doc", "driveId": "1wk8KELdNpNxqHRGI8LmjEyPvmeMBm1lL" }]
+}

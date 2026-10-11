@@ -1,0 +1,107 @@
+{
+  "slug": "private-event-2004-12-he-en",
+  "title": "תפריט לאירוע פרטי · דצמבר 2004",
+  "titleEn": "Private event menu · December 2004",
+  "date": "2004-12",
+  "season": "winter",
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he-en",
+  "intro": "ארוחה חגיגית לאירוע משפחתי · רשפון, דצמבר 2004 / A festive family dinner · Rishpon, December 2004",
+  "sections": [
+    {
+      "name": "מנות ראשונות · Appetizers",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "nameEn": "Terrine de Foie Gras – goose liver terrine",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס סלמון",
+          "nameEn": "Gravlax – pickled salmon",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלסילות פילו פריכות במילוי בשר פיקנטי",
+          "nameEn": "A crispy veal bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך · Main course of your choice",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט עם בצל צרוב",
+          "nameEn": "Grilled sirloin steak",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז ברוטב דבש ושבעת התבלינים",
+          "nameEn": "Goose leg confit with honey & spices",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה של דג בורי בשמנת או בשמן זית ועשבי תיבול",
+          "nameEn": "Sea fish fillet in herb cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ תבלינים במילוי ירקות העונה",
+          "nameEn": "Crêpe stuffed with vegetables – vegetarian",
+          "desc": "לצמחונים",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל צ'יפס ותירס",
+          "nameEn": "Schnitzel & French fries – for the youngsters",
+          "desc": "לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים · Desserts",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחים",
+          "nameEn": "Apple strudel",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "nameEn": "Ice cream & fruit sorbet",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט עברי-אנגלי לאירוע פרטי.doc",
+      "driveId": "1-QGRcI7U420ApOWmbMDjux4z56GT2YNX"
+    }
+  ]
+}

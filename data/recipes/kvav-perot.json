@@ -1,0 +1,55 @@
+{
+  "slug": "kvav-perot",
+  "title": "קבב פירות טריים",
+  "titleEn": "Grilled Fresh Fruit Kebabs with Honey and Rosemary",
+  "description": "שיפודי פירות העונה שספוגים ברוטב דבש ורוזמרין, מאבקים בסוכר וצלויים בגריל כשבע דקות. קינוח חם ומרשים לאירוח, עם קערית קצפת.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["שיפודים", "אירוח", "גריל"],
+  "servings": 30,
+  "yield": "30 שיפודים",
+  "pan": null,
+  "prepMin": 40,
+  "cookMin": 10,
+  "totalMin": 300,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 3, "unit": "ק״ג", "item": "פירות", "note": "חתוכים לנתחים: שזיפים, אפרסקים, בננות, אננס, ענבים, קיווי ומנגו", "raw": "3 ק״ג פירות חתוכים לנתחים: שזיפים, אפרסקים, בננות, אננס, ענבים, קיווי, מנגו" },
+      { "qty": 2, "unit": "כוסות", "item": "דבש", "note": null, "raw": "2 כוסות דבש" },
+      { "qty": 4, "unit": "כפיות", "item": "רוזמרין", "note": null, "raw": "4 כפיות רוזמרין" },
+      { "qty": 4, "unit": "כפות", "item": "מים", "note": null, "raw": "4 כפות מים" },
+      { "qty": 30, "unit": null, "item": "שיפודים קטנים", "note": null, "raw": "30 שיפודים קטנים" },
+      { "qty": null, "unit": null, "item": "אבקת סוכר", "note": null, "raw": "אבקת סוכר" },
+      { "qty": null, "unit": null, "item": "קצפת", "note": "בקערית להגשה", "raw": "קערית קצפת להגשה" }
+    ] }
+  ],
+  "steps": [
+    { "group": "רוטב הדבש", "items": [
+      { "text": "מערבבים בסיר קטן את הרוזמרין והדבש עם 4 כפות מים, ומביאים לרתיחה.", "timerMin": null },
+      { "text": "מבשלים על אש קטנה כ-3 דקות, מורידים מהאש ומצננים מספר שעות.", "timerMin": 3 }
+    ] },
+    { "group": "הכנת השיפודים", "items": [
+      { "text": "משרים במים 30 שיפודים קטנים למשך חצי שעה.", "timerMin": 30 },
+      { "text": "שוטפים, מקלפים וחותכים את הפירות לנתחים אחידים בגודלם, שמתאימים לשיפוד ולאכילה.", "timerMin": null },
+      { "text": "משפדים את הפירות, מניחים בכלי רדוד, מכסים ברוטב הדבש ומשהים כ-30 דקות.", "timerMin": 30 }
+    ] },
+    { "group": "צלייה והגשה", "items": [
+      { "text": "מחממים גריל לחום גבוה. מנקזים את הנוזלים מהפירות, בוזקים אבקת סוכר וצולים כ-7 דקות.", "timerMin": 7 },
+      { "text": "מזלפים את הנוזלים שנותרו על השיפודים ומגישים חם, בתוספת קערית קצפת.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Grilled fruit skewers of pineapple, plum, peach, banana, kiwi, grapes and mango, lightly caramelised with grill marks and glossy honey, on a platter with a small bowl of whipped cream and rosemary sprigs",
+  "alt": "שיפודי פירות צלויים בגריל עם אננס, שזיפים, אפרסקים ובננה, מבריקים בדבש, עם קערית קצפת",
+  "originals": [
+    { "file": "טוסט צרפתי.doc", "driveId": "1sQ8aZTT5kFFKMTL-8aWjeHwMNr1OC5IF" }
+  ]
+}

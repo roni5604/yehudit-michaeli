@@ -1,0 +1,201 @@
+{
+  "slug": "menu-en-2004-02",
+  "title": "תפריט באנגלית · פברואר 2004",
+  "titleEn": "English menu · February 2004",
+  "date": "2004-02",
+  "season": "winter",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetisers",
+      "items": [
+        {
+          "name": "Foie Gras Grille",
+          "desc": "Grilled Goose liver served with a Red Berries Sauce",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Anchois et Sardines farci",
+          "desc": "Fried Anchovies and Sardines stuffed with nuts & pickled lemon",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sorentino a la Parisienne",
+          "desc": "Rich dough dumplings filled with smoked goose meat in a Roquefort cream",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Chou farci",
+          "desc": "Stuffed cabbage in a tomato & sauerkraut sauce served with Mamaliga",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crevettes au beurre",
+          "desc": "Shrimps sautéed in seasoned butter",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Coquilles Saint-Jacques",
+          "desc": "Scallops sautéed with fine cut vegetables and orange butter",
+          "price": "50 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Legumes Farcis",
+          "desc": "Mixed vegetables stuffed with rice, mushrooms and herbs",
+          "price": "45 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Salade Verte",
+          "desc": "Tossed green salad with goat's cheese",
+          "price": "35 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Soupe du jour",
+          "desc": "Soup of the Day",
+          "price": "35 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "items": [
+        {
+          "name": "Poitrine de volaille farcie",
+          "desc": "Chicken breast stuffed with smoked goose & Emmental cheese",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Poulet sauté au calvados",
+          "desc": "Sautéed baby chicken cooked with apples & calvados cream",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Entrecote",
+          "desc": "Grilled sirloin steak with mushrooms and onions",
+          "price": "85 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Confit d'Oie",
+          "desc": "Goose leg confit with honey & spices",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Canard a l'Orange",
+          "desc": "Moulard breast in a sweet citrus sauce",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gigot d'agneau",
+          "desc": "Roasted leg of lamb",
+          "price": "90 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Duet Filet de Poisson",
+          "desc": "Sea fish fillet together with a trout fillet in herb cream",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Bar au four",
+          "desc": "Whole bass baked with herbs",
+          "price": "80 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crepes aux Legumes",
+          "desc": "Crêpes filled with vegetables - vegetarian",
+          "price": "65 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Before Dessert",
+      "items": [
+        {
+          "name": "Assortiment de Fromages",
+          "desc": "Selection of Israeli cheeses",
+          "price": "50 nis",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au chocolat",
+          "desc": "Chocolate mousse",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crepes Suzette aux Bananes",
+          "desc": "In Trinidad rum caramel",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbet flavors wrapped in marzipan",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Créme Brulee",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Gateau Chocolat",
+          "desc": "Hot chocolate bake",
+          "price": "32 nis",
+          "recipeSlug": null
+        },
+        {
+          "name": "Éclaires aux Marrons",
+          "desc": "Chestnut cream puffs",
+          "price": "32 nis",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט באנגלית פברואר 2004.doc",
+      "driveId": "1Q6gi3f18wb1Xq-qTGUPRWssIBvyqv9OD"
+    }
+  ]
+}

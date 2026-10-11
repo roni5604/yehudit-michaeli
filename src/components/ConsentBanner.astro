@@ -1,0 +1,101 @@
+---
+// Opt-in consent (privacy-by-default). Nothing optional loads until the visitor
+// chooses "אישור". "דחייה" is equally prominent. Choice stored in localStorage
+// ("ym.consent") for 12 months and can be changed any time from the footer.
+import Icon from "./Icon.astro";
+---
+<section id="consent" class="consent" role="region" aria-labelledby="consent-title" hidden>
+  <div class="box">
+    <div class="txt">
+      <h2 id="consent-title"><Icon name="cookie" /> פרטיות ועוגיות</h2>
+      <p>
+        האתר לא משתמש בעוגיות פרסום או מעקב. אנחנו שומרים בדפדפן שלך רק הגדרות שאת/ה בוחר/ת (מועדפים, רשימת קניות, נגישות).
+        באישורך נפעיל גם <strong>מדידת כניסות אנונימית</strong> (Vercel Web Analytics, ללא עוגיות וללא זיהוי אישי), שעוזרת לנו לדעת אילו מתכונים אהובים.
+        <a href="/cookies">מדיניות העוגיות</a> · <a href="/privacy">מדיניות הפרטיות</a>
+      </p>
+      <details class="prefs">
+        <summary>הגדרות מפורטות</summary>
+        <label class="row"><input type="checkbox" checked disabled class="checkbox" /> <span><strong>הכרחיות</strong>: שמירת ההעדפות שלך בדפדפן. תמיד פעילות.</span></label>
+        <label class="row"><input type="checkbox" id="consent-analytics" class="checkbox" /> <span><strong>מדידה אנונימית</strong>: סטטיסטיקת צפיות מצטברת, בלי עוגיות.</span></label>
+        <button type="button" class="btn btn-ghost btn-sm" data-consent="save">שמירת הבחירה</button>
+      </details>
+    </div>
+    <div class="btns">
+      <button type="button" class="btn" data-consent="accept">אישור</button>
+      <button type="button" class="btn" data-consent="reject">דחייה</button>
+    </div>
+  </div>
+</section>
+
+<script>
+  const KEY = "ym.consent";
+  const VERSION = 1;
+  const YEAR = 365 * 24 * 3600 * 1000;
+  type Consent = { v: number; analytics: boolean; ts: number };
+
+  const read = (): Consent | null => {
+    try {
+      const c = JSON.parse(localStorage.getItem(KEY) || "null") as Consent | null;
+      return c && c.v === VERSION && Date.now() - c.ts < YEAR ? c : null;
+    } catch { return null; }
+  };
+  const save = (analytics: boolean) => {
+    const c = { v: VERSION, analytics, ts: Date.now() };
+    try { localStorage.setItem(KEY, JSON.stringify(c)); } catch {}
+    return c;
+  };
+
+  function loadAnalytics() {
+    if ((window as any).__ymAnalytics) return;
+    (window as any).__ymAnalytics = true;
+    (window as any).va = (window as any).va || function (...a: unknown[]) { ((window as any).vaq = (window as any).vaq || []).push(a); };
+    const s = document.createElement("script");
+    s.defer = true;
+    s.src = "/_vercel/insights/script.js";
+    document.head.appendChild(s);
+  }
+
+  function show(focus = false) {
+    const el = document.getElementById("consent");
+    if (!el) return;
+    const c = read();
+    const box = el.querySelector<HTMLInputElement>("#consent-analytics");
+    if (box) box.checked = !!c?.analytics;
+    el.hidden = false;
+    if (focus) el.querySelector<HTMLElement>("[data-consent=accept]")?.focus();
+  }
+  function hide() { const el = document.getElementById("consent"); if (el) el.hidden = true; }
+
+  function boot() {
+    const c = read();
+    if (c?.analytics) loadAnalytics();
+    if (!c) show();
+  }
+  document.addEventListener("click", (e) => {
+    const t = e.target as HTMLElement;
+    const act = t.closest<HTMLElement>("[data-consent]")?.dataset.consent;
+    if (act) {
+      const analytics = act === "accept" ? true : act === "reject" ? false : !!(document.getElementById("consent-analytics") as HTMLInputElement)?.checked;
+      save(analytics);
+      if (analytics) loadAnalytics();
+      hide();
+      return;
+    }
+    if (t.closest("[data-open-consent]")) show(true);
+  });
+  boot();
+  document.addEventListener("astro:after-swap", () => { if (!read()) show(); });
+</script>
+
+<style>
+  .consent { position: fixed; inset-inline: 12px; bottom: 12px; z-index: 90; display: flex; justify-content: center; pointer-events: none; }
+  .box { pointer-events: auto; width: min(980px, 100%); display: flex; gap: 20px; align-items: flex-end; justify-content: space-between; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 20px; padding: 18px 20px; box-shadow: 0 30px 60px -30px rgb(0 0 0 / .5); }
+  h2 { font-size: 1.15rem; display: flex; gap: 8px; align-items: center; margin: 0 0 6px; font-family: var(--font-body); }
+  p { margin: 0; color: var(--ink-soft); font-size: .98rem; }
+  .btns { display: flex; gap: 10px; flex: none; }
+  .btns .btn { min-width: 112px; }
+  .prefs { margin-top: 10px; }
+  .prefs summary { cursor: pointer; font-weight: 700; color: var(--bordeaux); min-height: 32px; display: flex; align-items: center; }
+  .row { display: flex; gap: 10px; align-items: flex-start; margin: 8px 0; }
+  @media (max-width: 720px) { .box { flex-direction: column; align-items: stretch; } .btns .btn { flex: 1; } }
+</style>

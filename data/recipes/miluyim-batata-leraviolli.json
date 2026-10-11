@@ -1,0 +1,94 @@
+{
+  "slug": "miluyim-batata-leraviolli",
+  "title": "מילויי בטטה לרביולי",
+  "titleEn": "Sweet Potato Fillings for Ravioli",
+  "description": "רעיונות למילוי רביולי על בסיס פירה בטטות אפויות, עם גבינות ותוספות שונות.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 45,
+  "totalMin": 65,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בטטות אפויות",
+          "note": "לפירה",
+          "raw": "בטטות אפויות, לפירה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינת שמנת, ריקוטה, קשקבל או פטה",
+          "note": "לבחירה",
+          "raw": "גבינת שמנת, ריקוטה, קשקבל או פטה, לבחירה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמנת חמוצה",
+          "note": "אפשרות נוספת",
+          "raw": "שמנת חמוצה, אפשרות נוספת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בצל מטוגן, עירית, שום אפוי קלוף או אגוזי מלך קצוצים",
+          "note": "להעשרה",
+          "raw": "בצל מטוגן, עירית, שום אפוי קלוף או אגוזי מלך קצוצים, להעשרה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "אופים את הבטטות ומועכים לפירה. אפייה מפחיתה את המים בפירה ביחס לבישול.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים לפירה גבינה לפי הטעם: שמנת, ריקוטה, קשקבל או פטה, או שמנת חמוצה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים בצל מטוגן, עירית, שום אפוי או אגוזי מלך קצוצים, וממלאים את הרביולי.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מתאים לבצק פסטה ביתי."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Small ravioli filled with orange sweet potato purée, served with sage butter",
+  "alt": "רביולי קטן ממולא בפירה בטטה כתום, עם חמאת מרווה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "maariv-gourmet-2005-03",
+  "title": "שבוע מעריב גורמה · מרץ 2005",
+  "titleEn": "Maariv Gourmet week · March 2005",
+  "date": "2005-03",
+  "season": "spring",
+  "occasion": "שבוע מעריב גורמה",
+  "kind": "event",
+  "language": "he",
+  "intro": "מיכאלי – מטבח כפרי, רשפון · תפריט שהוכן לשבוע מעריב גורמה",
+  "sections": [
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "קיש לוריין",
+          "desc": "על מצע עלעלים יפניים",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק עגבניות פרובאנסאלי",
+          "desc": "עם פתיתי פסטו",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט חסות, עלעלים ופרחי מאכל",
+          "desc": "בוינגרט תות-שדה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "ביף בורגיניון",
+          "desc": "קדירת בקר ביין עם פולנטת עשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "סול מונייר",
+          "desc": "פילה דג סול ברוטב לימונית ומקלוני מלפפון מאודים",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "ברוטב דבש ושבעת התבלינים",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט ירקות העונה",
+          "desc": "לצמחונים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "פלאן קוקוס, לבנדר ותפוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס שוקולד שיכור",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט מעריב גורמה מרץ 2005.doc",
+      "driveId": "12ZggJyOBGxGD9rtZsQdEnvNrGymD7OeC"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ugat-gvina-new-york-giron",
+  "title": "עוגת גבינה ניו יורק סטייל עם בסיס קקאו",
+  "titleEn": "New York Style Cheesecake with Cocoa Cookie Base",
+  "description": "עוגת גבינת שמנת קטנה לתבנית 20, עם בסיס פירורי עוגיות חמאה וקקאו ומילוי וניל חלק. אופים בחום נמוך מאוד ומצננים ללילה.",
+  "category": "cakes",
+  "subcategory": "cheesecakes",
+  "cuisine": "american",
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["עוגת גבינה", "שבועות"],
+  "servings": 8,
+  "yield": null,
+  "pan": "תבנית אפייה בקוטר 20 ס״מ",
+  "prepMin": 25,
+  "cookMin": 90,
+  "totalMin": 720,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לתחתית", "items": [
+      { "qty": 120, "unit": "גרם", "item": "עוגיות חמאה", "note": "מרוסקות", "raw": "120 גרם עוגיות חמאה מרוסקות" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": "מומסת", "raw": "50 גרם חמאה מומסת" },
+      { "qty": 5, "unit": "גרם", "item": "קקאו", "note": null, "raw": "5 גרם קקאו" }
+    ] },
+    { "group": "למילוי", "items": [
+      { "qty": 500, "unit": "גרם", "item": "גבינת שמנת", "note": "בטמפרטורת החדר", "raw": "500 גרם גבינת שמנת בטמפרטורת החדר" },
+      { "qty": 3, "unit": null, "item": "ביצים", "note": null, "raw": "3 ביצים" },
+      { "qty": 1, "unit": null, "item": "מקל וניל", "note": "הגרגרים", "raw": "גרגרים ממקל וניל אחד" },
+      { "qty": 200, "unit": "מ״ל", "item": "שמנת חמוצה", "note": null, "raw": "200 מ״ל שמנת חמוצה" },
+      { "qty": 240, "unit": "גרם", "item": "סוכר", "note": null, "raw": "240 גרם סוכר" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים את פירורי העוגיות עם החמאה והקקאו, ומהדקים בתחתית תבנית האפייה.", "timerMin": null },
+      { "text": "מערבבים את כל חומרי המילוי לעיסה אחידה, בלי להקציף ובלי להחדיר יותר מדי אוויר.", "timerMin": null },
+      { "text": "יוצקים את הבלילה לתבנית ואופים ב-120 מעלות כ-90-120 דקות, עד שהעוגה יציבה אך עדיין רוטטת מעט.", "timerMin": 90 },
+      { "text": "מצננים ומקררים ללילה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "chef", "credit": "אורן גירון", "rewritten": true },
+  "imagePrompt": "A small New York style cheesecake with a dark cocoa cookie crust and a pale smooth top, a slice cut out on a plate",
+  "alt": "עוגת גבינה ניו יורקית קטנה עם בסיס קקאו כהה ופנים חלק ובהיר, פרוסה על צלחת",
+  "originals": [{ "file": "עוגת גבינה ניו יורקית.doc", "driveId": "16v5ccM58FExAaNCC1qXceosSrhAfThcl" }]
+}

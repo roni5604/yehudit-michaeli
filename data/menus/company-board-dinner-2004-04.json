@@ -1,0 +1,79 @@
+{
+  "slug": "company-board-dinner-2004-04",
+  "title": "ארוחת ערב לאירוע חברה · אפריל 2004",
+  "titleEn": "Company board dinner · April 2004",
+  "date": "2004-04",
+  "season": "spring",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he",
+  "intro": "ארוחת ערב לחברי הדירקטוריון",
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "סביצ'ה של טונה לבנה בסלסלה פריכה",
+          "recipeSlug": null
+        },
+        {
+          "name": "ביצקיות ביצים במילוי חזה אווז מעושן",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרחי קישוא ממולאים בבטטה ואגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "עלי גפן באורז ועשבי תבלין",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית צעירה בתפוחים וקלבדוס",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרפר פורל אפוי בעשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "חביתיות-ירק ממולאות בקוויאר ירקות – לצמחונים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה עם גלידת וניל",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחי עץ",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1YtLdzD0XePceuoEQ86Ri6tf8qI9GUr6N"
+    }
+  ]
+}

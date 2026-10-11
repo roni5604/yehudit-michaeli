@@ -1,0 +1,116 @@
+{
+  "slug": "latkes-im-batzal",
+  "title": "לאטקס עם בצל",
+  "titleEn": "Potato Onion Latkes",
+  "description": "לאטקס פשוטים מתפוחי אדמה מגורדים, ביצים ובצל, עם מעט קמח תופח.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "לביבות",
+    "ירקות"
+  ],
+  "servings": null,
+  "yield": "כ-15 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": "כוסות",
+          "item": "תפוחי אדמה",
+          "note": "קלופים ומגוררים",
+          "raw": "3 כוסות תפוחי אדמה, קלופים ומגוררים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "בצל",
+          "note": "קלוף ומגורד",
+          "raw": "2 כפות בצל, קלוף ומגורד"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": "לפי הטעם",
+          "raw": "מלח ופלפל, לפי הטעם"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "2 כפות קמח תופח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל המרכיבים לבלילה.",
+          "timerMin": null
+        },
+        {
+          "text": "את הירקות רצוי להניח במסננת ולסחוט היטב, ולערבב בבלילה ממש לפני הטיגון, כדי למנוע הצטברות נוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן בגובה 2 ס״מ במחבת שטוחה, לוקחים כף מהתערובת ומחליקים אותה בעזרת כף שנייה לתוך השמן החם. מטגנים עד שהלביבות מזהיבות משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Crisp golden potato latkes with lacy edges stacked on a plate",
+  "alt": "לאטקס תפוחי אדמה פריכים וזהובים בערימה על צלחת",
+  "originals": [
+    {
+      "file": "לביבות.doc",
+      "driveId": "1xuFLvagHyRzo2D3INkILBwLWHsn4RcUj"
+    },
+    {
+      "file": "לביבות.doc",
+      "driveId": "1kbI3XvjLsHNnfMDz1d2zR-LmU8aibush"
+    }
+  ]
+}

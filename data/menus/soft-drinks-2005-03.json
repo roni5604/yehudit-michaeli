@@ -1,0 +1,135 @@
+{
+  "slug": "soft-drinks-2005-03",
+  "title": "תפריט שתייה · מרץ 2005",
+  "titleEn": "Drinks list · March 2005",
+  "date": "2005-03",
+  "season": null,
+  "occasion": null,
+  "kind": "drinks",
+  "language": "he",
+  "intro": "הממכר הביתי של יהודית – תוצרת ביתית טבעית ללא חומרים משמרים",
+  "sections": [
+    {
+      "name": "שתייה קלה",
+      "items": [
+        {
+          "name": "קולה / ספרייט / דיאט",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "לימונדה כוס / קנקן",
+          "price": "30/10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מים מינרלים נביעות, חצי ליטר",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מים מינרלים מוגזים 250 / 750 מ״ל",
+          "price": "18/10 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "בירה",
+      "items": [
+        {
+          "name": "טובורג / קרלסברג",
+          "price": "20 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "בירה תוצרת דנמרק FAXE בפחית 5% / 10%",
+          "price": "23/20 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "בירה שחורה",
+          "price": "15 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "שתייה חמה",
+      "items": [
+        {
+          "name": "אספרסו קצר / ארוך",
+          "price": "8 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרסו כפול",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קפה הפוך",
+          "price": "12 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קפה שחור",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "תה בטעמים Ceremonie",
+          "price": "14 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חליטת צמחי הבית",
+          "price": "10 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חליטת פירות",
+          "price": "15 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "הממכר הביתי של יהודית",
+      "items": [
+        {
+          "name": "ריבות: נקטרינות, תות-ג'ינג'ר",
+          "price": "35/15 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "ליקרים: לימונצ'לו, אניס, שקדים",
+          "price": "40 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "דובדבנים-וישינאק",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חומצים: תות, שזיפים",
+          "price": "25 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מחמצים: סלק, פטריות, חצילים",
+          "price": "25 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "שתיה קלה מעודכן מרץ 2005.doc",
+      "driveId": "1dQJOadUwMSo6vC8h09hpP0HQcOdB6PLL"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "kaved-avaz-befilo-shitake-pekan",
+  "title": "כבד אווז בבצק פילו עם שיטאקי ופקאן מסוכר",
+  "titleEn": "Foie Gras in Phyllo with Shiitake and Candied Pecans",
+  "description": "פרוסות כבד אווז שנסגרות רגע במחבת, נעטפות בשכבה דקה של פילו ונאפות עד זהוב, עם רוטב מוסקט וציר עגל, פטריות שיטאקי ופקאן מסוכר.",
+  "category": "starters",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["מנת מסעדה", "אירוח"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית משומנת",
+  "prepMin": 60,
+  "cookMin": 30,
+  "totalMin": 100,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": "לכבד", "items": [
+      { "qty": null, "unit": null, "item": "כבד אווז", "note": "בפרוסות, מנוקה מנימים", "raw": "כבד אווז בפרוסות, מנוקה מנימים" },
+      { "qty": 1, "unit": "יחידה", "item": "עלה בצק פילו", "note": "מרוח בשמן", "raw": "עלה בצק פילו אחד, מרוח בשמן" }
+    ] },
+    { "group": "לרוטב", "items": [
+      { "qty": 0.5, "unit": null, "item": "בקבוק יין מוסקט קינוח", "note": null, "raw": "חצי בקבוק יין מוסקט קינוח" },
+      { "qty": null, "unit": null, "item": "ציר עגל קרוש", "note": "גלאס או סטוק", "raw": "ציר עגל קרוש (גלאס או סטוק)" },
+      { "qty": null, "unit": null, "item": "סירופ מייפל אמיתי", "note": "מעט", "raw": "מעט סירופ מייפל אמיתי" },
+      { "qty": null, "unit": null, "item": "תיבול", "note": "לפי הטעם", "raw": "תיבול לפי הטעם" }
+    ] },
+    { "group": "לפקאן ולשיטאקי", "items": [
+      { "qty": null, "unit": null, "item": "אגוזי פקאן", "note": null, "raw": "אגוזי פקאן" },
+      { "qty": null, "unit": null, "item": "סוכר", "note": "הרבה", "raw": "הרבה סוכר" },
+      { "qty": null, "unit": null, "item": "שמן עמוק לטיגון", "note": null, "raw": "שמן עמוק לטיגון" },
+      { "qty": null, "unit": null, "item": "פטריות שיטאקי יבשות", "note": null, "raw": "פטריות שיטאקי יבשות" },
+      { "qty": null, "unit": null, "item": "ציר עגל", "note": null, "raw": "ציר עגל" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכבד", "items": [
+      { "text": "מנקים את הכבד מהנימים ומכל השאריות, וסוגרים כל פרוסה שנייה אחת מכל צד.", "timerMin": null },
+      { "text": "לוקחים עלה פילו אחד מרוח בשמן ומסמנים עליו ריבועים. עוטפים כל פרוסת כבד לפי גודלה, בשכבה דקה בלבד.", "timerMin": null },
+      { "text": "מניחים את הכבדים העטופים בתבנית משומנת ואופים בתנור שחומם מראש לחום גבוה מאוד, עד שהבצק מזהיב קלות. מוציאים מיד.", "timerMin": null }
+    ] },
+    { "group": "הרוטב", "items": [
+      { "text": "מצמצמים חצי בקבוק יין מוסקט קינוח עם ציר עגל קרוש, מעט סירופ מייפל אמיתי ותיבול.", "timerMin": null },
+      { "text": "כשהרוטב מצטמצם לכמה כפות, מורידים מהאש ומסננים.", "timerMin": null }
+    ] },
+    { "group": "פקאן מסוכר", "items": [
+      { "text": "מבשלים את אגוזי הפקאן במים עם הרבה סוכר, עד שמתקבל סירופ. מוציאים ומייבשים.", "timerMin": null },
+      { "text": "מטגנים את האגוזים בשמן עמוק עד שהם משחימים, ומוציאים.", "timerMin": null }
+    ] },
+    { "group": "שיטאקי", "items": [
+      { "text": "משרים את הפטריות במים חמים 20 דקות ומייבשים.", "timerMin": 20 },
+      { "text": "מבשלים בציר עגל עד שהפטריות ספוגות בציר ואין כמעט נוזלים בסיר.", "timerMin": null },
+      { "text": "מסירים את הרגליים ופורסים לרצועות דקות.", "timerMin": null }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "מניחים בצלחת כבד עטוף בפילו, יוצקים מעט רוטב ומפזרים מעל את האגוזים ואת רצועות הפטריות.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A golden crisp phyllo-wrapped parcel of seared foie gras on a plate, with dark muscat reduction sauce, thin strips of shiitake mushroom and candied pecans scattered around",
+  "alt": "חבילת כבד אווז עטופה בפילו זהוב בצלחת, עם רוטב מוסקט כהה, רצועות שיטאקי ופקאן מסוכר",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

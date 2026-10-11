@@ -1,0 +1,170 @@
+{
+  "slug": "yerakot-bagril",
+  "title": "ירקות בגריל",
+  "titleEn": "Grilled Vegetable Skewers",
+  "description": "שפודי תירס, לבבות ארטישוק וגמבה אדומה, מצופים ברוטב צלייה של דבש, חרדל, סויה ורסק עגבניות וצרובים על האש.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "גריל",
+    "על האש",
+    "אירוח"
+  ],
+  "servings": 8,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 15,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": "ירקות",
+      "items": [
+        {
+          "qty": 8,
+          "unit": null,
+          "item": "תירסים",
+          "note": "בגודל בינוני",
+          "raw": "8 תירסים, בגודל בינוני"
+        },
+        {
+          "qty": 0.5,
+          "unit": "חבילה",
+          "item": "לבבות (תחתיות) ארטישוק קפואים",
+          "note": null,
+          "raw": "½ חבילה לבבות (תחתיות) ארטישוק קפואים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "גמבות אדומות",
+          "note": null,
+          "raw": "2 גמבות אדומות"
+        }
+      ]
+    },
+    {
+      "group": "רוטב צלייה",
+      "items": [
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "חומץ תפוחים",
+          "note": null,
+          "raw": "¼ כוס חומץ תפוחים"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "דבש",
+          "note": null,
+          "raw": "1 כף דבש"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "חרדל דיז׳ון",
+          "note": null,
+          "raw": "1 כף חרדל דיז׳ון"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "3 כפות רסק עגבניות"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "רוטב סויה",
+          "note": null,
+          "raw": "3 כפות רוטב סויה"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כפית",
+          "item": "רוטב טבסקו",
+          "note": "פחות או יותר, לפי הטעם, או רוטב צ׳ילי אחר",
+          "raw": "¼ כפית רוטב טבסקו, פחות או יותר, לפי הטעם, או רוטב צ׳ילי אחר"
+        }
+      ]
+    },
+    {
+      "group": "נוסף",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שפודי במבוק או מתכת",
+          "note": null,
+          "raw": "שפודי במבוק או מתכת"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "אם משתמשים בשפודי עץ, משרים אותם במים כחצי שעה כדי שלא יישרפו על האש.",
+          "timerMin": 30
+        },
+        {
+          "text": "מבשלים את התירס בישול ראשוני קצר: במים מומלחים קלות, או עטוף במגבות נייר רטובות במיקרוגל, 3 עד 5 דקות.",
+          "timerMin": 3
+        },
+        {
+          "text": "מפשירים את הארטישוקים וחותכים לרבעים. מסירים את הגרעינים מהגמבות וחותכים אותן לחתיכות. חותכים את התירסים לקטעים באורך 3 ס״מ.",
+          "timerMin": null
+        },
+        {
+          "text": "משחילים את הירקות לסירוגין על השפודים.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים בקערה את כל מרכיבי הרוטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מברישים את הירקות ברוטב ומשהים לפחות רבע שעה, כדי שהטעמים ייספגו.",
+          "timerMin": 15
+        },
+        {
+          "text": "מחממים היטב את הגריל וצולים את הירקות עד שהם חמים וצרובים. מברישים ברוטב מפעם לפעם.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים חם, עם שאר הרוטב.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אם כבר מדליקים את האש, כדאי לצלות גם בצל ושום. אפשר לחתוך בצלים בינוניים לרבעים או לשישיות ולהשחיל גם אותם על השפודים."
+  ],
+  "story": null,
+  "source": {
+    "type": "magazine",
+    "credit": "רות סירקיס",
+    "rewritten": true
+  },
+  "imagePrompt": "Grilled skewers of corn pieces, artichoke hearts and red pepper chunks with charred edges and a glossy brown glaze, laid on a rustic platter with a small bowl of extra sauce",
+  "alt": "שפודי ירקות צלויים עם תירס, ארטישוק וגמבה אדומה, בצבע זהוב וצרוב, לצד קערית רוטב",
+  "originals": [
+    {
+      "file": "ירקות בגריל.doc",
+      "driveId": "14uFKfZ2aB9t-FaZsBxHiO3BfwT1cLsdN"
+    }
+  ]
+}

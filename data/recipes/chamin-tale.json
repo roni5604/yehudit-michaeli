@@ -1,0 +1,59 @@
+{
+  "slug": "chamin-tale",
+  "title": "חמין טלה",
+  "titleEn": "Lamb Chamin (Shabbat Stew)",
+  "description": "חמין שבת עשיר של צוואר ועצמות טלה, חומוס ושעועית, תפוחי אדמה ובצל מושחם, שמתבשל בתנור נמוך או על פלטה לאורך כל הלילה.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shabbat"],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["שבת", "חמין", "בישול איטי"],
+  "servings": 6,
+  "yield": "6 מנות",
+  "pan": "סיר גדול",
+  "prepMin": 40,
+  "cookMin": 600,
+  "totalMin": 1240,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 300, "unit": "גרם", "item": "חומוס יבש", "note": null, "raw": "300 גרם חומוס יבש" },
+      { "qty": 300, "unit": "גרם", "item": "שעועית יבשה בגודל בינוני", "note": null, "raw": "300 גרם שעועית יבשה בגודל בינוני" },
+      { "qty": 3, "unit": null, "item": "בצלים", "note": "קצוצים גס", "raw": "3 בצלים קצוצים גס" },
+      { "qty": 0.333, "unit": "כוס", "item": "שמן", "note": null, "raw": "⅓ כוס שמן" },
+      { "qty": 0.5, "unit": "ק״ג", "item": "עצמות טלה", "note": null, "raw": "½ ק״ג עצמות טלה" },
+      { "qty": 1, "unit": null, "item": "ראש שום", "note": "לא חובה", "raw": "1 ראש שום (לא חובה)" },
+      { "qty": 6, "unit": null, "item": "תפוחי אדמה בינוניים", "note": null, "raw": "6 תפוחי אדמה בינוניים" },
+      { "qty": 1, "unit": "ק״ג", "item": "צוואר טלה", "note": "חתוך לקוביות", "raw": "1 ק״ג צוואר טלה חתוך לקוביות" },
+      { "qty": 200, "unit": "גרם", "item": "חיטה או אורז", "note": "לא חובה", "raw": "200 גרם חיטה או אורז (לא חובה)" },
+      { "qty": null, "unit": null, "item": "פלפל שחור", "note": null, "raw": "פלפל שחור" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": null, "unit": null, "item": "פפריקה מרוקאית", "note": null, "raw": "פפריקה מרוקאית" },
+      { "qty": null, "unit": null, "item": "חוויג׳ למרק", "note": null, "raw": "חוויג׳ למרק" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "משרים את הקטניות מספר שעות או לאורך הלילה.", "timerMin": null },
+      { "text": "בסיר גדול מטגנים את הבצל בשמן עד שהוא מחשים. מניחים מעליו את העצמות וממשיכים להשחים.", "timerMin": null },
+      { "text": "מניחים על העצמות את תפוחי האדמה הקלופים, ומפזרים ביניהם את שיני השום.", "timerMin": null },
+      { "text": "מניחים על תפוחי האדמה את קוביות הבשר, ומעליהן את החומוס והשעועית, כל אחד בנפרד.", "timerMin": null },
+      { "text": "אם רוצים, מוסיפים בשלב זה את החיטה או האורז בשקית עם תבלינים.", "timerMin": null },
+      { "text": "מתבלים את כל המרכיבים ויוצקים מים עד כיסוי.", "timerMin": null },
+      { "text": "מביאים לרתיחה ומנמיכים את הלהבה.", "timerMin": null },
+      { "text": "מעבירים לתנור בחום של 100 מעלות או לפלטת שבת, ומבשלים לאורך כל הלילה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "מיקי ניר, שף מלון דן פנורמה תל אביב (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "A deep dark-brown lamb chamin served in a large pot: tender chunks of lamb neck, glossy browned potatoes, chickpeas and white beans in a rich broth",
+  "alt": "חמין טלה בסיר גדול, עם נתחי בשר רכים, תפוחי אדמה מושחמים, חומוס ושעועית",
+  "originals": [
+    { "file": "חמין טלה.doc", "driveId": "1KRkCBFut2Hky49v1nEfaL-8wpA4wQt-B" },
+    { "file": "חמין טלה.doc", "driveId": "1s1ytI7HWxukM7MUIU2jprG3dVHbuJmiB" }
+  ]
+}

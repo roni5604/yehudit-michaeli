@@ -1,0 +1,68 @@
+{
+  "slug": "brioche-perot-yvashim-vetimin",
+  "title": "בריוש עם פירות יבשים וטימין",
+  "titleEn": "Brioche with Dried Fruit and Fresh Thyme",
+  "description": "בריוש עשיר בחמאה וביצים, עם פירות יבשים וטימין טרי, שמתפח לאט במקרר ללילה שלם. כמות גדולה למטבח עמוס, עם הסוד של יהודית: לשמור שהחמאה לא תישבר.",
+  "category": "breads",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["בצק שמרים", "מנת מסעדה", "אפייה בכמות"],
+  "servings": null,
+  "yield": "כמות גדולה, בכמה תבניות",
+  "pan": "תבניות בריוש או תבניות כיכר",
+  "prepMin": 60,
+  "cookMin": 40,
+  "totalMin": 900,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 3, "unit": "ק״ג", "item": "קמח", "note": null, "raw": "3 ק״ג קמח" },
+      { "qty": 3, "unit": "כפות", "item": "מלח", "note": null, "raw": "3 כפות מלח" },
+      { "qty": 150, "unit": "גרם", "item": "שמרים טריים", "note": null, "raw": "150 גרם שמרים טריים" },
+      { "qty": 500, "unit": "מ״ל", "item": "חלב", "note": "פושר", "raw": "500 מ״ל חלב פושר" },
+      { "qty": 30, "unit": null, "item": "ביצים", "note": null, "raw": "30 ביצים" },
+      { "qty": 2, "unit": "ק״ג", "item": "חמאה", "note": "בטמפרטורת החדר", "raw": "2 ק״ג חמאה בטמפרטורת החדר" },
+      { "qty": 200, "unit": "גרם", "item": "סוכר", "note": null, "raw": "200 גרם סוכר" },
+      { "qty": 2, "unit": "גביעים", "item": "פירות יבשים", "note": null, "raw": "2 גביעי פירות יבשים" },
+      { "qty": 0.5, "unit": "גביע", "item": "טימין טרי", "note": "קצוץ", "raw": "½ גביע טימין טרי קצוץ" }
+    ] },
+    { "group": "לצביעה", "items": [
+      { "qty": 3, "unit": null, "item": "חלמונים", "note": null, "raw": "3 חלמונים" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכנת הבצק", "items": [
+      { "text": "מקציפים את החמאה במיקסר עד למרקם חלק ואוורירי, ומשאירים במקרר 10 דקות.", "timerMin": 10 },
+      { "text": "בינתיים מערבבים את החומרים היבשים, קמח ומלח, בקערת נירוסטה גדולה.", "timerMin": null },
+      { "text": "ממיסים את השמרים בחלב ומוסיפים לקמח.", "timerMin": null },
+      { "text": "מוסיפים את החמאה המוקצפת.", "timerMin": null },
+      { "text": "מוסיפים את הביצים ואת הסוכר.", "timerMin": null },
+      { "text": "מוסיפים את הפירות היבשים ואת הטימין.", "timerMin": null },
+      { "text": "לשים עד לקבלת בצק חלק.", "timerMin": null },
+      { "text": "מכסים במגבת מטבח ומשאירים להתפחה שעתיים.", "timerMin": 120 },
+      { "text": "מורידים את האוויר מהבצק במכות קלות בחלקו התחתון.", "timerMin": null },
+      { "text": "מקררים במשך הלילה.", "timerMin": null }
+    ] },
+    { "group": "עיצוב ואפייה", "items": [
+      { "text": "מרדדים את הבצק לעלים ומגלגלים לרולדות.", "timerMin": null },
+      { "text": "מסדרים בתבניות ומשאירים להתפחה שעה וחצי עד שעתיים.", "timerMin": 90 },
+      { "text": "מברישים בעדינות בחלמון ביצה.", "timerMin": null },
+      { "text": "אופים ב-170 מעלות עד שהבריוש מוכן.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "הקושי הוא שהחמאה לא תישבר בזמן הלישה, ולכן רצוי לקרר אותה מעט לפני ההקצפה. אם החמאה נשברת, אבוד!",
+    "לא מניחים את הבצק במקום חם מדי, כדי שהחמאה לא תישבר.",
+    "לשים היטב, עד שכשקורעים את הבצק רואים מרקם חלק.",
+    "כדי לבדוק שהבריוש מוכן הופכים אותו מהתבנית ובודקים את התחתית: אם היא קשה, הלחם מוכן."
+  ],
+  "story": null,
+  "source": { "type": "restaurant", "credit": null, "rewritten": false },
+  "imagePrompt": "Golden-brown brioche loaves with a glossy egg-washed crust, sliced to show a tender buttery crumb studded with dried fruit and flecks of fresh thyme, on a wooden board",
+  "alt": "כיכרות בריוש זהובות ומבריקות, פרוסות כך שנראים בפנים פירות יבשים וטימין בתוך פרורים רכים",
+  "originals": [{ "file": "בריוש.doc", "driveId": "1DtSNhz7b8szaRE0EbvoWIqnulhwHURz2" }]
+}

@@ -1,0 +1,160 @@
+{
+ "slug": "marak-adashim-chorpi",
+ "title": "מרק עדשים חורפי",
+ "titleEn": "Winter Lentil Soup",
+ "description": "מרק עדשים חומות ביתי עם ירקות, חמאה ושמן זית, שמבשלים כשעתיים עד שהוא מסמיך. אפשר לרסק מעט כדי לקבל מרקם עשיר.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "dairy",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "חורף",
+  "מנחם"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 25,
+ "cookMin": 140,
+ "totalMin": 165,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": "חבילה",
+     "item": "עדשים חומות",
+     "note": null,
+     "raw": "1 חבילה עדשים חומות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 30,
+     "unit": "גרם",
+     "item": "חמאה",
+     "note": null,
+     "raw": "30 גרם חמאה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים בינוניים",
+     "note": "קצוצים דק",
+     "raw": "2 בצלים בינוניים קצוצים דק"
+    },
+    {
+     "qty": 6,
+     "unit": "שיני",
+     "item": "שום",
+     "note": null,
+     "raw": "6 שיני שום"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "גזרים",
+     "note": "מגורדים",
+     "raw": "3 גזרים מגורדים"
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "item": "עגבניות גדולות",
+     "note": "מגורדות",
+     "raw": "3 עגבניות גדולות מגורדות"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "1 כוס פטרוזיליה קצוצה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פפריקה מתוקה וכמון",
+     "note": null,
+     "raw": "פפריקה מתוקה וכמון"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "אבקת מרק עוף",
+     "note": null,
+     "raw": "אבקת מרק עוף לפי הטעם"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "1 כף רסק עגבניות"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "משרים את העדשים כמה שעות במים.",
+     "timerMin": null
+    },
+    {
+     "text": "מחממים בסיר שמן וחמאה ומוסיפים בצל, שום, גזר ועגבניות מגורדות. מטגנים כ-10 דקות.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים עדשים, פטרוזיליה, אבקת מרק ומים רותחים ומתבלים. מביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים על אש נמוכה כשעתיים, עד שהעדשים רכים והמרק סמיך.",
+     "timerMin": 120
+    },
+    {
+     "text": "מי שרוצה מרקם סמיך יותר מרסק בבלנדר מוט כמה פולסים בלבד, כך שרק חלק מהמרק מרוסק.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "בגרסה אחרת מוסיפים גזרים שלמים ופרוסות נקניקיית קבנוס (ראו מרק עדשים וקבנוס)."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Rustic brown lentil soup in a bowl, thick and speckled with carrot and parsley, with bread alongside",
+ "alt": "מרק עדשים חומות ביתי עם גזר ופטרוזיליה ולחם לצדו",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

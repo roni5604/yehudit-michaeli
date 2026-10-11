@@ -1,0 +1,61 @@
+{
+  "slug": "menu-summer-2003-en",
+  "title": "תפריט הקיץ באנגלית · יולי 2003",
+  "titleEn": "Summer à la carte menu, July 2003",
+  "date": "2003-07",
+  "season": "summer",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetisers",
+      "items": [
+        { "name": "Terrine de Foie Gras", "desc": "Goose liver terrine", "price": "50 nis" },
+        { "name": "Feuilles de vigne farcies", "desc": "Vine leaves stuffed with rice & herbs, served with mint cream cheese", "price": "32 nis" },
+        { "name": "Gravlax", "desc": "Pickled salmon with herb pancakes & crème fraîche", "price": "46 nis" },
+        { "name": "Chou farci", "desc": "Stuffed cabbage in tomato & sauerkraut sauce", "price": "35 nis" },
+        { "name": "Crevettes au beurre", "desc": "Shrimps in seasoned butter", "price": "50 nis" },
+        { "name": "Cervelles panées", "desc": "Veal brains in curry sauce", "price": "48 nis" },
+        { "name": "Salade Verte", "desc": "Green salad with goat's cheese", "price": "32 nis" },
+        { "name": "Soupe du jour", "desc": "Soup of the day", "price": "35 nis" }
+      ]
+    },
+    {
+      "name": "Entrée",
+      "items": [
+        { "name": "Poitrine de volaille farcie", "desc": "Chicken breast stuffed with smoked goose breast & Emmental cheese", "price": "75 nis" },
+        { "name": "Poulet sauté au calvados", "desc": "Sautéed baby chicken with apples & calvados cream", "price": "75 nis" },
+        { "name": "Entrecôte", "desc": "Steak with mushrooms and onions", "price": "85 nis" },
+        { "name": "Confit d'Oie", "desc": "Goose leg confit with honey & spices", "price": "75 nis" },
+        { "name": "Boeuf Bourguignon", "desc": "Beef in red wine sauce", "price": "80 nis" },
+        { "name": "Canard à l'Orange", "desc": "Moulard breast in a sweet citrus sauce", "price": "80 nis" },
+        { "name": "Gigot d'agneau", "desc": "Roasted leg of lamb", "price": "90 nis" },
+        { "name": "Filet de Poisson", "desc": "Sea fish fillet on a fine tomato sauce with garlic confit", "price": "75 nis" },
+        { "name": "Truite au Four", "desc": "Trout fillet baked with herbs", "price": "75 nis" },
+        { "name": "Gnocchis", "desc": "Housemade gnocchi with vegetables – vegetarian dish", "price": "65 nis" }
+      ]
+    },
+    {
+      "name": "Before Dessert",
+      "items": [
+        { "name": "Assortiment de Fromages", "desc": "Selection of Israeli cheeses", "price": "45 nis" }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "Tarte Tatin", "desc": "Apple cake", "price": "30 nis" },
+        { "name": "Soupe de fruits rouges", "desc": "Red berries compote", "price": "28 nis" },
+        { "name": "Mousse au chocolat", "price": "32 nis" },
+        { "name": "Crêpes Suzette", "desc": "In Grand Marnier", "price": "28 nis" },
+        { "name": "Terrine de Sorbet", "desc": "A trio of sorbet flavors in a terrine with marzipan wrapping", "price": "30 nis" },
+        { "name": "Crème Brûlée", "price": "32 nis" },
+        { "name": "Gâteau Chocolat", "desc": "Hot chocolate bake", "price": "30 nis" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "Aתפריט באנגלית יולי 2003.doc", "driveId": "1Vp9UPiP4uxYZ1l8j10n2pe7Cphf3DYno" }]
+}

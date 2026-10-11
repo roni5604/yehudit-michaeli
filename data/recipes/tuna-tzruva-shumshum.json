@@ -1,0 +1,73 @@
+{
+  "slug": "tuna-tzruva-shumshum",
+  "title": "טונה צרובה בציפוי שומשום",
+  "titleEn": "Sesame-Crusted Seared Tuna",
+  "description": "פילה טונה בציפוי שומשום שחור ולבן, אצות ותימין, צרוב לזמן קצר ומוגש עם אספרגוס ופטריות שיטאקי מוקפצים ורוטב יין לבן, סויה וחלב קוקוס.",
+  "category": "fish",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": ["מנת שף", "אירוח", "דגים"],
+  "servings": 4,
+  "yield": "4 מנות",
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 30,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לדג", "items": [
+      { "qty": 600, "unit": "גרם", "item": "פילה טונה טריה", "note": null, "raw": "600 גרם פילה טונה טריה" },
+      { "qty": 30, "unit": "גרם", "item": "שומשום שחור", "note": null, "raw": "30 גרם שומשום שחור" },
+      { "qty": 30, "unit": "גרם", "item": "שומשום לבן", "note": "קלוי", "raw": "30 גרם שומשום לבן קלוי" },
+      { "qty": 1, "unit": "יחידה", "item": "אצות ים", "note": "מפוררת", "raw": "1 יחידת אצות ים, מפוררת" },
+      { "qty": 2, "unit": null, "item": "גבעולי תימין", "note": "קצוצים דק", "raw": "2 גבעולי תימין, קצוצים דק" }
+    ] },
+    { "group": "לתוספות", "items": [
+      { "qty": 50, "unit": "גרם", "item": "פטריות שיטאקי מיובשות", "note": null, "raw": "50 גרם פטריות שיטאקי מיובשות" },
+      { "qty": 200, "unit": "גרם", "item": "אספרגוס", "note": null, "raw": "200 גרם אספרגוס" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמן זית", "note": null, "raw": "½ כוס שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": "לפי הטעם", "raw": "מלח ופלפל לפי הטעם" }
+    ] },
+    { "group": "לרוטב", "items": [
+      { "qty": 0.5, "unit": null, "item": "בקבוק יין לבן", "note": null, "raw": "½ בקבוק יין לבן" },
+      { "qty": 1, "unit": null, "item": "בצל שאלוט", "note": "קצוץ", "raw": "1 בצל שאלוט קצוץ" },
+      { "qty": 1, "unit": "שן", "item": "שום", "note": null, "raw": "1 שן שום" },
+      { "qty": 0.5, "unit": "כוס", "item": "סויה קיקומן", "note": null, "raw": "½ כוס סויה קיקומן" },
+      { "qty": 1, "unit": "כוס", "item": "חלב קוקוס", "note": null, "raw": "1 כוס חלב קוקוס" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל", "note": "לפי הטעם", "raw": "מלח ופלפל לפי הטעם" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הרוטב", "items": [
+      { "text": "מבשלים את היין הלבן עם הבצל והשום ומצמצמים עד למחצית מהכמות.", "timerMin": null },
+      { "text": "מוסיפים את רוטב הסויה וממשיכים לבשל ולצמצם שוב.", "timerMin": null },
+      { "text": "מסננים את הרוטב ומחזירים את הסיר עם הרוטב לאש. מוסיפים את חלב הקוקוס ומבשלים עוד 5 דקות, עד שהרוטב מסמיך, ומורידים מהאש.", "timerMin": 5 }
+    ] },
+    { "group": "התוספות", "items": [
+      { "text": "משרים את הפטריות במים חמים עד שהן מתרככות וחותכים לרצועות.", "timerMin": null },
+      { "text": "מבשלים את האספרגוס במים רותחים ומקררים במי קרח. חותכים באלכסון.", "timerMin": null }
+    ] },
+    { "group": "הטונה", "items": [
+      { "text": "מערבבים את השומשום השחור והלבן עם האצות והתימין.", "timerMin": null },
+      { "text": "מורחים את פילה הטונה במעט שמן זית ומצפים בתערובת היבשה.", "timerMin": null },
+      { "text": "מחממים מחבת היטב, מורחים בשמן וצורבים את הטונה כ-2 דקות מכל צד. פורסים את הפילה לפרוסות.", "timerMin": 2 }
+    ] },
+    { "group": "גמר והגשה", "items": [
+      { "text": "מקפיצים במחבת עם שמן זית את האספרגוס והפטריות ומתבלים במלח ובפלפל.", "timerMin": null },
+      { "text": "מניחים על צלחת את פרוסות הטונה, מקשטים בירקות המוקפצים ומזלפים את הרוטב.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רפיק ג׳ברין, הילטון תל אביב (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "Thick slices of seared tuna with a black and white sesame crust and a rare ruby centre, fanned on a plate with sautéed asparagus and shiitake strips, drizzled with pale creamy sauce",
+  "alt": "פרוסות טונה צרובה בציפוי שומשום שחור ולבן, עם אספרגוס ופטריות שיטאקי ורוטב קרמי בהיר",
+  "originals": [
+    { "file": "טונה צרובה בציפוי שומשום.doc", "driveId": "1Lih9HPCPh_SycHh7TfDDjmv7Qh5-VH-Y" },
+    { "file": "טונה צרובה בציפוי שומשום.doc", "driveId": "1w4yuWv-rFDzsqgHeTYhIO5tnyPBLEqCk" }
+  ]
+}

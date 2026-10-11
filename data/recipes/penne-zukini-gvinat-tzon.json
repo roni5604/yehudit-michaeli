@@ -1,0 +1,112 @@
+{
+  "slug": "penne-zukini-gvinat-tzon",
+  "title": "פנה ברוטב זוקיני וגבינת צאן",
+  "titleEn": "Penne with Zucchini and Sheep's Cheese",
+  "description": "פנה עם זוקיני מוזהב, שום וגבינת צאן, שמתערבבים בקלילות עם אורגנו.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 350,
+          "unit": "גרם",
+          "item": "פנה",
+          "note": null,
+          "raw": "350 גרם פנה"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "4 כפות שמן זית"
+        },
+        {
+          "qty": 3,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קצוצות",
+          "raw": "3 שיני שום, קצוצות"
+        },
+        {
+          "qty": 350,
+          "unit": "גרם",
+          "item": "זוקיני",
+          "note": "פרוס דק",
+          "raw": "350 גרם זוקיני, פרוס דק"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינת צאן או בולגרית",
+          "note": null,
+          "raw": "200 גרם גבינת צאן או בולגרית"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "אורגנו",
+          "note": null,
+          "raw": "2 כפות אורגנו"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה.",
+          "timerMin": null
+        },
+        {
+          "text": "בינתיים מטגנים בשמן את הזוקיני והשום עד הזהבה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הגבינה והאורגנו ומערבבים בעדינות כדקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הפסטה ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Penne with golden zucchini slices and crumbled sheep's cheese, sprinkled with oregano",
+  "alt": "פנה עם פרוסות זוקיני מוזהבות וגבינת צאן מפוררת ואורגנו",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

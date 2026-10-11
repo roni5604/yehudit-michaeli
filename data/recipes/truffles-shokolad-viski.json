@@ -1,0 +1,124 @@
+{
+  "slug": "truffles-shokolad-viski",
+  "title": "טראפלס שוקולד בוויסקי",
+  "titleEn": "Whisky Chocolate Truffles",
+  "description": "כדורי טראפלס עשירים משוקולד מריר, שמנת וחמאה, עם וויסקי או כל אלכוהול אחר לפי הטעם. מגלגלים באבקת קקאו ושומרים קרים עד ההגשה.",
+  "category": "sweets",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "tags": [
+    "פרלינים",
+    "אירוח",
+    "מתנה"
+  ],
+  "servings": null,
+  "yield": "40-50 כדורי טראפלס קטנים",
+  "pan": null,
+  "prepMin": 40,
+  "cookMin": 5,
+  "totalMin": 360,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 65,
+          "unit": "מ״ל",
+          "item": "שמנת מתוקה",
+          "note": null,
+          "raw": "65 מ״ל שמנת מתוקה"
+        },
+        {
+          "qty": 250,
+          "unit": "גרם",
+          "item": "שוקולד מריר",
+          "note": null,
+          "raw": "250 גרם שוקולד מריר"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה רכה",
+          "note": null,
+          "raw": "50 גרם חמאה רכה"
+        },
+        {
+          "qty": 70,
+          "unit": "מ״ל",
+          "item": "וויסקי",
+          "note": "או כל אלכוהול אחר",
+          "raw": "70 מ״ל וויסקי, או כל אלכוהול אחר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אבקת קקאו",
+          "note": "לציפוי",
+          "raw": "אבקת קקאו לציפוי"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מרתיחים את השמנת ומניחים לה להצטנן.",
+          "timerMin": null
+        },
+        {
+          "text": "ממיסים את השוקולד ומערבבים אותו עם השמנת לתערובת חלקה ומבריקה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את החמאה בהדרגה, ורק אחרי שנבלעה היטב מוסיפים בהדרגה גם את הוויסקי.",
+          "timerMin": null
+        },
+        {
+          "text": "מצננים במקרר מספר שעות, ואז מחממים מעט, רק לריכוך קל.",
+          "timerMin": 180
+        },
+        {
+          "text": "מקציפים במערבל כשתי דקות לאיוורור.",
+          "timerMin": 2
+        },
+        {
+          "text": "יוצקים עם כפית או במזלף כדורים קטנים (40-50), מגלגלים באבקת קקאו ומאחסנים בקופסה סגורה במקרר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "בכל אלכוהול אחר אפשר להחליף את הוויסקי.",
+    "בגרסה של דריו, בכמות גדולה: 1 ק״ג שוקולד, 400 מ״ל שמנת, 60 גרם חמאה וברנדי לפי הטעם.",
+    "בגרסה של ערן: 300 גרם שוקולד מריר, 100 גרם שמנת מתוקה ו-75 מ״ל ליקר קאסיס."
+  ],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Small round dark chocolate truffles rolled in matte cocoa powder, piled in a small white porcelain dish with a few loose truffles on the table beside it",
+  "alt": "כדורי טראפלס שוקולד מגולגלים באבקת קקאו, בקערית חרסינה לבנה",
+  "originals": [
+    {
+      "file": "טראפלס שוקולד א.doc",
+      "driveId": "19G70jhWEnQs1SjSQl5Eux2WNtjY8pOEt"
+    },
+    {
+      "file": "טראפלס שוקולד א.doc",
+      "driveId": "1Qisb0MVhdsOcym-lUpY95YyRWT1yokOR"
+    }
+  ]
+}

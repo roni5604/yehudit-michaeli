@@ -1,0 +1,104 @@
+{
+  "slug": "valentines-2007",
+  "title": "ארוחת ערב ולנטיינס · פברואר 2007",
+  "titleEn": "Valentine's dinner · February 2007",
+  "date": "2007-02",
+  "season": "winter",
+  "occasion": "ולנטיינס",
+  "kind": "event",
+  "language": "he-en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "קרפצ'ו סינטת בקר על עלי רוקט ופרמזן",
+          "nameEn": "Beef carpaccio with baby leaves and Parmesan",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס ומוס סלמון",
+          "nameEn": "Pickled salmon & salmon mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "אספרגוס מוקרם בסלסלות פריכות",
+          "nameEn": "Filo baskets filled with creamed asparagus",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Various vegetables – Antipasti style",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק ארטישוק ירושלמי",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "סטייק אנטרקוט ברוטב פלפלת",
+          "nameEn": "Sirloin steak with pepper sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית במרינדת עשבי תיבול על הגריל",
+          "nameEn": "Grilled fillet of baby chicken",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה לברק ברוטב שמנת וקוויאר סלמון",
+          "nameEn": "Sea fish fillet with herb cream and salmon eggs",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות – צמחוני",
+          "nameEn": "Leek & dried tomatoes tart – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "מוס שוקולד",
+          "nameEn": "Mousse au chocolat",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל תפוחים",
+          "nameEn": "Apple strudel",
+          "recipeSlug": null
+        },
+        {
+          "name": "תות-שדה בקצפת",
+          "nameEn": "Strawberries with whipped cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט ולנטיינס 2007 (שם הקובץ הוסר).doc",
+      "driveId": "1h6XQUB7rcc7O1XX6V9hpJ_MOSnRa3MWk"
+    }
+  ]
+}

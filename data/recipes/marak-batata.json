@@ -1,0 +1,162 @@
+{
+ "slug": "marak-batata",
+ "title": "מרק בטטה",
+ "titleEn": "Sweet Potato Vegetable Soup",
+ "description": "מרק בטטה וירקות שורש עם דלעת וכורכום, שאפשר לרסק קלות או לגמרי, ולהגיש עם פלפל שחור גס או רוטב צ׳ילי.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "מרק",
+  "חורף",
+  "טבעוני"
+ ],
+ "servings": 10,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 20,
+ "cookMin": 90,
+ "totalMin": 110,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "בטטות",
+     "note": "בקוביות",
+     "raw": "6 בטטות"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "בצל בינוני",
+     "note": null,
+     "raw": "1 בצל בינוני"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": "בקוביות",
+     "raw": "2 תפוחי אדמה"
+    },
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "גזרים",
+     "note": "בקוביות",
+     "raw": "6 גזרים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "דלעת",
+     "note": "בקוביות",
+     "raw": "חתיכת דלעת נדיבה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "שורשי פטרוזיליה",
+     "note": null,
+     "raw": "2 שורשי פטרוזיליה"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי פטרוזיליה",
+     "note": "קצוצים",
+     "raw": "צרור עלי פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "אבקת מרק פטריות",
+     "note": null,
+     "raw": "2–3 כפות אבקת מרק פטריות",
+     "qtyMax": 3
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "כורכום",
+     "note": null,
+     "raw": "מעט כורכום"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 3,
+     "unit": "ליטר",
+     "item": "מים רותחים",
+     "note": null,
+     "raw": "3 ליטר מים רותחים"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים את הבצל בשמן זית עד הזהבה ומוסיפים את כל הירקות החתוכים לקוביות.",
+     "timerMin": null
+    },
+    {
+     "text": "יוצקים 3 ליטר מים רותחים, מתבלים ומוסיפים פטרוזיליה קצוצה.",
+     "timerMin": null
+    },
+    {
+     "text": "מרתיחים, מנמיכים לאש נמוכה ומבשלים שעה וחצי.",
+     "timerMin": 90
+    },
+    {
+     "text": "מרסקים במוט בלנדר: ריסוק קל להסמכת הנוזל תוך השארת חתיכות ירק, או ריסוק מלא, לפי הטעם.",
+     "timerMin": null
+    },
+    {
+     "text": "מגישים עם הרבה פלפל שחור גרוס או טפטוף של רוטב צ׳ילי.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Orange sweet potato soup in a bowl with chunky vegetable pieces, coarse black pepper and a drizzle of chili sauce",
+ "alt": "מרק בטטה כתום עם חתיכות ירק, פלפל שחור גס וטפטוף צ׳ילי",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

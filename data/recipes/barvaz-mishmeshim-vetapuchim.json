@@ -1,0 +1,69 @@
+{
+  "slug": "barvaz-mishmeshim-vetapuchim",
+  "title": "ברווז במשמשים ובתפוחים",
+  "titleEn": "Roast Duck with Apricots and Apples",
+  "description": "ברווז (או אווז) צלוי בציפוי של ריבת משמש, לימון ויין לבן, על מצע של משמשים מיובשים ותפוחים, עם רוטב שנוצר מנוזלי התבנית.",
+  "category": "chicken",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "ברווז"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית צלייה",
+  "prepMin": 20,
+  "cookMin": 130,
+  "totalMin": 150,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לברווז", "items": [
+      { "qty": 1, "unit": null, "item": "ברווז או אווז בינוני", "note": "כ-2 ק״ג", "raw": "1 ברווז או אווז בינוני, כ-2 ק״ג" },
+      { "qty": 2, "unit": "כפיות", "item": "מלח", "note": null, "raw": "2 כפיות מלח" },
+      { "qty": 0.5, "unit": "כפית", "item": "פלפל שחור", "note": null, "raw": "½ כפית פלפל שחור" },
+      { "qty": 1, "unit": "כפית", "item": "פלפלת אדומה", "note": null, "raw": "1 כפית פלפלת אדומה" },
+      { "qty": 2, "unit": "כפות", "item": "מיץ לימון", "note": null, "raw": "2 כפות מיץ לימון" },
+      { "qty": 0.5, "unit": "כוס", "item": "יין לבן", "note": null, "raw": "½ כוס יין לבן" },
+      { "qty": 4, "unit": "כפות", "item": "ריבת משמש", "note": null, "raw": "4 כפות ריבת משמש" },
+      { "qty": 1, "unit": "כפית", "item": "קליפת לימון", "note": "מגוררת", "raw": "1 כפית קליפת לימון מגוררת" },
+      { "qty": 1, "unit": "כוס", "item": "מיץ תפוזים", "note": null, "raw": "1 כוס מיץ תפוזים" },
+      { "qty": 1, "unit": "כוס", "item": "מים", "note": null, "raw": "1 כוס מים" },
+      { "qty": 200, "unit": "גרם", "item": "משמשים מיובשים", "note": null, "raw": "200 גרם משמשים מיובשים" },
+      { "qty": 2, "unit": null, "item": "תפוחים", "note": "חתוכים לפלחים", "raw": "2 תפוחים חתוכים לפלחים" }
+    ] },
+    { "group": "לרוטב", "items": [
+      { "qty": 0.5, "unit": "כוס", "item": "יין לבן", "note": null, "raw": "½ כוס יין לבן" },
+      { "qty": 0.5, "unit": "כפית", "item": "מיץ לימון", "note": null, "raw": "½ כפית מיץ לימון" },
+      { "qty": 1, "unit": "כפית", "item": "ברנדי", "note": null, "raw": "1 כפית ברנדי" },
+      { "qty": 0.5, "unit": "כפית", "item": "קורנפלור", "note": null, "raw": "½ כפית קורנפלור" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "פלחי תפוז טרי", "note": null, "raw": "פלחי תפוז טרי" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הצלייה", "items": [
+      { "text": "מתבלים את הברווז הנקי במלח ובפלפל שחור ומניחים בתבנית כשהחזה כלפי מעלה.", "timerMin": null },
+      { "text": "צולים בתנור חם מאוד, 230 מעלות, כ-30 דקות.", "timerMin": 30 },
+      { "text": "שופכים החוצה את רוב השומן שהצטבר בתבנית.", "timerMin": null },
+      { "text": "מערבבים מיץ לימון, ריבת משמש, יין לבן, קליפת לימון ופלפלת אדומה, ומורחים על העור.", "timerMin": null },
+      { "text": "יוצקים לתבנית את מיץ התפוזים והמים, ומוסיפים את המשמשים ואת התפוחים.", "timerMin": null },
+      { "text": "מנמיכים את התנור ל-180 מעלות וצולים עוד שעה וחצי עד שעתיים. אפשר לכסות בנייר כסף חלק מהזמן.", "timerMin": 90 }
+    ] },
+    { "group": "הרוטב וההגשה", "items": [
+      { "text": "מוציאים את הברווז לצלחת הגשה ומסדרים סביבו את המשמשים והתפוחים.", "timerMin": null },
+      { "text": "מעבירים את הנוזלים מהתבנית לסיר, מוסיפים את חומרי הרוטב ומרתיחים. יוצקים על הברווז.", "timerMin": null },
+      { "text": "מקשטים בפלחי תפוז טרי.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "אם הברווז גדול מ-2 ק״ג, מגדילים בהתאם את כמות התיבול."
+  ],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "A glazed roast duck on a serving platter surrounded by plump dried apricots and apple wedges, with fresh orange segments and a glossy sauce",
+  "alt": "ברווז צלוי מבריק על צלחת הגשה, מוקף משמשים מיובשים, פלחי תפוח ופלחי תפוז",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

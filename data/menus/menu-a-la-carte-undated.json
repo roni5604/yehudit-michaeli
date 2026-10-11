@@ -1,0 +1,190 @@
+{
+  "slug": "menu-a-la-carte-undated",
+  "title": "תפריט מיכאלי (ללא תאריך)",
+  "titleEn": "À la carte menu (undated)",
+  "date": null,
+  "season": null,
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "desc": "מוגש עם בריוש",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "עלי גפן",
+          "desc": "במילוי אורז ועשבי תיבול ובליווי גבינת עיזים – נענע",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלאקס סלמון",
+          "desc": "עם בליני, קרם פרש וקוויאר סלמון",
+          "price": "46 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "כרוב ממולא בבשר עגל",
+          "desc": "על מצע ממליגה וכרוב כבוש",
+          "price": "35 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס",
+          "desc": "בחמאה מתובלת",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מח ברוטב קארי",
+          "price": "48 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק",
+          "desc": "עם גבינת צאן",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק הבית",
+          "desc": "משתנה מדי יום",
+          "price": "35 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף ממולא באווז מעושן וגבינת אמנטל",
+          "price": "75 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית בקלבדוס",
+          "desc": "עם רוטב שמנת ותפוחי עץ",
+          "price": "75 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "עם בצל צרוב",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "ברוטב דבש ושבעת התבלינים",
+          "price": "75 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "חזה מולרד",
+          "desc": "ברוטב הדרים",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה",
+          "desc": "עם עשבי תיבול",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג-ים",
+          "desc": "בקולי עגבניות עם קונפי שום",
+          "price": "75 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרפר פורל",
+          "desc": "אפוי בתנור בעשבי תיבול",
+          "price": "75 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי פריזאי",
+          "desc": "עם זר ירקות בליווי שמנים מתובלים – צמחוני",
+          "price": "65 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "לפני קינוח",
+      "items": [
+        {
+          "name": "מבחר גבינות ישראליות",
+          "price": "45 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "טארט טאטן",
+          "desc": "עוגת תפוחים חמה",
+          "price": "30 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מרק פירות יער",
+          "price": "28 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס שוקולד",
+          "desc": "עם קרוקנט אגוזים",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ-סוזט",
+          "desc": "בקרמל תפוזים וגרנד מרנייה",
+          "price": "28 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה",
+          "desc": "בשלושה טעמים במעטפת מרציפן",
+          "price": "30 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה שוקולד חם",
+          "price": "30 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט.doc",
+      "driveId": "1SalPVpZAU_ijeqoPTc_4rJRIRdeNobvT"
+    }
+  ]
+}

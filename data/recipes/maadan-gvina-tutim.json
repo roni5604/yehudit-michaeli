@@ -1,0 +1,53 @@
+{
+  "slug": "maadan-gvina-tutim",
+  "title": "מעדן גבינה ותותים דל קלוריות",
+  "titleEn": "Light Strawberry and Cream Cheese Dessert",
+  "description": "קינוח קל בגביעים: רוטב גבינה ורדרד בטעם תות מעל תותים מתובלים בליקר תפוזים. מתכון דל קלוריות שמוכן בקלות ומתאים לעונת התותים.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian", "gluten-free", "healthy"],
+  "tags": ["קל", "דל קלוריות", "קיץ"],
+  "servings": 4,
+  "yield": "4 גביעים",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 0,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 500, "unit": "גרם", "item": "תותים", "note": "סלסילה אחת", "raw": "500 גרם תותים (סלסילה אחת)" },
+      { "qty": 250, "unit": "גרם", "item": "גבינת קרם לבנה 5%", "note": null, "raw": "250 גרם גבינת קרם לבנה 5%" },
+      { "qty": 2, "unit": "כפיות", "item": "סוכר", "note": "או תחליף מתאים", "raw": "2 כפיות סוכר (או תחליף מתאים)" },
+      { "qty": 0.5, "unit": "כפית", "item": "תמצית וניל", "note": null, "raw": "½ כפית תמצית וניל" },
+      { "qty": 3, "unit": "כפות", "item": "ליקר תפוזים", "note": null, "raw": "3 כפות ליקר תפוזים" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "תאנה, אסנה (תות עץ) או פירות אחרים", "note": "לפי העונה", "raw": "תאנה, אסנה (תות עץ) או פירות אחרים לפי העונה" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "שוטפים את התותים, מסירים עלים ועוקצים ומייבשים על מגבות נייר. משאירים 4 תותים שלמים לקישוט.", "timerMin": null },
+      { "text": "מרסקים במעבד מזון כוס תותים יחד עם הגבינה.", "timerMin": null },
+      { "text": "מוסיפים כפית סוכר (או תחליף), את הווניל וכף ליקר. מתקבל רוטב גבינה ורדרד בטעם תות.", "timerMin": null },
+      { "text": "חותכים את שאר התותים לרבעים ומעבירים לקערה. ממתיקים בשאר הסוכר ומזלפים את שאר הליקר.", "timerMin": null },
+      { "text": "שומרים במקרר בנפרד את הרוטב הוורוד ואת התותים החתוכים.", "timerMin": null },
+      { "text": "לפני ההגשה מחלקים 2 כפות רוטב בין 4 גביעים. מוסיפים תותים חתוכים עם מעט מהמיץ שהצטבר בקערה.", "timerMin": null },
+      { "text": "מכסים בשאר הרוטב ומקשטים בתות שלם פרוס וברבע תאנה, באסנה או בפירות אחרים.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "A clear dessert glass layered with pale pink strawberry cream cheese sauce and juicy cut strawberries, topped with a sliced whole strawberry and a quarter of a fresh fig",
+  "alt": "גביע זכוכית עם שכבות של רוטב גבינה ורוד ותותים חתוכים, מקושט בתות פרוס וברבע תאנה",
+  "originals": [
+    { "file": "בבקה.doc", "driveId": "17OJNOpReEaihrA9h_Ob4S3lqg8bJnrdX" },
+    { "file": "מעדן גבינה ותותים דיאטטי.doc", "driveId": "10Tin71Ko53IDaIYn6xqDE8dK4DTzwgfC" }
+  ]
+}

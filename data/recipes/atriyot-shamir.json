@@ -1,0 +1,44 @@
+{
+  "slug": "atriyot-shamir",
+  "title": "אטריות שמיר",
+  "titleEn": "Dill Noodles",
+  "description": "אטריות ביתיות מקמח דורום וקמח לבן עם שמיר קצוץ, ללא ביצים. מרדדים, חותכים ומבשלים דקה אחת במים מלוחים.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["פסטה ביתית"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 1,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 300, "unit": "גרם", "item": "קמח דורום", "note": null, "raw": "300 גרם קמח דורום" },
+      { "qty": 300, "unit": "גרם", "item": "קמח לבן", "note": null, "raw": "300 גרם קמח לבן" },
+      { "qty": 350, "unit": "מ״ל", "item": "מים פושרים", "note": null, "raw": "350 מ״ל מים פושרים" },
+      { "qty": 20, "unit": "גרם", "item": "מלח", "note": null, "raw": "20 גרם מלח" },
+      { "qty": 0.5, "unit": "כוס", "item": "שמיר", "note": "קצוץ", "raw": "½ כוס שמיר קצוץ" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מערבבים בקערה את הקמחים, השמיר והמלח.", "timerMin": null },
+      { "text": "מוסיפים את המים ומערבבים לקבלת בצק.", "timerMin": null },
+      { "text": "מרדדים את הבצק וחותכים לאטריות.", "timerMin": null },
+      { "text": "מבשלים את האטריות במי מלח כדקה.", "timerMin": 1 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A nest of thin homemade noodles flecked with chopped green dill on a white plate, with a few fresh dill sprigs on top",
+  "alt": "אטריות ביתיות עם נקודות ירוקות של שמיר קצוץ בצלחת לבנה",
+  "originals": [{ "file": "בצקים.docx", "driveId": "1jLvEl21fBou1M3XbnnvCbM1V2HKptmTS" }]
+}

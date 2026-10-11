@@ -1,0 +1,165 @@
+{
+  "slug": "salat-pasta-ugvinol",
+  "title": "סלט פסטה וגבינול",
+  "titleEn": "Pasta Salad with Vegetarian Sausages",
+  "description": "סלט פסטה צבעונית עם נקניקיות צמחוניות, גבינה צהובה צמחית, גמבה כבושה ושמיר, ברוטב מיונית וחרדל. מנה קרה לארוחת קיץ.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [
+    "סלט פסטה",
+    "ילדים",
+    "קיץ"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 12,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פסטה מסולסלת צבעונית",
+          "note": "שלושה צבעים",
+          "raw": "1 חבילה פסטה מסולסלת צבעונית, שלושה צבעים"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "נקניקיות טבעול",
+          "note": null,
+          "raw": "4 נקניקיות טבעול"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינול",
+          "note": "מגורדת גס",
+          "raw": "200 גרם גבינול, מגורדת גס"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "גמבות כבושות",
+          "note": "קצוצות",
+          "raw": "4 גמבות כבושות, קצוצות"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "שמיר קצוץ",
+          "note": null,
+          "raw": "1 כוס שמיר קצוץ"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "מיונית",
+          "note": null,
+          "raw": "4 כפות מיונית"
+        }
+      ]
+    },
+    {
+      "group": "לרוטב",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מיונית",
+          "note": null,
+          "raw": "1 כפית מיונית"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "חרדל",
+          "note": null,
+          "raw": "1 כפית חרדל"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "קטשופ",
+          "note": null,
+          "raw": "1 כפית קטשופ"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "1 כף מיץ לימון"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל לפי הטעם"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה במי מלח רותחים 10–12 דקות.",
+          "timerMin": 10
+        },
+        {
+          "text": "שוטפים תחת מי ברז קרים, מניחים במסננת עד שכל הנוזלים מתנקזים ומעבירים לקערה.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הנקניקיות ומצננים, פורסים לפלחים דקים ומוסיפים לקערה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הגבינה המגורדת, הגמבה, השמיר ו-4 כפות מיונית, ומערבבים היטב.",
+          "timerMin": null
+        }
+      ]
+    },
+    {
+      "group": "הרוטב וההגשה",
+      "items": [
+        {
+          "text": "בקערית קטנה מערבבים מיונית עם חרדל, קטשופ ומיץ לימון. יוצקים לקערה ומערבבים. אם צריך, מתבלים במלח ופלפל.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים לקערה שקופה, מכסים ביריעת ניילון ומצננים במקרר עד ההגשה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Cold rainbow rotini pasta salad with sliced vegetarian sausages, grated yellow cheese, diced pickled peppers and dill in a creamy dressing, in a clear glass bowl",
+  "alt": "סלט פסטה צבעונית עם פרוסות נקניקיות, גבינה מגורדת, גמבה כבושה ושמיר בקערת זכוכית שקופה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

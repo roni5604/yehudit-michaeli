@@ -1,0 +1,155 @@
+{
+ "slug": "eskalop-egel-bechemat-limon",
+ "title": "אסקלופ עגל משייטל בחמאת לימון",
+ "titleEn": "Veal Escalope with Lemon Butter",
+ "description": "שניצל עגל דק שמטוגן בחמאה על להבה נמוכה ומוגש עם רוטב חמאת לימון חיוור ורענן. מנה קלאסית ועדינה מהמטבח המקצועי.",
+ "category": "meat",
+ "subcategory": null,
+ "cuisine": "french",
+ "holidays": [],
+ "kashrut": "mixed",
+ "diet": [],
+ "tags": [
+  "מנת מסעדה",
+  "קלאסיקה צרפתית"
+ ],
+ "servings": 1,
+ "yield": "מנה אחת (180 גרם בשר)",
+ "pan": null,
+ "prepMin": 15,
+ "cookMin": 10,
+ "totalMin": 25,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": "לאסקלופ",
+   "items": [
+    {
+     "qty": 180,
+     "unit": "גרם",
+     "item": "בשר עגל משייטל",
+     "note": null,
+     "raw": "180 גרם בשר עגל משייטל למנה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מעט מלח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פלפל לבן",
+     "note": null,
+     "raw": "פלפל לבן"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "קמח",
+     "note": null,
+     "raw": "קמח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "חמאה",
+     "note": null,
+     "raw": "חמאה לטיגון"
+    }
+   ]
+  },
+  {
+   "group": "לרוטב חמאת לימון (יחס 1:3, כמו וינגרט)",
+   "items": [
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "מיץ לימון",
+     "note": null,
+     "raw": "1 כף מיץ לימון"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "חמאה",
+     "note": null,
+     "raw": "3 כפות חמאה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גרידת לימון",
+     "note": null,
+     "raw": "גרידת לימון"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מעט מלח"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "הכנת הבשר",
+   "items": [
+    {
+     "text": "חותכים את הבשר כנגד כיוון הסיבים.",
+     "timerMin": null
+    },
+    {
+     "text": "משטחים את הבשר בפטיש, או לחלופין פורסים את גוש הבשר במכונת פריסה כשהוא קפוא.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "טיגון",
+   "items": [
+    {
+     "text": "סמוך להגשה מתבלים במעט מלח ופלפל לבן, מקמחים ומנערים עודפים.",
+     "timerMin": null
+    },
+    {
+     "text": "מטגנים בחמאה על להבה נמוכה. הבשר לא אמור לקבל צבע, רק להזהיב מעט.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הרוטב",
+   "items": [
+    {
+     "text": "מכינים את הרוטב מחמאה ומיץ לימון ביחס של 1:3 (כף מיץ לימון ל-3 כפות חמאה), כמו וינגרט. מוסיפים גרידת לימון ומעט מלח.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "restaurant",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "Thin golden veal escalope on a white plate, glazed with pale lemon butter sauce and flecked with lemon zest, with a lemon wedge",
+ "alt": "אסקלופ עגל דק וזהוב ברוטב חמאת לימון, עם פלח לימון",
+ "originals": [
+  {
+   "file": "אסקלופ בחמאת לימון.doc",
+   "driveId": "1LWPqcX4pCkcekHX8Wczku0w2up8NOd5o"
+  },
+  {
+   "file": "אסקלופ בחמאת לימון.doc",
+   "driveId": "1IYZ7UIs-u-4DT1CCkHE-aPxPz3A755oe"
+  }
+ ]
+}

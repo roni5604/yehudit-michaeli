@@ -1,0 +1,121 @@
+{
+  "slug": "pashtidat-pasta-konchiyot-gvina",
+  "title": "פשטידת קונכיות וגבינות",
+  "titleEn": "Shells and Cheese Pasta Pie",
+  "description": "פשטידה מקונכיות פסטה ברוטב בשמל עם גבינה צהובה ובולגרית, שנאפית עד שהיא שחומה.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 50,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 250,
+          "unit": "גרם",
+          "item": "פסטה בצורת קונכיות",
+          "note": null,
+          "raw": "250 גרם פסטה בצורת קונכיות"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "מרגרינה",
+          "note": null,
+          "raw": "100 גרם מרגרינה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "ליטר",
+          "item": "חלב",
+          "note": null,
+          "raw": "½ ליטר חלב"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "קמח",
+          "note": null,
+          "raw": "2 כפות קמח"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 150,
+          "unit": "גרם",
+          "item": "גבינה צהובה",
+          "note": "חתוכה לקוביות",
+          "raw": "150 גרם גבינה צהובה, חתוכה לקוביות"
+        },
+        {
+          "qty": 250,
+          "unit": "גרם",
+          "item": "גבינה בולגרית",
+          "note": "מפוררת",
+          "raw": "250 גרם גבינה בולגרית, מפוררת"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה רק חצי מהזמן המצוין באריזה.",
+          "timerMin": null
+        },
+        {
+          "text": "בינתיים ממיסים את המרגרינה, מוסיפים קמח תוך ערבוב ואז חלב, ומבשלים עד למרקם דייסה.",
+          "timerMin": null
+        },
+        {
+          "text": "מורידים מהאש, מצננים מעט ומערבבים פנימה את הביצים ואחר כך את הגבינות.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה ומוסיפים לתערובת.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים לכלי חסין אש משומן ואופים כ-45 דקות, עד שהפשטידה שחומה מלמעלה. מצננים מעט ומגישים.",
+          "timerMin": 45
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "קורט וזר",
+    "rewritten": true
+  },
+  "imagePrompt": "Golden-brown baked shell pasta pie with melted cheese in an oven-proof dish",
+  "alt": "פשטידת קונכיות פסטה אפויה ושחומה בכלי חסין אש",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "muffins-kemach-tiras-gvina-zeitim",
+  "title": "מאפינס קמח תירס, גבינה וזיתים",
+  "titleEn": "Savory Cornmeal Muffins with Cheese, Sun-Dried Tomatoes and Olives",
+  "description": "מאפינס מלוחים מקמח תירס וקמח רגיל, עם גבינה פיקנטית, עגבניות מיובשות וזיתים. מתאימים לארוחת בוקר, לסל לחמים או לפיקניק.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["מאפינס מלוחים", "ארוחת בוקר", "פיקניק"],
+  "servings": null,
+  "yield": "24 מאפינס",
+  "pan": "תבניות מאפינס עם 24 שקעים",
+  "prepMin": 25,
+  "cookMin": 18,
+  "totalMin": 55,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 280, "unit": "גרם", "item": "קמח תירס", "note": null, "raw": "280 גרם קמח תירס" },
+      { "qty": 280, "unit": "גרם", "item": "קמח רגיל", "note": null, "raw": "280 גרם קמח רגיל" },
+      { "qty": 50, "unit": "גרם", "item": "סוכר", "note": null, "raw": "50 גרם סוכר" },
+      { "qty": 2, "unit": "כפיות", "item": "אבקת אפייה", "note": null, "raw": "2 כפיות אבקת אפייה" },
+      { "qty": 2, "unit": "כפיות", "item": "מלח", "note": null, "raw": "2 כפיות מלח" },
+      { "qty": 4, "unit": "גביעים", "item": "יוגורט או שמנת", "note": null, "raw": "4 גביעי יוגורט או שמנת" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": "מומסת", "raw": "150 גרם חמאה מומסת" },
+      { "qty": 240, "unit": "גרם", "item": "גבינה פיקנטית", "note": "חתוכה לקוביות קטנות", "raw": "240 גרם גבינה פיקנטית חתוכה לקוביות קטנות" },
+      { "qty": 100, "unit": "גרם", "item": "עגבניות מיובשות", "note": "מושרות וחתוכות לגזירים קטנים", "raw": "100 גרם עגבניות מיובשות, מושרות וחתוכות לגזירים קטנים" },
+      { "qty": 100, "unit": "גרם", "item": "זיתים", "note": "קצוצים לקוביות קטנות", "raw": "100 גרם זיתים קצוצים לקוביות קטנות" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מחממים תנור ל-180 מעלות. משמנים היטב 24 שקעים בתבניות המאפינס.", "timerMin": null },
+      { "text": "מנפים יחד לתוך קערה את קמח התירס, הקמח, הסוכר, אבקת האפייה והמלח.", "timerMin": null },
+      { "text": "בקערה נפרדת מקציפים יחד את היוגורט, הביצים והחמאה המומסת.", "timerMin": null },
+      { "text": "יוצרים גומה במרכז החומרים היבשים ושופכים פנימה את תערובת הנוזלים.", "timerMin": null },
+      { "text": "מערבבים עד שהתערובת מתאחדת, לא יותר מדי, ומקפלים פנימה את הגבינה, העגבניות והזיתים. התערובת צריכה להיות סמיכה וגושית, ולכן לא בוחשים יותר מדי.", "timerMin": null },
+      { "text": "ממלאים כל שקע עד ¾ מגובהו.", "timerMin": null },
+      { "text": "אופים 15 עד 20 דקות, עד שקיסם שנועץ במרכז יוצא נקי.", "timerMin": 15 },
+      { "text": "מוציאים מהתבניות ומצננים על רשת.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Golden savory cornmeal muffins with a craggy top, studded with olives, sun-dried tomato pieces and cubes of cheese, cooling on a wire rack, one broken open",
+  "alt": "מאפינס מלוחים זהובים מקמח תירס עם זיתים, עגבניות מיובשות וקוביות גבינה, על רשת קירור",
+  "originals": [{ "file": "מתכון מאפינס לטצה.doc", "driveId": "1TKGK8UgOQjwz2avJcjwQp_HVJZq-NpfA" }]
+}

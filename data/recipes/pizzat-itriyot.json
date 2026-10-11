@@ -1,0 +1,142 @@
+{
+  "slug": "pizzat-itriyot",
+  "title": "פיצת איטריות",
+  "titleEn": "Noodle Pizza",
+  "description": "בסיס של איטריות מבושלות עם ביצה ומרגרינה, מכוסה ברוטב עגבניות, גבינה צהובה וזיתים. נאפה ברבע שעה.",
+  "category": "pasta",
+  "subcategory": "noodles",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [],
+  "tags": [
+    "ילדים"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 250,
+          "unit": "גרם",
+          "item": "איטריות מבושלות",
+          "note": null,
+          "raw": "250 גרם איטריות מבושלות"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "מרגרינה",
+          "note": null,
+          "raw": "100 גרם מרגרינה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": null,
+          "raw": "1 ביצה"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "רסק עגבניות",
+          "note": null,
+          "raw": "200 גרם רסק עגבניות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שום",
+          "note": null,
+          "raw": "שום"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "2 כפות שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "תבלינים",
+          "note": "כמון, פלפל, אורגנו",
+          "raw": "תבלינים, כמון, פלפל, אורגנו"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרוסות דקות של עגבנייה",
+          "note": null,
+          "raw": "פרוסות דקות של עגבנייה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "גבינה צהובה מגוררת",
+          "note": null,
+          "raw": "גבינה צהובה מגוררת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "זיתים",
+          "note": null,
+          "raw": "זיתים"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את האיטריות המבושלות בעודן חמות עם המרגרינה, ומצננים מעט.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הביצה, מעבירים לתבנית ומהדקים היטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים רסק עגבניות עם שום, שמן זית ותבלינים, ומורחים על האיטריות.",
+          "timerMin": null
+        },
+        {
+          "text": "מסדרים מעל פרוסות עגבנייה, גבינה צהובה וזיתים.",
+          "timerMin": null
+        },
+        {
+          "text": "אופים כרבע שעה בחום בינוני.",
+          "timerMin": 15
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "מהמטבח בהנאה",
+    "rewritten": true
+  },
+  "imagePrompt": "Round noodle-base pizza topped with tomato sauce, tomato slices, melted yellow cheese and black olives",
+  "alt": "פיצת איטריות עם רוטב עגבניות, פרוסות עגבנייה, גבינה מומסת וזיתים שחורים",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

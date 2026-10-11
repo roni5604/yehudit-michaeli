@@ -1,0 +1,145 @@
+{
+ "slug": "egozim-mekurmalim-pilpel-vegingeer",
+ "title": "אגוזים מקורמלים עם פפריקה וג׳ינג׳ר",
+ "titleEn": "Caramelized Nuts with Paprika and Candied Ginger",
+ "description": "שקדים, אגוזי מלך ופקאן עטופים בקרמל פפריקה חריף-מתוק, עם קוביות ג׳ינג׳ר מסוכר. חטיף אירוח שנעלם מהר מהקערה.",
+ "category": "appetizers",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "חטיף",
+  "אירוח"
+ ],
+ "servings": null,
+ "yield": null,
+ "pan": "תבנית אפייה",
+ "prepMin": 10,
+ "cookMin": 20,
+ "totalMin": 30,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "סוכר",
+     "note": null,
+     "raw": "½ כוס סוכר"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "מים",
+     "note": null,
+     "raw": "½ כוס מים"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כפית",
+     "item": "פפריקה חריפה",
+     "note": null,
+     "raw": "½ כפית פפריקה חריפה"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "פפריקה מתוקה",
+     "note": null,
+     "raw": "1 כפית פפריקה מתוקה"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כפית",
+     "item": "מלח",
+     "note": null,
+     "raw": "½ כפית מלח"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "שקדים",
+     "note": null,
+     "raw": "1 כוס שקדים"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "אגוזי מלך",
+     "note": null,
+     "raw": "1 כוס אגוזי מלך"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "אגוזי פקאן",
+     "note": null,
+     "raw": "1 כוס אגוזי פקאן"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "ג׳ינג׳ר מסוכר",
+     "note": "קצוץ",
+     "raw": "1 כוס ג׳ינג׳ר מסוכר קצוץ"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מחממים תנור ל-180 מעלות ומרפדים תבנית אפייה בנייר.",
+     "timerMin": null
+    },
+    {
+     "text": "במחבת גדולה מערבבים סוכר, מלח, מים ושתי הפפריקות.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים עד שהכול נמס, מבעבע ומסמיך מעט.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את האגוזים והג׳ינג׳ר ובוחשים עד שהכול עטוף בקרמל.",
+     "timerMin": null
+    },
+    {
+     "text": "מורחים על התבנית בשכבה אחת ואופים 8–10 דקות, עד שהאגוזים מזהיבים.",
+     "timerMin": 8
+    },
+    {
+     "text": "מצננים מעט, ומיד מפרידים בין האגוזים. מאחסנים בקופסה סגורה.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "חשוב להפריד את האגוזים כשהם עוד חמימים, לפני שהקרמל מתקשה."
+ ],
+ "story": null,
+ "source": {
+  "type": "family",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "Caramelized almonds, walnuts and pecans with small pieces of candied ginger, glossy and speckled with red paprika, piled in a small bowl",
+ "alt": "אגוזים ושקדים מקורמלים עם ג׳ינג׳ר מסוכר בקערה קטנה",
+ "originals": [
+  {
+   "file": "אגוזים ושקדים מתובלים.doc",
+   "driveId": "1eJcBEkxPFcxYqDDHBff8-URg9T4bbAjp"
+  }
+ ]
+}

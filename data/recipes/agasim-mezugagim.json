@@ -1,0 +1,111 @@
+{
+ "slug": "agasim-mezugagim",
+ "title": "אגסים מזוגגים ביין אדום",
+ "titleEn": "Wine-Glazed Pears",
+ "description": "אגסים שנאפים לאט ביין אדום, חומץ בלסמי ותבלינים עד שהם מקבלים צבע עמוק וזיגוג דביק. קינוח חגיגי שקל להכין.",
+ "category": "desserts",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan",
+  "gluten-free"
+ ],
+ "tags": [
+  "קינוח",
+  "אירוח",
+  "חורף"
+ ],
+ "servings": 6,
+ "yield": null,
+ "pan": "תבנית",
+ "prepMin": 15,
+ "cookMin": 100,
+ "totalMin": 115,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "אגסים",
+     "note": "קלופים, או עם הקליפה",
+     "raw": "6 אגסים קלופים (או שלא)"
+    },
+    {
+     "qty": 0.5,
+     "unit": "בקבוק",
+     "item": "יין אדום יבש",
+     "note": null,
+     "raw": "½ בקבוק יין אדום יבש"
+    },
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "סוכר",
+     "note": null,
+     "raw": "1 כוס סוכר"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "חומץ בלסמי",
+     "note": null,
+     "raw": "½ כוס חומץ בלסמי"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": "קינמון, כוכב אניס, ציפורן, וניל ופלפל שחור",
+     "raw": "תבלינים לפי הטעם: 2 מקלות קינמון, 2 כוכבי אניס, 2 מסמרי ציפורן, מקל וניל, 5 גרגרי פלפל שחור"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מניחים את האגסים בתבנית.",
+     "timerMin": null
+    },
+    {
+     "text": "מערבבים את כל מרכיבי הרוטב ויוצקים מעל.",
+     "timerMin": null
+    },
+    {
+     "text": "מכסים ברדיד אלומיניום ואופים כשעה וחצי ב-180 מעלות.",
+     "timerMin": 90
+    },
+    {
+     "text": "מסירים את הכיסוי וממשיכים לצלות עוד כ-10 דקות, תוך הברשת האגסים ברוטב שנצבר בתחתית התבנית.",
+     "timerMin": 10
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "מגישים חמים או קרים, עם גלידת וניל או קצפת."
+ ],
+ "story": null,
+ "source": {
+  "type": "family",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "Whole peeled pears glazed deep burgundy-brown from red wine and balsamic, standing in a baking dish with cinnamon sticks and star anise, syrupy sauce pooled around",
+ "alt": "אגסים שלמים מזוגגים ביין אדום בתבנית עם קינמון וכוכבי אניס",
+ "originals": [
+  {
+   "file": "אגסים מזוגגים.doc",
+   "driveId": "11aAEfprUdpl0crsUYail6ApwIshlAxj6"
+  }
+ ]
+}

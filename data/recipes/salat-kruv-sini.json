@@ -1,0 +1,144 @@
+{
+  "slug": "salat-kruv-sini",
+  "title": "סלט כרוב סיני",
+  "titleEn": "Chinese Cabbage Salad",
+  "description": "סלט פריך ורענן של כרוב סיני, גבינה צהובה וצנוניות, עם רוטב שמנת חמוצה ולימון ושמיר.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר",
+    "סלט פריך"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 0,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ראש כרוב סיני",
+          "note": "חתוך לרצועות",
+          "raw": "1 ראש כרוב סיני, חתוך לרצועות"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "גבינה צהובה",
+          "note": "חתוכה לרצועות",
+          "raw": "100 גרם גבינה צהובה, חתוכה לרצועות"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "צנוניות",
+          "note": "מרוסקות על פומפיה עבה",
+          "raw": "4 צנוניות, מרוסקות על פומפיה עבה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "מלפפון כבוש",
+          "note": "חתוך לרצועות דקות",
+          "raw": "1 מלפפון כבוש, חתוך לרצועות דקות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמיר קצוץ",
+          "note": "לפי הטעם",
+          "raw": "שמיר קצוץ לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל",
+          "note": null,
+          "raw": "פלפל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "סוכר",
+          "note": "מעט",
+          "raw": "מעט סוכר"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "שמנת חמוצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "מיץ לימון"
+        },
+        {
+          "qty": 1,
+          "unit": "שן",
+          "item": "שום",
+          "note": "כתוש",
+          "raw": "1 שן שום, כתוש"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים בקערה את הכרוב הסיני, הגבינה הצהובה, הצנוניות המרוסקות והמלפפון הכבוש.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שמיר קצוץ, שמנת חמוצה, מיץ לימון ושן שום כתושה.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים במלח, פלפל ומעט סוכר ומערבבים היטב.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Chinese cabbage salad with thin strips of yellow cheese, grated radishes and pickled cucumber, dressed in sour cream and sprinkled with chopped dill, in a glass bowl",
+  "alt": "סלט כרוב סיני עם רצועות גבינה צהובה, צנוניות ומלפפון כבוש בקערת זכוכית, מוגש עם שמיר קצוץ",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

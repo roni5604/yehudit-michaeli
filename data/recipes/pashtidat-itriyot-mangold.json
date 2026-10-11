@@ -1,0 +1,156 @@
+{
+  "slug": "pashtidat-itriyot-mangold",
+  "title": "פשטידת איטריות רחבות עם מנגולד",
+  "titleEn": "Wide Noodle and Chard Pie",
+  "description": "פשטידת איטריות רחבות עם מנגולד מוקפץ ובצל, גבינה מלוחה וביצים. טעימה חמה וקרה.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חג"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית פיירקס מרובעת או עגולה בקוטר 26 ס״מ",
+  "prepMin": 30,
+  "cookMin": 45,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "איטריות רחבות",
+          "note": null,
+          "raw": "1 חבילה איטריות רחבות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "מטוגן",
+          "raw": "1 בצל, מטוגן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מנגולד",
+          "note": "כמות גדולה, שטוף",
+          "raw": "מנגולד, כמות גדולה, שטוף"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור גרוס",
+          "note": null,
+          "raw": "מלח ופלפל שחור גרוס"
+        },
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "גבינה מלוחה",
+          "note": "ברינזה או חמד, מרוסקת גס",
+          "raw": "1 חבילה גבינה מלוחה, ברינזה או חמד, מרוסקת גס"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים שלמות",
+          "note": null,
+          "raw": "2 ביצים שלמות"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "קמח",
+          "note": null,
+          "raw": "1-2 כף קמח",
+          "qtyMax": 2
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פירורי לחם",
+          "note": "לתבנית",
+          "raw": "פירורי לחם, לתבנית"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "גבינה צהובה",
+          "note": "אפשר מעורבת עם זעתר, לקראת סוף האפייה",
+          "raw": "50 גרם גבינה צהובה, אפשר מעורבת עם זעתר, לקראת סוף האפייה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את האיטריות במי מלח ומסננים.",
+          "timerMin": null
+        },
+        {
+          "text": "שוטפים היטב את המנגולד, ועדיף לחלוט במים רותחים ולשפוך את המים.",
+          "timerMin": null
+        },
+        {
+          "text": "קוצצים את המנגולד לחתיכות רחבות ומוסיפים לבצל המטוגן, ובוחשים עד שהנוזלים והשמן מצטמצמים.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים בהרבה מלח ופלפל שחור.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים את האיטריות עם המנגולד והבצל, מוסיפים את הגבינה המרוסקת, ומערבבים היטב.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שתי ביצים וכף או שתיים קמח ומערבבים.",
+          "timerMin": null
+        },
+        {
+          "text": "משמנים היטב תבנית פיירקס מרובעת או עגולה בקוטר 26, מפזרים פירורי לחם על התחתית והדפנות ומנערים את העודף.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים את התערובת לתבנית ואופים בתנור שחומם ל-200 מעלות עד שהפשטידה משחימה.",
+          "timerMin": null
+        },
+        {
+          "text": "לקראת הסוף מגררים מעל גבינה צהובה ומחזירים לתנור לכמה דקות.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מגישים חם או קר, עם שמנת חמוצה או סלט ירוק."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Round golden noodle and chard pie in a glass baking dish, a wedge cut out showing green chard through the noodles",
+  "alt": "פשטידת איטריות ומנגולד זהובה בתבנית פיירקס, פלח חתוך",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

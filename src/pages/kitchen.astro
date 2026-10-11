@@ -1,0 +1,75 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import KitchenTools from "../islands/KitchenTools.tsx";
+import { getNotes } from "../lib/data";
+const notes = await getNotes();
+const glossary: [string, string, string][] = [
+  ["בורגיניון", "Bourguignon", "תבשיל בקר ביין אדום, בצלונים ופטריות, מבורגונדי."],
+  ["קונפי", "Confit", "בישול איטי של בשר (בעיקר ברווז ואווז) בשומן שלו בחום נמוך."],
+  ["טארט טאטן", "Tarte Tatin", "טארט תפוחים הפוך: התפוחים מתקרמלים בתחתית, ואחרי האפייה הופכים."],
+  ["בויאבז", "Bouillabaisse", "מרק דגים ופירות ים ממרסיי, עם זעפרן, שומר ורואיי."],
+  ["רואיי", "Rouille", "רוטב שום, פלפל וזעפרן שמוגש עם בויאבז."],
+  ["איולי", "Aïoli", "מיונז שום פרובנסלי."],
+  ["שוקרוט", "Choucroute", "כרוב כבוש מבושל עם נקניקים ובשרים מעושנים, מאלזס."],
+  ["קרם ברולה", "Crème brûlée", "קרם וניל אפוי עם שכבת סוכר מקורמלת."],
+  ["קרפ סוזט", "Crêpes Suzette", "קרפים ברוטב חמאה, תפוזים וליקר תפוזים, לפעמים מוצתים."],
+  ["ראגו", "Ragoût", "תבשיל סמיך של בשר וירקות."],
+  ["רטטוי", "Ratatouille", "תבשיל ירקות קיץ פרובנסלי: חציל, קישוא, פלפל ועגבנייה."],
+  ["בשמל", "Béchamel", "רוטב חלב שמוסמך בחמאה וקמח (רו)."],
+  ["רו", "Roux", "חמאה וקמח מבושלים יחד, בסיס להסמכת רטבים."],
+  ["ז׳ולייאן", "Julienne", "חיתוך ירקות לגפרורים דקים."],
+  ["בלאנש", "Blanchir", "חליטה קצרה במים רותחים וקירור מהיר במי קרח."],
+  ["פלמבה", "Flambé", "הצתת אלכוהול על המנה."],
+  ["גרטן", "Gratin", "מאפה עם שכבה עליונה מוזהבת של גבינה או פירורים."],
+  ["קיש לורן", "Quiche Lorraine", "פשטידה בבצק פריך עם ביצים, שמנת ובייקון (אצל יהודית: חזה אווז)."],
+  ["סופלה", "Soufflé", "מאפה אוורירי על בסיס חלבונים מוקצפים."],
+  ["טרין", "Terrine", "מאפה בתבנית מלבנית, למשל של כבד, ירקות או סורבה, שמוגש בפרוסות."],
+  ["פרלינה", "Praliné", "אגוזים מקורמלים טחונים."],
+  ["גנאש", "Ganache", "שוקולד ושמנת מתוקה."],
+  ["סורבה", "Sorbet", "גלידת פירות ללא חלב."],
+  ["בורדלייז", "Bordelaise", "רוטב יין אדום, שאלוט ומח עצם, מבורדו."],
+  ["ממליגה", "Mămăligă", "דייסת תירס רומנית, אחות של הפולנטה."],
+];
+---
+<BaseLayout title="מחברת המטבח" description="ממיר מידות, טמפרטורות תנור, מילון מונחים צרפתיים וטיפים מהמטבח של יהודית מיכאלי.">
+  <div class="container-x head">
+    <Breadcrumbs items={[{ label: "מחברת המטבח" }]} />
+    <h1>מחברת המטבח</h1>
+    <p class="lede">כלים שימושיים לבישול מהמחברות, ומילון קטן למטבח הצרפתי של יהודית.</p>
+  </div>
+  <section id="converter" class="container-x" aria-label="ממירים"><KitchenTools client:visible /></section>
+  <section class="container-x gl" aria-labelledby="gl-t">
+    <h2 id="gl-t">מילון המטבח הצרפתי</h2>
+    <dl class="gl-grid">
+      {glossary.map(([he, fr, d]) => <div class="gl-item reveal"><dt><span>{he}</span> <span class="latin">{fr}</span></dt><dd>{d}</dd></div>)}
+    </dl>
+  </section>
+  {notes.length > 0 && (
+    <section class="container-x gl" aria-labelledby="nt-t">
+      <h2 id="nt-t">טיפים ומדריכים</h2>
+      {notes.map((n) => <details class="note"><summary>{n.title}</summary><div set:html={n.body.replace(/\n/g, "<br/>")} /></details>)}
+    </section>
+  )}
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 20px; } .head h1 { margin: 10px 0 8px; }
+  .gl { padding-top: 50px; }
+  .gl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 14px; margin: 18px 0 0; }
+  .gl-item { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; }
+  .gl-item dt { font-family: var(--font-display); font-weight: 700; font-size: 1.2rem; display: flex; justify-content: space-between; gap: 10px; }
+  .gl-item dt .latin { color: var(--copper-text); font-weight: 500; }
+  .gl-item dd { margin: 6px 0 0; color: var(--ink-soft); }
+  .note { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 18px; margin-bottom: 10px; }
+  .note summary { cursor: pointer; font-weight: 700; min-height: 32px; }
+  :global(.kt) { display: grid; grid-template-columns: 1.3fr 1fr; gap: 20px; }
+  :global(.kt-card) { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 22px; }
+  :global(.kt-card h3) { margin: 0 0 14px; }
+  :global(.kt-row) { display: grid; grid-template-columns: 100px 110px 1fr; gap: 10px; }
+  :global(.kt-row label) { display: grid; gap: 4px; font-weight: 700; font-size: .9rem; color: var(--ink-soft); }
+  :global(.kt-out) { font-size: var(--step-2); font-family: var(--font-display); margin: 18px 0 4px; color: var(--bordeaux); }
+  :global(.kt-note) { color: var(--ink-mute); font-size: .88rem; margin: 0; }
+  :global(.kt-table) { width: 100%; border-collapse: collapse; }
+  :global(.kt-table th), :global(.kt-table td) { padding: 8px; border-bottom: 1px solid var(--line); text-align: center; }
+  @media (max-width: 800px) { :global(.kt) { grid-template-columns: 1fr; } :global(.kt-row) { grid-template-columns: 1fr 1fr; } }
+</style>

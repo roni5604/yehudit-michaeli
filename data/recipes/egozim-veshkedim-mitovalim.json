@@ -1,0 +1,149 @@
+{
+ "slug": "egozim-veshkedim-mitovalim",
+ "title": "אגוזים ושקדים מתובלים",
+ "titleEn": "Spiced Roasted Nuts and Almonds",
+ "description": "תערובת אגוזים ושקדים שמטגנים בחמאה ושמן זית עם זרעי כוסברה, אניס ופפריקה. חטיף ארומטי שמתאים גם כתוספת פריכה לסלט.",
+ "category": "appetizers",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "dairy",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "חטיף",
+  "אירוח",
+  "מהיר"
+ ],
+ "servings": null,
+ "yield": "כ-6 כוסות אגוזים מתובלים",
+ "pan": null,
+ "prepMin": 10,
+ "cookMin": 10,
+ "totalMin": 20,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 6,
+     "unit": "כוסות",
+     "item": "תערובת אגוזים ושקדים",
+     "note": null,
+     "raw": "6 כוסות תערובת אגוזים ושקדים"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "שמן זית",
+     "note": null,
+     "raw": "2 כפות שמן זית"
+    },
+    {
+     "qty": 20,
+     "unit": "גרם",
+     "item": "חמאה",
+     "note": null,
+     "raw": "20 גרם חמאה"
+    },
+    {
+     "qty": 2,
+     "unit": "כפיות",
+     "item": "פפריקה מתוקה",
+     "note": null,
+     "raw": "2 כפיות פפריקה מתוקה"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "פפריקה חריפה",
+     "note": null,
+     "raw": "1 כפית פפריקה חריפה"
+    },
+    {
+     "qty": 2,
+     "unit": "כפיות",
+     "item": "זרעי כוסברה",
+     "note": "כתושים",
+     "raw": "2 כפיות זרעי כוסברה כתושים"
+    },
+    {
+     "qty": 2,
+     "unit": "כפיות",
+     "item": "זרעי אניס",
+     "note": null,
+     "raw": "2 כפיות זרעי אניס"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "סוכר חום",
+     "note": null,
+     "raw": "1 כפית סוכר חום"
+    },
+    {
+     "qty": 2,
+     "unit": "כפיות",
+     "item": "מלח גס",
+     "note": null,
+     "raw": "2 כפיות מלח גס"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "קולים את זרעי התבלינים במחבת יבשה במשך דקה.",
+     "timerMin": 1
+    },
+    {
+     "text": "מוסיפים חמאה ושמן זית.",
+     "timerMin": null
+    },
+    {
+     "text": "מטגנים את האגוזים במחבת עם החמאה והשמן כדקה, בוחשים כל הזמן ונזהרים שלא ייבשלו.",
+     "timerMin": 1
+    },
+    {
+     "text": "זורים פפריקה, סוכר ומלח ובוחשים היטב.",
+     "timerMin": null
+    },
+    {
+     "text": "קולים בתנור כ-5 דקות.",
+     "timerMin": 5
+    },
+    {
+     "text": "מצננים ומאחסנים בכלי אטום במקפיא.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "אפשר לזרות מעל סלט פיקנטי או להגיש כחטיף."
+ ],
+ "story": null,
+ "source": {
+  "type": "family",
+  "credit": null,
+  "rewritten": false
+ },
+ "imagePrompt": "A bowl of spiced roasted almonds and walnuts glistening with butter and olive oil, flecked with paprika, coriander and anise seeds",
+ "alt": "קערת אגוזים ושקדים קלויים ומתובלים בפפריקה וזרעי כוסברה",
+ "originals": [
+  {
+   "file": "אגוזים ושקדים מתובלים.doc",
+   "driveId": "1VBj3gt7FpIuX-k2mE8KYfucP8v3QpUtD"
+  },
+  {
+   "file": "אגוזים ושקדים מתובלים.doc",
+   "driveId": "1eJcBEkxPFcxYqDDHBff8-URg9T4bbAjp"
+  }
+ ]
+}

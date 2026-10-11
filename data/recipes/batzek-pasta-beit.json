@@ -1,0 +1,113 @@
+{
+  "slug": "batzek-pasta-beit",
+  "title": "בצק פסטה ביתי",
+  "titleEn": "Homemade Fresh Pasta Dough",
+  "description": "בצק פסטה בסיסי מביצים, קמח ושמן זית, שאפשר ללוש ביד או במעבד מזון. מתאים לאיטריות, לטורטליני ולרביולי.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [
+    "בסיס",
+    "פסטה ביתית"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 0,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "קמח",
+          "note": null,
+          "raw": "½ ק״ג קמח"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "חלמונים",
+          "note": null,
+          "raw": "3 חלמונים"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "מעט שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": "קורט",
+          "item": "מלח",
+          "note": null,
+          "raw": "קורט מלח"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "שמים במעבד מזון את הביצים, החלמונים, שמן הזית והמלח.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הקמח בהדרגה, עד שהתערובת נראית כפירורים מעט דביקים.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים למשטח ולשים. עדיף להתחיל מבצק רטוב מעט ולהוסיף קמח תוך כדי עבודה, ולא להפך.",
+          "timerMin": null
+        },
+        {
+          "text": "מכסים ונותנים לבצק לנוח לפני העיבוד, ומעבדים בכל פעם רבע או חצי מהכמות.",
+          "timerMin": null
+        },
+        {
+          "text": "מרדדים וחותכים לצורה הרצויה (אפשר גם במכונת פסטה).",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "כמות הקמח והנוזלים אינה מדויקת, כי הבצק מושפע מטמפרטורה ולחות. צריך להרגיש אותו בידיים.",
+    "גרסה בסיסית אחרת: 4 ביצים על חצי ק״ג קמח, מעט מים לפי הצורך.",
+    "אפשר להעשיר את הבצק בגרידת לימון או בעשבי תיבול.",
+    "לאחסון: מקמחים קלות בקורן פלור, מגלגלים לסלילים ומקפיאים, או מייבשים על מתלה."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "תמר בליי",
+    "rewritten": true
+  },
+  "imagePrompt": "A mound of freshly cut golden egg pasta tagliatelle nests dusted with flour on a wooden board",
+  "alt": "קני טליאטלה ביתיים בצבע צהוב זהוב מאובקים בקמח על לוח עץ",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

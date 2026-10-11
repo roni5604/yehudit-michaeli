@@ -1,0 +1,41 @@
+{
+  "slug": "tuile-parmesan",
+  "title": "טוויל פרמזן",
+  "titleEn": "Parmesan Tuile",
+  "description": "עלים פריכים וזהובים מפרמזן מגורד בלבד, שנאפים על רדיד סיליקון בצורת עיגול, מקל או כל צורה אחרת, ומשמשים לקישוט סלטים ומנות.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian", "gluten-free"],
+  "tags": ["קישוט", "מהיר", "מנת מסעדה"],
+  "servings": null,
+  "yield": null,
+  "pan": "רדיד סיליקון",
+  "prepMin": 5,
+  "cookMin": 5,
+  "totalMin": 10,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": null, "unit": null, "item": "פרמזן", "note": "מגורד", "raw": "פרמזן מגורד" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מפזרים פרמזן על רדיד סיליקון בצורת עיגול, מקל או כל צורה שעולה בדמיון.", "timerMin": null },
+      { "text": "אופים 5 דקות, עד שהפרמזן מזהיב.", "timerMin": 5 },
+      { "text": "מצננים ומאחסנים בקופסה אטומה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Thin lacy golden parmesan crisps in round and stick shapes, arranged on a small white plate",
+  "alt": "עלי פרמזן פריכים וזהובים בצורות עיגול ומקל, על צלחת לבנה קטנה",
+  "originals": [
+    { "file": "טיגוני גבינה לסלט.doc", "driveId": "1xzMLDO1ctBTakXs1wmTlqtoHO1kdGWUg" }
+  ]
+}

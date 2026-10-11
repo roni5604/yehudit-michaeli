@@ -1,0 +1,130 @@
+{
+  "slug": "levivot-seleri-kishuim",
+  "title": "לביבות סלרי וקישואים",
+  "titleEn": "Celeriac and Zucchini Latkes",
+  "description": "לביבות משורש סלרי וקישואים עם עלי סלרי וטימין.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "לביבות",
+    "ירקות"
+  ],
+  "servings": null,
+  "yield": "כ-10 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "שורש סלרי",
+          "note": "קלוף ומגורד דק",
+          "raw": "1 שורש סלרי, קלוף ומגורד דק"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "קישואים",
+          "note": "קלופים ומגוררים",
+          "raw": "2 קישואים, קלופים ומגוררים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "עלי סלרי",
+          "note": "שטופים וקצוצים",
+          "raw": "½ כוס עלי סלרי, שטופים וקצוצים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "עלי טימין",
+          "note": null,
+          "raw": "2 כפיות עלי טימין"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור טחון טרי",
+          "note": null,
+          "raw": "מלח ופלפל שחור טחון טרי"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "½ כוס קמח תופח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל המרכיבים לבלילה.",
+          "timerMin": null
+        },
+        {
+          "text": "את הירקות רצוי להניח במסננת ולסחוט היטב, ולערבב בבלילה ממש לפני הטיגון, כדי למנוע הצטברות נוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן בגובה 2 ס״מ במחבת שטוחה, לוקחים כף מהתערובת ומחליקים אותה בעזרת כף שנייה לתוך השמן החם. מטגנים עד שהלביבות מזהיבות משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Pale golden celeriac and zucchini fritters flecked with thyme on a plate",
+  "alt": "לביבות סלרי וקישואים זהובות עם טימין על צלחת",
+  "originals": [
+    {
+      "file": "לביבות.doc",
+      "driveId": "1xuFLvagHyRzo2D3INkILBwLWHsn4RcUj"
+    },
+    {
+      "file": "לביבות.doc",
+      "driveId": "1kbI3XvjLsHNnfMDz1d2zR-LmU8aibush"
+    }
+  ]
+}

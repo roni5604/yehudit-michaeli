@@ -1,0 +1,111 @@
+{
+  "slug": "lemon-curd",
+  "title": "לימון קארד",
+  "titleEn": "Lemon Curd",
+  "description": "קרם לימון עשיר וחמצמץ, שמבשלים בבחישה עד שהוא מכסה את גב הכף, מסננים ושומרים בצנצנות. ממרח מצוין ללחם, לעוגות ולטארטים.",
+  "category": "jams",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "ממרח",
+    "צנצנות",
+    "מילוי לעוגות"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר או קלחת",
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "ביצים שלמות",
+          "note": null,
+          "raw": "4 ביצים שלמות"
+        },
+        {
+          "qty": 1.5,
+          "unit": "כוסות",
+          "item": "סוכר",
+          "note": null,
+          "raw": "1½ כוסות סוכר"
+        },
+        {
+          "qty": 0.667,
+          "unit": "כוס",
+          "item": "מיץ לימון טרי",
+          "note": null,
+          "raw": "⅔ כוס מיץ לימון טרי"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "לימונים",
+          "note": "גרידה מהקליפה (זסט)",
+          "raw": "גרידה מ-4 לימונים"
+        },
+        {
+          "qty": 150,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": "רכה",
+          "raw": "150 גרם חמאה רכה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מניחים בסיר או בקלחת את כל החומרים מלבד החמאה, ומערבבים היטב במטרפה.",
+          "timerMin": null
+        },
+        {
+          "text": "מעמידים את הסיר על האש, מוסיפים את החמאה ומדליקים את האש.",
+          "timerMin": null
+        },
+        {
+          "text": "מערבבים בכף עץ עד שהתערובת מגיעה לרתיחה ומסמיכה. הקרם מוכן כשהוא מכסה את גב הכף, וקו שמותחים באצבע על גבה נשאר ברור ואינו מתכסה מחדש.",
+          "timerMin": null
+        },
+        {
+          "text": "מורידים מהאש ומסננים את הקרם לקערה נקייה.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים את הקרם לצנצנות מעוקרות וסוגרים את המכסים. מחכים עד שהקרם מגיע לטמפרטורת החדר, ואז מעבירים למקרר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Two small sterilised glass jars filled with smooth glossy bright yellow lemon curd, a wooden spoon resting nearby, whole lemons and a few strips of zest on the table",
+  "alt": "שתי צנצנות זכוכית קטנות עם לימון קארד צהוב וחלק, לצד לימונים שלמים וקליפות",
+  "originals": [
+    {
+      "file": "חמאת לימון.doc",
+      "driveId": "1zLCxOKz0ra9VtfnFiwn1-ggwrmf7kpnj"
+    }
+  ]
+}

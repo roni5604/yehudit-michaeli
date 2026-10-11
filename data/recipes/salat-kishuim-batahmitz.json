@@ -1,0 +1,159 @@
+{
+  "slug": "salat-kishuim-batahmitz",
+  "title": "סלט קישואים בתחמיץ",
+  "titleEn": "Pickled Zucchini Salad",
+  "description": "קישואים מבושלים בתחמיץ חומץ ועלי דפנה, מעורבבים עם מיונית, מלפפון חמוץ וביצה קשה. סלט קר מסורתי.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "קלאסי",
+    "סלט קר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "קישואים בינוניים",
+          "note": null,
+          "raw": "3 קישואים בינוניים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "מיונית",
+          "note": null,
+          "raw": "2 כפות מיונית"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "מלפפון חמוץ",
+          "note": "חתוך לקוביות קטנות",
+          "raw": "1 מלפפון חמוץ, חתוך לקוביות קטנות"
+        },
+        {
+          "qty": 1,
+          "qtyMax": 2,
+          "unit": null,
+          "item": "ביצים קשות",
+          "note": "חתוכות לקוביות קטנות",
+          "raw": "1-2 ביצים קשות, חתוכות לקוביות קטנות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "מיץ לימון לפי הטעם"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "פטרוזיליה ושמיר קצוצים",
+          "note": null,
+          "raw": "1 כף פטרוזיליה ושמיר קצוצים"
+        }
+      ]
+    },
+    {
+      "group": "לתחמיץ",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "מים",
+          "note": null,
+          "raw": "1 כוס מים"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "חומץ",
+          "note": null,
+          "raw": "2 כפות חומץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": "מעט",
+          "raw": "מעט מלח"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "עלי דפנה",
+          "note": null,
+          "raw": "2 עלי דפנה"
+        },
+        {
+          "qty": 3,
+          "qtyMax": 5,
+          "unit": null,
+          "item": "גרגרי פלפל אנגלי",
+          "note": null,
+          "raw": "3-5 גרגרי פלפל אנגלי"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "רוחצים את הקישואים, מסירים את הקצוות וחותכים לקוביות, בלי לקלף.",
+          "timerMin": null
+        },
+        {
+          "text": "מרתיחים את כל חומרי התחמיץ ומבשלים בו את הקישואים רבע שעה.",
+          "timerMin": 15
+        },
+        {
+          "text": "מסננים ומקררים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים מיונית, מלפפון חמוץ וביצים קשות חתוכים לקוביות קטנות והירק הקצוץ.",
+          "timerMin": null
+        },
+        {
+          "text": "מתבלים במלח ובמיץ לימון לפי הצורך. מגישים בעיטור של עגבניות.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Cooled cubes of zucchini mixed with mayonnaise, diced pickle and hard-boiled egg, sprinkled with dill and parsley and garnished with tomato wedges, in a glass bowl",
+  "alt": "קוביות קישואים עם מיונית, ביצה קשה ומלפפון חמוץ ושמיר, מוגשות בקערה עם עגבניות",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

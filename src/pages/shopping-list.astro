@@ -1,0 +1,52 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+---
+<BaseLayout title="רשימת הקניות" description="רשימת הקניות שלך, נשמרת רק בדפדפן." noindex>
+  <div class="container-narrow head">
+    <Breadcrumbs items={[{ label: "רשימת הקניות" }]} />
+    <h1>רשימת הקניות</h1>
+    <form id="add-form" class="add"><label class="visually-hidden" for="add-item">פריט חדש</label><input id="add-item" class="input" placeholder="להוסיף פריט…" /><button class="btn" type="submit">הוספה</button></form>
+    <ul id="list" class="list"></ul>
+    <p id="empty" class="empty" hidden>הרשימה ריקה. אפשר להוסיף פריטים כאן, או מתוך עמוד של מתכון מלא.</p>
+    <div class="acts"><button type="button" class="btn btn-ghost btn-sm" id="clear-done">ניקוי פריטים שסומנו</button><button type="button" class="btn btn-ghost btn-sm" id="print">הדפסה</button></div>
+  </div>
+</BaseLayout>
+<script>
+  import { getList, setList, addToList } from "../scripts/store";
+  function render() {
+    const ul = document.getElementById("list"); if (!ul) return;
+    const items = getList();
+    document.getElementById("empty")!.hidden = items.length > 0;
+    ul.innerHTML = "";
+    for (const it of items) {
+      const li = document.createElement("li");
+      li.className = it.done ? "done" : "";
+      li.innerHTML = `<label><input type="checkbox" class="checkbox" ${it.done ? "checked" : ""}/> <span></span></label><small></small><button type="button" class="icon-btn" aria-label="מחיקה">✕</button>`;
+      li.querySelector("span")!.textContent = it.text;
+      li.querySelector("small")!.textContent = it.recipeTitle ?? "";
+      li.querySelector("input")!.addEventListener("change", () => { setList(getList().map((x) => (x.id === it.id ? { ...x, done: !x.done } : x))); render(); });
+      li.querySelector("button")!.addEventListener("click", () => { setList(getList().filter((x) => x.id !== it.id)); render(); });
+      ul.appendChild(li);
+    }
+  }
+  function init() {
+    document.getElementById("add-form")?.addEventListener("submit", (e) => { e.preventDefault(); const i = document.getElementById("add-item") as HTMLInputElement; if (i.value.trim()) addToList([i.value.trim()]); i.value = ""; render(); });
+    document.getElementById("clear-done")?.addEventListener("click", () => { setList(getList().filter((x) => !x.done)); render(); });
+    document.getElementById("print")?.addEventListener("click", () => print());
+    render();
+  }
+  init();
+  document.addEventListener("astro:page-load", init);
+</script>
+<style>
+  .head { padding-block: 24px 20px; } .head h1 { margin: 10px 0 18px; }
+  .add { display: flex; gap: 10px; margin-bottom: 18px; }
+  .list { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+  .list :global(li) { display: grid; grid-template-columns: 1fr auto 44px; gap: 10px; align-items: center; padding: 8px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+  .list :global(label) { display: flex; gap: 12px; align-items: center; cursor: pointer; min-height: 40px; }
+  .list :global(li.done span) { text-decoration: line-through; color: var(--ink-mute); }
+  .list :global(small) { color: var(--ink-mute); }
+  .empty { color: var(--ink-soft); }
+  .acts { display: flex; gap: 10px; margin-top: 18px; }
+</style>

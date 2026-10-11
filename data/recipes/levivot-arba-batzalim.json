@@ -1,0 +1,130 @@
+{
+  "slug": "levivot-arba-batzalim",
+  "title": "לביבות ארבעה בצלים",
+  "titleEn": "Four-Onion Latkes",
+  "description": "לביבות קלילות מארבעה סוגי בצל: בצל, בצל סגול, כרישה ובצל ירוק.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "לביבות",
+    "ירקות"
+  ],
+  "servings": null,
+  "yield": "כ-10 לביבות",
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 15,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל בינוני",
+          "note": "קלוף ומגורד",
+          "raw": "1 בצל בינוני, קלוף ומגורד"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל סגול",
+          "note": "קלוף ומגורד",
+          "raw": "1 בצל סגול, קלוף ומגורד"
+        },
+        {
+          "qty": 1,
+          "unit": "גבעול",
+          "item": "כרישה",
+          "note": "רק החלק הלבן, קצוץ דק-דק",
+          "raw": "1 גבעול כרישה, רק החלק הלבן, קצוץ דק-דק"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "בצלים ירוקים",
+          "note": "קצוצים דק-דק",
+          "raw": "2 בצלים ירוקים, קצוצים דק-דק"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "קמח תופח",
+          "note": null,
+          "raw": "½ כוס קמח תופח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור גרוס טרי",
+          "note": null,
+          "raw": "מלח ופלפל שחור גרוס טרי"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל המרכיבים לבלילה.",
+          "timerMin": null
+        },
+        {
+          "text": "את הירקות רצוי להניח במסננת ולסחוט היטב, ולערבב בבלילה ממש לפני הטיגון, כדי למנוע הצטברות נוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים שמן בגובה 2 ס״מ במחבת שטוחה, לוקחים כף מהתערובת ומחליקים אותה בעזרת כף שנייה לתוך השמן החם. מטגנים עד שהלביבות מזהיבות משני הצדדים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Golden onion latkes with green flecks of scallion on a plate",
+  "alt": "לביבות בצל זהובות עם פסי בצל ירוק על צלחת",
+  "originals": [
+    {
+      "file": "לביבות.doc",
+      "driveId": "1xuFLvagHyRzo2D3INkILBwLWHsn4RcUj"
+    },
+    {
+      "file": "לביבות.doc",
+      "driveId": "1kbI3XvjLsHNnfMDz1d2zR-LmU8aibush"
+    }
+  ]
+}

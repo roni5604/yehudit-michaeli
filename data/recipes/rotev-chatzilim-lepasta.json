@@ -1,0 +1,110 @@
+{
+  "slug": "rotev-chatzilim-lepasta",
+  "title": "רוטב חצילים לפסטה",
+  "titleEn": "Eggplant Pasta Sauce",
+  "description": "רוטב פשוט מחציל מטוגן עם שום, מרווה ועגבניות, שמתבשל על אש קטנה.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 25,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "½ כוס שמן זית"
+        },
+        {
+          "qty": 4,
+          "unit": "שיני",
+          "item": "שום",
+          "note": "קצוצות",
+          "raw": "4 שיני שום, קצוצות"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "חציל",
+          "note": "בקוביות",
+          "raw": "1 חציל, בקוביות"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "עלי מרווה, אורגנו או ריחן",
+          "note": null,
+          "raw": "4 עלי מרווה, אורגנו או ריחן"
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "עגבניות חתוכות",
+          "note": "עם הנוזלים",
+          "raw": "1 קופסה עגבניות חתוכות, עם הנוזלים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "מים",
+          "note": null,
+          "raw": "½ כוס מים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מטגנים בשמן את החציל, העלים והשום עד הזהבה.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים מים ואת העגבניות עם הנוזלים, מתבלים במלח ופלפל ומבשלים על אש קטנה 10 עד 15 דקות.",
+          "timerMin": 10
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": "שירה שלו",
+    "rewritten": true
+  },
+  "imagePrompt": "Chunky eggplant and tomato sauce over short pasta in a deep bowl with fresh sage leaves",
+  "alt": "רוטב חצילים ועגבניות עבה על פסטה קצרה בקערה עמוקה עם עלי מרווה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "marak-adashim-makaroni",
+  "title": "מרק עדשים ומקרוני",
+  "titleEn": "Lentil and Macaroni Soup",
+  "description": "מרק עדשים סמיך עם סלרי, בצל ועגבניות כתושות ומקרוני, שמוגש עם כוסברה ויוגורט.",
+  "category": "soups",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 100,
+  "totalMin": 115,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "ק״ג",
+          "item": "עדשים",
+          "note": null,
+          "raw": "½ ק״ג עדשים"
+        },
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "⅓ כוס שמן זית"
+        },
+        {
+          "qty": 0.75,
+          "unit": "כוס",
+          "item": "מקלות סלרי קצוצים",
+          "note": null,
+          "raw": "¾ כוס מקלות סלרי קצוצים"
+        },
+        {
+          "qty": 0.6667,
+          "unit": "כוס",
+          "item": "בצל יבש קצוץ",
+          "note": null,
+          "raw": "⅔ כוס בצל יבש קצוץ"
+        },
+        {
+          "qty": 1.5,
+          "unit": "כוסות",
+          "item": "עגבניות כתושות",
+          "note": null,
+          "raw": "1½ כוסות עגבניות כתושות"
+        },
+        {
+          "qty": 2.5,
+          "unit": "כוסות",
+          "item": "מקרוני או פסטה אחרת",
+          "note": null,
+          "raw": "2½ כוסות מקרוני או פסטה אחרת"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור גרוס",
+          "note": null,
+          "raw": "מלח ופלפל שחור גרוס"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עלי כוסברה או פטרוזיליה ויוגורט טבעי",
+          "note": "להגשה",
+          "raw": "עלי כוסברה או פטרוזיליה ויוגורט טבעי, להגשה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את העדשים בסיר, כשהן מכוסות במים, על אש בינונית כשעה וחצי עד שהן מתרככות.",
+          "timerMin": 90
+        },
+        {
+          "text": "בסיר אחר מחממים את השמן ומאדים את הסלרי והבצל עד שמזהיבים. מוסיפים את העגבניות ומבשלים עוד כ-10 דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מעבירים את תכולת הסיר לעדשים.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים את הפסטה לדרגה של קצת פחות מאל דנטה ומוסיפים לסיר העדשים.",
+          "timerMin": null
+        },
+        {
+          "text": "מבשלים ברתיחה עדינה עד שהפסטה מוכנה, מתקנים תיבול ומוסיפים מים לפי הצורך.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים חם, מקושט בכוסברה או בפטרוזיליה, עם או בלי יוגורט.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "book",
+    "credit": "ספר הבישול של הניו יורק טיימס",
+    "rewritten": true
+  },
+  "imagePrompt": "Thick brown lentil soup with small macaroni pieces and chopped cilantro in a deep bowl with a spoon of yogurt",
+  "alt": "מרק עדשים סמיך עם מקרוני וכוסברה בקערה עמוקה עם כף יוגורט",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

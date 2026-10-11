@@ -1,0 +1,67 @@
+{
+  "slug": "tiramisu-lelo-afiya",
+  "title": "טירמיסו ללא אפייה",
+  "titleEn": "No-Bake Tiramisu with Cream Cheese",
+  "description": "טירמיסו קל לחבורה: קרם אוורירי של גבינת שמנת, קצפת וליקר קפה בין שכבות בישקוטים טבולים בקפה ורום, עם קקאו ושוקולד גרוס.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["ללא אפייה", "אירוח", "אפשר להכין מראש"],
+  "servings": null,
+  "yield": null,
+  "pan": "כלי הגשה יפה",
+  "prepMin": 30,
+  "cookMin": 0,
+  "totalMin": 270,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": "למלית", "items": [
+      { "qty": 1, "unit": null, "item": "מכל שמנת להקצפה", "note": null, "raw": "1 מכל שמנת להקצפה" },
+      { "qty": 300, "unit": "גרם", "item": "גבינת שמנת", "note": null, "raw": "300 גרם גבינת שמנת" },
+      { "qty": 3, "unit": "כפות", "item": "חלב", "note": null, "raw": "3 כפות חלב" },
+      { "qty": 0.5, "unit": "כוס", "item": "אבקת סוכר", "note": null, "raw": "½ כוס אבקת סוכר" },
+      { "qty": 3, "unit": "כפות", "item": "ליקר קפה", "note": null, "raw": "3 כפות ליקר קפה" },
+      { "qty": 50, "unit": "גרם", "item": "שוקולד גרוס", "note": null, "raw": "50 גרם שוקולד גרוס" }
+    ] },
+    { "group": "לבסיס", "items": [
+      { "qty": 0.5, "unit": "כוס", "item": "קפה חזק", "note": null, "raw": "½ כוס קפה חזק" },
+      { "qty": 0.25, "unit": "כוס", "item": "רום", "note": "משקה, לא תמצית", "raw": "¼ כוס רום (משקה, לא תמצית)" },
+      { "qty": 150, "unit": "גרם", "item": "בישקוטים מסוג סבויארדי", "note": null, "raw": "150 גרם בישקוטים מסוג סבויארדי" }
+    ] },
+    { "group": "לקישוט", "items": [
+      { "qty": null, "unit": null, "item": "אבקת קקאו לא ממותקת", "note": null, "raw": "אבקת קקאו לא ממותקת" }
+    ] }
+  ],
+  "steps": [
+    { "group": "המלית", "items": [
+      { "text": "מקציפים את השמנת לקצפת יציבה. שמים 3 עד 4 כפות בשק זילוף עם צנתר כוכבי לקישוט, ואת היתר שומרים בקירור.", "timerMin": null },
+      { "text": "מקציפים גבינת שמנת, חלב, אבקת סוכר וליקר קפה לקרם אחיד (אפשר באותה קערה ועם אותם מקצפים).", "timerMin": null },
+      { "text": "מוסיפים את השוקולד הגרוס ואת הקצפת ששמרנו במקרר, ומקפלים בעדינות לקרם גבינה אוורירי.", "timerMin": null }
+    ] },
+    { "group": "הרכבה", "items": [
+      { "text": "מערבבים בקערה אחרת קפה וליקר. אם הטעם חזק מדי, אפשר להמתיק במעט סוכר או להחליש בקצת מים.", "timerMin": null },
+      { "text": "טובלים מחצית מהבישקוטים בסירופ הקפה ומסדרים בתחתית כלי הגשה יפה.", "timerMin": null },
+      { "text": "מורחים מעל כמחצית מקרם הגבינה, ומסדרים שכבה שנייה של בישקוטים ועוד קרם.", "timerMin": null },
+      { "text": "בוזקים על השכבה העליונה קקאו לא ממותק ומקשטים בכוכבי קצפת מהשק.", "timerMin": null },
+      { "text": "שומרים בקירור, עדיף מכוסה בעטיפת ניילון, עד ההגשה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "הקינוח טעים במיוחד יום או יומיים אחרי ההכנה, ולכן אפשר להכין אותו מראש לפני אירוע. אפשר גם להקפיא.",
+    "כשמכינים מראש, כדאי לבזוק את הקקאו סמוך להגשה.",
+    "בכלי צר וגבוה גודל הכלי קובע את מספר השכבות."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "תמי סירקיס-אקרמן (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "A glass serving dish of layered tiramisu with coffee-soaked ladyfingers and airy cream cheese cream, dusted with cocoa and topped with piped whipped cream stars",
+  "alt": "טירמיסו בכלי זכוכית עם שכבות בישקוטים וקרם גבינה, מאובק בקקאו ומקושט בכוכבי קצפת",
+  "originals": [
+    { "file": "טירמיסו של תמי סירקיס.doc", "driveId": "1wzrLeL5k8Hw_NzGonibwHXW3RqPrtqVg" },
+    { "file": "טירמיסו של תמי סירקיס.doc", "driveId": "1akhmlGIUkN_IPOmPqgHeWjIwT_xebJGo" },
+    { "file": "טירמיסו.doc", "driveId": "1skQxcjcpfzln2nGHkgbpOhMDLBe9Bc4S" }
+  ]
+}

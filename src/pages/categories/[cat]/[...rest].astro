@@ -1,0 +1,73 @@
+---
+// /categories/<cat>, /categories/<cat>/<n>, /categories/<cat>/<sub>, /categories/<cat>/<sub>/<n>
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import EntryCard from "../../../components/EntryCard.astro";
+import Pagination from "../../../components/Pagination.astro";
+import { catalog, type Entry } from "../../../lib/data";
+import { categories } from "../../../lib/site";
+
+export async function getStaticPaths() {
+  const SIZE = 60;
+  const { catalog: all } = await import("../../../lib/data");
+  const out: { params: { cat: string; rest: string | undefined }; props: any }[] = [];
+  for (const c of categories) {
+    const list = all.filter((r) => r.c === c.slug);
+    const push = (items: Entry[], sub: (typeof c.subs)[number] | null) => {
+      const last = Math.max(1, Math.ceil(items.length / SIZE));
+      for (let n = 1; n <= last; n++) {
+        const segs = [sub?.slug, n > 1 ? String(n) : undefined].filter(Boolean).join("/");
+        out.push({ params: { cat: c.slug, rest: segs || undefined }, props: { cat: c, sub, items, n, last, catList: list } });
+      }
+    };
+    push(list, null);
+    for (const s of c.subs) {
+      const items = list.filter((r) => r.sc === s.slug);
+      if (items.length) push(items, s);
+    }
+  }
+  return out;
+}
+const { cat, sub, items, n, last, catList } = Astro.props as {
+  cat: (typeof categories)[number]; sub: (typeof categories)[number]["subs"][number] | null;
+  items: Entry[]; n: number; last: number; catList: Entry[];
+};
+const SIZE = 60;
+const base = `/categories/${cat.slug}${sub ? `/${sub.slug}` : ""}`;
+const pageData = items.slice((n - 1) * SIZE, n * SIZE);
+const page = { currentPage: n, lastPage: last, url: { prev: n > 1 ? (n === 2 ? base : `${base}/${n - 1}`) : undefined, next: n < last ? `${base}/${n + 1}` : undefined } };
+const subCounts = new Map<string, number>(); for (const e of catList) if (e.sc) subCounts.set(e.sc, (subCounts.get(e.sc) ?? 0) + 1);
+const subs = cat.subs.filter((s) => subCounts.get(s.slug));
+const name = sub ? sub.he : cat.he;
+const crumbs = [{ href: "/categories", label: "קטגוריות" }, ...(sub ? [{ href: `/categories/${cat.slug}`, label: cat.he }] : []), { label: name }];
+---
+<BaseLayout title={name + (n > 1 ? ` · עמוד ${n}` : "")} description={`${items.length} מתכונים של ${name} מהמטבח של יהודית מיכאלי.`}>
+  <div class="container-x head">
+    <Breadcrumbs items={crumbs} />
+    <p class="latin-eyebrow">{cat.en}</p>
+    <h1>{name}</h1>
+    <p class="lede">{items.length.toLocaleString("he-IL")} מתכונים{last > 1 ? ` · עמוד ${n} מתוך ${last}` : ""}</p>
+    {subs.length > 0 && (
+      <nav aria-label={`תתי-קטגוריות של ${cat.he}`} class="subs">
+        <a class:list={["chip", "chip-accent", { on: !sub }]} href={`/categories/${cat.slug}`} aria-current={!sub ? "page" : undefined}>הכול <span>({catList.length})</span></a>
+        {subs.map((s) => <a class:list={["chip", "chip-accent", { on: sub?.slug === s.slug }]} href={`/categories/${cat.slug}/${s.slug}`} aria-current={sub?.slug === s.slug ? "page" : undefined}>{s.he} <span>({subCounts.get(s.slug)})</span></a>)}
+      </nav>
+    )}
+    <p class="filter-link"><a href={`/recipes?c=${cat.slug}`}>לסינון מתקדם ({cat.he}) ←</a></p>
+  </div>
+  <section class="container-x" aria-label={`מתכוני ${name}`}>
+    <ul class="ecard-grid">{pageData.map((e) => <li><EntryCard e={e} headingLevel={2} /></li>)}</ul>
+    <Pagination page={page} base={base} />
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 28px; }
+  .head h1 { margin: 4px 0 6px; }
+  .latin-eyebrow { font-family: var(--font-latin); font-style: italic; letter-spacing: .04em; font-size: 1.2rem; margin: 18px 0 0; color: var(--copper-text); }
+  .subs { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .subs a { text-decoration: none; min-height: 40px; }
+  .subs a.on { background: var(--bordeaux); color: var(--paper); border-color: var(--bordeaux); }
+  .subs a.on span { color: inherit; }
+  .subs span { color: var(--ink-mute); font-weight: 500; }
+  .filter-link { margin: 14px 0 0; font-weight: 700; }
+</style>

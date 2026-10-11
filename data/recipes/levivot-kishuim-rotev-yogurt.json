@@ -1,0 +1,156 @@
+{
+  "slug": "levivot-kishuim-rotev-yogurt",
+  "title": "לביבות קישואים עם רוטב יוגורט",
+  "titleEn": "Zucchini Latkes with Yogurt Sauce",
+  "description": "לביבות קישואים זהובות עם בצל ואורגנו טרי, מוגשות עם רוטב יוגורט, שום ושמיר.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "קישואים",
+    "קל"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 20,
+  "totalMin": 40,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "קישואים",
+          "note": "מגורדים דק",
+          "raw": "4 קישואים, מגורדים דק"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל",
+          "note": "מגורד גס",
+          "raw": "1 בצל, מגורד גס"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "ביצים",
+          "note": null,
+          "raw": "2 ביצים"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "קמח",
+          "note": null,
+          "raw": "1 כוס קמח"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "פירורי לחם",
+          "note": null,
+          "raw": "1 כוס פירורי לחם"
+        },
+        {
+          "qty": 2,
+          "unit": "כפות",
+          "item": "אורגנו טרי",
+          "note": "קצוץ דק",
+          "raw": "2 כפות אורגנו טרי, קצוץ דק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": "לפי הטעם",
+          "raw": "מלח ופלפל, לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן",
+          "note": "לטיגון",
+          "raw": "שמן, לטיגון"
+        }
+      ]
+    },
+    {
+      "group": "רוטב",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "יוגורט",
+          "note": null,
+          "raw": "יוגורט"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שום",
+          "note": null,
+          "raw": "שום"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמיר",
+          "note": null,
+          "raw": "שמיר"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מערבבים את כל מרכיבי הלביבות.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים.",
+          "timerMin": null
+        },
+        {
+          "text": "מגישים עם רוטב יוגורט, שום ושמיר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Golden zucchini fritters with green flecks, stacked on a plate with a bowl of white yogurt dill sauce",
+  "alt": "לביבות קישואים זהובות לצד קערת רוטב יוגורט ושמיר",
+  "originals": [
+    {
+      "file": "לביבות קישואים.doc",
+      "driveId": "1X0G_vTo9OoDTZXHdM-h8F9qbYhHEevVw"
+    },
+    {
+      "file": "לביבות קישואים.doc",
+      "driveId": "1Ht1zbaCPo06P_9DTdm-0dFs5iXVDwUiK"
+    }
+  ]
+}

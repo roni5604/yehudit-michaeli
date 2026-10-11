@@ -1,0 +1,166 @@
+{
+ "slug": "agasim-bevatzek-alim",
+ "title": "אגסים בבצק עלים",
+ "titleEn": "Pears in Puff Pastry",
+ "description": "אגסים שלמים ממולאים בצימוקים, יין מתוק, אגוזים וקליפות הדר מסוכרות, עטופים בבצק עלים ומקושטים בעלים מבצק. קינוח מרשים שמגישים חם או קר.",
+ "category": "desserts",
+ "subcategory": null,
+ "cuisine": "french",
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "קינוח",
+  "אירוח",
+  "מרשים"
+ ],
+ "servings": 6,
+ "yield": "6 אגסים",
+ "pan": null,
+ "prepMin": 50,
+ "cookMin": 20,
+ "totalMin": 100,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 400,
+     "unit": "גרם",
+     "item": "בצק עלים מוכן",
+     "note": "מופשר לטמפרטורת החדר",
+     "raw": "400 גרם בצק עלים מוכן, מופשר"
+    },
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "אגסים",
+     "note": null,
+     "raw": "6 אגסים"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "חלמון ביצה",
+     "note": "להברשה",
+     "raw": "1 חלמון ביצה להברשה"
+    }
+   ]
+  },
+  {
+   "group": "למילוי",
+   "items": [
+    {
+     "qty": 200,
+     "unit": "גרם",
+     "item": "צימוקים",
+     "note": null,
+     "raw": "200 גרם (5 כפות) צימוקים"
+    },
+    {
+     "qty": 0.25,
+     "unit": "כוס",
+     "item": "יין אדום מתוק",
+     "note": null,
+     "raw": "¼ כוס יין אדום מתוק"
+    },
+    {
+     "qty": 25,
+     "unit": "גרם",
+     "item": "קליפות הדר מסוכרות",
+     "note": null,
+     "raw": "25 גרם (2 כפות) קליפות הדר מסוכרות"
+    },
+    {
+     "qty": 50,
+     "unit": "גרם",
+     "item": "אגוזים",
+     "note": "קצוצים גס",
+     "raw": "50 גרם (3 כפות) אגוזים קצוצים גס"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "המילוי",
+   "items": [
+    {
+     "text": "מערבבים בקערה את כל חומרי המילוי ומניחים להם להתחבר כחצי שעה.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הכנת האגסים והבצק",
+   "items": [
+    {
+     "text": "מקלפים את האגסים ומוציאים את הליבה והחרצנים בעזרת מכשיר ייעודי לכך.",
+     "timerMin": null
+    },
+    {
+     "text": "מחממים תנור ל-180 מעלות.",
+     "timerMin": null
+    },
+    {
+     "text": "מרדדים את הבצק על משטח מקומח לעובי אחיד של 2–3 מ״מ וחותכים ממנו ריבועים בגודל 15×15 ס״מ.",
+     "timerMin": null
+    },
+    {
+     "text": "מניחים במרכז כל ריבוע ריבוע קטן יותר, כתחתית כפולה לאגס ולמילוי.",
+     "timerMin": null
+    },
+    {
+     "text": "מעמידים אגס במרכז כל ריבוע וממלאים אותו במילוי, תוך דחיסה טובה.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "עטיפה ואפייה",
+   "items": [
+    {
+     "text": "מצמידים פינות נגדיות של הבצק זו לזו ומהדקים על החלק העליון של האגס. מקפלים יפה את שאריות הבצק.",
+     "timerMin": null
+    },
+    {
+     "text": "משאריות הבצק קורצים עיגולים ומהם צורות עלים, בסך הכול כ-18. מברישים בחלמון טרוף וחורצים עורקים בגב הסכין.",
+     "timerMin": null
+    },
+    {
+     "text": "מצמידים שלושה עלים לכל אגס ומברישים שוב בחלמון.",
+     "timerMin": null
+    },
+    {
+     "text": "מניחים על תבנית מרופדת בנייר אפייה ואופים כ-20 דקות, עד שהבצק מזהיב.",
+     "timerMin": 20
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "מגישים חם או קר עם גלידת וניל, קצפת או רוטב פירות."
+ ],
+ "story": null,
+ "source": {
+  "type": "magazine",
+  "credit": "רות סירקיס",
+  "rewritten": true
+ },
+ "imagePrompt": "Whole pears wrapped in golden puff pastry, each topped with three pastry leaves with scored veins, on a plate with a scoop of vanilla ice cream",
+ "alt": "אגסים עטופים בבצק עלים זהוב ומקושטים בעלי בצק",
+ "originals": [
+  {
+   "file": "אגסים ממולאים.doc",
+   "driveId": "1kJdw56UDvOU0CRjDgakhBzmYXf7j4DAy"
+  },
+  {
+   "file": "אגסים עטופים בבצק.doc",
+   "driveId": "1WFQItsTsk4W7vZmawSAI3e2FqyjAOWDy"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "pasta-gvinot-yevashot-zeitim",
+  "title": "פסטה עם גבינות, עגבניות מיובשות וזיתים",
+  "titleEn": "Pasta with Feta, Sun-Dried Tomatoes and Olives",
+  "description": "פוסילי עם עגבניות מיובשות וזיתים מוקפצים, קוביות פטה ובזיליקום טרי, ופרמזן מעל.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": 5,
+  "yield": null,
+  "pan": null,
+  "prepMin": 10,
+  "cookMin": 15,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "פסטה ברגים (פוסילי)",
+          "note": null,
+          "raw": "1 חבילה פסטה ברגים (פוסילי)"
+        },
+        {
+          "qty": 0.5,
+          "unit": "צנצנת",
+          "item": "עגבניות מיובשות בשמן זית",
+          "note": null,
+          "raw": "½ צנצנת עגבניות מיובשות בשמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "טבעות זיתים שחורים",
+          "note": null,
+          "raw": "טבעות זיתים שחורים"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינת פטה",
+          "note": "חתוכה לקוביות",
+          "raw": "200 גרם גבינת פטה, חתוכה לקוביות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עלי בזיליקום טריים",
+          "note": "קצוצים",
+          "raw": "עלי בזיליקום טריים, קצוצים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": null,
+          "raw": "שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל שחור טחון טרי",
+          "note": null,
+          "raw": "מלח ופלפל שחור טחון טרי"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן",
+          "note": "להגשה",
+          "raw": "פרמזן, להגשה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה לפי הוראות היצרן.",
+          "timerMin": null
+        },
+        {
+          "text": "במחבת מחממים שמן זית ומטגנים קלות את העגבניות המיובשות והזיתים.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים על הפסטה, מוסיפים את קוביות הפטה ואת הבזיליקום ומתבלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מקפיצים לערבוב, מגישים וזורים פרמזן מעל.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Fusilli with sun-dried tomatoes, black olive rings, feta cubes and fresh basil, topped with shaved Parmesan",
+  "alt": "פוסילי עם עגבניות מיובשות, זיתים שחורים, קוביות פטה ובזיליקום ופרמזן",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

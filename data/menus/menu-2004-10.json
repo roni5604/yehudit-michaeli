@@ -1,0 +1,165 @@
+{
+  "slug": "menu-2004-10",
+  "title": "תפריט הסתיו · אוקטובר 2004",
+  "titleEn": "Autumn menu · October 2004",
+  "date": "2004-10",
+  "season": "autumn",
+  "occasion": null,
+  "kind": "a-la-carte",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "ראשונות",
+      "items": [
+        {
+          "name": "כבד אווז חם",
+          "desc": "ברוטב פירות-יער, מוגש עם בריוש",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "דואט של דגיגי אנשובי במרינדה וסרדינים טריים ממולאים באגוזי קשיו",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "כרוב ממולא בבשר עגל",
+          "desc": "על מצע ממליגה וכרוב כבוש",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת שרימפס בחמאה מתובלת",
+          "price": "50 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "שלישיית ירקות ממולאים – צמחוני",
+          "price": "45 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק עם גבינת צאן",
+          "price": "35 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "נזיד היום – שאל את המלצר",
+          "price": "35 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "עיקריות",
+      "items": [
+        {
+          "name": "קורדון בלו",
+          "desc": "חזה עוף ממולא באווז מעושן וגבינת אמנטל",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית בקלבדוס",
+          "desc": "עם רוטב שמנת ותפוחי עץ",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "צלי שוק טלה",
+          "price": "90 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "סטייק אנטרקוט",
+          "desc": "עם בצל צרוב",
+          "price": "85 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קונפי שוק אווז",
+          "desc": "ברוטב דבש ושבעת התבלינים",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "דואט פורל ופילה דג-ים",
+          "desc": "ברוטב שמנת עשבי תיבול",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "בס הסלע (שלם) אפוי בתנור",
+          "price": "80 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ תבלינים במילוי ירקות העונה – צמחוני",
+          "price": "65 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "לפני קינוח",
+      "items": [
+        {
+          "name": "מבחר גבינות ישראליות",
+          "price": "50 ₪",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "טארט טאטן",
+          "desc": "עוגת תפוחים חמה עם גלידת קינמון",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מוס גנאש שוקולד",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרפ-סוזט",
+          "desc": "בקרמל תפוזים עם גלידת וניל",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "טרין סורבה",
+          "desc": "בשלושה טעמים במעטפת מרציפן",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "price": "32 ₪",
+          "recipeSlug": null
+        },
+        {
+          "name": "מאפה שוקולד חם",
+          "price": "32 ₪",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט בעברית אוקטובר 2004.doc",
+      "driveId": "1aIoH4J3Rx-ipXr82UjQW7ebL8EUoxZG-"
+    }
+  ]
+}

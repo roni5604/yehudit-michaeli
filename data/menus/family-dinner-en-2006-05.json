@@ -1,0 +1,91 @@
+{
+  "slug": "family-dinner-en-2006-05",
+  "title": "ארוחה משפחתית חגיגית · מאי 2006",
+  "titleEn": "Festive family dinner · May 2006",
+  "date": "2006-05",
+  "season": "spring",
+  "occasion": "ארוחה משפחתית",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Chicken liver parfait",
+          "recipeSlug": null
+        },
+        {
+          "name": "Crispy asparagus bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Chicken salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Green salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Grilled vegetables – antipasti",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Course of Your Choice",
+      "items": [
+        {
+          "name": "Boeuf Bourguignon",
+          "desc": "Beef in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Goose leg confit with honey & spices",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sea fish fillet in cream and salmon eggs",
+          "recipeSlug": null
+        },
+        {
+          "name": "Grilled baby chicken",
+          "recipeSlug": null
+        },
+        {
+          "name": "Spinach, artichokes & cheese bake – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tarte Tatin",
+          "desc": "Apple cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Mousse au chocolat",
+          "desc": "A rich chocolate mousse",
+          "recipeSlug": null
+        },
+        {
+          "name": "Terrine de Sorbet",
+          "desc": "A trio of sorbets wrapped in marzipan",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "תפריט חגיגי  באנגלית.doc",
+      "driveId": "1cCr3WzqUQ_bDoWAYnBVXU2Qb4KEeBMod"
+    }
+  ]
+}

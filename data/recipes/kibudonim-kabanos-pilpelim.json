@@ -1,0 +1,45 @@
+{
+  "slug": "kibudonim-kabanos-pilpelim",
+  "title": "כריכוני קבנוס ופלפלים צבעוניים",
+  "titleEn": "Kabanos and Colorful Pepper Canapés",
+  "description": "כריכונים פתוחים על פרוסות באגט עם פרג, ממרח סלט טחינה, פרוסות קבנוס ורצועות פלפל צהוב ואדום. כ-20 ביסים לאירוח.",
+  "category": "appetizers",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["אירוח", "פינגר פוד"],
+  "servings": null,
+  "yield": "כ-20 מנות אישיות",
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": null,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 4, "qtyMax": 5, "unit": null, "item": "לחמניות באגט עם פרג", "note": null, "raw": "4-5 לחמניות באגט עם פרג" },
+      { "qty": 250, "unit": "גרם", "item": "סלט טחינה מוכן", "note": null, "raw": "250 גרם סלט טחינה מוכן" },
+      { "qty": 5, "unit": null, "item": "קבנוס", "note": null, "raw": "5 קבנוסים" },
+      { "qty": 0.5, "unit": null, "item": "פלפל צהוב", "note": null, "raw": "½ פלפל צהוב" },
+      { "qty": 0.5, "unit": null, "item": "פלפל אדום", "note": null, "raw": "½ פלפל אדום" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "פורסים את הלחמניות לפרוסות בעובי אחיד של כ-2 ס״מ. מורחים כל פרוסה בסלט טחינה מוכן.", "timerMin": null },
+      { "text": "פורסים את הקבנוס לפרוסות דקות ומסדרים אותן בצורה דקורטיבית על פרוסות הלחם.", "timerMin": null },
+      { "text": "מקשטים ברצועות דקות של פלפל צהוב ואדום.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "סמוך לפני ההגשה אפשר לטגן את פרוסות הקבנוס לפני שמניחים אותן על הכריכים הפתוחים."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Small open sandwiches on poppy-seed baguette slices spread with tahini salad, topped with thin kabanos sausage slices and thin strips of red and yellow pepper",
+  "alt": "כריכונים פתוחים על באגט עם פרג וטחינה, עם פרוסות קבנוס ורצועות פלפל אדום וצהוב",
+  "originals": [{ "file": "ברוסקטות.doc", "driveId": "16CjhSZY5VOfF_e16De_q2uO8HFtIsR0H" }]
+}

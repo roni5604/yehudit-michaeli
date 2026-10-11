@@ -1,0 +1,202 @@
+{
+ "slug": "salat-orez-male-veyerakot",
+ "title": "סלט אורז מלא עם ירקות",
+ "titleEn": "Brown Rice Salad with Vegetables",
+ "description": "סלט אורז מלא מבושל היטב עם תירס, גזר ובצל, ברוטב שמן אגוזים, צ׳ילי מתוק ולימון. פיזור אגוזים וגרעינים מוסיף פריכות.",
+ "category": "salads",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "סלט",
+  "צמחוני",
+  "ארוחה קלה"
+ ],
+ "servings": 5,
+ "yield": null,
+ "pan": null,
+ "prepMin": 20,
+ "cookMin": 40,
+ "totalMin": 60,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": "לאורז",
+   "items": [
+    {
+     "qty": 1,
+     "unit": "כוס",
+     "item": "אורז מלא",
+     "note": null,
+     "raw": "1 כוס אורז מלא"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מים",
+     "note": null,
+     "raw": "מים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח",
+     "note": null,
+     "raw": "מלח"
+    }
+   ]
+  },
+  {
+   "group": "לירקות",
+   "items": [
+    {
+     "qty": 1,
+     "unit": "קופסה",
+     "item": "תירס קל",
+     "note": null,
+     "raw": "1 קופסת תירס קל (340 גרם)"
+    },
+    {
+     "qty": 0.5,
+     "unit": null,
+     "item": "בצל בינוני",
+     "note": "קצוץ דק",
+     "raw": "½ בצל בינוני קצוץ דק"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "גזרים בינוניים",
+     "note": "מגוררים",
+     "raw": "2 גזרים בינוניים מגוררים"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "פטרוזיליה או כוסברה",
+     "note": "קצוצות",
+     "raw": "2 כפות פטרוזיליה או כוסברה קצוצות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מלח ופלפל שחור",
+     "note": null,
+     "raw": "מלח ופלפל שחור"
+    }
+   ]
+  },
+  {
+   "group": "לרוטב ולהגשה",
+   "items": [
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "שמן אגוזים, חמניות או זית",
+     "note": null,
+     "raw": "3 כפות שמן אגוזים או חמניות (או שמן זית)"
+    },
+    {
+     "qty": 1,
+     "unit": "כפית",
+     "item": "שמן שומשום",
+     "note": null,
+     "raw": "1 כפית שמן שומשום"
+    },
+    {
+     "qty": 1,
+     "unit": "כף",
+     "item": "רוטב צ׳ילי מתוק",
+     "note": null,
+     "raw": "1 כף רוטב צ׳ילי מתוק"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "item": "לימון",
+     "note": "מיץ",
+     "raw": "מיץ מלימון אחד"
+    },
+    {
+     "qty": 0.5,
+     "unit": "כוס",
+     "item": "תערובת אגוזים וגרעיני חמניות",
+     "note": null,
+     "raw": "½ כוס תערובת אגוזים וגרעיני חמניות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "גמבה כבושה",
+     "note": "רצועות, לקישוט",
+     "raw": "רצועות גמבה כבושה לקישוט (לא הכרחי)"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": "האורז",
+   "items": [
+    {
+     "text": "מבררים את האורז ומניחים בסיר בינוני. יוצקים מים רותחים ומביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים בבישול חזק כ-5 דקות, ואז שופכים את המים והקצף.",
+     "timerMin": 5
+    },
+    {
+     "text": "מכסים באורז מים רותחים טריים, כך שיעלו 2 ס״מ מעל האורז. מוסיפים כפית מלח אם רוצים ומביאים לרתיחה שנייה.",
+     "timerMin": null
+    },
+    {
+     "text": "כשהמים יורדים לגובה האורז מכסים היטב, מנמיכים מאוד את הלהבה ומבשלים עוד כ-30 דקות, עד שהאורז רך, תפוח וקליל.",
+     "timerMin": 30
+    },
+    {
+     "text": "מצננים מעט.",
+     "timerMin": null
+    }
+   ]
+  },
+  {
+   "group": "הרכבה",
+   "items": [
+    {
+     "text": "מעבירים את האורז לקערה גדולה ומוסיפים תירס, בצל וגזר. מתבלים היטב במלח ופלפל.",
+     "timerMin": null
+    },
+    {
+     "text": "מערבבים את שני סוגי השמן, רוטב הצ׳ילי ומיץ הלימון ויוצקים על הסלט. מערבבים בעדינות.",
+     "timerMin": null
+    },
+    {
+     "text": "זורים את האגוזים והגרעינים ומקשטים ברצועות גמבה כבושה. מגישים מיד.",
+     "timerMin": null
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "magazine",
+  "credit": "רות סירקיס",
+  "rewritten": true
+ },
+ "imagePrompt": "Brown rice salad with corn kernels, grated carrot and chopped herbs in a large bowl, scattered with mixed nuts and sunflower seeds and strips of pickled red pepper",
+ "alt": "סלט אורז מלא עם תירס, גזר, עשבי תיבול ואגוזים, בקערה גדולה",
+ "originals": [
+  {
+   "file": "אורז מלא עם ירקות.DOC",
+   "driveId": "1IZ0ljOf_m4kkeTamzv7OLBdKnqnTwMZg"
+  }
+ ]
+}

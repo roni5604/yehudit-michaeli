@@ -1,0 +1,169 @@
+{
+ "slug": "marak-gulash",
+ "title": "מרק גולש",
+ "titleEn": "Hungarian-Style Goulash Soup",
+ "description": "מרק בשר סמיך וחריף עם תפוחי אדמה, גזר ופפריקה, שמתבשל שעות ארוכות לטעמים עמוקים. נהדר עם פיתות חמות.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": "hungarian",
+ "holidays": [],
+ "kashrut": "meat",
+ "diet": [],
+ "tags": [
+  "מרק",
+  "בשר",
+  "חורף"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 25,
+ "cookMin": 185,
+ "totalMin": 210,
+ "timesEstimated": true,
+ "difficulty": 2,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 1,
+     "unit": "ק״ג",
+     "item": "בשר פילה",
+     "note": "חתוך לקוביות",
+     "raw": "1 ק״ג בשר פילה"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים גדולים",
+     "note": null,
+     "raw": "2 בצלים גדולים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "3 כפות קמח"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "פפריקה",
+     "note": null,
+     "raw": "2 כפות פפריקה"
+    },
+    {
+     "qty": 4,
+     "unit": "שיני",
+     "item": "שום",
+     "note": "קצוץ",
+     "raw": "4 שיני שום"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "גזרים",
+     "note": "פרוסים",
+     "raw": "4 גזרים"
+    },
+    {
+     "qty": 100,
+     "unit": "גרם",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "100 גרם רסק עגבניות"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "עגבניות",
+     "note": "מגורדות",
+     "raw": "4 עגבניות מגורדות"
+    },
+    {
+     "qty": 5,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": "בקוביות",
+     "raw": "5–6 תפוחי אדמה",
+     "qtyMax": 6
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "עלי דפנה",
+     "note": null,
+     "raw": "2–3 עלי דפנה",
+     "qtyMax": 3
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "חופן פטרוזיליה קצוצה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "פפריקה חריפה, פלפל אנגלי, פלפל שחור ומלח"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מטגנים את הבצל בשמן זית עד שהוא שקוף. מוסיפים את קוביות הבשר ובוחשים עד שהן נסגרות.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את הקמח ומערבבים היטב, ואחר כך את העגבניות המגורדות והשום.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים כ-10 דקות ומוסיפים את הגזר והתפוחי אדמה.",
+     "timerMin": 10
+    },
+    {
+     "text": "מוסיפים מים רתוחים ורסק עגבניות, מערבבים ומביאים לרתיחה.",
+     "timerMin": null
+    },
+    {
+     "text": "מנמיכים את האש, מתבלים בכל התבלינים ומוסיפים פטרוזיליה. מבשלים על אש נמוכה כשלוש שעות, עד שהמרק סמיך, חריף ועשיר.",
+     "timerMin": 180
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "הוגש עם פיתות חמות וטריות."
+ ],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Thick dark red goulash soup with beef cubes, potatoes and carrots in a deep bowl with fresh parsley, warm pita on the side",
+ "alt": "מרק גולש סמיך עם בשר, תפוחי אדמה וגזר ופיתה חמה לצדו",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

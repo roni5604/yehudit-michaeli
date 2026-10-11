@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import EntryCard from "../../components/EntryCard.astro";
+import { holidays, catBySlug } from "../../lib/site";
+export async function getStaticPaths() {
+  const { catalog } = await import("../../lib/data");
+  const { holidays } = await import("../../lib/site");
+  return holidays.map((h) => ({ h, list: catalog.filter((e) => e.h === h.slug) })).filter((x) => x.list.length)
+    .map(({ h, list }) => ({ params: { holiday: h.slug }, props: { h, list } }));
+}
+const { h, list } = Astro.props;
+const groups = new Map<string, typeof list>();
+for (const e of list) { const k = catBySlug[e.c]?.he ?? "מגוון"; if (!groups.has(k)) groups.set(k, []); groups.get(k)!.push(e); }
+const ordered = [...groups.entries()].sort((a, b) => b[1].length - a[1].length);
+---
+<BaseLayout title={`מתכונים ל${h.he}`} description={`${list.length} מתכונים ל${h.he} מהמחברות של יהודית מיכאלי.`}>
+  <div class="container-x head">
+    <Breadcrumbs items={[{ href: "/holidays", label: "חגים ומועדים" }, { label: h.he }]} />
+    <h1>{h.he}</h1>
+    <p class="lede">{list.length} מתכונים לחג</p>
+    <nav class="jump" aria-label="קפיצה לסוג מנה">{ordered.map(([k, v], i) => <a class="chip chip-accent" href={`#g-${i}`}>{k} ({v.length})</a>)}</nav>
+  </div>
+  {ordered.map(([k, v], i) => (
+    <section class="container-x grp" id={`g-${i}`} aria-labelledby={`h-${i}`}>
+      <h2 id={`h-${i}`}>{k}</h2>
+      <ul class="ecard-grid">{v.map((e) => <li><EntryCard e={e} /></li>)}</ul>
+    </section>
+  ))}
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 10px; } .head h1 { margin: 10px 0 6px; }
+  .jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; } .jump a { text-decoration: none; }
+  .grp { padding-top: 34px; scroll-margin-top: 90px; } .grp h2 { font-size: var(--step-2); margin: 0 0 18px; }
+</style>

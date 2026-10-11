@@ -1,0 +1,56 @@
+{
+  "slug": "brownies-amerikaiim",
+  "title": "בראוניז אמריקאיים",
+  "titleEn": "American Brownies",
+  "description": "בראוניז עסיסיים משוקולד מריר, חמאה ואגוזים קצוצים גס, שנאפים עד שהקיסם יוצא יבש בצד ולח קלות במרכז. חותכים לריבועים קטנים.",
+  "category": "cakes",
+  "subcategory": "chocolate-cakes",
+  "cuisine": "american",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["שוקולד", "ילדים", "אירוח"],
+  "servings": null,
+  "yield": "כ-36 ריבועים בגודל 4×4 ס״מ",
+  "pan": "תבנית מרובעת 25×25 ס״מ",
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 65,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 200, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "200 גרם שוקולד מריר" },
+      { "qty": 100, "unit": "גרם", "item": "חמאה ללא מלח", "note": "או מרגרינה", "raw": "100 גרם חמאה (או מרגרינה) ללא מלח" },
+      { "qty": 1, "unit": "כוס", "item": "סוכר", "note": null, "raw": "1 כוס סוכר" },
+      { "qty": 1.5, "unit": "כוסות", "item": "קמח תופח", "note": "200 גרם", "raw": "1½ כוסות קמח תופח (200 גרם)" },
+      { "qty": 3, "unit": null, "item": "ביצים בינוניות", "note": null, "raw": "3 ביצים בינוניות" },
+      { "qty": 1, "unit": "כפית", "item": "תמצית וניל איכותית", "note": null, "raw": "1 כפית תמצית וניל איכותית" },
+      { "qty": 1.5, "unit": "כוסות", "item": "אגוזי מלך או אגוזי לוז", "note": "קצוצים גס", "raw": "1½ כוסות אגוזי מלך או אגוזי לוז, קצוצים גס" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מחממים את התנור ל-180 מעלות. משמנים קלות תבנית מרובעת או מלבנית.", "timerMin": null },
+      { "text": "ממיסים את השוקולד והחמאה (או המרגרינה) בסיר כפול או במיקרוגל, ומצננים לטמפרטורת החדר.", "timerMin": null },
+      { "text": "מנפים יחד את הסוכר והקמח.", "timerMin": null },
+      { "text": "מקציפים את הביצים במהירות גבוהה, ומוסיפים בהדרגה את תערובת הסוכר והקמח עד לקבלת תערובת קצפית.", "timerMin": null },
+      { "text": "מוסיפים את תמצית הווניל ואת השוקולד המומס, ולבסוף מקפלים פנימה את האגוזים.", "timerMin": null },
+      { "text": "יוצקים את התערובת לתבנית ואופים בתנור שחומם מראש כ-25 דקות. לא אופים יותר מדי, כדי שהבראוניז יישארו עסיסיים: קיסם שנעוץ ליד הדופן צריך לצאת יבש, ובמרכז הוא יוצא לח קלות.", "timerMin": 25 },
+      { "text": "מצננים וחותכים לריבועים של 4×4 ס״מ. שומרים בקופסה סגורה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "אפשר להכין את הבראוניז עם מרגרינה במקום חמאה, ואז הם פרווה."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Squares of dense dark chocolate brownies with a crackly top and chunky walnut pieces, stacked on a plate, one cut open to show a fudgy centre",
+  "alt": "ריבועי בראוניז שוקולד כהים ועסיסיים עם חתיכות אגוז, בצלחת הגשה",
+  "originals": [
+    { "file": "בראוניז.htm", "driveId": "1LfDkMLNCUjLtrbEujwr5ygR2XXmShVzV" },
+    { "file": "בראוניז.doc", "driveId": "10vddQzU3rSop332iWUc9FocOi47m8cdn" },
+    { "file": "בראוניס של סירקיס.doc", "driveId": "1jcC_Ehymhu4tgU5ciO6sJaPg30T_-QEb" },
+    { "file": "בראוניס של סירקיס.doc", "driveId": "1KT6zNtt8D-13sN1azS9wt6fg-OjEc5K7" }
+  ]
+}

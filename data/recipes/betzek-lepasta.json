@@ -1,0 +1,51 @@
+{
+  "slug": "betzek-lepasta",
+  "title": "בצק לפסטה טרייה",
+  "titleEn": "Fresh Egg Pasta Dough",
+  "description": "בצק פסטה ביתי של קמח, ביצים וחלמונים עם כף שמן זית, שמרדדים במכונה וחותכים לאיטריות. בסיס פשוט לכל פסטה טרייה.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian"],
+  "tags": ["פסטה ביתית", "בצק בסיס"],
+  "servings": 2,
+  "yield": null,
+  "pan": null,
+  "prepMin": 30,
+  "cookMin": 4,
+  "totalMin": 95,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 250, "unit": "גרם", "item": "קמח", "note": null, "raw": "250 גרם קמח" },
+      { "qty": 2, "unit": null, "item": "חלמונים", "note": null, "raw": "2 חלמונים" },
+      { "qty": 2, "unit": null, "item": "ביצים", "note": null, "raw": "2 ביצים" },
+      { "qty": 1, "unit": "כף", "item": "שמן זית", "note": null, "raw": "1 כף שמן זית" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "לפי הטעם", "raw": "מלח לפי הטעם" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "לשים לבצק אחיד.", "timerMin": null },
+      { "text": "עוטפים בניילון ומצננים כשעה.", "timerMin": 60 },
+      { "text": "מעבירים את הבצק דרך מכונת פסטה מספר פעמים, תוך הקטנת הרווחים, עד לקבלת עלה בעובי הרצוי.", "timerMin": null },
+      { "text": "חותכים במכונה לאיטריות בעובי הרצוי ומניחים על מגש מקומח.", "timerMin": null },
+      { "text": "מבשלים בסיר גדול ורחב עם מים ומלח עד לדרגת העשייה הרצויה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "בגרסה אחרת של המתכון: 250 גרם קמח, 2 ביצים שלמות (בלי חלמונים נוספים), כף שמן זית, כף מים וחצי כפית מלח. מנפים את הקמח עם המלח, יוצרים תלולית עם גומה במרכז, יוצקים לתוכה את הנוזלים ומערבבים לבצק אחיד (אפשר גם במיקסר). מניחים במקרר לפחות חצי שעה.",
+    "הפסטה אוהבת הרבה מים מלוחים: לפחות ליטר מים לכל 100 גרם פסטה. פסטה טרייה מתבשלת מהר יותר מיבשה, ולכן כדאי לטעום תוך כדי בישול."
+  ],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Nests of freshly cut egg tagliatelle resting on a floured wooden board, with a small mound of flour and a few whole eggs beside them",
+  "alt": "קני איטריות טריות מבצק ביצים על משטח עץ מקומח",
+  "originals": [
+    { "file": "בצק לפסטה.doc", "driveId": "1ZA00J5N9cuqT9FvDCQPkPVYkBAvxw4Tk" },
+    { "file": "בצק לפסטה.docx", "driveId": "1f7nssT3TkQPK8o8ex1og05snMNKSrDJU" }
+  ]
+}

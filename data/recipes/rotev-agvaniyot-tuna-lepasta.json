@@ -1,0 +1,124 @@
+{
+  "slug": "rotev-agvaniyot-tuna-lepasta",
+  "title": "רוטב עגבניות וטונה לפסטה",
+  "titleEn": "Tomato and Tuna Pasta Sauce",
+  "description": "רוטב טונה ועגבניות קל, פסטת הבית של משפחה אחת, שמתאים ל-500 גרם פסטה.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 25,
+  "totalMin": 30,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 0.3333,
+          "unit": "כוס",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "⅓ כוס שמן זית"
+        },
+        {
+          "qty": 4,
+          "unit": "שיני",
+          "item": "שום כתושות",
+          "note": null,
+          "raw": "4-5 שיני שום כתושות",
+          "qtyMax": 5
+        },
+        {
+          "qty": 1,
+          "unit": "קופסה",
+          "item": "טונה",
+          "note": "מסוננת",
+          "raw": "1 קופסה טונה, מסוננת"
+        },
+        {
+          "qty": 800,
+          "unit": "גרם",
+          "item": "עגבניות מרוסקות",
+          "note": null,
+          "raw": "800 גרם עגבניות מרוסקות"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "יין לבן",
+          "note": null,
+          "raw": "½ כוס יין לבן"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "אורגנו יבש",
+          "note": null,
+          "raw": "½ כפית אורגנו יבש"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים יחד את השמן והשום.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הטונה ומטגנים דקה או שתיים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים יין, מביאים לרתיחה ומוסיפים עגבניות, מלח ופלפל.",
+          "timerMin": null
+        },
+        {
+          "text": "מביאים שוב לרתיחה ומבשלים 15 עד 20 דקות בסיר חצי מכוסה על אש נמוכה מאוד.",
+          "timerMin": 15
+        },
+        {
+          "text": "בסוף מוסיפים אורגנו יבש.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "כמות הרוטב מתאימה ל-500 גרם פסטה."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Pasta in a chunky tomato and tuna sauce flecked with oregano in a deep plate",
+  "alt": "פסטה ברוטב עגבניות וטונה עם אורגנו בצלחת עמוקה",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

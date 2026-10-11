@@ -1,0 +1,116 @@
+{
+  "slug": "pasta-aglio-olio",
+  "title": "פסטה אליו-אוליו",
+  "titleEn": "Spaghetti Aglio e Olio with Fresh Herbs",
+  "description": "פסטה בשמן זית, שום וצ׳ילי עם חופן נדיב של עשבי תיבול טריים ופרמזן מגורר.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 15,
+  "totalMin": 20,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פסטה",
+          "note": "רצוי פנה או שבלולים",
+          "raw": "פסטה, רצוי פנה או שבלולים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": "בנדיבות",
+          "raw": "שמן זית, בנדיבות"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שיני שום",
+          "note": "פרוסות גס",
+          "raw": "שיני שום, פרוסות גס"
+        },
+        {
+          "qty": 1,
+          "unit": "חופן",
+          "item": "עשבי תיבול טריים",
+          "note": "קצוצים דק: טימין, רוזמרין, בזיליקום, פטרוזיליה",
+          "raw": "1 חופן עשבי תיבול טריים, קצוצים דק: טימין, רוזמרין, בזיליקום, פטרוזיליה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "פלפלון צ׳ילי",
+          "note": "חתוך דק",
+          "raw": "1 פלפלון צ׳ילי, חתוך דק"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פרמזן",
+          "note": "מגורר",
+          "raw": "פרמזן, מגורר"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה כרגיל.",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים במחבת הרבה שמן זית ומוסיפים שום פרוס גס. שומרים שלא יישרף.",
+          "timerMin": null
+        },
+        {
+          "text": "כשעולה ריח שום, מוסיפים את העשבים הקצוצים ואת הצ׳ילי ומקפיצים כשתי דקות.",
+          "timerMin": null
+        },
+        {
+          "text": "מסננים את הפסטה ומוסיפים למחבת. מקפיצים עוד רגע ומעבירים לצלחת.",
+          "timerMin": null
+        },
+        {
+          "text": "מגררים מעל פרמזן.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti glistening with olive oil, sliced garlic, chili and chopped herbs, finished with grated Parmesan",
+  "alt": "פסטה מבריקה בשמן זית עם שום פרוס, צ׳ילי ועשבים קצוצים ופרמזן",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

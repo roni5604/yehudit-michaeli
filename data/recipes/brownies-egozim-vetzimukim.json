@@ -1,0 +1,51 @@
+{
+  "slug": "brownies-egozim-vetzimukim",
+  "title": "בראוניז עם אגוזים וצימוקים",
+  "titleEn": "Brownies with Walnuts and Raisins",
+  "description": "בראוניז עשירים עם הרבה שוקולד מריר, חמאה, אגוזים וצימוקים. פורסים לריבועים ושומרים בקופסה סגורה.",
+  "category": "cakes",
+  "subcategory": "chocolate-cakes",
+  "cuisine": "american",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["שוקולד", "ילדים"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 60,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 350, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "350 גרם שוקולד מריר" },
+      { "qty": 200, "unit": "גרם", "item": "חמאה", "note": null, "raw": "200 גרם חמאה" },
+      { "qty": 1.5, "unit": "כוסות", "item": "סוכר", "note": null, "raw": "1½ כוסות סוכר" },
+      { "qty": 4, "unit": null, "item": "ביצים", "note": null, "raw": "4 ביצים" },
+      { "qty": 1.5, "unit": "כוסות", "item": "קמח תופח", "note": null, "raw": "1½ כוסות קמח תופח" },
+      { "qty": 100, "unit": "גרם", "item": "אגוזים", "note": null, "raw": "100 גרם אגוזים" },
+      { "qty": 100, "unit": "גרם", "item": "צימוקים", "note": null, "raw": "100 גרם צימוקים" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "ממיסים את השוקולד ומצננים מעט.", "timerMin": null },
+      { "text": "בוחשים ביצים עם חמאה וסוכר.", "timerMin": null },
+      { "text": "מוסיפים את הקמח, הצימוקים והאגוזים.", "timerMin": null },
+      { "text": "מוסיפים את השוקולד המומס.", "timerMin": null },
+      { "text": "יוצקים לתבנית משומנת ואופים כ-20 דקות עד חצי שעה.", "timerMin": 20 },
+      { "text": "מוציאים, פורסים, מצננים ומאחסנים בקופסה סגורה.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "Thick squares of dark fudgy brownies studded with walnut pieces and plump raisins, stacked on a simple plate",
+  "alt": "ריבועי בראוניז כהים עם אגוזים וצימוקים, מסודרים בצלחת",
+  "originals": [
+    { "file": "בראוניס.doc", "driveId": "1AOShcioLXFhwIqt7tZw4CeZ3FI4geDui" },
+    { "file": "בראוניס.doc", "driveId": "147nSf2x_ENkyN0RPJzVscbMWTLvT21ZU" }
+  ]
+}

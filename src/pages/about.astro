@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import LogoScene from "../three/LogoScene.tsx";
+import { catalog, getMenus } from "../lib/data";
+const menus = await getMenus();
+const years = menus.map((m) => m.date?.slice(0, 4)).filter(Boolean).sort() as string[];
+---
+<BaseLayout title="על יהודית" description="יהודית מיכאלי: שפית מסעדת ״מיכאלי – מטבח כפרי״ ברשפון, והמחברות שהשאירה אחריה.">
+  <div class="container-x head"><Breadcrumbs items={[{ label: "על יהודית" }]} /></div>
+  <section class="container-x hero">
+    <figure class="portrait reveal">
+      <img src="/brand/yehudit-portrait.webp" alt="יהודית מיכאלי מחייכת, עם משקפיים אדומים ושמלה שחורה פרחונית" width="1416" height="2129" />
+      <figcaption>יהודית מיכאלי</figcaption>
+    </figure>
+    <div class="text">
+      <p class="eyebrow latin-e">Chef · Rishpon</p>
+      <h1>יהודית מיכאלי</h1>
+      <p class="lede">שפית, בעלת מסעדה, ואוספת מתכונים שלא הפסיקה לבשל.</p>
+      <p>יהודית למדה בישול וקונדיטוריה בבית הספר ״תדמור״, ובמחברות שלה נשמרו דפי הקורס עד היום. ברשפון היא פתחה את <strong>״מיכאלי – מטבח כפרי״</strong>, מסעדה ברוח הכפר הצרפתי: קדירות שמתבשלות לאט, קונפי אווז, שוקרוט, בויאבז ששמו במרכז השולחן, וטארט טאטן חם עם גלידת קינמון.</p>
+      <p>לצד המטבח המקצועי היא המשיכה לאסוף: מתכונים מהמשפחה ומחברות, מעיתונים, מספרים ומשפים, מהמטבח הרומני וההונגרי ועד הודו ויפן. כך נבנה ארכיון של <strong>{catalog.length.toLocaleString("he-IL")} מתכונים</strong> ו-{menus.length} תפריטים{years.length ? ` מהשנים ${years[0]}–${years[years.length - 1]}` : ""}, ועכשיו הוא פתוח לכולם.</p>
+      <div class="actions"><a class="btn" href="/restaurant">על המסעדה</a><a class="btn btn-ghost" href="/recipes">למתכונים</a></div>
+    </div>
+  </section>
+  <section class="container-x emblem" aria-labelledby="emblem-title">
+    <div class="emblem-text">
+      <h2 id="emblem-title">הסמל</h2>
+      <p>זר זית, כובע שף והאותיות י·מ. הסמל עוצב לאתר בהשראת המטבח הים-תיכוני-צרפתי של יהודית. הזית מסמל את הכפר, והכובע את המקצוע.</p>
+    </div>
+    <LogoScene client:visible />
+  </section>
+  <section class="container-x engraving-sec">
+    <img class="engraving reveal" src="/brand/yehudit-engraving.webp" alt="" width="1416" height="2129" loading="lazy" />
+    <div class="reveal">
+      <h2>המחברות</h2>
+      <p class="lede">אלפי קבצים, עשרות תיקיות, שנים של עבודה: מעוגות ועוגיות, דרך מרקים וקדירות, ועד ריבות, חמוצים וליקרים ביתיים שנמכרו במסעדה. כל מתכון באתר מקושר לדף המקורי שיהודית שמרה.</p>
+      <a class="btn btn-ghost" href="/categories">לספר המתכונים</a>
+    </div>
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-top: 24px; }
+  .hero { display: grid; grid-template-columns: minmax(260px, 420px) 1fr; gap: clamp(28px, 5vw, 80px); align-items: center; padding-block: 30px 60px; }
+  .portrait { margin: 0; position: relative; }
+  .portrait img { width: 100%; height: auto; border-radius: 220px 220px 24px 24px; box-shadow: 0 50px 80px -40px rgb(var(--shadow) / .6); border: 6px solid var(--card); }
+  .portrait figcaption { position: absolute; bottom: 18px; inset-inline-start: 50%; transform: translateX(50%); background: var(--card); padding: 6px 18px; border-radius: 999px; font-family: var(--font-display); font-weight: 700; box-shadow: 0 10px 20px -12px rgb(0 0 0 / .4); white-space: nowrap; }
+  .latin-e { font-family: var(--font-latin); font-style: italic; font-size: 1.3rem; letter-spacing: .04em; }
+  .text h1 { margin: 4px 0 10px; }
+  .text p { color: var(--ink-soft); max-width: 62ch; }
+  .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 20px; }
+  .emblem { display: grid; grid-template-columns: 1fr 1.3fr; gap: 40px; align-items: center; padding-block: 40px; }
+  .engraving-sec { display: grid; grid-template-columns: 300px 1fr; gap: 40px; align-items: center; padding-block: 50px; }
+  .engraving { width: 100%; height: auto; }
+  blockquote { margin: 0; font-family: var(--font-display); font-size: var(--step-2); line-height: 1.4; color: var(--ink); }
+  blockquote footer { margin-top: 12px; font-family: var(--font-latin); font-style: italic; font-size: 1.1rem; color: var(--copper-text); }
+  @media (max-width: 860px) { .hero, .emblem, .engraving-sec { grid-template-columns: 1fr; } .engraving { max-width: 260px; } }
+</style>

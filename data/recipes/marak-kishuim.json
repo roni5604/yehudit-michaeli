@@ -1,0 +1,147 @@
+{
+ "slug": "marak-kishuim",
+ "title": "מרק קישואים",
+ "titleEn": "Zucchini Soup",
+ "description": "מרק קישואים קטיפתי עם תפוחי אדמה ושורש פטרוזיליה, קל ועדין, שמרסקים עד חלקלקות.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian"
+ ],
+ "tags": [
+  "מרק",
+  "קל",
+  "ירקות"
+ ],
+ "servings": 10,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 15,
+ "cookMin": 75,
+ "totalMin": 90,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "קישואים בינוניים",
+     "note": null,
+     "raw": "6–8 קישואים בינוניים",
+     "qtyMax": 8
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים בינוניים",
+     "note": null,
+     "raw": "2 בצלים בינוניים"
+    },
+    {
+     "qty": 4,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": "בקוביות",
+     "raw": "4 תפוחי אדמה"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן זית",
+     "note": null,
+     "raw": "שמן זית"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "פטרוזיליה",
+     "note": "קצוצה",
+     "raw": "חופן פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 12,
+     "unit": "כוסות",
+     "item": "מים",
+     "note": null,
+     "raw": "12 כוסות מים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "שורשי פטרוזיליה או סלרי",
+     "note": null,
+     "raw": "2 שורשי פטרוזיליה או סלרי"
+    },
+    {
+     "qty": 3,
+     "unit": "כפות",
+     "item": "אבקת מרק פטריות",
+     "note": null,
+     "raw": "3 כפות אבקת מרק פטריות"
+    },
+    {
+     "qty": 2,
+     "unit": "כפות",
+     "item": "קמח",
+     "note": null,
+     "raw": "2 כפות קמח"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל וכמון"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מאדים את הבצל בשמן זית עד הזהבה ומוסיפים קישואים, שורש פטרוזיליה וקוביות תפוחי אדמה.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים מלמעלה את אבקת המרק והקמח, מערבבים היטב ויוצקים מים. מתבלים ומוסיפים פטרוזיליה.",
+     "timerMin": null
+    },
+    {
+     "text": "מביאים לרתיחה ומבשלים על אש קטנה שעה.",
+     "timerMin": 60
+    },
+    {
+     "text": "מרסקים במעבד ידני עד מרקם חלק מאוד ומתקנים תיבול.",
+     "timerMin": null
+    },
+    {
+     "text": "ממשיכים לחמם עוד כרבע שעה.",
+     "timerMin": 15
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Pale green zucchini soup, smooth and velvety, in a white bowl with a swirl of olive oil",
+ "alt": "מרק קישואים ירקרק וחלק בקערה לבנה עם טפטוף שמן זית",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "levivot-tapuchei-adama-artishok-yerushalmi",
+  "title": "לביבות תפוחי אדמה וארטישוק ירושלמי",
+  "titleEn": "Potato and Jerusalem Artichoke Latkes",
+  "description": "לביבות דקות ופריכות מתפוחי אדמה, ארטישוק ירושלמי ובצל, עם פפריקה. מוגשות מיד עם שמנת חמוצה ועירית.",
+  "category": "vegetables",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [
+    "hanukkah"
+  ],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "חנוכה",
+    "פריך",
+    "אירוח"
+  ],
+  "servings": null,
+  "yield": "כ-12 לביבות בינוניות",
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 20,
+  "totalMin": 45,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "תפוחי אדמה גדולים",
+          "note": null,
+          "raw": "3 תפוחי אדמה גדולים"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "ארטישוק ירושלמי",
+          "note": "בגודל בינוני",
+          "raw": "3 ארטישוק ירושלמי, בגודל בינוני"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "בצל בינוני",
+          "note": null,
+          "raw": "1 בצל בינוני"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "ביצה",
+          "note": "טרופה",
+          "raw": "1 ביצה, טרופה"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "קמח רגיל",
+          "note": null,
+          "raw": "½ כוס קמח רגיל"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "מלח",
+          "note": null,
+          "raw": "1 כפית מלח"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כפית",
+          "item": "פלפל שחור",
+          "note": null,
+          "raw": "¼ כפית פלפל שחור"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כפית",
+          "item": "פפריקה מתוקה",
+          "note": null,
+          "raw": "¼ כפית פפריקה מתוקה"
+        },
+        {
+          "qty": 1,
+          "unit": "כוס",
+          "item": "שמן",
+          "note": null,
+          "raw": "1 כוס שמן"
+        }
+      ]
+    },
+    {
+      "group": "להגשה",
+      "items": [
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמנת חמוצה או קרם פרש",
+          "note": null,
+          "raw": "שמנת חמוצה או קרם פרש"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "עירית",
+          "note": "קצוצה",
+          "raw": "עירית, קצוצה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "רסק תפוחי עץ",
+          "note": null,
+          "raw": "רסק תפוחי עץ"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "סוכר",
+          "note": "לזרייה",
+          "raw": "סוכר, לזרייה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מקלפים את שני סוגי תפוחי האדמה וגורסים אותם במגררת גסה או בדיסקית גירור. סוחטים היטב את הנוזלים ומעבירים לקערה.",
+          "timerMin": null
+        },
+        {
+          "text": "מגרדים גם את הבצל ומוסיפים אותו. מוסיפים ביצה, קמח, מלח, פלפל ופפריקה (אפשר עוד כף או שתיים קמח, אך זה לא הכרחי).",
+          "timerMin": null
+        },
+        {
+          "text": "מחממים חצי כוס שמן במחבת גדולה. יוצרים לביבות דקות ומניחים בשמן החם. ככל שהן דקות יותר, הן פריכות יותר.",
+          "timerMin": null
+        },
+        {
+          "text": "מטגנים משני הצדדים עד השחמה, מספיגים בנייר סופג ומגישים מיד.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שמן למחבת לפני המחזור השני.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "אם מקלפים את תפוחי האדמה שעה מראש, שומרים אותם מכוסים במים קרים כדי שלא ישחירו.",
+    "אפשר להכין את הלביבות שעתיים מראש ולחמם בתנור חם מאוד על תבנית משומנת, עד שהן שוב חמות ופריכות."
+  ],
+  "story": null,
+  "source": {
+    "type": "magazine",
+    "credit": "רות סירקיס",
+    "rewritten": true
+  },
+  "imagePrompt": "Thin crisp golden latkes made of potato and Jerusalem artichoke, with sour cream and chopped chives on top",
+  "alt": "לביבות תפוחי אדמה דקות ופריכות עם שמנת חמוצה ועירית",
+  "originals": [
+    {
+      "file": "לביבות תפא וארטישוק ירושלמיc.doc",
+      "driveId": "1ucu_KuHpPUH2PYReFV8l41YOswPP9xnJ"
+    },
+    {
+      "file": "לביבות תפא וארטישוק ירושלמיc.doc",
+      "driveId": "1weeQlgJ_RXuw2b9UCtGzEcZPFyBv7gTW"
+    }
+  ]
+}

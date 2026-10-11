@@ -1,0 +1,164 @@
+{
+  "slug": "salat-hatzilim-pikanti",
+  "title": "סלט חצילים פיקנטי",
+  "titleEn": "Spicy Cooked Eggplant Salad",
+  "description": "סלט חצילים מבושל בקוביות קטנות עם בצל, עגבניות ופלפלים חריפים, מתובל בפפריקה וכוסברה. נשמר בצנצנת במקרר.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "tags": [
+    "חריף",
+    "נשמר במקרר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 40,
+  "totalMin": 65,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "חצילים בינוניים",
+          "note": "כ-¾ ק״ג",
+          "raw": "2 חצילים בינוניים, כ-¾ ק״ג"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "בצלים בינוניים",
+          "note": null,
+          "raw": "3 בצלים בינוניים"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כוס",
+          "item": "שמן",
+          "note": null,
+          "raw": "½ כוס שמן"
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "item": "עגבניות בשלות",
+          "note": "מרוסקות בפומפיה גסה",
+          "raw": "3 עגבניות בשלות, מרוסקות בפומפיה גסה"
+        },
+        {
+          "qty": 100,
+          "unit": "גרם",
+          "item": "רסק עגבניות",
+          "note": "קופסה קטנה",
+          "raw": "100 גרם רסק עגבניות, קופסה קטנה"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "פלפלים ירוקים",
+          "note": null,
+          "raw": "2 פלפלים ירוקים"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "פלפלים חריפים",
+          "note": null,
+          "raw": "2 פלפלים חריפים"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "פפריקה מתוקה",
+          "note": null,
+          "raw": "1 כף פפריקה מתוקה"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "1 כף פטרוזיליה קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "כפית",
+          "item": "כוסברה",
+          "note": null,
+          "raw": "1 כפית כוסברה"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מיץ לימון",
+          "note": "מעט, אם רוצים",
+          "raw": "מיץ לימון, מעט, אם רוצים"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "קולפים את החצילים, חותכים לקוביות קטנות, ממליחים קצת ומשהים לזמן מה.",
+          "timerMin": null
+        },
+        {
+          "text": "בינתיים קוצצים את הבצל ומאדים בסיר בשמן עד שהוא נעשה שקוף.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את קוביות החצילים ואת הפלפלים הירוקים והחריפים, חתוכים לרבועים קטנטנים. מכסים את הסיר וצולים עד שהכול מתרכך.",
+          "timerMin": 20
+        },
+        {
+          "text": "מוסיפים את העגבניות המרוסקות ואת רסק העגבניות וממשיכים בצלייה עד שהתערובת מסמיכה.",
+          "timerMin": null
+        },
+        {
+          "text": "סמוך לגמר הבישול מתבלים בפפריקה, כוסברה, פטרוזיליה ומלח. אפשר להוסיף גם מעט מיץ לימון.",
+          "timerMin": null
+        },
+        {
+          "text": "מקררים, מעבירים לצנצנת ושומרים במקרר.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Chunky cooked eggplant salad in a thick red tomato and pepper sauce flecked with parsley, served in a small glass jar and a shallow dish",
+  "alt": "סלט חצילים מבושל ברוטב עגבניות סמיך עם פלפלים ופטרוזיליה בצנצנת זכוכית ובקערה רדודה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

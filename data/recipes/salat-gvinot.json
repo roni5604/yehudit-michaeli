@@ -1,0 +1,134 @@
+{
+  "slug": "salat-gvinot",
+  "title": "סלט גבינות",
+  "titleEn": "Cheese Salad",
+  "description": "סלט גבינות מלוחות בקוביות עם פלפלים, זיתים ומלפפון חמוץ, בשמנת חמוצה ופטרוזיליה. מתאים לארוחת בוקר או ערב קלה.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "ארוחת בוקר",
+    "גבינות"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 0,
+  "totalMin": 75,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינה מלוחה",
+          "note": "למשל ״חמד״",
+          "raw": "200 גרם גבינה מלוחה, למשל ״חמד״"
+        },
+        {
+          "qty": 200,
+          "unit": "גרם",
+          "item": "גבינת ברינזה",
+          "note": null,
+          "raw": "200 גרם גבינת ברינזה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "פלפל או מלפפון ירוק",
+          "note": null,
+          "raw": "1 פלפל או מלפפון ירוק"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "גמבה",
+          "note": "טרייה או כבושה",
+          "raw": "1 גמבה, טרייה או כבושה"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "מלפפון חמוץ",
+          "note": null,
+          "raw": "1 מלפפון חמוץ"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "זיתים ירוקים",
+          "note": null,
+          "raw": "50 גרם זיתים ירוקים"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "זיתים שחורים",
+          "note": null,
+          "raw": "50 גרם זיתים שחורים"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "פטרוזיליה קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "גביע",
+          "item": "שמנת חמוצה",
+          "note": null,
+          "raw": "1 גביע שמנת חמוצה"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חותכים את הגבינות לקוביות קטנות.",
+          "timerMin": null
+        },
+        {
+          "text": "חותכים את הפלפל, הגמבה, הזיתים והמלפפון החמוץ לקוביות בגודל קוביות הגבינה ומוסיפים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את הפטרוזיליה והשמנת, ומערבבים הכול יחד.",
+          "timerMin": null
+        },
+        {
+          "text": "משהים כשעה לפני ההגשה.",
+          "timerMin": 60
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Salad of small cubes of white salty cheese, brinza, green and black olives, diced peppers and pickle bound with sour cream, sprinkled with parsley in a ceramic bowl",
+  "alt": "סלט קוביות גבינה לבנה, זיתים ופלפלים בשמנת חמוצה עם פטרוזיליה בקערת קרמיקה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

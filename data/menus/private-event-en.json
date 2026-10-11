@@ -1,0 +1,51 @@
+{
+  "slug": "private-event-en",
+  "title": "תפריט לאירוע פרטי (באנגלית)",
+  "titleEn": "Private event dinner menu in English",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "en",
+  "intro": "Dinner will be accompanied by Shiraz red wine from the Tavor winery, and Chardonnay white wine from the Emek Haela winery.",
+  "sections": [
+    {
+      "name": "Starters",
+      "items": [
+        { "name": "Beef carpaccio", "desc": "Flavored with tomato coulis & rocket leaves" },
+        { "name": "Fried sardines", "desc": "Stuffed with nuts & pickled lemon" },
+        { "name": "Artichoke hearts confit", "desc": "In crispy filo cups" },
+        { "name": "Tossed green salad", "desc": "With dried apples & roasted almonds" }
+      ]
+    },
+    {
+      "name": "Intermezzo",
+      "items": [
+        { "name": "Lemon & lavender granita" }
+      ]
+    },
+    {
+      "name": "Main course of your choice",
+      "items": [
+        { "name": "Grilled sirloin steak", "desc": "With chimichurri sauce" },
+        { "name": "Goose leg confit", "desc": "With honey & spices" },
+        { "name": "Boneless gilthead bream", "desc": "Stuffed with spinach and pine nuts" },
+        { "name": "Roasted leg of lamb", "desc": "With mustard & thyme sauce" },
+        { "name": "A tart of leek and dried tomatoes", "desc": "Vegetarian" },
+        { "name": "Schnitzel or hamburger", "desc": "For the youngsters" }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "A special chocolate dessert" },
+        { "name": "Coconut & orange flan" },
+        { "name": "Tapioca, passion fruit & mango delight" },
+        { "name": "Grapefruit & Campari sorbet, cassis sorbet" },
+        { "name": "Fresh fruit" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "מנות באנגלית.doc", "driveId": "16ccyyuOn6gl12Bo9QS8192csNskpfReq" }]
+}

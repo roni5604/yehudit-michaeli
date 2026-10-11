@@ -1,0 +1,99 @@
+---
+import "../styles/global.css";
+import { ClientRouter } from "astro:transitions";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import A11yPanel from "../components/A11yPanel.astro";
+import ConsentBanner from "../components/ConsentBanner.astro";
+import SearchDialog from "../components/SearchDialog.astro";
+import AmbientBackground from "../components/AmbientBackground.astro";
+import { SITE } from "../lib/site";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  imageAlt?: string;
+  type?: "website" | "article";
+  noindex?: boolean;
+  jsonld?: Record<string, unknown> | Record<string, unknown>[];
+  bodyClass?: string;
+}
+const { title, description = SITE.description, image = "/og-default.jpg", imageAlt = "יהודית מיכאלי · שפית", type = "website", noindex = false, jsonld, bodyClass } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE.shortName}` : `${SITE.name} | ${SITE.tagline}`;
+const canonical = new URL(Astro.url.pathname.replace(/\/$/, "") || "/", SITE.url).href;
+const ogImage = new URL(image, SITE.url).href;
+const siteLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE.name,
+  url: SITE.url,
+  inLanguage: "he",
+  potentialAction: { "@type": "SearchAction", target: `${SITE.url}/search?q={query}`, "query-input": "required name=query" },
+};
+const lds = [siteLd, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
+---
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta name="theme-color" content="#f6efe4" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#1c1613" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/icon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:title" content={title ?? SITE.name} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:alt" content={imageAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="generator" content={Astro.generator} />
+    {lds.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld)} />)}
+    <ClientRouter fallback="swap" />
+    <!-- Apply saved theme + accessibility preferences before first paint (localStorage only; never sent anywhere). -->
+    <script is:inline>
+      (function () {
+        var d = document.documentElement;
+        function apply() {
+          try {
+            var t = localStorage.getItem("ym.theme");
+            if (t === "light" || t === "dark") d.setAttribute("data-theme", t); else d.removeAttribute("data-theme");
+            var a = JSON.parse(localStorage.getItem("ym.a11y") || "{}");
+            d.className = d.className.replace(/\ba11y-[\w-]+/g, "").trim();
+            if (a.text) d.classList.add("a11y-text-" + a.text);
+            ["contrast", "links", "readable", "spacing", "no-motion", "cursor"].forEach(function (k) { if (a[k]) d.classList.add("a11y-" + k); });
+          } catch (e) {}
+        }
+        apply();
+        document.addEventListener("astro:after-swap", apply);
+      })();
+    </script>
+    <slot name="head" />
+  </head>
+  <body class={bodyClass}>
+    <AmbientBackground />
+    <a class="skip-link" href="#main">דילוג לתוכן הראשי</a>
+    <Header />
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+    <Footer />
+    <SearchDialog />
+    <A11yPanel />
+    <ConsentBanner />
+    <script>
+      import "../scripts/favs";
+      import "../scripts/fx";
+    </script>
+  </body>
+</html>

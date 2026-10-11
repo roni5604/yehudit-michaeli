@@ -1,0 +1,100 @@
+{
+  "slug": "company-event-he-en-2004-10",
+  "title": "ארוחה לאירוע חברה · אוקטובר 2004",
+  "titleEn": "Company event dinner · October 2004",
+  "date": "2004-10",
+  "season": "autumn",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "he-en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "טרין כבד אווז",
+          "nameEn": "Terrine de Foie Gras – goose liver terrine",
+          "recipeSlug": null
+        },
+        {
+          "name": "גרבדלקס סלמון",
+          "nameEn": "Gravlax – pickled salmon",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלסלות פריכות במילוי אספרגוס מוקרם",
+          "nameEn": "Crispy asparagus bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "nameEn": "Antipasti – seasoned grilled vegetables",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "nameEn": "Green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בורגיניון",
+          "nameEn": "Boeuf Bourguignon – beef in red wine sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "פרגית בתפוחים וקלבדוס",
+          "nameEn": "Sautéed baby chicken with apples & calvados cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "דג ים בשמנת עשבי תיבול",
+          "nameEn": "Sea fish fillet in herb cream",
+          "recipeSlug": null
+        },
+        {
+          "name": "ניוקי עם זר ירקות",
+          "nameEn": "Gnocchi with vegetables",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת שוקולד חמה",
+          "nameEn": "Hot chocolate cake",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט פירות יער",
+          "nameEn": "Wild berries torte",
+          "recipeSlug": null
+        },
+        {
+          "name": "קרם ברולה",
+          "nameEn": "Crème brûlée",
+          "recipeSlug": null
+        },
+        {
+          "name": "פירות העונה",
+          "nameEn": "Seasonal fruits",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1tabWz88Mocmus6aB4Uym-2DNu2q9BeD6"
+    }
+  ]
+}

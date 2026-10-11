@@ -1,0 +1,103 @@
+{
+  "slug": "company-dinner-en-2011-03",
+  "title": "ארוחת ערב לאירוע חברה · מרץ 2011",
+  "titleEn": "Company event dinner · March 2011",
+  "date": "2011-03",
+  "season": "spring",
+  "occasion": "אירוע חברה",
+  "kind": "event",
+  "language": "en",
+  "intro": null,
+  "sections": [
+    {
+      "name": "First Courses",
+      "items": [
+        {
+          "name": "Lamb kebab",
+          "desc": "Accompanied by tahini sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Fried red mullet on a sprouts salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tricolor peppers in a filo bake",
+          "recipeSlug": null
+        },
+        {
+          "name": "Ceviche",
+          "desc": "Spanish pickled fish salad",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tabbouleh salad, cherry tomatoes salad, green salad",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Main Course of Your Choice",
+      "items": [
+        {
+          "name": "Roast beef with pepper sauce",
+          "recipeSlug": null
+        },
+        {
+          "name": "Grilled baby chicken fillet",
+          "recipeSlug": null
+        },
+        {
+          "name": "Ballotine of bass with celery and lemons",
+          "recipeSlug": null
+        },
+        {
+          "name": "Sweet potato ravioli – vegetarian",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Dessert Buffet",
+      "items": [
+        {
+          "name": "Mousse au chocolat",
+          "recipeSlug": null
+        },
+        {
+          "name": "Pavlova with fresh strawberries",
+          "recipeSlug": null
+        },
+        {
+          "name": "Malabi",
+          "desc": "A Mediterranean cream with rose flavoring",
+          "recipeSlug": null
+        },
+        {
+          "name": "Tarte Tatin",
+          "recipeSlug": null
+        },
+        {
+          "name": "Strudel",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "Wine",
+      "items": [
+        {
+          "name": "Red & white dry wine from the Carmel Wineries",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע חברה (שם הקובץ הוסר).doc",
+      "driveId": "1XX8SW16euZU7MLhSnuIA4tmjJvpCkuXz"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "kaved-bakar-beitzah-pirurim",
+  "title": "שניצל כבד בקר",
+  "titleEn": "Breaded Beef Liver",
+  "description": "פרוסות כבד בקר מיובשות היטב, בציפוי ביצה וקמח מצה או פירורי לחם, שמטגנים בשמן על אש גדולה כמו שניצל.",
+  "category": "meat",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "meat",
+  "diet": [],
+  "tags": ["מהיר", "פשוט"],
+  "servings": null,
+  "yield": null,
+  "pan": "מחבת",
+  "prepMin": 15,
+  "cookMin": 10,
+  "totalMin": 25,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": null, "unit": null, "item": "כבד בקר", "note": "בפרוסות", "raw": "כבד בקר בפרוסות" },
+      { "qty": null, "unit": null, "item": "ביצה", "note": "טרופה", "raw": "ביצה טרופה" },
+      { "qty": null, "unit": null, "item": "קמח מצה או פירורי לחם", "note": null, "raw": "קמח מצה או פירורי לחם" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "מעט", "raw": "מעט מלח" },
+      { "qty": null, "unit": null, "item": "שמן", "note": "לטיגון", "raw": "שמן לטיגון" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מייבשים את פרוסות הכבד על נייר סופג, כמו לשניצל.", "timerMin": null },
+      { "text": "מצפים אותן בביצה, ואחר כך בקמח מצה או בפירורי לחם, ומוסיפים מעט מלח.", "timerMin": null },
+      { "text": "מטגנים בשמן על אש גדולה.", "timerMin": null },
+      { "text": "בודקים מוכנות: נועצים קיסם במרכז הפרוסה. אם עדיין יוצא ממנה מעט אדום (דם), ממשיכים לטגן.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "Golden breaded beef liver cutlets on a plate with lemon wedges, crisp coating and a tender interior",
+  "alt": "פרוסות כבד בקר בציפוי פריך וזהוב בצלחת עם פלחי לימון",
+  "originals": [{ "file": "ברווז בתפוזים.doc", "driveId": "1tuDIkAeQOx4Ol8QnlujVDzrmmfVYASDF" }]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "spaghetti-cherry-agvaniyot-yevashot",
+  "title": "ספגטי ברוטב עגבניות שרי ועגבניות יבשות",
+  "titleEn": "Spaghetti with Cherry and Sun-Dried Tomato Sauce",
+  "description": "רוטב מהיר משום מטוגן, עגבניות שרי טריות ועגבניות מיובשות ויין לבן, על ספגטי.",
+  "category": "pasta",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [
+    "מהיר"
+  ],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 20,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "ספגטי",
+          "note": "מבושל",
+          "raw": "1 חבילה ספגטי, מבושל"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית",
+          "note": "לטיגון",
+          "raw": "שמן זית, לטיגון"
+        },
+        {
+          "qty": 2,
+          "unit": "כפיות",
+          "item": "שום כתוש",
+          "note": null,
+          "raw": "2 כפיות שום כתוש"
+        },
+        {
+          "qty": 20,
+          "unit": null,
+          "item": "עגבניות שרי",
+          "note": "חתוכות",
+          "raw": "20-30 עגבניות שרי, חתוכות",
+          "qtyMax": 30
+        },
+        {
+          "qty": 1,
+          "unit": "חבילה",
+          "item": "עגבניות מיובשות",
+          "note": "שהושרו במים שעתיים לפחות, או עגבניות מיובשות בשמן זית",
+          "raw": "1 חבילה עגבניות מיובשות, שהושרו במים שעתיים לפחות, או עגבניות מיובשות בשמן זית"
+        },
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "יין לבן",
+          "note": null,
+          "raw": "¼ עד ½ כוס יין לבן",
+          "qtyMax": 0.5
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": null,
+          "raw": "מלח"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פלפל שחור",
+          "note": null,
+          "raw": "פלפל שחור"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "פפריקה מתוקה וחריפה",
+          "note": "לפי הטעם",
+          "raw": "פפריקה מתוקה וחריפה, לפי הטעם"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "אגוז מוסקט",
+          "note": "מעט",
+          "raw": "אגוז מוסקט, מעט"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "בזיליקום",
+          "note": "לפי הטעם",
+          "raw": "בזיליקום, לפי הטעם"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מחממים שמן זית ומטגנים את השום עד שהוא מזהיב.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את העגבניות הטריות והמיובשות ומבשלים עד שהן מתחילות לשחרר נוזלים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים את היין ומתבלים לפי הטעם.",
+          "timerMin": null
+        },
+        {
+          "text": "ממש בסוף מוסיפים את עלי הבזיליקום.",
+          "timerMin": null
+        },
+        {
+          "text": "יוצקים את הרוטב על הספגטי המבושל ומגישים.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Spaghetti topped with a rustic sauce of halved cherry tomatoes, sun-dried tomatoes and basil leaves",
+  "alt": "ספגטי ברוטב עגבניות שרי ועגבניות מיובשות עם עלי בזיליקום",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

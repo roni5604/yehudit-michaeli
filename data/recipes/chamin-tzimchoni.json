@@ -1,0 +1,70 @@
+{
+  "slug": "chamin-tzimchoni",
+  "title": "חמין צמחוני",
+  "titleEn": "Vegetarian Chamin (Shabbat Stew)",
+  "description": "חמין שבת ללא בשר מחומוס, עדשים וחיטה, עם סלק, קולורבי, בטטה ותפוחי אדמה על בצל מוזהב וסילאן, שמתבשל בתנור נמוך עד למחרת.",
+  "category": "vegetarian",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shabbat"],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["שבת", "חמין", "צמחוני"],
+  "servings": 6,
+  "yield": "6 מנות",
+  "pan": "סיר גדול שמתאים גם לתנור",
+  "prepMin": 40,
+  "cookMin": 600,
+  "totalMin": 1100,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 1, "unit": "כוס", "item": "חומוס יבש", "note": null, "raw": "1 כוס חומוס יבש" },
+      { "qty": 1, "unit": "כוס", "item": "עדשים חומות", "note": null, "raw": "1 כוס עדשים חומות" },
+      { "qty": 1, "unit": "כוס", "item": "חיטה שלמה", "note": null, "raw": "1 כוס חיטה שלמה" },
+      { "qty": 2, "unit": null, "item": "בצלים", "note": "קצוצים גס", "raw": "2 בצלים קצוצים גס" },
+      { "qty": 2, "unit": null, "item": "סלק", "note": null, "raw": "2 סלקים" },
+      { "qty": 2, "unit": null, "item": "קולורבי צעיר", "note": null, "raw": "2 קולורבי צעיר" },
+      { "qty": 3, "unit": null, "item": "בטטות בינוניות", "note": null, "raw": "3 בטטות בינוניות" },
+      { "qty": 4, "unit": null, "item": "תפוחי אדמה בינוניים", "note": null, "raw": "4 תפוחי אדמה בינוניים" },
+      { "qty": 0.333, "unit": "כוס", "item": "שמן", "note": null, "raw": "⅓ כוס שמן" },
+      { "qty": 6, "unit": "שיני", "item": "שום", "note": "שלמות, קלופות", "raw": "6 שיני שום שלמות, קלופות" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": null, "unit": null, "item": "פלפל שחור", "note": null, "raw": "פלפל שחור" },
+      { "qty": null, "unit": null, "item": "פפריקה אדומה מתוקה", "note": null, "raw": "פפריקה אדומה מתוקה" },
+      { "qty": 1, "unit": "כפית", "item": "כמון", "note": null, "raw": "1 כפית כמון" },
+      { "qty": 1, "unit": "כפית", "item": "גרגרי כוסברה", "note": "מרוסקים", "raw": "1 כפית גרגרי כוסברה מרוסקים" },
+      { "qty": 2, "unit": "כפות", "item": "סילאן", "note": null, "raw": "2 כפות סילאן" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הכנה מוקדמת", "items": [
+      { "text": "משרים את גרגירי החומוס בכמות גדולה של מים למשך כל הלילה.", "timerMin": null },
+      { "text": "משרים את העדשים והחיטה כחצי שעה, בזמן שמכינים את שאר המרכיבים.", "timerMin": 30 }
+    ] },
+    { "group": "הרכבת החמין", "items": [
+      { "text": "בסיר גדול שאפשר להעביר לתנור מטגנים את הבצל בשמן עד להזהבה.", "timerMin": null },
+      { "text": "מקלפים את כל הירקות. לקילוף הסלק מומלץ לבשל אותו בישול קצר בהרבה מים, או במיקרוגל, עד שהקליפה יורדת בקלות. אפשר גם לקנות סלק קלוף ארוז בוואקום. אם רוצים, אפשר לחצות את הירקות.", "timerMin": null },
+      { "text": "מניחים את הירקות על הבצל המוזהב ומפזרים מעליהם את שיני השום.", "timerMin": null },
+      { "text": "שוטפים את החומוס, העדשים והחיטה ומסננים. מפזרים אותם על הירקות שבסיר.", "timerMin": null },
+      { "text": "מתבלים היטב במלח, פלפל, פפריקה, כמון וכוסברה.", "timerMin": null },
+      { "text": "יוצקים מים עד שהמרכיבים מכוסים לגמרי ועוד 2 ס״מ מעליהם, ולבסוף יוצקים את הסילאן.", "timerMin": null }
+    ] },
+    { "group": "בישול", "items": [
+      { "text": "מביאים את הסיר לרתיחה ומבשלים כחצי שעה.", "timerMin": 30 },
+      { "text": "מכסים בנייר אפייה ועליו מכסה, מעבירים לתנור ואופים שעה ב-180 מעלות.", "timerMin": 60 },
+      { "text": "מקטינים את החום לכ-100 מעלות וממשיכים לבשל בחום נמוך, כמו כל חמין.", "timerMin": null },
+      { "text": "בודקים מפעם לפעם ומוסיפים מים רותחים, כדי שהחמין לא יתייבש.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "A hearty vegetarian chamin in a heavy pot: chickpeas, lentils and wheat berries with chunks of beetroot, sweet potato, kohlrabi and potatoes in a glossy dark broth",
+  "alt": "חמין צמחוני בסיר כבד, עם חומוס, עדשים, חיטה וקוביות סלק, בטטה ותפוחי אדמה",
+  "originals": [
+    { "file": "חמין צמחוני.doc", "driveId": "1nTt9xCL05SXDBR2Qy_gYr9wfw5DblmJK" },
+    { "file": "חמין צמחוני.doc", "driveId": "1DKIXrHW0iyoSe1HD1Ek40IEz2nmcom3_" }
+  ]
+}

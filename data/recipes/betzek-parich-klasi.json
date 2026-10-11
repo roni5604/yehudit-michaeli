@@ -1,0 +1,53 @@
+{
+  "slug": "betzek-parich-klasi",
+  "title": "בצק פריך קלאסי לפאי פירות",
+  "titleEn": "Classic Sweet Shortcrust for Fruit Pie",
+  "description": "בצק פריך מתוק וחמאתי עם חלמונים ושמנת חמוצה, שמגרדים לתבנית וגם מפזרים כפירורים מעל הפירות. בסיס מצוין לפאי פירות.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["פאי פירות", "בצק בסיס"],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 20,
+  "cookMin": 30,
+  "totalMin": 140,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 350, "unit": "גרם", "item": "קמח", "note": null, "raw": "350 גרם קמח" },
+      { "qty": 175, "unit": "גרם", "item": "חמאה", "note": null, "raw": "175 גרם חמאה" },
+      { "qty": null, "unit": "קורט", "item": "מלח", "note": null, "raw": "קורט מלח" },
+      { "qty": 100, "unit": "גרם", "item": "סוכר", "note": null, "raw": "100 גרם סוכר" },
+      { "qty": 3, "unit": null, "item": "חלמונים", "note": null, "raw": "3 חלמונים" },
+      { "qty": 1, "unit": "כף", "item": "שמנת חמוצה", "note": null, "raw": "1 כף שמנת חמוצה" }
+    ] },
+    { "group": "למילוי ולפירורים", "items": [
+      { "qty": null, "unit": null, "item": "פירות למילוי", "note": null, "raw": "פירות למילוי" },
+      { "qty": 0.25, "unit": "כוס", "item": "קמח תופח", "note": "לשליש הבצק הנותר", "raw": "¼ כוס קמח תופח (לשליש הבצק הנותר)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מכניסים למעבד מזון את הקמח, החמאה והמלח, ובלחיצות קצרות יוצרים פירורים.", "timerMin": null },
+      { "text": "מוסיפים את הסוכר, החלמונים והשמנת החמוצה ומגבשים לבצק.", "timerMin": null },
+      { "text": "יוצרים כדור ומצננים שעה לפחות.", "timerMin": 60 },
+      { "text": "מגרדים במגרדת גסה את רוב הבצק (כשני שלישים) לתבנית, ומהדקים במהירות לתחתית ולשוליים.", "timerMin": null },
+      { "text": "מצננים חצי שעה נוספת.", "timerMin": 30 },
+      { "text": "ממלאים בפירות.", "timerMin": null },
+      { "text": "מוסיפים לשליש הבצק הנותר רבע כוס קמח תופח, ומגרדים מעל לפרי.", "timerMin": null },
+      { "text": "אופים כ-30 דקות ב-190 מעלות.", "timerMin": 30 }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A rustic baked fruit pie in a round fluted tin with a golden crumbly grated-pastry topping, berry juices bubbling through the crumbs",
+  "alt": "פאי פירות אפוי עם פירורי בצק זהובים מעל, בתבנית עגולה",
+  "originals": [{ "file": "בצק פריך קלאסי.doc", "driveId": "1GRWpL7rKG89Fwg73FwZBVm_imVdtTCHE" }]
+}

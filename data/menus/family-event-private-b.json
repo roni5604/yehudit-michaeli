@@ -1,0 +1,111 @@
+{
+  "slug": "family-event-private-b",
+  "title": "אירוע משפחתי (אירוע פרטי)",
+  "titleEn": "Family celebration (private event)",
+  "date": null,
+  "season": null,
+  "occasion": "אירוע פרטי",
+  "kind": "event",
+  "language": "he",
+  "intro": null,
+  "sections": [
+    {
+      "name": "מנות ראשונות",
+      "items": [
+        {
+          "name": "קבבוני טלה",
+          "desc": "בליווי טחינה ירוקה",
+          "recipeSlug": null
+        },
+        {
+          "name": "פלטת דגים כבושים ומעושנים",
+          "recipeSlug": null
+        },
+        {
+          "name": "רביולי רוקפור ואגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "ירקות קלויים ומתובלים בסגנון כפרי",
+          "recipeSlug": null
+        },
+        {
+          "name": "סלט ירוק ברוטב וינגרט",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "מנה עיקרית לבחירתך",
+      "items": [
+        {
+          "name": "קדירת בקר ביין – בף בורגיניון",
+          "recipeSlug": null
+        },
+        {
+          "name": "נתחי פרגית במרינדת עשבי תיבול",
+          "recipeSlug": null
+        },
+        {
+          "name": "פילה דג ברוטב שמפניה וקוויאר סלמון",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט כרישה ועגבניות מיובשות – צמחוני",
+          "recipeSlug": null
+        },
+        {
+          "name": "שניצל, צ'יפס ותירס – לצעירים",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "קינוחים",
+      "items": [
+        {
+          "name": "עוגת קוביות שוקולד",
+          "recipeSlug": null
+        },
+        {
+          "name": "פבלובת פירות-יער",
+          "recipeSlug": null
+        },
+        {
+          "name": "טארט טאטן",
+          "recipeSlug": null
+        },
+        {
+          "name": "שטרודל אגוזים",
+          "recipeSlug": null
+        },
+        {
+          "name": "סורבה וגלידה",
+          "recipeSlug": null
+        }
+      ]
+    },
+    {
+      "name": "יין",
+      "items": [
+        {
+          "name": "יין אדום",
+          "desc": "קברנה פטיט סירה, יקב תשבי",
+          "recipeSlug": null
+        },
+        {
+          "name": "יין לבן",
+          "desc": "פרנץ' ריזלינג, יקב תשבי",
+          "recipeSlug": null
+        }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [
+    {
+      "file": "אירוע פרטי (שם הקובץ הוסר).doc",
+      "driveId": "1dTdzgHd0-4GK9ffrwQ4IU9Q0aUtEEPXu"
+    }
+  ]
+}

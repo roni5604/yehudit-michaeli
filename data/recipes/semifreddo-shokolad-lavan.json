@@ -1,0 +1,54 @@
+{
+  "slug": "semifreddo-shokolad-lavan",
+  "title": "סמי-פרדו שוקולד לבן",
+  "titleEn": "White Chocolate Semifreddo",
+  "description": "גלידה קפואה ואוורירית משוקולד לבן, חלמונים, שמנת וקצף חלבונים, עם ג׳ינג׳ר מסוכר קצוץ. מוגשת עם פירות יער ועלי נענע.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קינוח קפוא", "אירוח", "אפשר להכין מראש"],
+  "servings": 6,
+  "yield": "6 מנות",
+  "pan": "תבנית מלבנית עמוקה",
+  "prepMin": 40,
+  "cookMin": 0,
+  "totalMin": 160,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 5, "unit": null, "item": "ביצים", "note": "מופרדות", "raw": "5 ביצים, מופרדות" },
+      { "qty": 0.5, "unit": "כוס", "item": "סוכר", "note": null, "raw": "½ כוס סוכר" },
+      { "qty": 1, "unit": "כפית", "item": "תמצית וניל", "note": "איכותית", "raw": "1 כפית תמצית וניל איכותית" },
+      { "qty": 200, "unit": "גרם", "item": "שוקולד לבן", "note": null, "raw": "200 גרם שוקולד לבן" },
+      { "qty": 2, "unit": "כוסות", "item": "שמנת להקצפה", "note": "500 מ״ל", "raw": "2 כוסות (500 מ״ל) שמנת להקצפה" },
+      { "qty": 1, "unit": "כף", "item": "ג׳ינג׳ר מסוכר", "note": "קצוץ דק", "raw": "1 כף ג׳ינג׳ר מסוכר קצוץ דק" }
+    ] },
+    { "group": "לעיטור", "items": [
+      { "qty": null, "unit": null, "item": "פירות יער", "note": null, "raw": "פירות יער" },
+      { "qty": null, "unit": null, "item": "עלי נענע", "note": "אם רוצים", "raw": "עלי נענע (אם רוצים)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "בקערת מיקסר מקציפים חלמונים, סוכר ותמצית וניל במהירות גבוהה 3 עד 5 דקות, עד לתערובת אוורירית בצבע צהוב בהיר.", "timerMin": 3 },
+      { "text": "ממיסים את השוקולד הלבן במיקרוגל או בבן-מארי עד שהוא נמס לגמרי. אפשר להוסיף מעט שמנת כדי לעזור בהמסה.", "timerMin": null },
+      { "text": "מוסיפים בעדינות את השוקולד המומס לתערובת החלמונים.", "timerMin": null },
+      { "text": "בקערה גדולה מקציפים את השמנת רק עד שהיא מתחילה להתעבות, ומקפלים אותה לתערובת החלמונים והשוקולד. מוסיפים את הג׳ינג׳ר המסוכר.", "timerMin": null },
+      { "text": "בקערת מיקסר נקייה ויבשה מקציפים את החלבונים במהירות גבוהה לקצף יציב אך לא יבש, ומקפלים בעדינות לתערובת.", "timerMin": null },
+      { "text": "מעבירים לתבנית מלבנית עמוקה, מכסים היטב ומקפיאים לפחות שעתיים, ועדיף למשך הלילה.", "timerMin": 120 },
+      { "text": "מגישים עם פירות יער בתחתית הגביע או מעל הגלידה, ואם רוצים גם עלי נענע.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "magazine", "credit": "קפריאל וג׳ון פנס (רות סירקיס)", "rewritten": true },
+  "imagePrompt": "A slice of pale ivory white chocolate semifreddo in a glass cup, topped with fresh mixed berries and a mint leaf",
+  "alt": "מנת סמי-פרדו שוקולד לבן בצבע שנהב עם פירות יער ועלה נענע",
+  "originals": [
+    { "file": "טירמיסו.doc", "driveId": "1skQxcjcpfzln2nGHkgbpOhMDLBe9Bc4S" }
+  ]
+}

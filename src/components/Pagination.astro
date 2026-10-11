@@ -1,0 +1,23 @@
+---
+interface Props { page: { currentPage: number; lastPage: number; url: { prev?: string; next?: string } }; base: string }
+const { page, base } = Astro.props;
+const pages = Array.from({ length: page.lastPage }, (_, i) => i + 1);
+const href = (n: number) => (n === 1 ? base : `${base}/${n}`);
+---
+{page.lastPage > 1 && (
+  <nav class="pager" aria-label="ניווט בין עמודים">
+    {page.url.prev ? <a class="btn btn-ghost btn-sm" href={page.url.prev} rel="prev">→ הקודם</a> : <span />}
+    <ol>
+      {pages.map((n) => (
+        <li>{n === page.currentPage ? <span aria-current="page">{n}</span> : <a href={href(n)} aria-label={`עמוד ${n}`}>{n}</a>}</li>
+      ))}
+    </ol>
+    {page.url.next ? <a class="btn btn-ghost btn-sm" href={page.url.next} rel="next">הבא ←</a> : <span />}
+  </nav>
+)}
+<style>
+  .pager { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 40px; flex-wrap: wrap; }
+  ol { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; margin: 0; justify-content: center; }
+  ol a, ol span { display: grid; place-items: center; min-width: 42px; height: 42px; border-radius: 10px; border: 1px solid var(--line); text-decoration: none; font-weight: 700; background: var(--card); }
+  ol [aria-current] { background: var(--bordeaux); color: var(--paper); border-color: var(--bordeaux); }
+</style>

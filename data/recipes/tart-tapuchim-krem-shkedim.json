@@ -1,0 +1,101 @@
+{
+  "slug": "tart-tapuchim-krem-shkedim",
+  "title": "טארט תפוחים בקרם שקדים",
+  "titleEn": "Apple Tart with Almond Cream",
+  "description": "טארט תפוחים גדול ומושקע: בצק חמאה, קרם שקדים, תפוחים מקורמלים שעברו פלמבה ופרוסות תפוח מסודרות כמניפה, עם נפאז׳ תפוחים ופיסטוק טחון.",
+  "category": "cakes",
+  "subcategory": "tarts",
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["תפוחים", "מנת מסעדה", "קלאסיקה צרפתית"],
+  "servings": null,
+  "yield": null,
+  "pan": "תבנית אפייה קפיצית בקוטר 28 ס״מ",
+  "prepMin": 90,
+  "cookMin": 60,
+  "totalMin": 330,
+  "timesEstimated": true,
+  "difficulty": 3,
+  "ingredients": [
+    { "group": "לבצק", "items": [
+      { "qty": 250, "unit": "גרם", "item": "קמח", "note": null, "raw": "250 גרם קמח" },
+      { "qty": 150, "unit": "גרם", "item": "חמאה", "note": null, "raw": "150 גרם חמאה" },
+      { "qty": 80, "unit": "גרם", "item": "אבקת סוכר", "note": null, "raw": "80 גרם אבקת סוכר" },
+      { "qty": 1, "unit": null, "item": "ביצה", "note": null, "raw": "1 ביצה" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "קורט", "raw": "קורט מלח" },
+      { "qty": null, "unit": null, "item": "מים", "note": "לפי הצורך", "raw": "מים לפי הצורך" }
+    ] },
+    { "group": "לקרם שקדים (יחס 1:1:1:1 במשקל)", "items": [
+      { "qty": null, "unit": null, "item": "סוכר", "note": "במשקל שווה לשקדים, לחמאה ולביצים", "raw": "סוכר" },
+      { "qty": null, "unit": null, "item": "שקדים", "note": "במשקל שווה", "raw": "שקדים" },
+      { "qty": null, "unit": null, "item": "חמאה", "note": "במשקל שווה", "raw": "חמאה" },
+      { "qty": null, "unit": null, "item": "ביצים", "note": "במשקל שווה", "raw": "ביצים" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "קורט", "raw": "קורט מלח" }
+    ] },
+    { "group": "לתפוחי המילוי", "items": [
+      { "qty": 3, "unit": "ק״ג", "item": "תפוחים", "note": "קלופים וחתוכים לקוביות גסות", "raw": "3 ק״ג תפוחים, קלופים וחתוכים לקוביות גסות" },
+      { "qty": 50, "unit": "גרם", "item": "סוכר", "note": null, "raw": "50 גרם סוכר" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": null, "raw": "50 גרם חמאה" },
+      { "qty": null, "unit": null, "item": "מיץ לימון", "note": null, "raw": "מיץ לימון" },
+      { "qty": null, "unit": null, "item": "ברנדי או קלבדוס", "note": "לפלמבה", "raw": "ברנדי או קלבדוס לפלמבה" },
+      { "qty": null, "unit": null, "item": "פירורי לחם", "note": null, "raw": "פירורי לחם" }
+    ] },
+    { "group": "לקישוט ולהברשה", "items": [
+      { "qty": 4, "unit": null, "item": "תפוחים", "note": "לפריסה דקה כמניפה", "raw": "4 תפוחים לפריסה דקה כמניפה" },
+      { "qty": null, "unit": null, "item": "אבקת סוכר", "note": null, "raw": "אבקת סוכר" },
+      { "qty": null, "unit": null, "item": "פיסטוק טחון", "note": null, "raw": "פיסטוק טחון" }
+    ] },
+    { "group": "לנפאז׳ התפוחים", "items": [
+      { "qty": null, "unit": null, "item": "קליפות וליבות תפוחים", "note": null, "raw": "קליפות וליבות תפוחים" },
+      { "qty": null, "unit": null, "item": "מים", "note": "ביחס של ¾ ממשקל התפוחים", "raw": "מים (¾ ממשקל התפוחים)" },
+      { "qty": null, "unit": null, "item": "מקלות קינמון", "note": null, "raw": "מקלות קינמון" },
+      { "qty": null, "unit": null, "item": "פרוסות לימון", "note": null, "raw": "פרוסות לימון" },
+      { "qty": 0.5, "unit": "ק״ג", "item": "סוכר", "note": "על כל 600 מ״ל נוזל מסונן", "raw": "½ ק״ג סוכר על כל 600 מ״ל נוזל מסונן" },
+      { "qty": null, "unit": null, "item": "פטל או תותים", "note": "לצבע אדמדם", "raw": "פטל או תותים לצבע אדמדם" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הבצק", "items": [
+      { "text": "מערבבים את כל מרכיבי הבצק יחד במג׳ימיקס עם סכין.", "timerMin": null },
+      { "text": "מניחים את הבצק במקרר לשעתיים, או אפילו מכינים אותו יום מראש.", "timerMin": 120 }
+    ] },
+    { "group": "קרם השקדים", "items": [
+      { "text": "טוחנים את כל מרכיבי הקרם במג׳ימיקס עם סכין.", "timerMin": null },
+      { "text": "מעבירים את העיסה למיכל פלסטיק ומקררים.", "timerMin": null }
+    ] },
+    { "group": "תפוחי המילוי", "items": [
+      { "text": "מחלקים את התפוחים לשני חלקים (1.5 ק״ג כל חלק) ומקפיצים אותם ב-50 גרם חמאה.", "timerMin": null },
+      { "text": "נותנים לתפוחים להתבשל ולהתקרמל.", "timerMin": null },
+      { "text": "לקראת הסוף מוסיפים 50 גרם סוכר ויוצרים קרמליזציה עם הסוכר.", "timerMin": null },
+      { "text": "סוחטים מעט מיץ לימון ועושים פלמבה עם ברנדי או קלבדוס.", "timerMin": null },
+      { "text": "שופכים לקערה ומערבבים את התפוחים עם פירורי לחם, יחד עם הנוזלים שהתפוחים שחררו. לא לזרוק אותם!", "timerMin": null }
+    ] },
+    { "group": "נפאז׳ תפוחים", "items": [
+      { "text": "שמים בסיר את קליפות התפוחים והליבות עם מים, מקלות קינמון ופרוסות לימון. היחס בין המים לתפוחים הוא ¾ מים לזיגוג.", "timerMin": null },
+      { "text": "מבשלים כשעה על סף רתיחה ומסננים בבד.", "timerMin": 60 },
+      { "text": "לאחר כשעתיים מוסיפים פטל או תותים, לקבלת צבע אדמדם.", "timerMin": null },
+      { "text": "שמים את הנוזל המסונן בסיר ומוסיפים ½ ק״ג סוכר על כל 600 מ״ל נוזל. מביאים לרתיחה בקלחת על להבה, מסירים את הקצף ומבשלים עד לנקודת הקרישה. בודקים בעזרת קערה ששהתה במקרר.", "timerMin": null }
+    ] },
+    { "group": "הרכבה ואפייה", "items": [
+      { "text": "משמנים בחמאה את התבנית הקפיצית בקוטר 28 ס״מ.", "timerMin": null },
+      { "text": "פותחים את הבצק ומצפים בו את התבנית הפנימית, עד מלוא הגובה.", "timerMin": null },
+      { "text": "מורחים מעל הבצק את קרם השקדים.", "timerMin": null },
+      { "text": "מוסיפים את התפוחים שעורבבו עם פירורי הלחם.", "timerMin": null },
+      { "text": "פורסים ארבעה תפוחים לפרוסות דקות ומסדרים כמניפה שמתחילה בהיקף החיצוני.", "timerMin": null },
+      { "text": "מפזרים אבקת סוכר.", "timerMin": null },
+      { "text": "אופים ב-180 מעלות במשך שעה.", "timerMin": 60 },
+      { "text": "לאחר האפייה מורחים את הנפאז׳ שהוכן מראש, גם על הקצוות, ומפזרים פיסטוק טחון.", "timerMin": null },
+      { "text": "מקררים ופורסים.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["לתבנית בקוטר 28 ס״מ יש להגדיל את כמות הבצק ב-¼."],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A large round apple tart in a springform shell with thin apple slices fanned in concentric circles, glazed with a shiny pale pink apple nappage and sprinkled with ground pistachio on the edge",
+  "alt": "טארט תפוחים גדול עם פרוסות תפוח מסודרות כמניפה, מבריק בנפאז׳ ורדרד ועם פיסטוק טחון בקצוות",
+  "originals": [
+    { "file": "טארט תפוחים.doc", "driveId": "1tRzcjI5smzlHhI5eHez9eJGCFBzwWyAR" }
+  ]
+}

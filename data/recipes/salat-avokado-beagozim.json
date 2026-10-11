@@ -1,0 +1,148 @@
+{
+  "slug": "salat-avokado-beagozim",
+  "title": "סלט אבוקדו באגוזים",
+  "titleEn": "Avocado and Walnut Salad",
+  "description": "קוביות אבוקדו ומלפפון ברוטב מיונית, שום ונענע, עם אגוזים קצוצים. מנה ראשונה לשניים, עם לחם טרי.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [
+    "מנה ראשונה",
+    "אבוקדו"
+  ],
+  "servings": 2,
+  "yield": null,
+  "pan": null,
+  "prepMin": 15,
+  "cookMin": 0,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "אבוקדו",
+          "note": "מוכן לאכילה",
+          "raw": "1 אבוקדו, מוכן לאכילה"
+        },
+        {
+          "qty": 1,
+          "qtyMax": 2,
+          "unit": "כפיות",
+          "item": "מיץ לימון",
+          "note": null,
+          "raw": "1-2 כפיות מיץ לימון"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "מלפפונים ירוקים קטנים",
+          "note": "או אחד גדול, מקולפים",
+          "raw": "2 מלפפונים ירוקים קטנים, או אחד גדול, מקולפים"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "אגוזים קצוצים",
+          "note": null,
+          "raw": "1 כף אגוזים קצוצים"
+        },
+        {
+          "qty": 1,
+          "qtyMax": 2,
+          "unit": "כפיות",
+          "item": "שמן זית",
+          "note": null,
+          "raw": "1-2 כפיות שמן זית"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח ופלפל",
+          "note": null,
+          "raw": "מלח ופלפל לפי הטעם"
+        },
+        {
+          "qty": 1,
+          "unit": "שן",
+          "item": "שום",
+          "note": null,
+          "raw": "1 שן שום"
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "item": "עלי נענע",
+          "note": "לא הכרחי",
+          "raw": "4 עלי נענע, לא הכרחי"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "מיונית",
+          "note": null,
+          "raw": "1 כף מיונית"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "חוצים את האבוקדו לאורכו, מוציאים את הגלעין, מקלפים וחותכים את הבשר לריבועים. שמים בקערה.",
+          "timerMin": null
+        },
+        {
+          "text": "בוזקים את מיץ הלימון ומערבבים קלות.",
+          "timerMin": null
+        },
+        {
+          "text": "חותכים את המלפפונים לפרוסות דקות ומוסיפים לאבוקדו יחד עם האגוזים.",
+          "timerMin": null
+        },
+        {
+          "text": "מוסיפים שמן זית ומתבלים במלח ופלפל.",
+          "timerMin": null
+        },
+        {
+          "text": "מועכים את שן השום ומערבבים עם המיונית ועלי הנענע הכתושים.",
+          "timerMin": null
+        },
+        {
+          "text": "שופכים מעל האבוקדו ומערבבים קלות, כך שהאבוקדו מכוסה ברוטב. מקררים מעט.",
+          "timerMin": null
+        },
+        {
+          "text": "מחלקים לשתי צלחות ומגישים עם לחם טרי שחור או לחמניות חמות.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "family",
+    "credit": null,
+    "rewritten": false
+  },
+  "imagePrompt": "Creamy avocado cubes with sliced cucumber and chopped walnuts in a garlic mayonnaise dressing, topped with mint leaves, served on a small plate with dark bread",
+  "alt": "סלט אבוקדו ומלפפון ברוטב מיונית עם אגוזים ועלי נענע על צלחת, לצד לחם כהה",
+  "originals": [
+    {
+      "file": "סלטים-קובץc.doc",
+      "driveId": "1zhKntV6jlKaU5nlTK5VdxnnfRoKWyrQW"
+    }
+  ]
+}

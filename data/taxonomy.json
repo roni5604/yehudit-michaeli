@@ -1,0 +1,705 @@
+{
+  "categories": [
+    {
+      "slug": "breakfast",
+      "he": "ארוחות בוקר",
+      "en": "Breakfast",
+      "icon": "croissant",
+      "folders": [
+        "ארוחות בוקר"
+      ],
+      "subs": [
+        {
+          "slug": "muffins",
+          "he": "מאפינס",
+          "folders": [
+            "מאפינס"
+          ]
+        },
+        {
+          "slug": "afternoon-tea",
+          "he": "ארוחת מנחה",
+          "folders": [
+            "ארוחת מינחה"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "starters",
+      "he": "מנות ראשונות",
+      "en": "Starters",
+      "icon": "plate",
+      "folders": [
+        "מנות ראשונות"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "appetizers",
+      "he": "מתאבנים ופינגר פוד",
+      "en": "Appetizers",
+      "icon": "olive",
+      "folders": [
+        "מתאבנים"
+      ],
+      "subs": [
+        {
+          "slug": "antipasti",
+          "he": "אנטיפסטי",
+          "folders": [
+            "אנטיפאסטי"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "spreads",
+      "he": "ממרחים ומטבלים",
+      "en": "Spreads & dips",
+      "icon": "jar",
+      "folders": [
+        "מימרחים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "salads",
+      "he": "סלטים",
+      "en": "Salads",
+      "icon": "leaf",
+      "folders": [
+        "סלטים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "soups",
+      "he": "מרקים",
+      "en": "Soups",
+      "icon": "pot",
+      "folders": [
+        "מרקים"
+      ],
+      "subs": [
+        {
+          "slug": "cold-soups",
+          "he": "מרקים קרים",
+          "folders": [
+            "מרקים קרים"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vegetables",
+      "he": "ירקות",
+      "en": "Vegetables",
+      "icon": "carrot",
+      "folders": [
+        "ירקות"
+      ],
+      "subs": [
+        {
+          "slug": "cauliflower",
+          "he": "כרובית",
+          "folders": [
+            "כרובית"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "vegetarian",
+      "he": "מנות צמחוניות",
+      "en": "Vegetarian mains",
+      "icon": "sprout",
+      "folders": [
+        "מנות צמחוניות",
+        "טבעוני",
+        "טופו"
+      ],
+      "subs": [
+        {
+          "slug": "vegan",
+          "he": "טבעוני",
+          "folders": [
+            "טבעוני"
+          ]
+        },
+        {
+          "slug": "tofu",
+          "he": "טופו",
+          "folders": [
+            "טופו"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pasta",
+      "he": "פסטה ואטריות",
+      "en": "Pasta & noodles",
+      "icon": "pasta",
+      "folders": [
+        "פסטה"
+      ],
+      "subs": [
+        {
+          "slug": "noodles",
+          "he": "נודלס",
+          "folders": [
+            "נודלס"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sides",
+      "he": "תוספות",
+      "en": "Side dishes",
+      "icon": "bowl",
+      "folders": [
+        "תוספות"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "savory-pastries",
+      "he": "מאפים מלוחים ופשטידות",
+      "en": "Savory bakes & quiches",
+      "icon": "pie",
+      "folders": [
+        "מאפים מלוחים"
+      ],
+      "subs": [
+        {
+          "slug": "potato-bakes",
+          "he": "פשטידות תפוחי אדמה",
+          "folders": [
+            "פשטידות תפוחי אדמה"
+          ]
+        },
+        {
+          "slug": "savory-multicake",
+          "he": "במולטיקייק",
+          "folders": [
+            "מולטיקייק"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "breads",
+      "he": "לחמים",
+      "en": "Breads",
+      "icon": "bread",
+      "folders": [
+        "לחמים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "fish",
+      "he": "דגים ופירות ים",
+      "en": "Fish & seafood",
+      "icon": "fish",
+      "folders": [
+        "דגים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "chicken",
+      "he": "עוף ועופות",
+      "en": "Poultry",
+      "icon": "drumstick",
+      "folders": [
+        "עוף"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "meat",
+      "he": "בשר וטלה",
+      "en": "Meat & lamb",
+      "icon": "meat",
+      "folders": [
+        "בשר וטלה"
+      ],
+      "subs": [
+        {
+          "slug": "patties",
+          "he": "קציצות",
+          "folders": [
+            "קציצות"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sauces",
+      "he": "רטבים",
+      "en": "Sauces",
+      "icon": "sauce",
+      "folders": [
+        "רוטבים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "pickles",
+      "he": "חמוצים וכבושים",
+      "en": "Pickles",
+      "icon": "jar",
+      "folders": [
+        "חמוצים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "jams",
+      "he": "ריבות ושימורים",
+      "en": "Jams & preserves",
+      "icon": "jam",
+      "folders": [
+        "ריבות"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "cheese",
+      "he": "גבינות ומנות גבינה",
+      "en": "Cheese",
+      "icon": "cheese",
+      "folders": [
+        "מתכוני גבינות"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "cakes",
+      "he": "עוגות",
+      "en": "Cakes",
+      "icon": "cake",
+      "folders": [
+        "עוגות"
+      ],
+      "subs": [
+        {
+          "slug": "cheesecakes",
+          "he": "עוגות גבינה",
+          "folders": [
+            "עוגות גבינה"
+          ]
+        },
+        {
+          "slug": "chocolate-cakes",
+          "he": "עוגות שוקולד",
+          "folders": [
+            "עוגות שוקולד"
+          ]
+        },
+        {
+          "slug": "poppy-seed-cakes",
+          "he": "עוגות פרג",
+          "folders": [
+            "עוגות פרג"
+          ]
+        },
+        {
+          "slug": "apple-cakes",
+          "he": "עוגות תפוחים",
+          "folders": [
+            "עוגות תפוחים"
+          ]
+        },
+        {
+          "slug": "honey-cakes",
+          "he": "עוגות דבש",
+          "folders": [
+            "עוגות דבש"
+          ]
+        },
+        {
+          "slug": "plum-cakes",
+          "he": "עוגות שזיפים",
+          "folders": [
+            "עוגות שזיפים"
+          ]
+        },
+        {
+          "slug": "vanilla-cakes",
+          "he": "עוגות וניל",
+          "folders": [
+            "עוגות וניל"
+          ]
+        },
+        {
+          "slug": "sugar-free-cakes",
+          "he": "עוגות ללא סוכר",
+          "folders": [
+            "עוגות ללא סוכר"
+          ]
+        },
+        {
+          "slug": "cupcakes",
+          "he": "קאפקייקס",
+          "folders": [
+            "קאפ קייקס"
+          ]
+        },
+        {
+          "slug": "multicake",
+          "he": "עוגות במולטיקייק",
+          "folders": []
+        },
+        {
+          "slug": "tarts",
+          "he": "טארטים ופאים מתוקים",
+          "folders": []
+        },
+        {
+          "slug": "yeast-cakes",
+          "he": "עוגות שמרים",
+          "folders": []
+        }
+      ]
+    },
+    {
+      "slug": "cookies",
+      "he": "עוגיות",
+      "en": "Cookies",
+      "icon": "cookie",
+      "folders": [
+        "עוגיות"
+      ],
+      "subs": [
+        {
+          "slug": "crackers",
+          "he": "קרקרים",
+          "folders": [
+            "קרקרים"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "desserts",
+      "he": "קינוחים",
+      "en": "Desserts",
+      "icon": "dessert",
+      "folders": [
+        "קינוחים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "sweets",
+      "he": "ממתקים ופרלינים",
+      "en": "Sweets & confections",
+      "icon": "candy",
+      "folders": [
+        "ממתקים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "drinks",
+      "he": "משקאות",
+      "en": "Drinks",
+      "icon": "cup",
+      "folders": [
+        "משקאות"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "cocktails",
+      "he": "קוקטיילים",
+      "en": "Cocktails",
+      "icon": "cocktail",
+      "folders": [
+        "קוקטילים"
+      ],
+      "subs": []
+    },
+    {
+      "slug": "uncategorized",
+      "he": "מגוון ואוספים",
+      "en": "Collections & more",
+      "icon": "book",
+      "folders": [],
+      "subs": []
+    }
+  ],
+  "holidays": [
+    {
+      "slug": "rosh-hashana",
+      "he": "ראש השנה",
+      "folders": [
+        "ראש השנה"
+      ]
+    },
+    {
+      "slug": "hanukkah",
+      "he": "חנוכה",
+      "folders": [
+        "חנוכה"
+      ]
+    },
+    {
+      "slug": "tu-bishvat",
+      "he": "ט״ו בשבט",
+      "folders": [
+        "טו בשבט"
+      ]
+    },
+    {
+      "slug": "purim",
+      "he": "פורים",
+      "folders": [
+        "פורים",
+        "אזני המן"
+      ]
+    },
+    {
+      "slug": "passover",
+      "he": "פסח",
+      "folders": [
+        "פסח"
+      ]
+    },
+    {
+      "slug": "shavuot",
+      "he": "שבועות",
+      "folders": []
+    },
+    {
+      "slug": "shabbat",
+      "he": "שבת",
+      "folders": []
+    }
+  ],
+  "cuisines": [
+    {
+      "slug": "french",
+      "he": "צרפתי",
+      "lat": 46.6,
+      "lng": 2.2,
+      "folders": []
+    },
+    {
+      "slug": "italian",
+      "he": "איטלקי",
+      "lat": 42.5,
+      "lng": 12.5,
+      "folders": [
+        "אוכל איטלקי"
+      ]
+    },
+    {
+      "slug": "romanian",
+      "he": "רומני",
+      "lat": 45.9,
+      "lng": 24.9,
+      "folders": [
+        "אוכל רומני"
+      ]
+    },
+    {
+      "slug": "hungarian",
+      "he": "הונגרי",
+      "lat": 47.2,
+      "lng": 19.5,
+      "folders": [
+        "אוכל הונגרי"
+      ]
+    },
+    {
+      "slug": "indian",
+      "he": "הודי",
+      "lat": 22.0,
+      "lng": 79.0,
+      "folders": [
+        "אוכל הודי"
+      ]
+    },
+    {
+      "slug": "japanese",
+      "he": "יפני",
+      "lat": 36.2,
+      "lng": 138.2,
+      "folders": [
+        "אוכל יפני"
+      ]
+    },
+    {
+      "slug": "chinese",
+      "he": "סיני",
+      "lat": 35.8,
+      "lng": 104.1,
+      "folders": [
+        "אוכל סיני"
+      ]
+    },
+    {
+      "slug": "thai",
+      "he": "תאילנדי",
+      "lat": 15.8,
+      "lng": 100.9,
+      "folders": [
+        "אוכל תיילנדי"
+      ]
+    },
+    {
+      "slug": "greek",
+      "he": "יווני",
+      "lat": 39.0,
+      "lng": 21.8,
+      "folders": [
+        "אוכל יווני"
+      ]
+    },
+    {
+      "slug": "iraqi",
+      "he": "עיראקי",
+      "lat": 33.2,
+      "lng": 43.6,
+      "folders": [
+        "אוכל עיראקי"
+      ]
+    },
+    {
+      "slug": "persian",
+      "he": "פרסי",
+      "lat": 32.4,
+      "lng": 53.6,
+      "folders": [
+        "אוכל פרסי"
+      ]
+    },
+    {
+      "slug": "arab",
+      "he": "ערבי ומזרח תיכוני",
+      "lat": 31.9,
+      "lng": 35.2,
+      "folders": [
+        "אוכל ערבי"
+      ]
+    },
+    {
+      "slug": "russian",
+      "he": "רוסי",
+      "lat": 55.7,
+      "lng": 37.6,
+      "folders": [
+        "אוכל רוסי"
+      ]
+    },
+    {
+      "slug": "mexican",
+      "he": "מקסיקני",
+      "lat": 23.6,
+      "lng": -102.5,
+      "folders": [
+        "אוכל מקסיקני"
+      ]
+    },
+    {
+      "slug": "argentinian",
+      "he": "ארגנטינאי",
+      "lat": -38.4,
+      "lng": -63.6,
+      "folders": [
+        "אוכל ארגנטינאי"
+      ]
+    },
+    {
+      "slug": "moroccan",
+      "he": "מרוקאי",
+      "lat": 31.8,
+      "lng": -7.1,
+      "folders": []
+    },
+    {
+      "slug": "spanish",
+      "he": "ספרדי",
+      "lat": 40.4,
+      "lng": -3.7,
+      "folders": []
+    },
+    {
+      "slug": "polish-ashkenazi",
+      "he": "אשכנזי",
+      "lat": 52.2,
+      "lng": 21.0,
+      "folders": []
+    },
+    {
+      "slug": "british",
+      "he": "בריטי",
+      "lat": 52.4,
+      "lng": -1.5,
+      "folders": []
+    },
+    {
+      "slug": "american",
+      "he": "אמריקאי",
+      "lat": 39.8,
+      "lng": -98.6,
+      "folders": []
+    },
+    {
+      "slug": "israeli",
+      "he": "ישראלי",
+      "lat": 31.8,
+      "lng": 34.8,
+      "folders": []
+    }
+  ],
+  "diets": [
+    {
+      "slug": "vegetarian",
+      "he": "צמחוני"
+    },
+    {
+      "slug": "vegan",
+      "he": "טבעוני"
+    },
+    {
+      "slug": "gluten-free",
+      "he": "ללא גלוטן"
+    },
+    {
+      "slug": "sugar-free",
+      "he": "ללא סוכר"
+    },
+    {
+      "slug": "healthy",
+      "he": "בריא וקל"
+    },
+    {
+      "slug": "kosher-for-passover",
+      "he": "כשר לפסח"
+    }
+  ],
+  "kashrut": [
+    {
+      "slug": "dairy",
+      "he": "חלבי"
+    },
+    {
+      "slug": "meat",
+      "he": "בשרי"
+    },
+    {
+      "slug": "parve",
+      "he": "פרווה"
+    },
+    {
+      "slug": "mixed",
+      "he": "בשר וחלב"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import MenuCorridor from "../../three/MenuCorridor.tsx";
+import { getMenus } from "../../lib/data";
+import { kindLabel } from "../../lib/menus";
+
+const menus = await getMenus();
+const byYear = new Map<string, typeof menus>();
+for (const m of menus) {
+  const y = m.date?.slice(0, 4) ?? "ללא תאריך";
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y)!.push(m);
+}
+const years = [...byYear.keys()].sort((a, b) => (a === "ללא תאריך" ? 1 : b === "ללא תאריך" ? -1 : a.localeCompare(b)));
+const corridor = menus.filter((m) => m.kind !== "drinks").map((m) => ({ slug: m.slug, title: m.title, year: m.date?.slice(0, 4) ?? null, kind: m.kind }));
+---
+<BaseLayout title="ארכיון התפריטים" description={`${menus.length} תפריטים של מסעדת ״מיכאלי – מטבח כפרי״ ברשפון: תפריטי עונות, ערבי טעימות, חגים ואירועים.`}>
+  <div class="container-x head">
+    <Breadcrumbs items={[{ href: "/restaurant", label: "המסעדה" }, { label: "ארכיון התפריטים" }]} />
+    <h1>ארכיון התפריטים</h1>
+    <p class="lede">{menus.length} תפריטים שנשמרו במחשב של המסעדה: תפריטי עונות, ערבי טעימות, סילבסטר, ולנטיין, ארוחות עצמאות ושבת. הם עברו דיגיטציה ונשמרו כאן כמו שהודפסו, כולל המחירים של אז.</p>
+  </div>
+  <section id="menu-track" class="container-x" aria-label="מסדרון התפריטים">
+    <MenuCorridor client:visible menus={corridor} />
+  </section>
+  <section class="container-x timeline" aria-labelledby="tl-title">
+    <h2 id="tl-title">התפריטים, לפי שנים</h2>
+    {years.map((y) => (
+      <div class="year">
+        <h3 class="year-h"><span>{y}</span></h3>
+        <ul class="menu-grid">
+          {byYear.get(y)!.map((m) => {
+            const secs = m.sections.filter((s) => s.items.length).slice(0, 3);
+            const total = m.sections.reduce((n, s) => n + s.items.length, 0);
+            const shownN = secs.reduce((n, s) => n + Math.min(s.items.length, 4), 0);
+            const en = m.language === "en";
+            return (
+              <li>
+                <article class="mini" lang={en ? "en" : "he"} dir={en ? "ltr" : "rtl"}>
+                  <header>
+                    <p class="mini-house">מיכאלי · רשפון</p>
+                    <h4><a class="card-link" href={`/menus/${m.slug}`}>{m.title}</a></h4>
+                    <p class="mini-kind">{kindLabel[m.kind]}{m.date ? ` · ${m.date}` : ""}</p>
+                  </header>
+                  {secs.length ? secs.map((s) => (
+                    <section>
+                      <p class="mini-sec">{s.name}</p>
+                      <ul>
+                        {s.items.slice(0, 4).map((it) => (
+                          <li><span class="n">{it.name}</span>{it.price && <><span class="d" aria-hidden="true"></span><span class="p">{it.price}</span></>}</li>
+                        ))}
+                      </ul>
+                    </section>
+                  )) : <p class="mini-body">{(m.body ?? m.intro ?? "").slice(0, 220)}…</p>}
+                  <footer>{total > shownN ? `ועוד ${total - shownN} מנות · ` : ""}לתפריט המלא ←</footer>
+                </article>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+    <p class="note">שמות של לקוחות פרטיים ושל חברות הוסרו מתפריטי האירועים, כדי לשמור על פרטיותם.</p>
+  </section>
+</BaseLayout>
+<style>
+  .head { padding-block: 24px 24px; } .head h1 { margin: 10px 0 8px; } .lede { max-width: 72ch; }
+  .timeline { padding-top: 50px; }
+  .timeline h2 { margin-bottom: 10px; }
+  .year { padding: 26px 0 10px; }
+  .year-h { display: flex; align-items: center; gap: 16px; margin: 0 0 22px; font-family: var(--font-latin); font-style: italic; font-size: var(--step-3); color: var(--copper-text); }
+  .year-h::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .menu-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 26px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); align-items: start; }
+  .mini { position: relative; padding: 30px 26px 22px; background: radial-gradient(ellipse at 50% 20%, #fffaf1, #efe2c9); color: #2a2522; border-radius: 4px; box-shadow: 0 30px 50px -30px rgb(0 0 0 / .55), 0 0 0 1px #d9c7a6; text-align: center; transition: transform .45s cubic-bezier(.2,.8,.2,1), box-shadow .45s; }
+  .mini::before { content: ""; position: absolute; inset: 9px; border: 1.5px solid #b4693e; pointer-events: none; }
+  .mini::after { content: ""; position: absolute; inset: 14px; border: 1px solid #b4693e; opacity: .5; pointer-events: none; }
+  .mini:hover { box-shadow: 0 40px 70px -30px rgb(0 0 0 / .6), 0 0 0 1px #b4693e; }
+  .mini-house { margin: 0; font-size: .7rem; letter-spacing: .3em; color: #8a4a24; font-weight: 800; }
+  .mini h4 { margin: 6px 0 2px; font-family: var(--font-display); font-size: 1.3rem; line-height: 1.25; color: #6b1e2b; }
+  .mini h4 a { color: inherit; text-decoration: none; }
+  .mini-kind { margin: 0 0 6px; font-size: .8rem; color: #6e5f54; }
+  .mini section { margin-top: 12px; }
+  .mini-sec { margin: 0 0 6px; font-size: .72rem; letter-spacing: .28em; font-weight: 800; color: #8a4a24; display: flex; align-items: center; gap: 8px; }
+  .mini-sec::before, .mini-sec::after { content: ""; flex: 1; height: 1px; background: #b4693e; opacity: .5; }
+  .mini ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 5px; }
+  .mini li { display: flex; align-items: baseline; gap: 6px; font-size: .9rem; text-align: start; }
+  .mini .n { font-family: var(--font-display); font-weight: 600; line-height: 1.3; }
+  .mini .d { flex: 1; min-width: 10px; border-bottom: 1.5px dotted #c9b28d; transform: translateY(-3px); }
+  .mini .p { white-space: nowrap; font-weight: 700; color: #6b1e2b; font-size: .85rem; }
+  .mini-body { font-size: .9rem; color: #574a41; text-align: start; }
+  .mini footer { margin-top: 14px; font-size: .8rem; font-weight: 700; color: #8a4a24; }
+  .note { color: var(--ink-mute); font-size: .92rem; margin-top: 24px; }
+</style>

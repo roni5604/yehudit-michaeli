@@ -1,0 +1,136 @@
+---
+import Logo from "./Logo.astro";
+import Icon from "./Icon.astro";
+import { NAV } from "../lib/site";
+const path = Astro.url.pathname;
+const isActive = (href: string) => path === href || path.startsWith(href + "/");
+---
+<header class="site-header" data-header>
+  <div class="container-x bar">
+    <a href="/" class="brand" aria-label="יהודית מיכאלי · שפית: לעמוד הבית">
+      <Logo size={50} />
+    </a>
+
+    <nav class="main-nav" aria-label="ניווט ראשי">
+      <ul>
+        {NAV.map((n) => (
+          <li><a href={n.href} aria-current={isActive(n.href) ? "page" : undefined}>{n.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="actions">
+      <button class="icon-btn" type="button" data-open-search aria-label="חיפוש מתכונים (קיצור: /)" aria-keyshortcuts="/ Control+K Meta+K">
+        <Icon name="search" />
+      </button>
+      <a class="icon-btn fav-link" href="/favorites" aria-label="המועדפים שלי">
+        <Icon name="heart" />
+        <span class="badge" data-fav-count hidden></span>
+      </a>
+      <button class="icon-btn" type="button" data-theme-toggle aria-label="מצב תצוגה: בהיר/כהה" aria-pressed="false">
+        <span class="sun"><Icon name="sun" /></span><span class="moon"><Icon name="moon" /></span>
+      </button>
+      <button class="icon-btn" type="button" data-open-a11y aria-label="תפריט נגישות" aria-haspopup="dialog">
+        <Icon name="a11y" />
+      </button>
+      <button class="icon-btn menu-btn" type="button" data-menu-toggle aria-expanded="false" aria-controls="mobile-nav" aria-label="פתיחת תפריט">
+        <Icon name="menu" />
+      </button>
+    </div>
+  </div>
+
+  <nav id="mobile-nav" class="mobile-nav" aria-label="ניווט ראשי (נייד)" hidden>
+    <ul class="container-x">
+      {NAV.map((n) => (
+        <li><a href={n.href} aria-current={isActive(n.href) ? "page" : undefined}>{n.label}</a></li>
+      ))}
+      <li><a href="/holidays">חגים ומועדים</a></li>
+      <li><a href="/cuisines">מטבחי העולם</a></li>
+      <li><a href="/shopping-list">רשימת הקניות שלי</a></li>
+    </ul>
+  </nav>
+</header>
+
+<script>
+  import { favCount } from "../scripts/store";
+
+  function initHeader() {
+    const header = document.querySelector<HTMLElement>("[data-header]");
+    if (!header) return;
+    // shadow once scrolled
+    const onScroll = () => header.toggleAttribute("data-scrolled", window.scrollY > 8);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+
+    // theme toggle
+    const tbtn = header.querySelector<HTMLButtonElement>("[data-theme-toggle]");
+    const isDark = () => {
+      const t = document.documentElement.getAttribute("data-theme");
+      return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    };
+    const sync = () => tbtn?.setAttribute("aria-pressed", String(isDark()));
+    sync();
+    tbtn?.addEventListener("click", () => {
+      const next = isDark() ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", next);
+      try { localStorage.setItem("ym.theme", next); } catch {}
+      sync();
+      window.dispatchEvent(new CustomEvent("ym:theme", { detail: next }));
+    });
+
+    // mobile menu
+    const mbtn = header.querySelector<HTMLButtonElement>("[data-menu-toggle]");
+    const mnav = header.querySelector<HTMLElement>("#mobile-nav");
+    mbtn?.addEventListener("click", () => {
+      const open = mbtn.getAttribute("aria-expanded") !== "true";
+      mbtn.setAttribute("aria-expanded", String(open));
+      mbtn.setAttribute("aria-label", open ? "סגירת תפריט" : "פתיחת תפריט");
+      if (mnav) mnav.hidden = !open;
+    });
+    mnav?.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") { mbtn?.click(); mbtn?.focus(); }
+    });
+
+    // favourites badge
+    const badge = header.querySelector<HTMLElement>("[data-fav-count]");
+    const paint = () => {
+      const n = favCount();
+      if (badge) { badge.hidden = n === 0; badge.textContent = String(n); }
+    };
+    paint();
+    window.addEventListener("ym:favs", paint);
+  }
+  initHeader();
+  document.addEventListener("astro:after-swap", initHeader);
+</script>
+
+<style>
+  .site-header { position: sticky; top: 0; z-index: 50; background: color-mix(in oklab, var(--paper) 88%, transparent); backdrop-filter: saturate(1.4) blur(12px); -webkit-backdrop-filter: saturate(1.4) blur(12px); border-bottom: 1px solid transparent; transition: border-color .3s, box-shadow .3s; }
+  .site-header[data-scrolled] { border-bottom-color: var(--line); box-shadow: 0 10px 30px -24px rgb(var(--shadow) / .6); }
+  .bar { display: flex; align-items: center; justify-content: space-between; gap: 18px; min-height: 76px; }
+  .brand { display: inline-flex; text-decoration: none; flex: none; }
+  .main-nav ul { display: flex; gap: clamp(8px, 1.6vw, 26px); list-style: none; margin: 0; padding: 0; }
+  .main-nav a { position: relative; display: inline-block; padding: 10px 2px; color: var(--ink); text-decoration: none; font-weight: 600; font-size: 1.02rem; }
+  .main-nav a::after { content: ""; position: absolute; inset-inline: 0; bottom: 4px; height: 2px; background: var(--copper); transform: scaleX(0); transform-origin: right; transition: transform .3s ease; }
+  .main-nav a:hover::after, .main-nav a[aria-current="page"]::after { transform: scaleX(1); }
+  .main-nav a[aria-current="page"] { color: var(--bordeaux); }
+  .actions { display: flex; align-items: center; gap: 8px; }
+  .fav-link { position: relative; }
+  .badge { position: absolute; top: -4px; inset-inline-end: -4px; min-width: 20px; height: 20px; padding: 0 5px; border-radius: 999px; background: var(--bordeaux); color: var(--paper); font-size: 12px; font-weight: 800; display: grid; place-items: center; }
+  [data-theme-toggle] .moon { display: none; }
+  [data-theme-toggle][aria-pressed="true"] .moon { display: inline; }
+  [data-theme-toggle][aria-pressed="true"] .sun { display: none; }
+  .menu-btn { display: none; }
+  .mobile-nav { border-top: 1px solid var(--line); background: var(--paper); }
+  .mobile-nav ul { list-style: none; padding-block: 10px 18px; margin: 0; display: grid; }
+  .mobile-nav a { display: block; padding: 14px 4px; border-bottom: 1px solid var(--line); color: var(--ink); text-decoration: none; font-size: 1.15rem; font-weight: 600; }
+  @media (max-width: 1080px) {
+    .main-nav { display: none; }
+    .menu-btn { display: inline-grid; }
+  }
+  @media (max-width: 560px) {
+    .brand :global(.logo-word) { display: none; }
+    .actions { gap: 4px; }
+    .actions :global(.icon-btn) { width: 42px; height: 42px; }
+  }
+</style>

@@ -1,0 +1,147 @@
+{
+ "slug": "marak-shaorit-veyerakot",
+ "title": "מרק שעועית וירקות",
+ "titleEn": "Bean and Vegetable Soup",
+ "description": "מרק ירקות מהיר עם שימורי שעועית ברוטב עגבניות, גזר, תפוחי אדמה ועלי סלרי.",
+ "category": "soups",
+ "subcategory": null,
+ "cuisine": null,
+ "holidays": [],
+ "kashrut": "parve",
+ "diet": [
+  "vegetarian",
+  "vegan"
+ ],
+ "tags": [
+  "מרק",
+  "מהיר",
+  "צמחוני"
+ ],
+ "servings": 8,
+ "yield": null,
+ "pan": "סיר גדול",
+ "prepMin": 20,
+ "cookMin": 70,
+ "totalMin": 90,
+ "timesEstimated": true,
+ "difficulty": 1,
+ "ingredients": [
+  {
+   "group": null,
+   "items": [
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "בצלים",
+     "note": "קצוצים",
+     "raw": "2 בצלים קצוצים"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "שמן",
+     "note": null,
+     "raw": "שמן"
+    },
+    {
+     "qty": 6,
+     "unit": null,
+     "item": "גזרים",
+     "note": "2 מגורדים והשאר בפרוסות",
+     "raw": "6 גזרים"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "item": "תפוחי אדמה",
+     "note": "בקוביות קטנות",
+     "raw": "2 תפוחי אדמה"
+    },
+    {
+     "qty": 100,
+     "unit": "גרם",
+     "item": "רסק עגבניות",
+     "note": null,
+     "raw": "100 גרם רסק עגבניות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "עלי סלרי",
+     "note": null,
+     "raw": "עלי סלרי"
+    },
+    {
+     "qty": 1,
+     "unit": "צרור",
+     "item": "עלי פטרוזיליה",
+     "note": "קצוצים",
+     "raw": "צרור עלי פטרוזיליה קצוצה"
+    },
+    {
+     "qty": 2,
+     "unit": "קופסאות",
+     "item": "שימורי שעועית במיץ עגבניות",
+     "note": null,
+     "raw": "2 קופסאות שימורי שעועית במיץ עגבניות"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "תבלינים",
+     "note": null,
+     "raw": "מלח, פלפל שחור, פפריקה וכמון"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "item": "מים רותחים",
+     "note": null,
+     "raw": "מים רותחים"
+    }
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "group": null,
+   "items": [
+    {
+     "text": "מזהיבים בשמן את הבצל הקצוץ עם שני גזרים מגורדים.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את שאר הגזרים בפרוסות ואת תפוחי האדמה בקוביות קטנות, ומערבבים היטב.",
+     "timerMin": null
+    },
+    {
+     "text": "מוסיפים את שימורי השעועית, רסק העגבניות, עלי הסלרי ומים רותחים, ומתבלים לפי הטעם.",
+     "timerMin": null
+    },
+    {
+     "text": "מביאים לרתיחה, מוסיפים את הפטרוזיליה, מנמיכים את האש.",
+     "timerMin": null
+    },
+    {
+     "text": "מבשלים לפחות שעה.",
+     "timerMin": 60
+    }
+   ]
+  }
+ ],
+ "tips": [],
+ "story": null,
+ "source": {
+  "type": "web",
+  "credit": null,
+  "rewritten": true
+ },
+ "imagePrompt": "Rustic bean and vegetable soup with white beans in tomato sauce, carrots and potatoes in a bowl, with celery leaves",
+ "alt": "מרק שעועית וירקות עם גזר ותפוחי אדמה ועלי סלרי",
+ "originals": [
+  {
+   "file": "אוסף מרקי חורף.doc",
+   "driveId": "1qZOTwavI5RORdgtuWtaGGoTNdPOgSQvP"
+  }
+ ]
+}

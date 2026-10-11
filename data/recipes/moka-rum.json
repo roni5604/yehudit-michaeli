@@ -1,0 +1,45 @@
+{
+  "slug": "moka-rum",
+  "title": "משקה מוקה ורום",
+  "titleEn": "Mocha and Rum Hot Chocolate",
+  "description": "משקה חם ועשיר של שוקולד מריר וחלב, עם אספרסו, קינמון ומעט רום. מוזגים לכוסות ומגישים חם.",
+  "category": "drinks",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["משקה חם", "חורף", "אירוח"],
+  "servings": 4,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 10,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 100, "unit": "גרם", "item": "שוקולד מריר", "note": null, "raw": "100 גרם שוקולד מריר" },
+      { "qty": 3, "unit": "כוסות", "item": "חלב", "note": "חם", "raw": "3 כוסות חלב חם" },
+      { "qty": 4, "unit": "כפיות", "item": "סוכר", "note": "או לפי הטעם", "raw": "4 כפיות סוכר (או לפי הטעם)" },
+      { "qty": 0.5, "unit": "כפית", "item": "קינמון טחון", "note": null, "raw": "½ כפית קינמון טחון" },
+      { "qty": 1, "unit": "ספל", "item": "אספרסו או קפה מרוכז", "note": "ספל קטן; אפשר קפה נוזלי מוכן לשתייה", "raw": "1 ספל קטן אספרסו או קפה מרוכז" },
+      { "qty": 4, "unit": "כפות", "item": "רום", "note": "משקה, לא תמצית", "raw": "4 כפות רום (משקה, לא תמצית)" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "שוברים את השוקולד לחתיכות ומניחים בסיר. מוסיפים כוס חלב ומחממים על להבה נמוכה, תוך בחישה, עד שהשוקולד נמס לגמרי.", "timerMin": null },
+      { "text": "מוסיפים לאט את הסוכר, הקינמון ואת יתר החלב. ממשיכים לחמם ולבחוש, בלי להרתיח, עד שהסוכר נמס והמשקה חם היטב.", "timerMin": null },
+      { "text": "רגע לפני שמורידים מהאש מוסיפים את הקפה ואת הרום ובוחשים היטב.", "timerMin": null },
+      { "text": "מחלקים לכוסות ומגישים חם.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["משתמשים ברום משקה, לא בתמצית רום."],
+  "story": null,
+  "source": { "type": "magazine", "credit": "רות סירקיס", "rewritten": true },
+  "imagePrompt": "Two glass mugs of steaming dark mocha hot chocolate with a light froth on top, dusted with cinnamon, with a cinnamon stick and a small espresso cup beside them",
+  "alt": "שני ספלי זכוכית עם משקה שוקולד וקפה חם, מעושן וקצף עדין, מפוזר עליו קינמון",
+  "originals": [{ "file": "משקה מוקה ורום.doc", "driveId": "1OMAP_OSbni1tBF4PV4AsjGVf7AQOXoKN" }]
+}

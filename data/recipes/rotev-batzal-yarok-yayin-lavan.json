@@ -1,0 +1,100 @@
+{
+  "slug": "rotev-batzal-yarok-yayin-lavan",
+  "title": "רוטב בצל ירוק ויין לבן",
+  "titleEn": "Scallion and White Wine Butter Sauce",
+  "description": "רוטב חמאה קל עם בצל ירוק, עירית ויין לבן מצומצם, שנשפך על הפסטה עם קשקבל.",
+  "category": "sauces",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": [
+    "vegetarian"
+  ],
+  "tags": [],
+  "servings": null,
+  "yield": null,
+  "pan": null,
+  "prepMin": 5,
+  "cookMin": 10,
+  "totalMin": 15,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 2,
+          "unit": null,
+          "item": "בצלים ירוקים",
+          "note": null,
+          "raw": "2 בצלים ירוקים"
+        },
+        {
+          "qty": 5,
+          "unit": null,
+          "item": "גבעולי עירית",
+          "note": null,
+          "raw": "5-6 גבעולי עירית",
+          "qtyMax": 6
+        },
+        {
+          "qty": 0.25,
+          "unit": "כוס",
+          "item": "יין לבן",
+          "note": null,
+          "raw": "¼ כוס יין לבן"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "חמאה",
+          "note": null,
+          "raw": "50 גרם חמאה"
+        },
+        {
+          "qty": 50,
+          "unit": "גרם",
+          "item": "קשקבל מגורר",
+          "note": null,
+          "raw": "50 גרם קשקבל מגורר"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "קוצצים את הבצל והעירית לחתיכות באורך 2 ס״מ.",
+          "timerMin": null
+        },
+        {
+          "text": "מקפיצים במחבת עם החמאה, מוסיפים את היין ומצמצמים קלות.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים על הפסטה ומפזרים מעל את הגבינה.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Pasta topped with a light butter sauce of green onion and chives, with grated cheese",
+  "alt": "פסטה ברוטב חמאה עם בצל ירוק ועירית וגבינה מגוררת",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}

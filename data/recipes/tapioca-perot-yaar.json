@@ -1,0 +1,61 @@
+{
+  "slug": "tapioca-perot-yaar",
+  "title": "טפיוקה בקרם קוקוס עם פירות יער",
+  "titleEn": "Coconut Tapioca with Marinated Berries",
+  "description": "פניני טפיוקה קטנות בקרם קוקוס ווניל, מוגשות קרות מעל קרח עם דובדבנים או תותים שהתרככו בלימון ובסוכר.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": ["vegetarian", "vegan"],
+  "tags": ["קינוח קר", "פירות יער", "טבעוני"],
+  "servings": null,
+  "yield": null,
+  "pan": "סיר עם תחתית כבדה",
+  "prepMin": 20,
+  "cookMin": 25,
+  "totalMin": 105,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": "לטפיוקה", "items": [
+      { "qty": 1, "unit": "כוס", "item": "טפיוקה", "note": "פנינים קטנות", "raw": "1 כוס טפיוקה (פנינים קטנות)" },
+      { "qty": 5, "unit": "כוסות", "item": "מים", "note": null, "raw": "5 כוסות מים" },
+      { "qty": 0.75, "unit": "כוס", "item": "סוכר או תחליף סוכר", "note": null, "raw": "¾ כוס סוכר או תחליף סוכר" },
+      { "qty": 1, "unit": "כפית", "item": "תמצית וניל", "note": null, "raw": "1 כפית תמצית וניל" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "קורט", "raw": "קורט מלח" },
+      { "qty": 1, "unit": null, "item": "פחית קרם קוקוס", "note": "400 מ״ל", "raw": "1 פחית (400 מ״ל) קרם קוקוס" }
+    ] },
+    { "group": "לפירות יער", "items": [
+      { "qty": 1, "unit": null, "item": "סלסלת דובדבנים או תותים", "note": "או כל פרי יער אחר", "raw": "סלסלת דובדבנים או תותים, או כל פרי יער אחר" },
+      { "qty": 2, "unit": "כפות", "item": "סוכר", "note": null, "raw": "2 כפות סוכר" },
+      { "qty": 1, "unit": null, "item": "לימון", "note": "מיץ וקליפה מגוררת", "raw": "מיץ וקליפה מגוררת מלימון אחד" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "קרח", "note": "הרבה", "raw": "הרבה קרח" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הטפיוקה", "items": [
+      { "text": "מניחים את פניני הטפיוקה בסיר עם תחתית כבדה ומכסים אותן במים לחלוטין. מניחים להן לספוג את המים 20 דקות.", "timerMin": 20 },
+      { "text": "מוסיפים עוד 3 כוסות מים, סוכר, וניל ומלח, ומבשלים על אש נמוכה 15 דקות תוך ערבוב מתמיד, עד שכל הפנינים שקופות. אם התערובת סמיכה מדי, מוסיפים עוד מעט מים רותחים.", "timerMin": 15 },
+      { "text": "מוסיפים קרם קוקוס ומבשלים עוד 10 דקות, תוך ערבוב כל כמה דקות כדי שהטפיוקה לא תידבק לתחתית.", "timerMin": 10 },
+      { "text": "מקררים במקרר עד ההגשה, מכוסה בניילון נצמד כדי שלא יווצר קרום.", "timerMin": null }
+    ] },
+    { "group": "פירות היער", "items": [
+      { "text": "חותכים לחצי את הדובדבנים או התותים ומערבבים עם הלימון והסוכר. משאירים לשבת כחצי שעה.", "timerMin": 30 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "כשהטפיוקה קרה ממש, מעבירים אותה לכלים אישיים עם הרבה קרח, ומניחים מעל 3 כפות מפירות היער.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "web", "credit": null, "rewritten": true },
+  "imagePrompt": "An individual glass bowl of chilled coconut tapioca pearls over ice, topped with halved cherries and strawberries glistening with lemon and sugar",
+  "alt": "קערית זכוכית עם טפיוקה קרה בקרם קוקוס מעל קרח, ועליה דובדבנים ותותים חצויים",
+  "originals": [
+    { "file": "טפיוקה.doc", "driveId": "156I6wlTwfKVBanHy5JmMGFtMgmg-u9qK" }
+  ]
+}

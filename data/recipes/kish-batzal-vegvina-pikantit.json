@@ -1,0 +1,62 @@
+{
+  "slug": "kish-batzal-vegvina-pikantit",
+  "title": "קיש בצל וגבינה פיקנטית",
+  "titleEn": "Onion and Sharp Cheese Quiche",
+  "description": "קיש על בסיס מלאווח פריך, עם בצל מוזהב וגבינות פיקנטיות, שמנת וזעתר. מתאים לארוחת בוקר, לאירוח ולצד סלט.",
+  "category": "savory-pastries",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": ["shavuot"],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["קיש", "אירוח", "מאפה גבינה"],
+  "servings": 5,
+  "yield": "2 קישים, 4-6 מנות",
+  "pan": "2 תבניות קיש זוגיות בקוטר 18 ס״מ",
+  "prepMin": 25,
+  "cookMin": 45,
+  "totalMin": 70,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    { "group": "לבסיס", "items": [
+      { "qty": 2, "unit": null, "item": "עלי מלאווח", "note": null, "raw": "2 עלי מלאווח" }
+    ] },
+    { "group": "למילוי", "items": [
+      { "qty": 3, "unit": null, "item": "בצלים בינוניים", "note": null, "raw": "3 בצלים בינוניים" },
+      { "qty": 3, "unit": "כפות", "item": "שמן זית", "note": null, "raw": "3 כפות שמן זית" },
+      { "qty": 50, "unit": "גרם", "item": "חמאה", "note": null, "raw": "50 גרם חמאה" },
+      { "qty": 3, "unit": null, "item": "ביצים בינוניות", "note": "טרופות", "raw": "3 ביצים בינוניות, טרופות" },
+      { "qty": 200, "unit": "גרם", "item": "גבינה קשה פיקנטית", "note": "מגוררת גס, כגון מוצרלה, קשקבל, גבינה מעושנת או תערובת", "raw": "200 גרם גבינה קשה פיקנטית, מגוררת גס (כגון מוצרלה, קשקבל, גבינה מעושנת או תערובת)" },
+      { "qty": 0.33, "unit": "כוס", "item": "שמנת מתוקה", "note": null, "raw": "⅓ כוס שמנת מתוקה" },
+      { "qty": 2, "unit": "כפות", "item": "אבקת מרק בצל", "note": null, "raw": "2 כפות אבקת מרק בצל" },
+      { "qty": null, "unit": null, "item": "מלח ופלפל שחור", "note": null, "raw": "מלח, פלפל שחור" },
+      { "qty": 0.5, "unit": "כפית", "item": "פפריקה מתוקה", "note": null, "raw": "½ כפית פפריקה מתוקה" },
+      { "qty": 0.25, "unit": "כפית", "item": "אגוז מוסקט", "note": null, "raw": "¼ כפית אגוז מוסקט" },
+      { "qty": 0.25, "unit": "כוס", "item": "גבינת פרמזן", "note": "מגוררת דק", "raw": "¼ כוס גבינת פרמזן מגוררת דק" },
+      { "qty": 2, "unit": "כפות", "item": "זעתר", "note": "לפיזור לפני ההגשה", "raw": "2 כפות זעתר" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "פורסים את הבצלים לפרוסות דקות. כדאי להשתמש במעבד מזון עם דיסקית פריסה.", "timerMin": null },
+      { "text": "מחממים במחבת גדולה את השמן והחמאה. מטגנים את הבצלים עד שהם מזהיבים קלות, ומקפידים שלא ישחימו.", "timerMin": null },
+      { "text": "מניחים את הבצק בתחתית התבניות ומהדקים היטב.", "timerMin": null },
+      { "text": "בקערה מערבבים היטב את הביצים, הגבינה המגוררת, השמנת, אבקת מרק הבצל והתבלינים.", "timerMin": null },
+      { "text": "מפזרים את הבצל המטוגן על הבצק בשתי התבניות ויוצקים מעליו את תערובת הביצים באופן שווה. מיישרים וזורים פרמזן.", "timerMin": null },
+      { "text": "אופים בתנור שחומם מראש ל-200 מעלות כ-40 עד 45 דקות, עד שהמלית מוצקה ופני הקיש זהובים.", "timerMin": 40 },
+      { "text": "לפני ההגשה זורים זעתר. מחלקים כל תבנית לשתיים או שלוש מנות ומגישים חם או פושר.", "timerMin": null }
+    ] }
+  ],
+  "tips": [
+    "במקום מלאווח אפשר להשתמש בבצק עלים מרודד: חותכים שני עיגולים בגודל התבניות, או מרפדים תבנית מלבנית ומכינים קיש מלבני."
+  ],
+  "story": null,
+  "source": { "type": "magazine", "credit": "4MainMag", "rewritten": true },
+  "imagePrompt": "Golden baked onion and cheese quiche in a round fluted tin, with a crisp malawach crust and a surface speckled with za'atar, one slice cut to show the creamy onion filling",
+  "alt": "קיש בצל וגבינה זהוב בתבנית עגולה, מפוזר עליו זעתר, עם פרוסה חתוכה שחושפת מלית בצל",
+  "originals": [
+    { "file": "4MainMag179_24May06A.rtf", "driveId": "1qbM1hl0rJGzGRtPXw8WQ3yGABY191vDZ" },
+    { "file": "קיש בצל.rtf", "driveId": "1UKGTxxdKSS08eMi4UezXzt5vjzpkK5M0" }
+  ]
+}

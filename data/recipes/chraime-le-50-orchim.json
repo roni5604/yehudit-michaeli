@@ -1,0 +1,68 @@
+{
+  "slug": "chraime-le-50-orchim",
+  "title": "חריימה ל-50 מוזמנים",
+  "titleEn": "Chraime for a Crowd (50 Guests)",
+  "description": "חריימה בכמות לאירוח גדול: 60 פרוסות דג בעובי 3 ס״מ ברוטב עגבניות, שום ופפריקה עם כמון וקימל, שמתבשל בעדינות כחצי שעה ומוגש בחום החדר.",
+  "category": "fish",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [],
+  "tags": ["אירוח גדול", "דגים", "חריף"],
+  "servings": 50,
+  "yield": "60 פרוסות דג",
+  "pan": "סיר ענק",
+  "prepMin": 40,
+  "cookMin": 45,
+  "totalMin": 85,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "לדג", "items": [
+      { "qty": 60, "unit": "פרוסות", "item": "דג", "note": "בעובי כ-3 ס״מ", "raw": "60 פרוסות דג בעובי כ-3 ס״מ" },
+      { "qty": 3, "unit": null, "item": "לימונים", "note": "מיץ", "raw": "מיץ מ-3 לימונים" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "קלות", "raw": "מלח" }
+    ] },
+    { "group": "לרוטב ולסידור", "items": [
+      { "qty": 6, "unit": null, "item": "עגבניות", "note": "פרוסות דק", "raw": "6 עגבניות פרוסות דק" },
+      { "qty": 30, "unit": "שיני", "item": "שום", "note": "כתושות", "raw": "30 שיני שום כתושות" },
+      { "qty": 10, "unit": "שיני", "item": "שום", "note": "פרוסות דק", "raw": "10 שיני שום פרוסות דק" },
+      { "qty": 3, "unit": "צרורות", "item": "פטרוזיליה או כוסברה", "note": "קצוצים", "raw": "3 צרורות פטרוזיליה או כוסברה קצוצים" },
+      { "qty": 2, "unit": "כוסות", "item": "שמן צמחי", "note": null, "raw": "2 כוסות שמן צמחי" },
+      { "qty": 6, "unit": "כפות", "item": "פפריקה מתוקה", "note": null, "raw": "6 כפות פפריקה מתוקה" },
+      { "qty": 3, "unit": "כפות", "item": "פפריקה חריפה", "note": null, "raw": "3 כפות פפריקה חריפה" },
+      { "qty": 3, "unit": "כפות", "item": "קימל טחון", "note": null, "raw": "3 כפות קימל טחון" },
+      { "qty": 3, "unit": "כפיות", "item": "כמון", "note": null, "raw": "3 כפיות כמון" },
+      { "qty": 2, "unit": "כפות", "item": "מלח", "note": null, "raw": "2 כפות מלח" },
+      { "qty": 3, "unit": null, "item": "קופסות רסק עגבניות", "note": "600 גרם כל אחת", "raw": "3 קופסות רסק עגבניות (600 גרם כל אחת)" },
+      { "qty": null, "unit": null, "item": "סוכר", "note": "מעט, לעידון הטעם", "raw": "מעט סוכר (לעידון הטעם)" },
+      { "qty": 8, "unit": "כוסות", "item": "מים", "note": null, "raw": "8 כוסות מים" }
+    ] }
+  ],
+  "steps": [
+    { "group": "הדג", "items": [
+      { "text": "שוטפים את פרוסות הדג, ממליחים קלות וסוחטים מעליהן את הלימונים.", "timerMin": null }
+    ] },
+    { "group": "הרוטב", "items": [
+      { "text": "בסיר ענק מחממים את השמן עם השום הכתוש ומערבבים עד שהשום שקוף. מערבבים כל הזמן, כדי שלא ייחרך!", "timerMin": null },
+      { "text": "מוסיפים את רסק העגבניות והתבלינים ומטגנים קלות.", "timerMin": null },
+      { "text": "מוסיפים את המים, בוחשים ומרתיחים בבעבוע קל 5 דקות.", "timerMin": 5 },
+      { "text": "טועמים ומתקנים תיבול, ובזמן התיקון לוקחים בחשבון שיש לימון על פרוסות הדג.", "timerMin": null }
+    ] },
+    { "group": "בישול והגשה", "items": [
+      { "text": "מסדרים בסיר את פרוסות הדג, וביניהן ועליהן מניחים את פרוסות העגבנייה, את השום הפרוס ומעט מהפטרוזיליה הקצוצה.", "timerMin": null },
+      { "text": "מכסים את הסיר ומבשלים בעדינות רבה כחצי שעה.", "timerMin": 30 },
+      { "text": "מפזרים מעל את יתרת הפטרוזיליה הקצוצה.", "timerMin": null },
+      { "text": "מגישים בחום החדר.", "timerMin": null }
+    ] }
+  ],
+  "tips": [],
+  "story": null,
+  "source": { "type": "family", "credit": null, "rewritten": false },
+  "imagePrompt": "A very large pot of fish slices layered with thin tomato slices, sliced garlic and chopped parsley in a deep red spiced tomato sauce, served at a long family-style table",
+  "alt": "סיר גדול של פרוסות דג ברוטב עגבניות אדום עם שום, פרוסות עגבנייה ופטרוזיליה",
+  "originals": [
+    { "file": "חריימה.doc", "driveId": "1kXGrkFieQbOFkqPb_hmQDtUE3vFRZFiK" }
+  ]
+}

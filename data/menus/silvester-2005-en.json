@@ -1,0 +1,60 @@
+{
+  "slug": "silvester-2005-en",
+  "title": "ערב סילבסטר 2005 (באנגלית)",
+  "titleEn": "New Year's Eve dinner, 31 December 2005",
+  "date": "2005-12",
+  "season": "winter",
+  "occasion": "סילבסטר",
+  "kind": "holiday",
+  "language": "en",
+  "intro": "December 31st 2005 – New Year's evening dinner. Live music by a professional Irish harp player and a professional flamenco dancer. 500 NIS per couple, including wine from the Zmora winery and sparkling wine at midnight. Service fee not included.",
+  "sections": [
+    {
+      "name": "Starters (all served)",
+      "items": [
+        { "name": "Green salad with pickled duck breast", "desc": "Or with fruit" },
+        { "name": "Provençal fish soup", "desc": "Or vegetable soup" },
+        { "name": "Grilled goose liver, scallops & banana on a skewer", "desc": "Or a cheese skewer" }
+      ]
+    },
+    {
+      "name": "Sorbet",
+      "items": [
+        { "name": "Lemon & lavender sorbet" }
+      ]
+    },
+    {
+      "name": "Main courses",
+      "items": [
+        { "name": "Boeuf Bourguignon", "desc": "Beef in red wine sauce" },
+        { "name": "Baby chicken", "desc": "Stuffed with quinces & chestnuts" },
+        { "name": "Shrimp casserole", "desc": "Sautéed in seasoned butter" },
+        { "name": "Boneless gilthead bream", "desc": "Stuffed with spinach & pine nuts" },
+        { "name": "Spinach, artichoke & cheese bake", "desc": "Vegetarian" }
+      ]
+    },
+    {
+      "name": "Side dishes",
+      "items": [
+        { "name": "Fine potato purée" },
+        { "name": "Ratatouille" }
+      ]
+    },
+    {
+      "name": "Cheese",
+      "items": [
+        { "name": "Selection of Israeli farmhouse cheeses" }
+      ]
+    },
+    {
+      "name": "A platter of desserts for two",
+      "items": [
+        { "name": "Chocolate truffle in an espresso mousse" },
+        { "name": "Tarte Tatin", "desc": "Apple cake" },
+        { "name": "Lemon mousse on a meringue base" }
+      ]
+    }
+  ],
+  "body": null,
+  "originals": [{ "file": "סילבסטר 2006 באנגלית.doc", "driveId": "1HQ7f5QI1P6MvcwjCc-KTkQYN3qDBuedk" }]
+}

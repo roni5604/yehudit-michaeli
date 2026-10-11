@@ -1,0 +1,149 @@
+{
+  "slug": "salat-pasta-basilikum-velimon",
+  "title": "סלט פסטה עם בזיליקום ולימון",
+  "titleEn": "Pasta Salad with Basil, Herbs and Lemon Zest",
+  "description": "סלט פסטה קל ורענן עם עגבניות שרי, עשבי תיבול וגרידת לימון. אפשר להכין את כל המרכיבים מראש ולערבב רק בהגשה.",
+  "category": "salads",
+  "subcategory": null,
+  "cuisine": "italian",
+  "holidays": [],
+  "kashrut": "parve",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "tags": [
+    "לפיקניק",
+    "הכנה מראש"
+  ],
+  "servings": 6,
+  "yield": null,
+  "pan": null,
+  "prepMin": 25,
+  "cookMin": 10,
+  "totalMin": 35,
+  "timesEstimated": true,
+  "difficulty": 1,
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        {
+          "qty": 350,
+          "unit": "גרם",
+          "item": "פוזילי או פסטה אחרת",
+          "note": null,
+          "raw": "350 גרם פוזילי או פסטה אחרת"
+        },
+        {
+          "qty": 20,
+          "unit": null,
+          "item": "עלי בזיליקום טריים",
+          "note": "שטופים ומיובשים היטב, שלמים",
+          "raw": "כ-20 עלי בזיליקום טריים, שטופים ומיובשים היטב"
+        },
+        {
+          "qty": 10,
+          "unit": null,
+          "item": "עגבניות שרי",
+          "note": null,
+          "raw": "10 עגבניות שרי"
+        },
+        {
+          "qty": 0.5,
+          "unit": "כפית",
+          "item": "פלפל גרוס",
+          "note": null,
+          "raw": "½ כפית פלפל גרוס"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "מלח",
+          "note": "מעט",
+          "raw": "מלח, מעט"
+        },
+        {
+          "qty": 4,
+          "unit": "כפות",
+          "item": "פטרוזיליה קצוצה",
+          "note": null,
+          "raw": "4 כפות פטרוזיליה קצוצה"
+        },
+        {
+          "qty": 3,
+          "unit": "כפות",
+          "item": "נענע קצוצה",
+          "note": null,
+          "raw": "3 כפות נענע קצוצה"
+        },
+        {
+          "qty": 1,
+          "unit": "כף",
+          "item": "כוסברה קצוצה",
+          "note": null,
+          "raw": "1-2 כף כוסברה קצוצה",
+          "qtyMax": 2
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "item": "לימון",
+          "note": "לגרידה, ועדיף שלוש לימוניות",
+          "raw": "גרידה של לימון אחד (ועדיף של שלוש לימוניות)"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "item": "שמן זית ולימון שלמים",
+          "note": "להגשה, בנפרד",
+          "raw": "שמן זית ולימון שלמים, להגשה, בנפרד"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": null,
+      "items": [
+        {
+          "text": "מבשלים את הפסטה, מסננים ומערבבים פנימה כפית שמן זית. מצננים וסוגרים בכלי אטום.",
+          "timerMin": null
+        },
+        {
+          "text": "קוצצים את העשבים ומערבבים בכלי נוסף עם גרידת הלימון, המלח והפלפל.",
+          "timerMin": null
+        },
+        {
+          "text": "מניחים מעל את העגבניות ואת עלי הבזיליקום השלמים, וסוגרים את הכלי.",
+          "timerMin": null
+        },
+        {
+          "text": "בהגשה קורעים את הבזיליקום, מערבבים את הפסטה עם הירוקים וסוחטים מעל לימון.",
+          "timerMin": null
+        },
+        {
+          "text": "אם צריך, מוסיפים מעט שמן זית. עדיף שלא, כדי שהסלט יישאר קליל.",
+          "timerMin": null
+        }
+      ]
+    }
+  ],
+  "tips": [
+    "מתאים לארוחות מחוץ לבית: כל עוד לא מוסיפים שמן, המרכיבים נשארים טריים בכלים אטומים במקרר."
+  ],
+  "story": null,
+  "source": {
+    "type": "web",
+    "credit": null,
+    "rewritten": true
+  },
+  "imagePrompt": "Fusilli pasta salad with cherry tomatoes, torn basil, mint and parsley, with lemon zest, in a large bowl",
+  "alt": "סלט פוזילי עם עגבניות שרי, בזיליקום, נענע ופטרוזיליה וגרידת לימון",
+  "originals": [
+    {
+      "file": "PASTA.DOC",
+      "driveId": "1IXjukrWeVVdFkequpGBAPfEP8jZPk3h_"
+    }
+  ]
+}
