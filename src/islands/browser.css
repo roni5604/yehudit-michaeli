@@ -47,3 +47,21 @@
 .rb-chip { white-space: nowrap; flex: none; }
 .rb-pill { display: inline-flex; align-items: center; gap: 8px; padding-inline-start: 6px; }
 .rb-pill img { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; flex: none; border: 2px solid var(--card); }
+
+/* category grid (replaces the horizontal rail) */
+.rb-cats { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; max-height: 172px; overflow: hidden; transition: max-height .5s cubic-bezier(.2,.8,.2,1); position: relative; }
+.rb-cats.is-open { max-height: 2000px; }
+.rb-cats:not(.is-open)::after { content: ""; position: absolute; inset-inline: 0; bottom: 0; height: 38px; background: linear-gradient(to top, var(--paper), transparent); pointer-events: none; }
+.rb-cat { display: grid; grid-template-columns: 44px 1fr; grid-template-rows: auto auto; column-gap: 10px; align-items: center; text-align: start; min-height: 76px; padding: 8px 12px 8px 8px; border-radius: 16px; border: 1.5px solid var(--line); background: var(--card); color: var(--ink); font: inherit; cursor: pointer; transition: border-color .25s, transform .25s, box-shadow .25s, background .25s; }
+.rb-cat:hover { border-color: var(--copper); transform: translateY(-2px); box-shadow: 0 14px 24px -18px rgb(var(--shadow) / .6); }
+.rb-cat[aria-pressed="true"] { border-color: var(--bordeaux); background: color-mix(in oklab, var(--bordeaux) 14%, var(--card)); box-shadow: 0 0 0 2px var(--bordeaux) inset; }
+.rb-cat-img { grid-row: 1 / 3; width: 44px; height: 44px; border-radius: 12px; object-fit: cover; display: grid; place-items: center; }
+.rb-cat-all { background: linear-gradient(135deg, var(--bordeaux), var(--copper)); color: var(--paper); font-size: 1.2rem; }
+.rb-cat-t { font-weight: 700; font-size: .98rem; line-height: 1.2; }
+.rb-cat small { color: var(--ink-mute); font-size: .8rem; font-weight: 600; }
+.rb-more-cats { justify-self: center; min-height: 40px; padding: 0 18px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); color: var(--bordeaux); font: inherit; font-weight: 700; cursor: pointer; }
+.rb-more-cats:hover { border-color: var(--copper); }
+.rb-subs { flex-wrap: wrap; overflow: visible; }
+@media (max-width: 560px) { .rb-cats { grid-template-columns: repeat(2, 1fr); max-height: 258px; } .rb-cat { min-height: 68px; } }
+.rb-cat-img { grid-column: 1; }
+.rb-cat-t, .rb-cat small { grid-column: 2; }

@@ -24,6 +24,7 @@ export default function RecipeBrowser(props: Props) {
   const [shown, setShown] = useState(PAGE);
   const [favs, setFavs] = useState<Set<string>>(new Set());
   const [seed] = useState(() => Math.floor(Math.random() * 1e6));
+  const [showAll, setShowAll] = useState(false);
 
   useEffect(() => {
     setF(read());
@@ -82,14 +83,21 @@ export default function RecipeBrowser(props: Props) {
         </div>
       </div>
 
-      <nav className="rb-rail" aria-label="קטגוריות">
-        <button type="button" className="rb-pill" aria-pressed={!f.c} onClick={() => setF((x) => ({ ...x, c: "", sc: "" }))}>הכול</button>
+      <nav className={`rb-cats ${showAll ? "is-open" : ""}`} aria-label="קטגוריות">
+        <button type="button" className="rb-cat" aria-pressed={!f.c} onClick={() => setF((x) => ({ ...x, c: "", sc: "" }))}>
+          <span className="rb-cat-img rb-cat-all" aria-hidden="true">✦</span>
+          <span className="rb-cat-t">הכול</span><small>{props.total.toLocaleString("he-IL")}</small>
+        </button>
         {props.categories.map((c) => (
-          <button key={c.slug} type="button" className="rb-pill" aria-pressed={f.c === c.slug} onClick={() => set("c", c.slug)}>
-            {c.cover && <img src={`${c.cover}-640.avif`} alt="" width={30} height={30} loading="lazy" />}{c.he} <small>{c.count}</small>
+          <button key={c.slug} type="button" className="rb-cat" aria-pressed={f.c === c.slug} onClick={() => { set("c", c.slug); }}>
+            {c.cover ? <img className="rb-cat-img" src={`${c.cover}-640.avif`} alt="" loading="lazy" /> : <span className="rb-cat-img rb-cat-all" aria-hidden="true">✦</span>}
+            <span className="rb-cat-t">{c.he}</span><small>{c.count}</small>
           </button>
         ))}
       </nav>
+      <button type="button" className="rb-more-cats" aria-expanded={showAll} onClick={() => setShowAll((v) => !v)}>
+        {showAll ? "פחות קטגוריות ▲" : `כל ${props.categories.length} הקטגוריות ▼`}
+      </button>
       {subs.length > 0 && (
         <div className="rb-rail rb-subs" role="group" aria-label="תת-קטגוריה">
           {subs.map((s) => <button key={s.slug} type="button" className="rb-chip" aria-pressed={f.sc === s.slug} onClick={() => set("sc", s.slug)}>{s.he} <small>{s.count}</small></button>)}
