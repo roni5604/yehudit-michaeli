@@ -23,7 +23,7 @@ const icon = catBySlug[category]?.icon ?? "plate";
       width={img.w} height={img.h} alt={alt}
       loading={eager ? "eager" : "lazy"} decoding="async" fetchpriority={eager ? "high" : undefined}
     />
-    {badge && <span class="ai-badge" title="תמונה להמחשה שנוצרה בבינה מלאכותית">AI · להמחשה</span>}
+    {badge && (img.kind === "pexels" ? <span class="ai-badge">צילום: {img.by} · Pexels</span> : <span class="ai-badge" title="תמונה להמחשה">להמחשה</span>)}
   </picture>
 ) : (
   <span class="ri ri-art" transition:name={transitionName}>

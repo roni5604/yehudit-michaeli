@@ -7,12 +7,12 @@ interface Props { e: Entry; headingLevel?: 2 | 3 }
 const { e, headingLevel = 3 } = Astro.props;
 const H = `h${headingLevel}` as "h2" | "h3";
 const icon = catBySlug[e.c]?.icon ?? "plate";
-const img = e.s ? imageFor(e.s) : null;
+const img = imageFor(e.id) ?? (e.s ? imageFor(e.s) : null);
 const label = (e.sc && subBySlug[e.sc]?.he) || catBySlug[e.c]?.he;
 ---
 <article class="ecard" data-cat={e.c}>
   <div class="ecard-art" aria-hidden="true">
-    {img ? <img src={img.src640} alt="" loading="lazy" /> : <Fragment set:html={artSvg(icon, e.t)} />}
+    {img ? <><img src={img.src640} alt="" loading="lazy" width="640" height="427" /><span class="ai-badge">{img.kind === "pexels" ? `צילום: ${img.by} · Pexels` : "להמחשה"}</span></> : <Fragment set:html={artSvg(icon, e.t)} />}
   </div>
   <div class="ecard-body">
     <p class="ecard-cat">{label}</p>

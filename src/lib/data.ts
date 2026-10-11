@@ -29,7 +29,7 @@ export async function getNotes() {
 }
 
 // ───────────── images ─────────────
-type ImgMeta = { w: number; h: number; hash: string; featured?: boolean };
+type ImgMeta = { w: number; h: number; hash?: string; src?: "ai" | "pexels"; by?: string; url?: string; k?: string };
 const imgs = images as Record<string, ImgMeta>;
 const placeholderCache = new Map<string, string>();
 
@@ -37,18 +37,22 @@ export function imageFor(slug: string) {
   const m = imgs[slug];
   if (!m) return null;
   let ph = placeholderCache.get(slug);
-  if (!ph) {
+  if (ph === undefined) {
     try {
-      ph = thumbHashToDataURL(Uint8Array.from(atob(m.hash), (c) => c.charCodeAt(0)));
+      ph = m.hash ? thumbHashToDataURL(Uint8Array.from(atob(m.hash), (c) => c.charCodeAt(0))) : "";
     } catch {
       ph = "";
     }
     placeholderCache.set(slug, ph);
   }
+  const k = m.k ?? slug;
   return {
-    src640: `/images/recipes/${slug}-640.avif`,
-    src1280: `/images/recipes/${slug}-1280.avif`,
-    og: `/images/og/${slug}.jpg`,
+    src640: `/images/recipes/${k}-640.avif`,
+    src1280: `/images/recipes/${k}-1280.avif`,
+    og: `/images/recipes/${k}-1280.avif`,
+    kind: m.src ?? "ai",
+    by: m.by ?? null,
+    url: m.url ?? null,
     w: m.w,
     h: m.h,
     placeholder: ph,

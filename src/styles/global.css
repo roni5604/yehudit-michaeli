@@ -279,3 +279,4 @@ html.a11y-no-motion .reveal { opacity: 1; transform: none; }
 
 :root[data-theme="dark"] .ecard-art svg { filter: brightness(.78) saturate(.9); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .ecard-art svg { filter: brightness(.78) saturate(.9); } }
+.ecard-art { position: relative; }

@@ -6,7 +6,7 @@ import { getFavs, toggleFav } from "../scripts/store";
 import { artSvg } from "../lib/art";
 import "./browser.css";
 
-type Row = { id: string; t: string; c: string; sc: string | null; h: string | null; cu: string | null; f: string; u: string; s: string | null; ic: string; im: 0 | 1 };
+type Row = { id: string; t: string; c: string; sc: string | null; h: string | null; cu: string | null; f: string; u: string; s: string | null; ic: string; im: 0 | string; cr?: string };
 type Opt = { slug: string; he: string; count?: number };
 interface Props { categories: Opt[]; cuisines: Opt[]; holidays: Opt[]; subs: Record<string, Opt[]>; total: number }
 
@@ -129,7 +129,7 @@ export default function RecipeBrowser(props: Props) {
           <li key={r.id}>
             <article className="ecard">
               <div className="ecard-art" aria-hidden="true">
-                {r.im ? <img src={`/images/recipes/${r.s}-640.avif`} alt="" loading="lazy" /> : <span style={{ display: "contents" }} dangerouslySetInnerHTML={{ __html: art(r.ic, r.t) }} />}
+                {r.im ? <><img src={r.im} alt="" loading="lazy" width={640} height={427} /><span className="ai-badge">{r.cr}</span></> : <span style={{ display: "contents" }} dangerouslySetInnerHTML={{ __html: art(r.ic, r.t) }} />}
               </div>
               <div className="ecard-body">
                 <p className="ecard-cat">{r.f || props.categories.find((c) => c.slug === r.c)?.he}</p>
