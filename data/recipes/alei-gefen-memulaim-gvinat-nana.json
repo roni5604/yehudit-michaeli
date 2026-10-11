@@ -1,0 +1,86 @@
+{
+  "slug": "alei-gefen-memulaim-gvinat-nana",
+  "title": "עלי גפן ממולאים באורז ועשבי תיבול עם גבינת נענע",
+  "titleEn": "Rice & Herb Stuffed Vine Leaves with Mint Cheese",
+  "description": "מנת הדגל של מסעדת מיכאלי: עלי גפן ממולאים באורז ובשפע עשבי תיבול, מבושלים לאט עם שזיפים ולימון. מוגשים קרים עם קונל של גבינת נענע, רוטב בלסמי, שמן זית וצנוברים קלויים.",
+  "category": "starters",
+  "subcategory": null,
+  "cuisine": null,
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian"],
+  "tags": ["מנת מסעדה", "מנת דגל", "אירוח"],
+  "servings": 10,
+  "yield": "40 עלי גפן ממולאים (4 למנה)",
+  "pan": "סיר שטוח ורחב",
+  "prepMin": 60,
+  "cookMin": 40,
+  "totalMin": 160,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": "גבינת נענע", "items": [
+      { "qty": 2, "unit": "גלילים", "item": "גבינת פרומעז", "note": null, "raw": "2 גלילי פרומעז" },
+      { "qty": 4, "unit": "כפות", "item": "גבינת שמנת", "note": null, "raw": "4 כפות גבינת שמנת" },
+      { "qty": null, "unit": null, "item": "שום כתוש", "note": null, "raw": "שום כתוש" },
+      { "qty": null, "unit": null, "item": "מלח", "note": null, "raw": "מלח" },
+      { "qty": null, "unit": null, "item": "פלפל שחור גרוס", "note": null, "raw": "פלפל שחור גרוס" },
+      { "qty": null, "unit": null, "item": "נענע יבשה", "note": null, "raw": "נענע יבשה" }
+    ] },
+    { "group": "רוטב בלסמי", "items": [
+      { "qty": 100, "unit": "גרם", "item": "סוכר", "note": null, "raw": "100 גרם סוכר" },
+      { "qty": 100, "unit": "גרם", "item": "חומץ בלסמי", "note": null, "raw": "100 גרם חומץ בלסמי" }
+    ] },
+    { "group": "עלי הגפן והמילוי (ל-40 עלים)", "items": [
+      { "qty": 40, "unit": null, "item": "עלי גפן משומרים", "note": "ועוד חופן לריפוד הסיר", "raw": "כ-40 עלי גפן משומרים, ועוד חופן לריפוד הסיר" },
+      { "qty": 600, "unit": "מ״ל", "item": "אורז", "note": null, "raw": "600 מ״ל אורז" },
+      { "qty": 3, "unit": null, "item": "בצלים", "note": "חתוכים לברונואז", "raw": "3 בצלים חתוכים לברונואז" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "שמן זית" },
+      { "qty": null, "unit": null, "item": "עירית, פטרוזיליה, עלי סלרי, שמיר ונענע", "note": "קצוצים", "raw": "עירית, פטרוזיליה, עלי סלרי, שמיר ונענע, קצוצים" },
+      { "qty": null, "unit": null, "item": "מלח", "note": "לפי הטעם", "raw": "מלח לפי הטעם" },
+      { "qty": null, "unit": null, "item": "שזיפים", "note": null, "raw": "מעט שזיפים" }
+    ] },
+    { "group": "נוזלי הבישול", "items": [
+      { "qty": null, "unit": null, "item": "מים", "note": null, "raw": "מים" },
+      { "qty": null, "unit": null, "item": "לימון", "note": null, "raw": "לימון" },
+      { "qty": null, "unit": null, "item": "סוכר", "note": null, "raw": "סוכר" },
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "מעט שמן זית" }
+    ] },
+    { "group": "להגשה", "items": [
+      { "qty": null, "unit": null, "item": "שמן זית", "note": null, "raw": "שמן זית" },
+      { "qty": null, "unit": null, "item": "צנוברים קלויים", "note": null, "raw": "צנוברים קלויים" }
+    ] }
+  ],
+  "steps": [
+    { "group": "גבינת נענע", "items": [
+      { "text": "במיקסר מרככים את הפרומעז עם מטרפה.", "timerMin": null },
+      { "text": "מוסיפים את גבינת השמנת ואת שאר המרכיבים, טועמים ומתקנים טעמים.", "timerMin": null },
+      { "text": "לקחת בחשבון שכאשר הנענע מקבלת לחות היא מוציאה יותר טעמים (יום אחרי), ולכן בעדינות עם התיבול!", "timerMin": null }
+    ] },
+    { "group": "רוטב בלסמי", "items": [
+      { "text": "ביחס 1:1 של בלסמי וסוכר מביאים לרתיחה עד שהסוכר נמס, מקררים וממלאים בבקבוק לחיץ. הכמות מספיקה להרבה זמן.", "timerMin": null }
+    ] },
+    { "group": "עלי גפן ממולאים", "items": [
+      { "text": "משרים חופן עלי גפן משומרים במים, ומחליפים את המים מספר פעמים כדי להוציא את טעם הלוואי של העלים.", "timerMin": null },
+      { "text": "חולטים את האורז 6 דקות במים רותחים מלוחים ומסננים, בלי לשטוף.", "timerMin": 6 },
+      { "text": "מאדים את הבצל בשמן זית, ומחברים את האורז החלוט עם הבצל המאודה.", "timerMin": null },
+      { "text": "מוסיפים את הירוקים הקצוצים: עירית, פטרוזיליה, עלי סלרי, שמיר ונענע.", "timerMin": null },
+      { "text": "מלח לפי הטעם: יש לקחת בחשבון את מליחות העלים המשומרים. טועמים אותם אחרי ההשריה, ורק אז מחליטים על כמות המלח.", "timerMin": null },
+      { "text": "ממלאים את העלים באורז ומגלגלים.", "timerMin": null },
+      { "text": "בסיר שטוח מסדרים שכבה של עלי גפן, ועליה את העלים הממולאים בצורה מעגלית. מניחים מעט שזיפים בין עלי הגפן הממולאים, ומכסים בשכבת עלי גפן.", "timerMin": null }
+    ] },
+    { "group": "בישול", "items": [
+      { "text": "מערבבים היטב מים, לימון, סוכר ומעט שמן זית, ושופכים מעל העלים הממולאים עד לכיסוי.", "timerMin": null },
+      { "text": "מכסים בנייר פרגמנט ובמכסה, ומבשלים כ-40 דקות על להבה נמוכה.", "timerMin": 40 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "המנה מוגשת קרה: 4 עלי גפן ממולאים וקונל של גבינת נענע. מסביב מזלפים רוטב בלסמי ושמן זית, ומפזרים צנוברים קלויים.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["אפשר להכין את גבינת הנענע יום מראש: הטעם שלה מתחזק, אז כדאי לתבל בעדינות.", "מקררים את עלי הגפן לפני ההגשה, כי המנה מוגשת קרה."],
+  "story": null,
+  "source": { "type": "restaurant", "credit": "מסעדת מיכאלי, רשפון", "rewritten": false },
+  "imagePrompt": "Cold stuffed vine leaves (dolma) arranged in a circle on a plate with a quenelle of white mint cheese, balsamic reduction drizzle, olive oil and toasted pine nuts",
+  "alt": "עלי גפן ממולאים באורז, לצד קונל גבינת נענע, רוטב בלסמי וצנוברים קלויים",
+  "originals": [{ "file": "עלי גפן ממולאים באורז ועשבי תיבול עם גבינת נענע.doc", "driveId": "123IXwrJ65HePQjXlHe34IKDpbm-XCjAS" }]
+}

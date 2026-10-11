@@ -1,0 +1,53 @@
+{
+  "slug": "creme-brulee",
+  "title": "קרם ברולה",
+  "titleEn": "Crème Brûlée",
+  "description": "הקינוח הצרפתי הקלאסי מתפריט מסעדת מיכאלי: קרם וניל רך וחלק, שנאפה לאט בחום נמוך ומוגש עם שכבת סוכר מקורמלת ופריכה.",
+  "category": "desserts",
+  "subcategory": null,
+  "cuisine": "french",
+  "holidays": [],
+  "kashrut": "dairy",
+  "diet": ["vegetarian", "gluten-free"],
+  "tags": ["מנת מסעדה", "מנת דגל", "קלאסיקה צרפתית"],
+  "servings": 5,
+  "yield": "4–5 כלים (כ-700 מ״ל מסה)",
+  "pan": "כלי קרם ברולה (רמקינים)",
+  "prepMin": 20,
+  "cookMin": 60,
+  "totalMin": 260,
+  "timesEstimated": true,
+  "difficulty": 2,
+  "ingredients": [
+    { "group": null, "items": [
+      { "qty": 250, "unit": "מ״ל", "item": "חלב", "note": null, "raw": "250 מ״ל חלב" },
+      { "qty": 250, "unit": "מ״ל", "item": "שמנת", "note": "קרה", "raw": "250 מ״ל שמנת קרה" },
+      { "qty": 120, "unit": "גרם", "item": "סוכר", "note": null, "raw": "120 גרם סוכר" },
+      { "qty": 1, "unit": null, "item": "מקל וניל", "note": "לחלב", "raw": "1 מקל וניל, לחלב" },
+      { "qty": 6, "unit": null, "item": "חלמונים", "note": null, "raw": "6 חלמונים" }
+    ] },
+    { "group": "לציפוי", "items": [
+      { "qty": null, "unit": null, "item": "סוכר", "note": "לקרמול בברנר", "raw": "סוכר לקרמול" }
+    ] }
+  ],
+  "steps": [
+    { "group": null, "items": [
+      { "text": "מרתיחים את החלב והסוכר עם מקל הווניל, מערבבים במטרפה ומוודאים שהווניל נפתח.", "timerMin": null },
+      { "text": "לאחר הרתיחה מוסיפים את השמנת לחלב, להורדת הטמפרטורה.", "timerMin": null },
+      { "text": "בנפרד פותחים את החלמונים.", "timerMin": null },
+      { "text": "מוסיפים את החלב אל החלמונים ומערבבים היטב.", "timerMin": null },
+      { "text": "מוזגים את המסה לכלים (היא נוזלית בעת המזיגה), ומנקים היטב את דפנות הכלים לפני האפייה.", "timerMin": null },
+      { "text": "מפוצצים בועות עם ברנר ומכניסים בעדינות לתנור.", "timerMin": null },
+      { "text": "אופים ב-100 מעלות, חום יבש, עד להתייצבות המסה. בתנור עם פס חם אופים ב-50 מעלות.", "timerMin": 60 }
+    ] },
+    { "group": "הגשה", "items": [
+      { "text": "מקררים היטב. לפני ההגשה מפזרים שכבה דקה של סוכר ומקרמלים בברנר עד לקבלת קרום זהוב ופריך.", "timerMin": null }
+    ] }
+  ],
+  "tips": ["האפייה בחום נמוך היא הסוד למרקם חלק ואחיד, בלי בועות.", "מקרמלים את הסוכר רק רגע לפני ההגשה, כדי שהקרום יישאר פריך."],
+  "story": null,
+  "source": { "type": "restaurant", "credit": "מסעדת מיכאלי, רשפון", "rewritten": false },
+  "imagePrompt": "Classic French crème brûlée in a white ramekin with a glossy caramelised sugar crust, a spoon cracking the top, vanilla pod beside it",
+  "alt": "קרם ברולה בכלי לבן עם קרום סוכר מקורמל וזהוב",
+  "originals": [{ "file": "קרם ברולה.doc", "driveId": "1O1xWNtyMEo_ol2KaZIm58wKXSDKLRe2v" }]
+}

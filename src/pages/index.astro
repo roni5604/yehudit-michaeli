@@ -17,7 +17,10 @@ const withImg = all.filter((r) => imageFor(r.slug));
 const pool = withImg.length > 12 ? withImg : all;
 const restaurant = all.filter((r) => r.source.type === "restaurant" || r.tags.includes("מנת מסעדה") || r.cuisine === "french");
 const restaurantImg = restaurant.filter((r) => imageFor(r.slug));
-const signature = pickDaily(restaurantImg.length >= 6 ? restaurantImg : pool, 6, 1);
+// Yehudit's signature dishes, pinned first; the rest rotate daily.
+const PINNED = ["alei-gefen-memulaim-gvinat-nana", "bourguignon", "terrine-kaved-avaz", "creme-brulee"];
+const pinned = PINNED.map((s) => all.find((r) => r.slug === s)).filter((r): r is NonNullable<typeof r> => !!r);
+const signature = [...pinned, ...pickDaily((restaurantImg.length >= 6 ? restaurantImg : pool).filter((r) => !PINNED.includes(r.slug)), 6 - pinned.length, 1)];
 const daily = pickDaily(pool, 1, 7)[0];
 const withPhoto = catalog.filter((e) => imageFor(e.id) || (e.s && imageFor(e.s)));
 const fresh = pickDaily(withPhoto.length >= 8 ? withPhoto : catalog, 8, 3);
