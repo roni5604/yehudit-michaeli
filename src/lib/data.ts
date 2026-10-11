@@ -33,8 +33,15 @@ type ImgMeta = { w: number; h: number; hash?: string; src?: "ai" | "pexels"; by?
 const imgs = images as Record<string, ImgMeta>;
 const placeholderCache = new Map<string, string>();
 
+let slugToEntry: Map<string, string> | null = null;
 export function imageFor(slug: string) {
-  const m = imgs[slug];
+  let m = imgs[slug];
+  if (!m) {
+    // full recipes: fall back to the photo of their catalogue entry
+    if (!slugToEntry) slugToEntry = new Map((catalogRaw as { id: string; s: string | null }[]).filter((e) => e.s).map((e) => [e.s!, e.id]));
+    const id = slugToEntry.get(slug);
+    if (id) m = imgs[id];
+  }
   if (!m) return null;
   let ph = placeholderCache.get(slug);
   if (ph === undefined) {
