@@ -2,14 +2,14 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import RecipeBrowser from "../../islands/RecipeBrowser.tsx";
-import { catalog, countBy } from "../../lib/data";
+import { catalog, coverFor } from "../../lib/data";
 import { categories, cuisines, holidays } from "../../lib/site";
 
 const cnt = (key: "c" | "sc" | "h" | "cu") => { const m = new Map<string, number>(); for (const e of catalog) { const v = e[key]; if (v) m.set(v, (m.get(v) ?? 0) + 1); } return m; };
 const cc = cnt("c"), sc = cnt("sc"), hc = cnt("h"), cuc = cnt("cu");
 const props = {
   total: catalog.length,
-  categories: categories.filter((c) => cc.get(c.slug)).map((c) => ({ slug: c.slug, he: c.he, count: cc.get(c.slug) })),
+  categories: categories.filter((c) => cc.get(c.slug)).map((c) => ({ slug: c.slug, he: c.he, count: cc.get(c.slug), cover: coverFor("cat", c.slug) })),
   subs: Object.fromEntries(categories.map((c) => [c.slug, c.subs.filter((s) => sc.get(s.slug)).map((s) => ({ slug: s.slug, he: s.he, count: sc.get(s.slug) }))])),
   holidays: holidays.filter((h) => hc.get(h.slug)).map((h) => ({ slug: h.slug, he: h.he, count: hc.get(h.slug) })),
   cuisines: cuisines.filter((c) => cuc.get(c.slug)).map((c) => ({ slug: c.slug, he: c.he, count: cuc.get(c.slug) })),

@@ -3,6 +3,8 @@
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../../components/Breadcrumbs.astro";
 import EntryCard from "../../../components/EntryCard.astro";
+import PageBanner from "../../../components/PageBanner.astro";
+import { coverFor } from "../../../lib/data";
 import Pagination from "../../../components/Pagination.astro";
 import { catalog, type Entry } from "../../../lib/data";
 import { categories } from "../../../lib/site";
@@ -39,13 +41,15 @@ const page = { currentPage: n, lastPage: last, url: { prev: n > 1 ? (n === 2 ? b
 const subCounts = new Map<string, number>(); for (const e of catList) if (e.sc) subCounts.set(e.sc, (subCounts.get(e.sc) ?? 0) + 1);
 const subs = cat.subs.filter((s) => subCounts.get(s.slug));
 const name = sub ? sub.he : cat.he;
+const bannerCover = sub ? (coverFor("sub", sub.slug) ?? coverFor("cat", cat.slug)) : coverFor("cat", cat.slug);
 const crumbs = [{ href: "/categories", label: "קטגוריות" }, ...(sub ? [{ href: `/categories/${cat.slug}`, label: cat.he }] : []), { label: name }];
 ---
 <BaseLayout title={name + (n > 1 ? ` · עמוד ${n}` : "")} description={`${items.length} מתכונים של ${name} מהמטבח של יהודית מיכאלי.`}>
   <div class="container-x head">
     <Breadcrumbs items={crumbs} />
-    <p class="latin-eyebrow">{cat.en}</p>
-    <h1>{name}</h1>
+    <PageBanner cover={bannerCover} title={name} kicker={cat.en} sub={`${items.length.toLocaleString("he-IL")} מתכונים`} />
+    {!bannerCover && <p class="latin-eyebrow">{cat.en}</p>}
+    <h1 class:list={[{ "visually-hidden": !!bannerCover }]}>{name}</h1>
     <p class="lede">{items.length.toLocaleString("he-IL")} מתכונים{last > 1 ? ` · עמוד ${n} מתוך ${last}` : ""}</p>
     {subs.length > 0 && (
       <nav aria-label={`תתי-קטגוריות של ${cat.he}`} class="subs">

@@ -45,3 +45,5 @@
 @media (max-width: 700px) { .rb-filters { display: grid; } }
 .ri-switch { display: flex; gap: 10px; align-items: center; font-size: .95rem; color: var(--ink-soft); cursor: pointer; min-height: 40px; } .ri-switch input { width: 20px; height: 20px; accent-color: var(--bordeaux); }
 .rb-chip { white-space: nowrap; flex: none; }
+.rb-pill { display: inline-flex; align-items: center; gap: 8px; padding-inline-start: 6px; }
+.rb-pill img { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; flex: none; border: 2px solid var(--card); }

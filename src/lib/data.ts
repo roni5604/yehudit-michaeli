@@ -132,3 +132,9 @@ import catalogRaw from "../../data/catalog.json" with { type: "json" };
 export type Entry = { id: string; t: string; c: string; sc: string | null; h: string | null; cu: string | null; f: string; u: string; v: string[]; s: string | null };
 export const catalog = catalogRaw as Entry[];
 export const entryHref = (e: Entry) => (e.s ? `/recipes/${e.s}` : e.u);
+
+// ───────────── curated cover photos (categories, subs, holidays, cuisines) ─────────────
+import coversRaw from "../../data/covers.json" with { type: "json" };
+const covers = coversRaw as Record<string, string>;
+export const coverFor = (kind: "cat" | "sub" | "hol" | "cui", slug: string | null | undefined) =>
+  slug && covers[`${kind}-${slug}`] ? covers[`${kind}-${slug}`] : null;

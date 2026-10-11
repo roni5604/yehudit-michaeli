@@ -1,0 +1,28 @@
+---
+// Wide photographic header for category / holiday / cuisine pages.
+interface Props { cover: string | null; title: string; kicker?: string; sub?: string }
+const { cover, title, kicker, sub } = Astro.props;
+---
+{cover && (
+  <div class="banner">
+    <img src={`${cover}-1280.avif`} srcset={`${cover}-640.avif 640w, ${cover}-1280.avif 1280w`} sizes="100vw" alt="" fetchpriority="high" />
+    <div class="shade" aria-hidden="true"></div>
+    <div class="txt">
+      {kicker && <p class="k latin">{kicker}</p>}
+      <p class="t" aria-hidden="true">{title}</p>
+      {sub && <p class="s">{sub}</p>}
+    </div>
+  </div>
+)}
+<style>
+  .banner { position: relative; border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 16 / 5; min-height: 220px; margin: 18px 0 8px; box-shadow: 0 30px 60px -40px rgb(0 0 0 / .6); }
+  .banner img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; animation: kb 22s ease-in-out infinite alternate; }
+  @keyframes kb { from { transform: scale(1.02); } to { transform: scale(1.12) translate(-1.5%, -1%); } }
+  .shade { position: absolute; inset: 0; background: linear-gradient(to left, rgb(20 12 8 / .78), rgb(20 12 8 / .2) 60%, transparent); }
+  .txt { position: absolute; inset-inline-start: clamp(18px, 4vw, 48px); bottom: clamp(16px, 3vw, 36px); color: #fbf3e6; }
+  .k { margin: 0; color: #e6ac80; font-size: 1.2rem; }
+  .t { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: var(--step-4); line-height: 1; text-shadow: 0 4px 30px rgb(0 0 0 / .5); }
+  .s { margin: 6px 0 0; font-weight: 700; color: #eadfcf; }
+  :global(html.a11y-no-motion) .banner img { animation: none; }
+  @media (prefers-reduced-motion: reduce) { .banner img { animation: none; } }
+</style>

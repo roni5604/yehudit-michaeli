@@ -2,7 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import CategoryTile from "../../components/CategoryTile.astro";
-import { catalog } from "../../lib/data";
+import { catalog, coverFor } from "../../lib/data";
 import { holidays } from "../../lib/site";
 const counts = new Map<string, number>(); for (const e of catalog) if (e.h) counts.set(e.h, (counts.get(e.h) ?? 0) + 1);
 const icons: Record<string, string> = { "rosh-hashana": "jam", hanukkah: "croissant", "tu-bishvat": "olive", purim: "cookie", passover: "bread", shavuot: "cheese", shabbat: "bread" };
@@ -16,7 +16,7 @@ const cover = (_: string) => null;
     <p class="lede">לכל חג יש טעם משלו: סופגניות ולביבות בחנוכה, אוזני המן בפורים, עוגות גבינה בשבועות.</p>
   </div>
   <section class="container-x tiles">
-    {list.map((h) => <CategoryTile href={`/holidays/${h.slug}`} title={h.he} count={counts.get(h.slug) ?? 0} icon={icons[h.slug] ?? "plate"} coverSlug={cover(h.slug)} headingLevel={2} />)}
+    {list.map((h) => <CategoryTile href={`/holidays/${h.slug}`} title={h.he} count={counts.get(h.slug) ?? 0} icon={icons[h.slug] ?? "plate"} cover={coverFor("hol", h.slug)} headingLevel={2} />)}
   </section>
 </BaseLayout>
 <style>

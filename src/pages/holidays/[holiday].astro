@@ -2,6 +2,8 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import EntryCard from "../../components/EntryCard.astro";
+import PageBanner from "../../components/PageBanner.astro";
+import { coverFor } from "../../lib/data";
 import { holidays, catBySlug } from "../../lib/site";
 export async function getStaticPaths() {
   const { catalog } = await import("../../lib/data");
@@ -17,8 +19,8 @@ const ordered = [...groups.entries()].sort((a, b) => b[1].length - a[1].length);
 <BaseLayout title={`מתכונים ל${h.he}`} description={`${list.length} מתכונים ל${h.he} מהמחברות של יהודית מיכאלי.`}>
   <div class="container-x head">
     <Breadcrumbs items={[{ href: "/holidays", label: "חגים ומועדים" }, { label: h.he }]} />
-    <h1>{h.he}</h1>
-    <p class="lede">{list.length} מתכונים לחג</p>
+    <PageBanner cover={coverFor("hol", h.slug)} title={h.he} sub={`${list.length} מתכונים לחג`} />
+    <h1 class:list={[{ "visually-hidden": !!coverFor("hol", h.slug) }]}>{h.he}</h1>
     <nav class="jump" aria-label="קפיצה לסוג מנה">{ordered.map(([k, v], i) => <a class="chip chip-accent" href={`#g-${i}`}>{k} ({v.length})</a>)}</nav>
   </div>
   {ordered.map(([k, v], i) => (

@@ -141,6 +141,95 @@ def ai(limit, rest=False):
     MANIFEST.write_text(json.dumps(man, ensure_ascii=False, indent=0))
 
 
+STOP_WORDS = {"with", "and", "in", "a", "the", "of", "on", "style", "dish", "recipe", "recipes", "homemade", "classic", "traditional",
+              "served", "fresh", "baked", "food", "plate", "bowl", "collection", "simple", "easy", "sauce"}
+
+
+def toks(t):
+    """Generic dish-type words (from the short stock-style query)."""
+    return {w.rstrip("s") for w in re.findall(r"[a-z]+", t["query"].lower()) if w not in STOP_WORDS and len(w) > 2}
+
+
+def make_variant(src_key, dst_key, n):
+    """Different-looking copy of an existing photo: mirror + alternate crop/zoom + slight warmth shift."""
+    from PIL import ImageEnhance, ImageOps
+    im = Image.open(IMG / f"{src_key}-1280.avif").convert("RGB")
+    if n % 2 == 1:
+        im = ImageOps.mirror(im)
+    w, h = im.size
+    z = 0.82 if n < 2 else 0.74
+    cw, ch = int(w * z), int(h * z)
+    ox = [0.5, 0.15, 0.85, 0.3][n % 4]
+    oy = [0.5, 0.6, 0.4, 0.55][n % 4]
+    x0 = int((w - cw) * ox); y0 = int((h - ch) * oy)
+    im = im.crop((x0, y0, x0 + cw, y0 + ch))
+    im = ImageEnhance.Color(im).enhance(1.06 if n % 2 else 0.95)
+    im = ImageEnhance.Brightness(im).enhance(1.03 if n % 2 else 0.98)
+    save_variants(im, dst_key)
+
+
+def smart(limit):
+    """Remaining entries: reuse a similar existing photo (as a distinct variant) when it fits,
+    otherwise generate a new low-quality image. Reuse rules: same category, Jaccard ≥ 0.66 on dish-type words,
+    max 3 uses per source photo, users of one photo ≥ 60 places apart in the A–Z list,
+    and the first 150 entries of the list always get their own photo."""
+    import concurrent.futures as cf
+    key = os.environ.get("OPENAI_API_KEY") or sys.exit("OPENAI_API_KEY missing")
+    model = os.environ.get("YM_IMAGE_MODEL", "gpt-image-1-mini")
+    workers = int(os.environ.get("YM_WORKERS", "8"))
+    cat = json.loads((ROOT / "data/catalog.json").read_text())
+    pos = {e["id"]: i for i, e in enumerate(cat)}
+    catof = {e["id"]: e["c"] for e in cat}
+    titles, man = load(TITLES, {}), load(MANIFEST, {})
+    sources = {}  # key -> {"tok": set, "uses": [positions]}
+    for k, v in man.items():
+        if v.get("src") == "ai" and not v.get("from") and k in titles and v.get("k") == k:
+            sources[k] = {"tok": toks(titles[k]), "uses": [pos.get(k, -999)]}
+    for k, v in man.items():
+        if v.get("from") in sources and k in pos:
+            sources[v["from"]]["uses"].append(pos[k])
+    todo = [e for e in cat if e["id"] not in man and e["id"] in titles][:limit]
+    print(f"smart: {len(todo)} entries, {len(sources)} reusable photos", flush=True)
+    reused = generated = 0
+    for b in range(0, len(todo), workers * 4):
+        batch = todo[b:b + workers * 4]
+        gen = []
+        for e in batch:
+            p = pos[e["id"]]
+            best, score = None, 0.0
+            if p >= 150:
+                tk = toks(titles[e["id"]])
+                for k, s in sources.items():
+                    if catof.get(k) != e["c"] or len(s["uses"]) >= 3 or any(abs(p - u) < 60 for u in s["uses"]) or not tk:
+                        continue
+                    j = len(tk & s["tok"]) / len(tk | s["tok"])
+                    if j > score:
+                        best, score = k, j
+            if best and score >= 0.66:
+                n = len(sources[best]["uses"])
+                make_variant(man[best]["k"], e["id"], n)
+                man[e["id"]] = {"w": 1280, "h": 853, "src": "ai", "k": e["id"], "from": best}
+                sources[best]["uses"].append(p)
+                reused += 1
+            else:
+                gen.append(e)
+
+        def work(e):
+            prompt = f"{titles[e['id']]['dish']}. {STYLE} Wide composition with the dish centred and space around it."
+            return e, _gen(e, prompt, key, model, "low", "1024x1024")
+
+        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+            for e, data in ex.map(work, gen):
+                if not data:
+                    continue
+                save_variants(Image.open(io.BytesIO(data)), e["id"])
+                man[e["id"]] = {"w": 1280, "h": 853, "src": "ai", "k": e["id"]}
+                sources[e["id"]] = {"tok": toks(titles[e["id"]]), "uses": [pos[e["id"]]]}
+                generated += 1
+        MANIFEST.write_text(json.dumps(man, ensure_ascii=False, indent=0))
+        print(f"  done {b + len(batch)}/{len(todo)} · generated {generated} · reused {reused}", flush=True)
+
+
 def stock(limit):
     key = os.environ.get("PEXELS_API_KEY") or sys.exit("PEXELS_API_KEY missing")
     cat = json.loads((ROOT / "data/catalog.json").read_text())
@@ -195,4 +284,4 @@ if __name__ == "__main__":
     env()
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     lim = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else 10**9
-    {"ai": ai, "rest": lambda n: ai(n, rest=True), "stock": stock}.get(mode, lambda _: sys.exit(__doc__))(lim)
+    {"ai": ai, "rest": lambda n: ai(n, rest=True), "smart": smart, "stock": stock}.get(mode, lambda _: sys.exit(__doc__))(lim)

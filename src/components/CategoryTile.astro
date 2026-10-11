@@ -1,9 +1,9 @@
 ---
 import CategoryArt from "./CategoryArt.astro";
 import { imageFor } from "../lib/data";
-interface Props { href: string; title: string; subtitle?: string; count: number; icon: string; coverSlug?: string | null; headingLevel?: 2 | 3 }
-const { href, title, subtitle, count, icon, coverSlug, headingLevel = 3 } = Astro.props;
-const img = coverSlug ? imageFor(coverSlug) : null;
+interface Props { href: string; title: string; subtitle?: string; count: number; icon: string; coverSlug?: string | null; cover?: string | null; headingLevel?: 2 | 3 }
+const { href, title, subtitle, count, icon, coverSlug, cover, headingLevel = 3 } = Astro.props;
+const img = cover ? { src640: `${cover}-640.avif`, w: 640, h: 427 } : coverSlug ? imageFor(coverSlug) : null;
 const H = `h${headingLevel}` as "h2" | "h3";
 ---
 <article class="tile">

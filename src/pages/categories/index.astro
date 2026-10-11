@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import CategoryTile from "../../components/CategoryTile.astro";
 import BookScene from "../../three/BookScene.tsx";
-import { catalog } from "../../lib/data";
+import { catalog, coverFor } from "../../lib/data";
 import { categories } from "../../lib/site";
 
 const counts = new Map<string, number>(); for (const e of catalog) counts.set(e.c, (counts.get(e.c) ?? 0) + 1);
@@ -23,7 +23,7 @@ const bookPages = cats.map((c) => ({ slug: c.slug, he: c.he, en: c.en, icon: c.i
   <section class="container-x" aria-labelledby="all-cats">
     <h2 id="all-cats" class="visually-hidden">כל הקטגוריות</h2>
     <div class="tiles">
-      {cats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} coverSlug={cover(c.slug)} />)}
+      {cats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} cover={coverFor("cat", c.slug)} />)}
     </div>
   </section>
 </BaseLayout>

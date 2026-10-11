@@ -6,7 +6,7 @@ import CategoryTile from "../components/CategoryTile.astro";
 import Logo from "../components/Logo.astro";
 import Icon from "../components/Icon.astro";
 import HeroScene from "../three/HeroScene.tsx";
-import { getRecipes, getMenus, imageFor, pickDaily, catalog } from "../lib/data";
+import { getRecipes, getMenus, imageFor, pickDaily, catalog, coverFor } from "../lib/data";
 import { categories, holidays, SITE } from "../lib/site";
 
 const all = await getRecipes();
@@ -141,7 +141,7 @@ const span = years.length ? `${years[0]}–${years[years.length - 1]}` : "2002�
       <h2 id="cats-title">מה מבשלים היום?</h2>
     </header>
     <div class="tiles">
-      {topCats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} coverSlug={cover(c.slug)} />)}
+      {topCats.map((c) => <CategoryTile href={`/categories/${c.slug}`} title={c.he} subtitle={c.en} count={counts.get(c.slug) ?? 0} icon={c.icon} cover={coverFor("cat", c.slug)} />)}
     </div>
     <p class="center"><a class="btn btn-ghost" href="/categories">לכל {[...counts.keys()].length} הפרקים ←</a></p>
   </section>

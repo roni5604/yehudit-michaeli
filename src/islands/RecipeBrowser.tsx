@@ -7,7 +7,7 @@ import { artSvg } from "../lib/art";
 import "./browser.css";
 
 type Row = { id: string; t: string; c: string; sc: string | null; h: string | null; cu: string | null; f: string; u: string; s: string | null; ic: string; im: 0 | string; cr?: string };
-type Opt = { slug: string; he: string; count?: number };
+type Opt = { slug: string; he: string; count?: number; cover?: string | null };
 interface Props { categories: Opt[]; cuisines: Opt[]; holidays: Opt[]; subs: Record<string, Opt[]>; total: number }
 
 const PAGE = 60;
@@ -86,7 +86,7 @@ export default function RecipeBrowser(props: Props) {
         <button type="button" className="rb-pill" aria-pressed={!f.c} onClick={() => setF((x) => ({ ...x, c: "", sc: "" }))}>הכול</button>
         {props.categories.map((c) => (
           <button key={c.slug} type="button" className="rb-pill" aria-pressed={f.c === c.slug} onClick={() => set("c", c.slug)}>
-            {c.he} <small>{c.count}</small>
+            {c.cover && <img src={`${c.cover}-640.avif`} alt="" width={30} height={30} loading="lazy" />}{c.he} <small>{c.count}</small>
           </button>
         ))}
       </nav>
